@@ -20,14 +20,22 @@ defaults:
     type: pages
   values:
     layout: page
+url: http://verocraft.co
 email: cody.t.winton+verocraft@gmail.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
 '
-theme: minima
-markdown: kramdown
-permalink: pretty
 plugins:
 - jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+sass:
+  sass_dir: styles/
+  style: compressed
+theme: minima
+baseurl: 
+markdown: kramdown
+permalink: pretty
