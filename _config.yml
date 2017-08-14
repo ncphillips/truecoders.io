@@ -35,7 +35,7 @@ plugins:
 sass:
   sass_dir: styles/
   style: compressed
-theme: minima
 baseurl: 
 markdown: kramdown
 permalink: pretty
+theme: minima
