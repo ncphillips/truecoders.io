@@ -22,8 +22,7 @@ defaults:
     layout: page
 url: http://truecoders.io
 email: contact@truecoders.io
-description: 'Crafted Culture and Talent
-'
+description: 'Crafted Culture and Talent '
 author:
   picture: "/uploads/cody-winton.jpg"
   twitter: codytwinton
@@ -45,7 +44,6 @@ social:
   - https://www.facebook.com/truecodersio
   - https://www.linkedin.com/in/truecodersio
   - https://github.com/truecodersio
-  #- https://plus.google.com/+CodyWinton
 twitter:
   username: truecodersio
 baseurl: 
