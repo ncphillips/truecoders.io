@@ -22,11 +22,14 @@ defaults:
     layout: page
 url: http://truecoders.io
 email: contact@truecoders.io
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
+description: 'Crafted Culture and Talent
 '
+author:
+  picture: "/uploads/cody-winton.jpg"
+  twitter: codytwinton
+google_analytics:
+  tracking_id: UA-104643272-1
+logo: "/uploads/logo.png"
 plugins:
 - jekyll-feed
 - jekyll-redirect-from
@@ -35,6 +38,16 @@ plugins:
 sass:
   sass_dir: styles/
   style: compressed
+social:
+  name: Cody Winton
+  links:
+  - https://twitter.com/truecodersio
+  - https://www.facebook.com/truecodersio
+  - https://www.linkedin.com/in/truecodersio
+  - https://github.com/truecodersio
+  #- https://plus.google.com/+CodyWinton
+twitter:
+  username: truecodersio
 baseurl: 
 markdown: kramdown
 permalink: pretty
