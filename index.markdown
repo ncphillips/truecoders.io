@@ -9,4 +9,4 @@ redirect_from:
 layout: home
 ---
 
-Testing here
+Test
