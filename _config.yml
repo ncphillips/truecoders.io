@@ -20,8 +20,8 @@ defaults:
     type: pages
   values:
     layout: page
-    display_title:
-    subtitle:
+    display_title: 
+    subtitle: 
 url: http://truecoders.io
 email: contact@truecoders.io
 description: Crafted Culture and Talent
