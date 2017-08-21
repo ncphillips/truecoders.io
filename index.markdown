@@ -9,4 +9,4 @@ redirect_from:
 layout: home
 ---
 
-Test
+We on a mission to Engage, Educate, and Mentor TrueCoders
