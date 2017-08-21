@@ -1,0 +1,29 @@
+$color-background: #fff;
+$color-text: #191A32;
+$color-primary: #3181BA;
+
+$text-font: 'Montserrat', sans-serif;
+$header-font: 'Montserrat', sans-serif;
+
+$normal-font-weight: 500;
+$header-font-weight: 700;
+$bold-font-weight: 700;
+
+$font-size-offset: 6;
+
+$font-size-header: 40px;
+
+$font-size-h1: $font-size-header - ($font-size-offset * 0);
+$font-size-h2: $font-size-header - ($font-size-offset * 1);
+$font-size-h3: $font-size-header - ($font-size-offset * 2);
+$font-size-h4: $font-size-header - ($font-size-offset * 3);
+$font-size-h5: $font-size-header - ($font-size-offset * 4);
+$font-size-h6: $font-size-header - ($font-size-offset * 5);
+
+$font-size-title: 96px;
+
+$font-size-body: 18px;
+$font-size-button: 12px;
+$font-size-social: 15px;
+
+$profile-image-height: 160px;

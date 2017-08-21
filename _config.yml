@@ -13,13 +13,15 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post
+    layout: page
     permalink: "/blog/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+    display_title:
+    subtitle:
 url: http://truecoders.io
 email: contact@truecoders.io
 description: Crafted Culture and Talent

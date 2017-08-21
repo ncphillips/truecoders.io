@@ -1,0 +1,130 @@
+ol,
+ul {
+  list-style: disc;
+}
+
+blockquote,
+q {
+  quotes: none;
+  &:before,
+  &:after {
+    content: '';
+    content: none;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+*,
+* :before,
+* :after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: $font-size-body;
+  background-color: $color-background;
+  color: $color-text;
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: $font-size-body;
+  }
+}
+
+body {
+  font-family: $text-font;
+  font-weight: $normal-font-weight;
+  line-height: 2.0;
+  -webkit-font-smoothing: antialiased;
+  -font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  margin-left: 40px;
+  margin-right: 40px;
+  max-width: 600px;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: none;
+}
+
+strong, b {
+  font-weight: $bold-font-weight;
+}
+
+header {
+  text-align: center;
+  color: $color-primary;
+
+  h1 {
+    font-size: $font-size-title;
+  }
+}
+
+footer {
+  align-content: center;
+}
+
+nav {
+  margin: 20px 0px;
+}
+
+p, ul {
+  margin: 8px 0px 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $header-font;
+  font-weight: $header-font-weight;
+}
+
+h1 {
+  font-size: $font-size-h1;
+  margin: 32px 0px 0px;
+}
+
+h2 {
+  font-size: $font-size-h2;
+  margin: 28px 0px 0px;
+}
+
+h3 {
+  font-size: $font-size-h3;
+  margin: 12px 0px 0px;
+}
+
+h4 {
+  font-size: $font-size-h4;
+  margin: 12px 0px 0px;
+}
+
+h5 {
+  font-size: $font-size-h5;
+  margin: 8px 0px 0px;
+}
+
+h6 {
+  font-size: $font-size-h6;
+  margin: 4px 0px 0px;
+}
+
+hr {
+  height: 1px;
+  border-style: solid;
+}

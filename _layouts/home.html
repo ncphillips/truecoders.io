@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="page-content">
+
+    {% if page.display_title %}
+        <h1 class="page-title"> {{ page.display_title }} </h1>
+    {% else %}
+        <h1 class="page-title"> {{ page.title }} </h1>
+    {% endif %}
+
+    <h4> {{ page.subtitle }} </h4>
+
+    {{ content }}
+
+    <br>
+    <br>
+</div>
