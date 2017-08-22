@@ -1,31 +1,21 @@
-/*
-$color-background: #fff;
-$color-text: #191A32;
-$color-primary: #3181BA;
 
-$text-font: 'Montserrat', sans-serif;
-$header-font: 'Montserrat', sans-serif;
 
-$normal-font-weight: 500;
-$header-font-weight: 700;
-$bold-font-weight: 700;
+$font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
-$font-size-offset: 6;
+$font-weight-normal: 500;
+$font-weight-bold: 600;
 
-$font-size-header: 40px;
+$font-weight-base: $font-weight-normal;
 
-$font-size-h1: $font-size-header - ($font-size-offset * 0);
-$font-size-h2: $font-size-header - ($font-size-offset * 1);
-$font-size-h3: $font-size-header - ($font-size-offset * 2);
-$font-size-h4: $font-size-header - ($font-size-offset * 3);
-$font-size-h5: $font-size-header - ($font-size-offset * 4);
-$font-size-h6: $font-size-header - ($font-size-offset * 5);
+$headings-font-weight: 500;
+$lead-font-weight: 500;
 
-$font-size-title: 96px;
+$dt-font-weight: $font-weight-bold;
+$nested-kbd-font-weight: $font-weight-bold;
+$btn-font-weight: $font-weight-normal;
+$badge-font-weight: $font-weight-bold;
+$alert-link-font-weight: $font-weight-bold;
+$close-font-weight: $font-weight-bold;
 
-$font-size-body: 18px;
-$font-size-button: 12px;
-$font-size-social: 15px;
-
-$profile-image-height: 160px;
-*/
+$headings-line-height: 2.0;
+$body-color: #343a40;
