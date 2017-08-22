@@ -2,13 +2,14 @@
 
 $font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
-$font-weight-normal: 500;
-$font-weight-bold: 600;
+$font-weight-normal: 400;
+$font-weight-bold: 500;
+$font-weight-bolder: 600;
 
 $font-weight-base: $font-weight-normal;
 
-$headings-font-weight: 500;
-$lead-font-weight: 500;
+$headings-font-weight: $font-weight-bold;
+$lead-font-weight: $font-weight-bold;
 
 $dt-font-weight: $font-weight-bold;
 $nested-kbd-font-weight: $font-weight-bold;
@@ -16,6 +17,11 @@ $btn-font-weight: $font-weight-normal;
 $badge-font-weight: $font-weight-bold;
 $alert-link-font-weight: $font-weight-bold;
 $close-font-weight: $font-weight-bold;
+
+$display1-weight: $font-weight-bolder;
+$display2-weight: $font-weight-bolder;
+$display3-weight: $font-weight-bolder;
+$display4-weight: $font-weight-bolder;
 
 $headings-line-height: 2.0;
 $body-color: #343a40;
