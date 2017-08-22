@@ -10,4 +10,4 @@ layout: home
 
 # Crafted Culture and Talent
 
-We on a mission to Engage, Educate, and Mentor TrueCoders through our propriotary training course, developed by developers with decades of combined experience.
+We on a mission to Engage, Educate, and Mentor TrueCoders through our propriotary training course, created by developers with decades of combined experience.
