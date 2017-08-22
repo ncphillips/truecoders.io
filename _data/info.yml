@@ -1,4 +1,3 @@
-footer:
+navigation:
 - title: Contact Us
-  username: contact@truecoders.io
-  url: "mailto:"
+  url: "mailto:contact@truecoders.io"

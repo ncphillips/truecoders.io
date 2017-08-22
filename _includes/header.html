@@ -1,6 +1,23 @@
 <header>
+  <!--
   <nav>
       <a href="/">TrueCoders</a>
       <a href="mailto:contact@truecoders.io">Contact Us</a>
   </nav>
+  -->
+
+  <nav class="navbar navbar-expand navbar-light justify-content-between">
+    <a class="navbar-brand" href="/">{{ site.title }}</a>
+
+    <ul class="nav navbar-nav navbar-right">
+
+      {% for item in site.data.info.navigation %}
+        <li class="nav-item">
+          <a href={{ item.url | escape }} class="nav-link">{{ item.title }}</a>
+        </li>
+      {% endfor %}
+    
+    </ul>
+  </nav>
+
 </header>
