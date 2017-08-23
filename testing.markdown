@@ -6,7 +6,9 @@ sections:
     We believe that smart, passionate people should always be engaged, doing what they love to do.
 
     Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-  background_color: "#3181BA"
+  style:
+    background_color: "#3181ba"
+    text_color: "#ffffff"
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
