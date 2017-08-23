@@ -2,35 +2,69 @@
 layout: page
 ---
 
-<div class="container main-content-container">
-  <div class="row">
-    <div class="col align-self-center">
-      {% if page.hero_title %}
-      <h1 class="display-1"> {{ page.hero_title }} </h1>
-      {% else %}
-      <h1 class="display-1"> {{ page.title }} </h1>
-      {% endif %}
+{% include header.html %}
 
-      <div style="height:80px"></div>
+<div class="row justify-content-md-center hero-row" style="background-color:{{ page.hero.background_color }}">
+    <div style="height:200px"></div>
+</div>
 
-      {{ content }}
-      
-      <h1>Update Me About the First Class</h1>
-      
-      <form action="//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
-        <div class="form-row">
-          <div class="col-auto">
-            <input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control" placeholder="Email Address">
-          </div>
-          <div class="col-auto">
-            <button type="submit" class="btn btn-primary">Submit</button>
-          </div>
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
-        </div>
-      </form>
-      
-      <div style="height:40px"></div>
-      
-    </div>
+<div class="row justify-content-center hero-row" style="color:white; background-color:{{ page.hero.background_color }};">
+  <div class="col-10">
+    {% if page.hero.title %}
+    <h1 class="display-1"> {{ page.hero.title }} </h1>
+    {% else %}
+    <h1 class="display-1"> {{ page.title }} </h1>
+    {% endif %}
+
+    {% if page.hero.body %}
+    {{ page.hero.body | markdownify }}
+    {% endif %}
+
+    {% if page.hero.button %}
+    <div style="height:40px"></div>
+    <a href={{ page.hero.button.url }} class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="border-color:transparent; background-color:white; color:{{ page.hero.background_color }}">
+        {{ page.hero.button.title }}
+    </a>
+    {% endif %}
+
+    <div style="height:40px"></div>
+
   </div>
 </div>
+
+<!--
+<div class="row" style="background-color:{{ page.hero.background_color }}">
+    <div style="height:200px"></div>
+    
+    
+    
+    <div style="height:80px"></div>
+    
+    {{ content }}
+    
+    <h1>Update Me About the First Class</h1>
+    
+    <form action="//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+      <div class="form-row">
+        <div class="col-auto">
+          <input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control" placeholder="Email Address">
+        </div>
+        <div class="col-auto">
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
+      </div>
+    </form>
+    
+    <div style="height:40px"></div>
+
+</div>
+
+<div class="row" style="background-color:{{ page.hero.background_color }}">
+  <div class="col align-self-center">
+
+    
+    
+  </div>
+</div>
+-->

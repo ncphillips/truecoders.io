@@ -1,10 +1,10 @@
 <header class="header">
-  <nav class="navbar navbar-expand navbar-light justify-content-between">
+  <nav class="navbar navbar-expand fixed-top navbar-dark justify-content-between" style="background-color:{{ page.hero.background_color }}">
     <a class="navbar-brand" href="/">{{ site.title }}</a>
-    <ul class="nav navbar-nav navbar-right">
+    <ul class="nav nav-pills">
       {% for item in site.data.info.navigation %}
       <li class="nav-item">
-        <a href={{ item.url | escape }} class="nav-link">{{ item.title }}</a>
+        <a href={{ item.url | escape }} class="nav-link active" style="background-color:white; color:{{ page.hero.background_color }}">{{ item.title }}</a>
       </li>
       {% endfor %}
     </ul>
