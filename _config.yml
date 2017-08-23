@@ -45,7 +45,8 @@ defaults:
     profile_image: 
 url: http://truecoders.io
 email: contact@truecoders.io
-description: Crafted Culture and Talent
+description: Be Mentored. Be Connected.
+company_name: TrueCoders LLC
 author:
   picture: "/uploads/cody-winton.jpg"
   twitter: codytwinton
