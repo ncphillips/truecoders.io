@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-display_title: We Are TrueCoders
+hero_title: We Are TrueCoders
 redirect_from:
 - "/about/"
 - "/home/"

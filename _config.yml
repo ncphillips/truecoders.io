@@ -29,7 +29,7 @@ defaults:
     type: pages
   values:
     layout: page
-    display_title: 
+    hero_title: 
 - scope:
     path: ''
     type: posts

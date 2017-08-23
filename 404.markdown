@@ -2,7 +2,7 @@
 title: '404'
 permalink: 404.html
 position: 2
-display_title: Whoops
+hero_title: Whoops
 ---
 
 # Looks Like We Got a 404
