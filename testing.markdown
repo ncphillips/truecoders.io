@@ -1,5 +1,5 @@
 ---
-title: Siteleaf - A friendly CMS for your static site
+title: Home | TrueCoders
 hero_title: We Are TrueCoders
 header_title: Built for developers, Loved by everyone
 subtitle: |-
@@ -118,3 +118,4 @@ features:
 image: "/assets/og-image.png"
 layout: home
 ---
+
