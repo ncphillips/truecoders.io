@@ -6,16 +6,6 @@ hero:
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
-  subsections:
-  - title: Martin Murphy
-    body: 
-    image: "/uploads/martin-murphy.jpg"
-  - title: Cody Winton
-    body: 
-    image: "/uploads/cody-winton.jpg"
-  - title: Daniel Walsh
-    body: 
-    image: "/uploads/daniel-walsh.jpg"
   body: |-
     We believe that smart, passionate people should always be engaged, doing what they love to do.
 
@@ -26,12 +16,9 @@ hero:
 
     <iframe src="https://player.vimeo.com/video/229711320" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 sections:
-- title: Be Mentored. Be Connected.
-  style:
-    background_color: "#3181ba"
-    text_color: "#ffffff"
+- title: We Are TrueCoders
   button:
-    title: Apply Now
+    title: Find Out More
     url: mailto:contact@truecoders.io
   subsections:
   - title: Martin Murphy
