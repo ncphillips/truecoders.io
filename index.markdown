@@ -8,6 +8,8 @@ redirect_from:
 layout: home
 ---
 
-# Crafted Culture and Talent
+# Be Mentored. Be Connected.
 
-We on a mission to Engage, Educate, and Mentor TrueCoders through our propriotary training course, created by developers with decades of combined experience.
+We believe companies should never lack talented people to make things happen. We believe that smart, passionate people should always be engaged, doing what they love to do.
+
+Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
