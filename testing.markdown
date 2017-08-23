@@ -10,9 +10,15 @@ sections:
     title: Apply
     url: https://manage.siteleaf.com/signup
   subsections:
-  - title: 
+  - title: Martin Murphy
     body: 
-    image: 
+    image: "/uploads/martin-murphy.jpg"
+  - title: Cody Winton
+    body: 
+    image: "/uploads/cody-winton.jpg"
+  - title: Daniel Walsh
+    body: 
+    image: "/uploads/daniel-walsh.jpg"
 - title: 
   handle: intro
   background: custom
