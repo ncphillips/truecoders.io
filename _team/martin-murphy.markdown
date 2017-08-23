@@ -9,5 +9,6 @@ position: 2
 company_title: Manager
 profile_image: "/uploads/martin-murphy.jpg"
 is_teacher: true
+is_board_member: true
 ---
 
