@@ -17,16 +17,23 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: courses
   values:
     layout: page
-    permalink: "/blog/:title/"
+    start_date: 
+    end_date: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
     display_title: 
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: page
+    permalink: "/blog/:title/"
 - scope:
     path: ''
     type: team
