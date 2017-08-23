@@ -8,5 +8,6 @@ tags:
 position: 0
 company_title: President & Technology Officer
 profile_image: "/uploads/cody-winton.jpg"
+is_teacher: true
 ---
 
