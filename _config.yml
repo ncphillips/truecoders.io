@@ -22,6 +22,8 @@ defaults:
     layout: page
     start_date: 
     end_date: 
+    has_scholarship: true
+    price: 
 - scope:
     path: ''
     type: pages
