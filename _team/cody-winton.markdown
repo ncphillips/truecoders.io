@@ -7,6 +7,5 @@ tags:
 - swift
 company_title: President & Technology Officer
 profile_image: "/uploads/cody-winton.jpg"
-teaching_title: Assistant Teacher
 ---
 
