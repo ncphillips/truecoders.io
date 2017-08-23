@@ -5,7 +5,7 @@ tags:
 - mobile
 - ios
 - swift
-position: 1
+position: 0
 company_title: President & Technology Officer
 profile_image: "/uploads/cody-winton.jpg"
 ---
