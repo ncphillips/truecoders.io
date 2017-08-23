@@ -31,7 +31,7 @@ defaults:
     layout: page
     company_title: 
     profile_image: 
-    teaching_title: 
+    is_teacher: false
 url: http://truecoders.io
 email: contact@truecoders.io
 description: Crafted Culture and Talent
