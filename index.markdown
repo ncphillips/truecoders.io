@@ -4,7 +4,6 @@ position: 0
 redirect_from:
 - "/about/"
 - "/home/"
-layout: home
 hero:
   title: Be Mentored. Be Connected.
   background_color: "#157ffb"
@@ -25,14 +24,16 @@ sections:
     url: mailto:contact@truecoders.io
   subsections:
   - title: Martin Murphy
-    body: Martin is an excellent developer with decades of experience in C#, PHP,
-      .NET and many other dev stacks
+    body: Martin is a senior developer with decades of experience in C#, PHP, .NET,
+      and many other dev stacks
     image: "/uploads/martin-murphy.jpg"
   - title: Cody Winton
-    body: Cody is an excellent developer
+    body: Cody is a senior developer with years of experience in Swift, JavaScript,
+      Node.js, and many other dev stacks
     image: "/uploads/cody-winton.jpg"
   - title: Daniel Walsh
-    body: Daniel is an excellent communicator
+    body: Daniel is an excellent communicator with years of experience in sales, marketing,
+      and management
     image: "/uploads/daniel-walsh.jpg"
   body: 
 - title: Our First Course
@@ -63,5 +64,6 @@ sections:
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
       </div>
     </form>
+layout: home
 ---
 
