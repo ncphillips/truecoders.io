@@ -4,11 +4,11 @@ layout: page
 
 {% include header.html %}
 
-<div class="row justify-content-md-center hero-row" style="background-color:{{ page.hero.background_color }}">
-    <div style="height:200px"></div>
+<div class="row justify-content-md-center text-align-center" style="background-color:{{ page.hero.background_color }}">
+    <div style="height:40px"></div>
 </div>
 
-<div class="row justify-content-center hero-row" style="color:white; background-color:{{ page.hero.background_color }};">
+<div class="row justify-content-center text-align-center" style="color:white; background-color:{{ page.hero.background_color }};">
   <div class="col-10">
     {% if page.hero.title %}
     <h1 class="display-1"> {{ page.hero.title }} </h1>
@@ -21,50 +21,55 @@ layout: page
     {% endif %}
 
     {% if page.hero.button %}
-    <div style="height:40px"></div>
+    <div style="height:80px"></div>
     <a href={{ page.hero.button.url }} class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="border-color:transparent; background-color:white; color:{{ page.hero.background_color }}">
         {{ page.hero.button.title }}
     </a>
     {% endif %}
 
-    <div style="height:40px"></div>
+    <div style="height:160px"></div>
 
   </div>
 </div>
 
-<!--
-<div class="row" style="background-color:{{ page.hero.background_color }}">
-    <div style="height:200px"></div>
-    
-    
-    
-    <div style="height:80px"></div>
-    
-    {{ content }}
-    
-    <h1>Update Me About the First Class</h1>
-    
-    <form action="//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
-      <div class="form-row">
-        <div class="col-auto">
-          <input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control" placeholder="Email Address">
+{% for section in page.sections %}
+
+{% capture background_color %}{% cycle '#fff', '#fafafa' %}{% endcapture %}
+
+<div class="row justify-content-center text-align-center" style="background-color:{{ background_color }}">
+    <div style="height:60px"></div>
+</div>
+
+<div class="row justify-content-center text-align-center" style="background-color:{{ background_color }}">
+    <div class="col-10">
+      {% if section.title %}
+      <h1 class="display-2"> {{ section.title }} </h1>
+      {% endif %}
+
+      <div style="height:40px"></div>
+
+      <div class="row justify-content-center">
+      {% for subsection in section.subsections %}
+        <div class="col-3">
+          <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+          <h4>{{ subsection.title }}</h4>
+          {{ subsection.body | markdownify }}
         </div>
-        <div class="col-auto">
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </div>
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
+      {% endfor %}
       </div>
-    </form>
-    
-    <div style="height:40px"></div>
-
-</div>
-
-<div class="row" style="background-color:{{ page.hero.background_color }}">
-  <div class="col align-self-center">
-
-    
-    
+  
+      {{ section.body | markdownify }}
+  
+      {% if section.button %}
+      <div style="height:40px"></div>
+      <a href={{ section.button.url }} class="btn btn-primary btn-lg active" role="button" aria-pressed="true">
+          {{ section.button.title }}
+      </a>
+      {% endif %}
+  
+      <div style="height:40px"></div>
+  
+    </div>
   </div>
-</div>
--->
+
+{% endfor %}
