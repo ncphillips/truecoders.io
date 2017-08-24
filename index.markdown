@@ -11,15 +11,13 @@ hero:
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
-  body: |-
-    We believe that smart, passionate people should always be engaged, doing what they love to do.
-
-    Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged  
-    working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-
-    <br>
-
-    <iframe src="https://player.vimeo.com/video/229711320" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  body: "We believe that smart, passionate people should always be engaged, doing
+    what they love to do.\n\nOur mission is to educate smart and passionate people
+    as they become skilled developers, to keep them engaged  \nworking with companies
+    solving real-world problems, and to continue mentoring them as they grow their
+    skill set.\n\n<br>\n\n<iframe src=\"https://player.vimeo.com/video/229711320\"
+    width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen
+    allowfullscreen></iframe>"
 sections:
 - title: We Are TrueCoders
   button:
@@ -27,7 +25,8 @@ sections:
     url: mailto:contact@truecoders.io
   subsections:
   - title: Martin Murphy
-    body: Martin is an excellent developer with decades of experience in C#, PHP, .NET and many other dev stacks
+    body: Martin is an excellent developer with decades of experience in C#, PHP,
+      .NET and many other dev stacks
     image: "/uploads/martin-murphy.jpg"
   - title: Cody Winton
     body: Cody is an excellent developer
@@ -35,12 +34,12 @@ sections:
   - title: Daniel Walsh
     body: Daniel is an excellent communicator
     image: "/uploads/daniel-walsh.jpg"
-  body:
+  body: 
 - title: Our First Course
   button:
     title: Apply for Scholarship
     url: mailto:contact@truecoders.io
-  subsections:
+  subsections: 
   body: |-
     Our first class is starting on October 2nd! The cost is $10,000 up front.
 
@@ -48,11 +47,11 @@ sections:
 - title: Keep Updated on TrueCoders
   body: |-
     Want to stay updated on what's happening with TrueCoders?
-    
+
     You can subscribe to our mailing list. We promise we won't spam you.
 
     <br>
-    
+
     <form action="//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
       <div class="form-group row justify-content-center text-align-center">
         <div class="col-auto">
@@ -65,3 +64,4 @@ sections:
       </div>
     </form>
 ---
+
