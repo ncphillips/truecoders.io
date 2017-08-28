@@ -22,14 +22,6 @@
         @extend %grid-column;
       }
     }
-    
-    @include media-breakpoint-up($breakpoint, $breakpoints) {
-        .col#{$infix} {
-            flex: 0 0 100%;
-            max-width: 100%;
-        }
-    }
-    
     .col#{$infix},
     .col#{$infix}-auto {
       @extend %grid-column;
