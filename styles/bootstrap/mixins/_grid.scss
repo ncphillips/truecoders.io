@@ -45,3 +45,37 @@
   // do not appear to require this.
   max-width: percentage($size / $columns);
 }
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+footer .col {
+	box-sizing: border-box;
+}	
+
+@media screen and (max-width: 414px) {
+    .col-3 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important
+    }
+    
+    .display-1,
+    .display-2,
+    .display-3 {
+        font-size: 35px !important;
+        line-height: 1.5 !important;
+    }
+}
