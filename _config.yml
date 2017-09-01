@@ -47,7 +47,10 @@ defaults:
 url: http://truecoders.io
 email: contact@truecoders.io
 description: Be Mentored. Be Connected.
-company_name: TrueCoders LLC
+company:
+  nav_logo: uploads/logo-only.svg
+  name: TrueCoders LLC
+  primary_color: "#0093C9"
 author:
   picture: "/uploads/cody-winton.jpg"
   twitter: codytwinton
