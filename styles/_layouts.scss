@@ -63,6 +63,18 @@ footer .col {
         flex: 0 0 100% !important;
         max-width: 100% !important
     }
+
+    #video-background {
+        visibility: hidden;
+    }
+
+    #hero {
+        background-color: $blue;
+    }
+    
+    .navbar {
+        background-color: $white;
+    }
     
     .display-1,
     .display-2,
