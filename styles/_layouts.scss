@@ -6,7 +6,7 @@
 .navbar {
     padding: 40px;
     margin: 0;
-    max-height: 200px;
+    max-height: 120px;
 }
 
 .subsection-image {
@@ -20,12 +20,25 @@
 
 #hero {
     color: white;
-    background-color: #bbbbbb;
+    background-color: rgba(black, 0.2)
 }
 
 header {
     color: white;
-    background-color: #bbbbbb;
+    background-color: rgba(black, 0.2)
+}
+
+/* The only rule that matters */
+#video-background {
+/*  making the video fullscreen  */
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
 }
 
 // Responsive Updates

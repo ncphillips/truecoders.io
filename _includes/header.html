@@ -1,12 +1,12 @@
 <header>
   <nav class="navbar navbar-expand navbar-dark justify-content-between">
     <a class="navbar-brand" href="/">
-      <img src="{{ site.data.navigation.brand.logo | relative_url }}" height="{{ site.data.navigation.brand.height }}" alt="Logo">
+      <img src="{{ site.company.nav_logo | relative_url }}" height="120" alt="Logo">
     </a>
     <ul class="nav nav-pills">
       {% for item in site.data.navigation.items %}
       <li class="nav-item">
-        <a href={{ item.url | escape }} class="nav-link active" style="background-color:white; color:#bbbbbb">{{ item.title }}</a>
+        <a href={{ item.url | escape }} class="nav-link active" style="background-color:white; color:{{ site.company.primary_color }}">{{ item.title }}</a>
       </li>
       {% endfor %}
     </ul>

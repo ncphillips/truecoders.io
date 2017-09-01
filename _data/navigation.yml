@@ -1,7 +1,3 @@
-brand:
-  logo: uploads/logo-only.svg
-  height: 120
-
 items:
 - title: Contact Us
   url: "mailto:contact@truecoders.io"

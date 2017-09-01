@@ -4,6 +4,8 @@ position: 0
 redirect_from:
 - "/about/"
 - "/home/"
+background:
+  video_file: "/uploads/home-background.mp4"
 hero:
   title: Be Mentored. Be Connected.
   button:

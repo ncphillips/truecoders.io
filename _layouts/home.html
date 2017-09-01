@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<video autoplay loop id="video-background" muted plays-inline>
+  <source src={{ page.background.video_file }} type="video/mp4">
+</video>
+
 {% include header.html %}
 
 <div id="hero" class="row justify-content-center text-align-center">
@@ -16,15 +20,15 @@ layout: page
     {{ page.hero.body | markdownify }}
     {% endif %}
 
-    {% if page.hero.button %}
     <div style="height:80px"></div>
-    <a href={{ page.hero.button.url }} class="btn btn-primary btn-lg" role="button" aria-pressed="true" style="border-color:transparent; background-color:white; color:#bbbbbb">
+
+    {% if page.hero.button %}
+    <a href={{ page.hero.button.url }} class="btn btn-primary btn-lg" role="button" aria-pressed="true" style="border-color:transparent; background-color:white; color:{{ site.company.primary_color }}">
         {{ page.hero.button.title }}
     </a>
+
+    <div style="height:80px"></div>
     {% endif %}
-
-    <div style="height:160px"></div>
-
   </div>
 </div>
 
