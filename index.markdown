@@ -18,7 +18,7 @@ hero:
     skill set."
   video:
     title: Watch Intro
-    link: "https://player.vimeo.com/video/229711320"
+    link: https://player.vimeo.com/video/229711320
 sections:
 - title: We Are TrueCoders
   button:
@@ -68,3 +68,4 @@ sections:
     </form>
 layout: home
 ---
+
