@@ -20,6 +20,8 @@ layout: page
     {{ page.hero.body | markdownify }}
     {% endif %}
 
+    <a href={{ page.hero.video.link }} id="hero-video"> {{ page.hero.video.title }} </a>
+    
     <div style="height:80px"></div>
 
     {% if page.hero.button %}
@@ -27,7 +29,7 @@ layout: page
         {{ page.hero.button.title }}
     </a>
 
-    <div style="height:80px"></div>
+    <div style="height:160px"></div>
     {% endif %}
   </div>
 </div>

@@ -15,9 +15,10 @@ hero:
     what they love to do.\n\nOur mission is to educate smart and passionate people
     as they become skilled developers, to keep them engaged  \nworking with companies
     solving real-world problems, and to continue mentoring them as they grow their
-    skill set.\n\n<br>\n\n<iframe src=\"https://player.vimeo.com/video/229711320\"
-    width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>"
+    skill set."
+  video:
+    title: Watch Intro
+    link: "https://player.vimeo.com/video/229711320"
 sections:
 - title: We Are TrueCoders
   button:
