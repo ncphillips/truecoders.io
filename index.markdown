@@ -6,7 +6,7 @@ redirect_from:
 - "/home/"
 hero:
   title: Be Mentored. Be Connected.
-  background_color: "#157ffb"
+  background_color: "#0093C9"
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
