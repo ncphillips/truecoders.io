@@ -74,5 +74,7 @@ social:
 twitter:
   username: truecodersio
 baseurl: 
+destination: public
 markdown: kramdown
 permalink: pretty
+source: src
