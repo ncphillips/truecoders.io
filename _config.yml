@@ -5,6 +5,9 @@ collections:
   courses:
     title: Courses
     output: true
+  faqs:
+    title: FAQs
+    output: true
   posts:
     title: Posts
     output: true
