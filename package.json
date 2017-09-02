@@ -2,22 +2,20 @@
   "name": "truecoders.io",
   "version": "0.5.0",
   "description": "TrueCoders Marketing Website",
+  "homepage": "http://truecoders.io",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/truecodersio/truecoders.io.git"
   },
-  "keywords": [
-    "truecoders"
-  ],
   "authors": [
-    {
-      "name": "Cody Winton",
-      "email": "cody.t.winton@gmail.com"
-    }
+    "Cody Winton <cody.t.winton@gmail.com>"
   ],
-  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
-  "homepage": "http://truecoders.io"
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "fontawesome": "^4.7.2"
+  }
 }
