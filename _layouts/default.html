@@ -12,7 +12,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   
     <link rel="icon" type="image/png" href="{{ "assets/favicon.png" | relative_url }}"> 
-    <link rel="stylesheet" href="{{ "/styles/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   
     {% if jekyll.environment == 'production' and site.google_analytics.tracking_id %}
       <script> {% include analytics.js %} </script>
@@ -25,7 +25,7 @@
     
     {{ content }}
     
-    <script src="{{ site.baseurl }}/scripts/all.js"></script>
+    <script src="{{ site.baseurl }}/assets/all.js"></script>
   
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
