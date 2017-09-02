@@ -14,6 +14,11 @@
   "bugs": {
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
+  "scripts": {
+    "copy": "cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
+    "build": "npm run-script copy && jekyll build",
+    "serve": "npm run-script copy && jekyll serve"
+  },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "fontawesome": "^4.7.2",
