@@ -2,9 +2,11 @@
 title: FAQs
 date: 2017-09-03 15:18:00 -05:00
 position: 1
-display_title: FAQs
 hero:
   image: "/uploads/hero-image-1.jpg"
+call_to_action:
+  title: Ask a Question
+  url: mailto:contact@truecoders.io
 qas:
 - question: Who is TrueCoders?
   answer: We're kind of a different animal. We're trying to bridge the gap between
