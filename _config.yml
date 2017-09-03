@@ -48,7 +48,7 @@ defaults:
     type: posts
   values:
     layout: page
-    permalink: '/blog/:title/'
+    permalink: "/blog/:title/"
 - scope:
     path: ''
     type: team
@@ -64,13 +64,13 @@ description: Be Mentored. Be Connected.
 company:
   name: TrueCoders
   full_name: TrueCoders LLC
-  primary_color: '#0093C9'
+  primary_color: "#0093C9"
 author:
-  picture: '/uploads/cody-winton.jpg'
+  picture: "/uploads/cody-winton.jpg"
   twitter: codytwinton
 google_analytics:
   tracking_id: UA-104643272-1
-logo: '/uploads/logo.png'
+logo: "/uploads/logo.png"
 plugins:
 - jekyll-feed
 - jekyll-redirect-from
