@@ -1,6 +1,7 @@
 ---
 title: FAQs
 date: 2017-09-03 15:18:00 -05:00
+position: 1
 display_title: Questions and Answers
 qas:
 - question: Who is TrueCoders?
