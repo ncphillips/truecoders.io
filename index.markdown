@@ -1,6 +1,7 @@
 ---
 title: Home
 position: 0
+display_title: Be Mentored. Be Connected.
 redirect_from:
 - "/about/"
 - "/home/"
@@ -68,3 +69,7 @@ sections:
     </form>
 ---
 
+We believe that smart, passionate people should always be engaged, doing what they love to do.
+
+Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged  
+working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
