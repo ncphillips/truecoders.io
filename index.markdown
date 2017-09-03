@@ -6,7 +6,7 @@ redirect_from:
 - "/about/"
 - "/home/"
 background:
-  video_file: "/uploads/home-background.mp4"
+  video_file: "/uploads/hero-video-1.mp4"
 hero:
   button:
     title: Apply Now
