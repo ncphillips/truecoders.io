@@ -32,6 +32,20 @@ defaults:
     type: pages
   values:
     layout: page
+    display_title: 
+- scope:
+    path: 'index.markdown'
+    type: pages
+  values:
+    layout: home
+- scope:
+    path: 'faqs.markdown'
+    type: pages
+  values:
+    layout: page
+    qas:
+    - question: 
+      answer: 
 - scope:
     path: ''
     type: posts

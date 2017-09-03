@@ -66,6 +66,4 @@ sections:
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
       </div>
     </form>
-layout: home
 ---
-
