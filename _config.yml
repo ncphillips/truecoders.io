@@ -34,6 +34,9 @@ defaults:
       background_color: "#0093C9"
       image: 
       video_file: 
+    cta:
+      title: 
+      url: 
 - scope:
     path: admin.markdown
     type: pages
