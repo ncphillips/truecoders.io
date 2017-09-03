@@ -2,6 +2,9 @@ _site/
 public/
 .sass-cache/
 .jekyll-metadata
+_drafts
+.asset-cache
+npm-debug.log
 
 
 # Logs
