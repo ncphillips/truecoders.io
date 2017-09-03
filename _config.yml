@@ -80,7 +80,6 @@ twitter:
 assets:
   digest: true
 baseurl: 
-destination: public
 exclude:
 - Gemfile
 - Gemfile.lock
