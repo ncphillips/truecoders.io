@@ -1,6 +1,46 @@
 ---
 title: TrueCoders
 timezone: America/Chicago
+url: http://truecoders.io
+email: contact@truecoders.io
+description: Be Mentored. Be Connected.
+company:
+  name: TrueCoders LLC
+  primary_color: "#0093C9"
+author:
+  picture: "/uploads/cody-winton.jpg"
+  twitter: codytwinton
+google_analytics:
+  tracking_id: UA-104643272-1
+logo: "/uploads/logo.png"
+plugins:
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+sass:
+  style: compressed
+social:
+  name: TrueCoders
+  links:
+  - https://twitter.com/truecodersio
+  - https://www.facebook.com/truecodersio
+  - https://www.linkedin.com/in/truecodersio
+  - https://github.com/truecodersio
+twitter:
+  username: truecodersio
+baseurl: 
+destination: public
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+markdown: kramdown
+permalink: pretty
 collections:
   courses:
     title: Courses
@@ -47,43 +87,3 @@ defaults:
     is_board_member: false
     is_teacher: false
     profile_image: 
-url: http://truecoders.io
-email: contact@truecoders.io
-description: Be Mentored. Be Connected.
-company:
-  name: TrueCoders LLC
-  primary_color: "#0093C9"
-author:
-  picture: "/uploads/cody-winton.jpg"
-  twitter: codytwinton
-google_analytics:
-  tracking_id: UA-104643272-1
-logo: "/uploads/logo.png"
-plugins:
-- jekyll-feed
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-sass:
-  style: compressed
-social:
-  name: TrueCoders
-  links:
-  - https://twitter.com/truecodersio
-  - https://www.facebook.com/truecodersio
-  - https://www.linkedin.com/in/truecodersio
-  - https://github.com/truecodersio
-twitter:
-  username: truecodersio
-baseurl: 
-destination: public
-exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
-markdown: kramdown
-permalink: pretty
