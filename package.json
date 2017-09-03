@@ -15,7 +15,7 @@
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
   "scripts": {
-    "copy": "cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
+    "copy": "cpx \"node_modules/bootstrap/scss/**/*.scss\" _assets/css/bootstrap",
     "build": "npm run-script copy && jekyll build",
     "serve": "npm run-script copy && jekyll serve"
   },
