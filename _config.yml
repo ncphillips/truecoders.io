@@ -61,7 +61,6 @@ google_analytics:
   tracking_id: UA-104643272-1
 logo: "/uploads/logo.png"
 plugins:
-- jekyll-assets
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-seo-tag
