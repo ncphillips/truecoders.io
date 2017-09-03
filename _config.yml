@@ -90,8 +90,6 @@ social:
   - https://github.com/truecodersio
 twitter:
   username: truecodersio
-assets:
-  digest: true
 baseurl: 
 exclude:
 - Gemfile
