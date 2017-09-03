@@ -53,7 +53,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.5.2)
+  jekyll (>= 3.5.2)
   jekyll-feed
   jekyll-redirect-from
   jekyll-seo-tag
