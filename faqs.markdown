@@ -1,5 +1,6 @@
 ---
 title: FAQs
+date: 2017-09-03 15:18:00 -05:00
 position: 1
 hero:
   image: "/uploads/hero-image-1.jpg"
