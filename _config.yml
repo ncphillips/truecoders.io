@@ -5,7 +5,8 @@ url: http://truecoders.io
 email: contact@truecoders.io
 description: Be Mentored. Be Connected.
 company:
-  name: TrueCoders LLC
+  name: TrueCoders
+  full_name: TrueCoders LLC
   primary_color: "#0093C9"
 author:
   picture: "/uploads/cody-winton.jpg"
@@ -41,6 +42,7 @@ exclude:
 - vendor/ruby/
 markdown: kramdown
 permalink: pretty
+
 collections:
   courses:
     title: Courses
