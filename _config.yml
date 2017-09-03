@@ -29,6 +29,7 @@ defaults:
     type: pages
   values:
     layout: page
+    is_nav_page: false
     display_title: 
     hero:
       background_color: "#0093C9"
