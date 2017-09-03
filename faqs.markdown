@@ -9,7 +9,7 @@ hero:
 call_to_action:
   title: Ask a Question
   url: mailto:contact@truecoders.io
-qas:
+qa_items:
 - question: Who is TrueCoders?
   answer: We're kind of a different animal. We're trying to bridge the gap between
     coding bootcamps and recruiting companies.

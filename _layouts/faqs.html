@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for qa_item in page.qa_items %}
+
+<h5> {{ qa_item.question }} </h5>
+<p> {{ qa_item.answer }} </p>
+
+{% endfor %}

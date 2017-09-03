@@ -48,8 +48,8 @@ defaults:
     path: faqs.markdown
     type: pages
   values:
-    layout: page
-    qas:
+    layout: faqs
+    qa_items:
     - question: 
       answer: 
 - scope:
