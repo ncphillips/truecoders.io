@@ -8,15 +8,9 @@ redirect_from:
 background:
   video_file: "/uploads/home-background.mp4"
 hero:
-  title: Be Mentored. Be Connected.
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
-  body: "We believe that smart, passionate people should always be engaged, doing
-    what they love to do.\n\nOur mission is to educate smart and passionate people
-    as they become skilled developers, to keep them engaged  \nworking with companies
-    solving real-world problems, and to continue mentoring them as they grow their
-    skill set."
   video:
     title: Watch Intro
     link: https://player.vimeo.com/video/229711320

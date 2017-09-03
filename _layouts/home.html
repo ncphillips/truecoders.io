@@ -10,15 +10,13 @@ layout: page
 
 <div id="hero" class="row justify-content-center text-align-center">
   <div class="col-10">
-    {% if page.hero.title %}
-    <h1 class="display-1"> {{ page.hero.title }} </h1>
+    {% if page.display_title %}
+    <h1 class="display-1"> {{ page.display_title }} </h1>
     {% else %}
     <h1 class="display-1"> {{ page.title }} </h1>
     {% endif %}
 
-    {% if page.hero.body %}
-    {{ page.hero.body | markdownify }}
-    {% endif %}
+    {{ content }}
 
     <a href={{ page.hero.video.link }} id="hero-video"> {{ page.hero.video.title }} </a>
     
