@@ -32,8 +32,8 @@ defaults:
     display_title: 
     hero:
       background_color: "#0093C9"
-      background_image: 
-      background_video_file: 
+      image: 
+      video_file: 
 - scope:
     path: admin.markdown
     type: pages
