@@ -2,12 +2,6 @@
 layout: page
 ---
 
-<video autoplay loop id="video-background" muted plays-inline>
-  <source src={{ page.background.video_file }} type="video/mp4">
-</video>
-
-{% include header.html %}
-
 <div id="hero" class="row justify-content-center text-align-center">
   <div class="col-10">
     {% if page.display_title %}
@@ -31,6 +25,10 @@ layout: page
     {% endif %}
   </div>
 </div>
+
+<video autoplay loop id="video-background" muted plays-inline>
+  <source src={{ page.background.video_file }} type="video/mp4">
+</video>
 
 {% for section in page.sections %}
 
