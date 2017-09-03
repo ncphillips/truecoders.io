@@ -34,7 +34,7 @@ defaults:
       background_color: "#0093C9"
       image: 
       video_file: 
-    cta:
+    call_to_action:
       title: 
       url: 
 - scope:
