@@ -2,6 +2,7 @@
 title: FAQs
 date: 2017-09-03 15:18:00 -05:00
 position: 1
+is_nav_page: true
 hero:
   image: "/uploads/hero-image-1.jpg"
 call_to_action:
