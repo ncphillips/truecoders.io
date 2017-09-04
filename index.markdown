@@ -62,6 +62,9 @@ sections:
     </form>
 redirect_from:
 - "/home/"
-courses: "#C & .NET Training"
+team members:
+- Martin Murphy
+- Cody Winton
+- Daniel Walsh
 ---
 
