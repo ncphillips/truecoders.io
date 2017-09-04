@@ -4,14 +4,13 @@ date: 2017-09-01 00:00:00 -05:00
 position: 0
 display_title: Be Mentored. Be Connected.
 hero:
+  video_file: "/uploads/hero-video-1.mp4"
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
   video:
     title: Watch Intro
     link: https://player.vimeo.com/video/229711320
-redirect_from:
-- "/home/"
 background:
   video_file: "/uploads/hero-video-1.mp4"
 sections:
@@ -61,6 +60,8 @@ sections:
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
       </div>
     </form>
+redirect_from:
+- "/home/"
 ---
 
 We believe that smart, passionate people should always be engaged, doing what they love to do.
