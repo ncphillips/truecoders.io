@@ -36,8 +36,16 @@ layout: default
           {% endif %}
 
           <h4>{{ item.title }}</h4>
-          {{ item.content | markdownify }}
 
+          {% if item.content %}
+          {{ item.content | markdownify }}
+          {% endif %}
+
+          {% if collection.output %}
+            <a href={{ item.url }} class="btn btn-primary section-button" role="button" aria-pressed="true">
+              View More
+            </a>
+          {% endif %}
         </div>
         {% endfor %}
       </div>
