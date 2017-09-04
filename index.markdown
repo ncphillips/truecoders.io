@@ -12,15 +12,7 @@ hero_body: "We believe that smart, passionate people should always be engaged, d
 call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/229711320
-hero:
-  button:
-    title: Apply Now
-    url: mailto:contact@truecoders.io
-  video:
-    title: Watch Intro
-    link: https://player.vimeo.com/video/229711320
-background:
-  video_file: "/uploads/hero-video-1.mp4"
+background_video_file: "/uploads/hero-video-1.mp4"
 sections:
 - title: We Are TrueCoders
   button:
