@@ -6,10 +6,9 @@ display_title: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
 hero_image: "/uploads/hero-image-3.jpg"
 hero_body: "We believe that smart, passionate people should always be engaged, doing
-    what they love to do.\n\nOur mission is to educate smart and passionate people
-    as they become skilled developers, to keep them engaged  \nworking with companies
-    solving real-world problems, and to continue mentoring them as they grow their
-    skill set."
+  what they love to do.\n\nOur mission is to educate smart and passionate people as
+  they become skilled developers, to keep them engaged  \nworking with companies solving
+  real-world problems, and to continue mentoring them as they grow their skill set."
 hero:
   button:
     title: Apply Now
