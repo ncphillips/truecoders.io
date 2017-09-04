@@ -3,6 +3,7 @@ title: FAQs
 date: 2017-09-03 15:00:00 -05:00
 position: 2
 is_nav_page: true
+subtitle: All of your questions answered in one place
 hero:
   image: "/uploads/hero-image-1.jpg"
 call_to_action:
@@ -20,5 +21,3 @@ qa_items:
 - question: That's interesting. How much does it cost?
   answer: It costs $10,000, but you can apply for a scholarship.
 ---
-
-All of your questions answered in one place.

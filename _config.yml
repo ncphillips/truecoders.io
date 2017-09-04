@@ -31,6 +31,7 @@ defaults:
     layout: page
     is_nav_page: false
     display_title: 
+    subtitle: 
     hero:
       background_color: "#4b4948"
       image: 
