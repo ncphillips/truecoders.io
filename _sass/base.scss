@@ -6,19 +6,19 @@
 @import 'bootstrap/bootstrap';
 
 .main-container {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .navbar {
-    padding: 40px;
     margin: 0;
     max-height: 120px;
+    padding: 40px;
 }
 
 .subsection-image {
-    max-width: 60%;
     border-radius: 50%;
+    max-width: 60%;
 }
 
 .text-align-center {
@@ -26,49 +26,48 @@
 }
 
 #hero {
-    color: white;
-    background-color: rgba(black, 0.2)
+    background-color: $black-alpha;
+    color: $white;
 }
 
 header {
-    color: white;
-    background-color: rgba(black, 0.2)
+    background-color: $black-alpha;
+    color: $white;
 }
 
 #hero-video {
-    color: white;
-    text-decoration: none;
+    color: $white;
     font-size: 2.5em;
+    text-decoration: none;
 }
 
-/* The only rule that matters */
+// The only rule that matters
 #video-background {
-/*  making the video fullscreen  */
+    // making the video fullscreen
+    bottom: 0;
+    height: auto;
+    min-height: 100%;
+    min-width: 100%;
     position: fixed;
     right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
     width: auto;
-    height: auto;
     z-index: -100;
 }
 
 // Responsive Updates
-
 footer {
     background-color: $blue;
     color: $white;
-}
 
-footer .col {
-	box-sizing: border-box;
+    .col {
+        box-sizing: border-box;
+    }
 }
 
 @media screen and (max-width: 414px) {
     .col-3 {
         flex: 0 0 100% !important;
-        max-width: 100% !important
+        max-width: 100% !important;
     }
 
     #video-background {
@@ -78,11 +77,11 @@ footer .col {
     #hero {
         background-color: $blue;
     }
-    
+
     .navbar {
         background-color: $white;
     }
-    
+
     .display-1,
     .display-2,
     .display-3 {

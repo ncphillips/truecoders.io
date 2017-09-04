@@ -1,6 +1,6 @@
 
 
-$font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
 $font-weight-normal: 400;
 $font-weight-bold: 500;
@@ -23,13 +23,14 @@ $display2-weight: $font-weight-bolder;
 $display3-weight: $font-weight-bolder;
 $display4-weight: $font-weight-bolder;
 
-$headings-line-height: 2.0;
+$headings-line-height: 2;
 $line-height-base: 1.9;
 $body-color: #343a40;
 
-$blue: #0093C9;
-$brand-gray: #8A8A8D;
+$blue: #0093c9;
+$brand-gray: #8a8a8d;
+$black-alpha: rgba(#000000, .2);
 
 $font-size-base: 1.1rem;
-$display1-size: 5.0rem;
-$display2-size: 4.0rem;
+$display1-size: 5rem;
+$display2-size: 4rem;
