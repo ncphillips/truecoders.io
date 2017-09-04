@@ -3,16 +3,16 @@
     padding: 0;
     text-align: center;
     padding: 40px 16px 120px 16px;
+}
 
-    .subsection-image {
-        border-radius: 50%;
-        max-width: 60%;
-        margin-bottom: 20px;
-    }
+.subsection-image {
+    border-radius: 50%;
+    max-width: 40%;
+    margin-bottom: 20px;
+}
 
-    .section-button {
-        margin-top: 40px;
-    }
+.section-button {
+    margin-top: 40px;
 }
 
 #hero-video {
@@ -37,7 +37,7 @@
 // Responsive Updates
 
 @media screen and (max-width: 414px) {
-    .col-3 {
+    .col-4 {
         flex: 0 0 100% !important;
         max-width: 100% !important;
     }

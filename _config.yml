@@ -21,6 +21,7 @@ defaults:
     type: courses
   values:
     layout: page
+    image: 
     start_date: 
     end_date: 
     has_scholarship: true
@@ -58,6 +59,11 @@ defaults:
     type: pages
   values:
     layout: home
+    sections:
+    - title: 
+      body: 
+      collection: 
+      limit: 3
 - scope:
     path: ''
     type: posts

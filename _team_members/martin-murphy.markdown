@@ -9,7 +9,7 @@ position: 0
 company_title: Manager
 is_board_member: true
 is_teacher: true
-profile_image: "/uploads/martin-murphy.jpg"
+image: "/uploads/martin-murphy.jpg"
 ---
 
 Martin is a senior developer with decades of experience in C#, PHP, .NET, and many other dev stacks
