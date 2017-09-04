@@ -5,7 +5,7 @@ tags:
 - c#
 - ".net"
 - sql
-position: 2
+position: 0
 company_title: Manager
 is_board_member: true
 is_teacher: true

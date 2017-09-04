@@ -5,7 +5,7 @@ tags:
 - mobile
 - ios
 - swift
-position: 0
+position: 1
 company_title: President & Technology Officer
 is_board_member: true
 is_teacher: true
