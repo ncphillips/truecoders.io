@@ -18,6 +18,10 @@ layout: default
       <h1 class="display-2"> {{ section.title }} </h1>
       {% endif %}
 
+      {% if section.body %}
+      {{ section.body | markdownify }}
+      {% endif %}
+
       <div class="row justify-content-center">
         {% for subsection in section.subsections %}
         <div class="col-3">
@@ -27,12 +31,10 @@ layout: default
         </div>
         {% endfor %}
       </div>
-
-      {{ section.body | markdownify }}
       
-      {% if section.button %}
-      <a href={{ section.button.url }} class="btn btn-primary btn-lg section-button" role="button" aria-pressed="true">
-        {{ section.button.title }}
+      {% if section.call_to_action %}
+      <a href={{ section.call_to_action.url }} class="btn btn-primary btn-lg section-button call-to-action-button" role="button" aria-pressed="true">
+        {{ section.call_to_action.title }}
       </a>
       {% endif %}
 
