@@ -11,20 +11,21 @@
       <a class="navbar-brand" href="/">
         <img src={{ "uploads/logo-only.svg" | relative_url }} height="120" alt="Logo">
       </a>
+      
       <ul class="nav nav-pills">
-        {% assign pages = site.pages | sort: 'position' %}
+        
+        {% assign pages = site.pages | where:"is_nav_page",true | sort: 'position' %}
         {% for page in pages %}
-        {% if page.is_nav_page %}
         <li class="nav-item">
           <a href={{ page.url | escape }} class="nav-link" style="color:white">{{ page.title }}</a>
         </li>
-        {% endif %}
         {% endfor %}
 
         {% assign call_to_action = site.data.nav.call_to_action %}
         <li class="nav-item">
           <a href={{ call_to_action.url | escape }} class="nav-link active">{{ call_to_action.title }}</a>
         </li>
+      
       </ul>
     </nav>
 
