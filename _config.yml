@@ -32,9 +32,9 @@ defaults:
     is_nav_page: false
     hero_color: "#4b4948"
     hero_image: 
-    hero_body: 
     display_title: 
     subtitle: 
+    hero_body: 
     call_to_action:
       title: 
       url: 

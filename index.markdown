@@ -2,9 +2,9 @@
 title: Home
 date: 2017-09-01 00:00:00 -05:00
 position: 0
+hero_image: "/uploads/hero-image-3.jpg"
 display_title: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
-hero_image: "/uploads/hero-image-3.jpg"
 hero_body: "We believe that smart, passionate people should always be engaged, doing
     what they love to do.\n\nOur mission is to educate smart and passionate people
     as they become skilled developers, to keep them engaged  \nworking with companies

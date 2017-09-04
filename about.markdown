@@ -3,9 +3,9 @@ title: About
 date: 2017-09-04 10:00:00 -05:00
 position: 1
 is_nav_page: true
+hero_image: "/uploads/hero-image-2.jpg"
 display_title: Who We Are
 subtitle: Here's some info about our company
-hero_image: "/uploads/hero-image-2.jpg"
 call_to_action:
   title: Find Out More
   url: mailto:contact@truecoders.io
