@@ -62,5 +62,7 @@ sections:
     </form>
 redirect_from:
 - "/home/"
+home_sections:
+- team: 
 ---
 
