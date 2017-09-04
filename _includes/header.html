@@ -1,14 +1,33 @@
-<header>
-  <nav class="navbar navbar-expand navbar-dark justify-content-between">
-    <a class="navbar-brand" href="/">
-      <img src={{ "uploads/logo-only.svg" | relative_url }} height="120" alt="Logo">
-    </a>
-    <ul class="nav nav-pills">
-      {% for item in site.data.navigation.items %}
-      <li class="nav-item">
-        <a href={{ item.url | escape }} class="nav-link active" style="background-color:white; color:{{ site.company.primary_color }}">{{ item.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </nav>
+{% if page.hero.image %}
+  {% assign header_style = "background:url(" | append: page.hero.image | append: ");" %}
+{% else %}
+  {% assign header_style = "background-color:" | append: page.hero.background_color %}
+{% endif %}
+
+<header style="{{ header_style }}">
+  <div class="page-hero">
+
+    <nav class="navbar navbar-expand navbar-dark justify-content-between">
+      <a class="navbar-brand" href="/">
+        <img src={{ "uploads/logo-only.svg" | relative_url }} height="120" alt="Logo">
+      </a>
+      <ul class="nav nav-pills">
+        {% for item in site.data.navigation.items %}
+        <li class="nav-item">
+          <a href={{ item.url | escape }} class="nav-link active">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="row page-hero-copy">
+      <div class="col">
+        {% if page.display_title %}
+        <h1 class="display-1"> {{ page.display_title }} </h1>
+        {% else %}
+        <h1 class="display-1"> {{ page.title }} </h1>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 </header>

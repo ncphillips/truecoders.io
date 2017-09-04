@@ -1,0 +1,17 @@
+header {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+
+    .page-hero {
+        text-align: center;
+        color: $white;
+        background-color: $black-alpha;
+        padding: 0px 0 80px 0;
+
+        .page-hero-copy {
+            margin: 0px;
+            padding: 16px;
+        }
+    }
+}

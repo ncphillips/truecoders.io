@@ -32,7 +32,7 @@ defaults:
     is_nav_page: false
     display_title: 
     hero:
-      background_color: "#0093C9"
+      background_color: "#eee"
       image: 
       video_file: 
     call_to_action:

@@ -4,12 +4,17 @@
 
 @import 'variables';
 @import 'bootstrap/bootstrap';
+@import 'header';
+@import 'footer';
 
-.main-container {
+// Page Settings
+
+.page-container {
     margin: 0;
     padding: 0;
 }
 
+/*
 .navbar {
     margin: 0;
     max-height: 120px;
@@ -19,10 +24,6 @@
 .subsection-image {
     border-radius: 50%;
     max-width: 60%;
-}
-
-.text-align-center {
-    text-align: center;
 }
 
 #hero {
@@ -55,14 +56,6 @@ header {
 }
 
 // Responsive Updates
-footer {
-    background-color: $blue;
-    color: $white;
-
-    .col {
-        box-sizing: border-box;
-    }
-}
 
 @media screen and (max-width: 414px) {
     .col-3 {
@@ -89,3 +82,4 @@ footer {
         line-height: 1.5 !important;
     }
 }
+*/
