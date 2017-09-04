@@ -41,11 +41,9 @@
         <h2 class="page-hero-subtitle"> {{ page.subtitle }} </h2>
         {% endif %}
 
-        {% if page.hero_body %}
-        {{ page.hero_body | markdownify }}
-        {% endif %}
-
         {% if page.url == "/" %}
+        {{ content }}
+
         <a href={{ page.call_to_action.url }} class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
           {{ page.call_to_action.title }}
         </a>

@@ -5,8 +5,6 @@ layout: default
 <div class="container-fluid page-container">
   {% include header.html %}
 
-  {{ content }}
-
   {% for section in page.sections %}
   
   {% capture style %} {% cycle 'background-color:#fff', 'background-color:#fafafa' %} {% endcapture %}

@@ -36,7 +36,6 @@ defaults:
     hero_image: 
     display_title: 
     subtitle: 
-    hero_body: 
     call_to_action:
       title: 
       url: 
