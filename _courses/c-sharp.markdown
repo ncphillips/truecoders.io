@@ -15,3 +15,4 @@ call_to_action:
   url: mailto:contact@truecoders.io
 ---
 
+Thorough training in all things #C & .NET
