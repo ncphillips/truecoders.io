@@ -62,9 +62,10 @@ sections:
     </form>
 redirect_from:
 - "/home/"
-team members:
-- Martin Murphy
-- Cody Winton
-- Daniel Walsh
+new_sections:
+- collection: team_members
+  limit: 3
+- collection: courses
+  limit: 3
 ---
 
