@@ -9,6 +9,9 @@ hero_body: "We believe that smart, passionate people should always be engaged, d
   what they love to do.\n\nOur mission is to educate smart and passionate people as
   they become skilled developers, to keep them engaged  \nworking with companies solving
   real-world problems, and to continue mentoring them as they grow their skill set."
+call_to_action:
+  title: Watch Intro
+  url: https://player.vimeo.com/video/229711320
 hero:
   button:
     title: Apply Now
