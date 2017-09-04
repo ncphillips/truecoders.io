@@ -10,8 +10,6 @@ collections:
     output: true
   team_members:
     title: Team Members
-    output: true
-    permalink: "/team/:path"
   uploads:
     title: Uploads
     output: true

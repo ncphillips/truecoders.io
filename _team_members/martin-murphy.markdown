@@ -6,10 +6,10 @@ tags:
 - ".net"
 - sql
 position: 0
+image: "/uploads/martin-murphy.jpg"
 company_title: Manager
 is_board_member: true
 is_teacher: true
-image: "/uploads/martin-murphy.jpg"
 ---
 
 Martin is a senior developer with decades of experience in C#, PHP, .NET, and many other dev stacks

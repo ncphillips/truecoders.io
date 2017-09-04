@@ -21,14 +21,18 @@ layout: default
       {% endif %}
 
       <div class="row justify-content-center">
-
+        
         {% for item in site[section.collection] limit:section.limit %}
         <div class="col-4 sub-section">
-  
-          {% if item.image %}
+
+          {% assign collection = site.collections | where: "label", section.collection | first %}
+
+          {% if collection.output and item.image %}
           <a href={{ item.url }}>
             <img src={{ item.image }} alt={{ item.title }} class="subsection-image">
           </a>
+          {% elsif item.image %}
+          <img src={{ item.image }} alt={{ item.title }} class="subsection-image">
           {% endif %}
 
           <h4>{{ item.title }}</h4>
