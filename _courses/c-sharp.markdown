@@ -5,7 +5,7 @@ tags:
 - c#
 - ".net"
 display_title: "#C & .NET"
-subtitle: 'Thorough Training in all things #C & .NET'
+subtitle: 'Thorough training in all things #C & .NET'
 image: "/uploads/csharp-logo.jpg"
 start_date: 2017-10-02 08:00:00 -05:00
 weeks_length: 8
