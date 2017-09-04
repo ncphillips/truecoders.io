@@ -77,7 +77,7 @@ defaults:
     company_title: 
     is_board_member: false
     is_teacher: false
-    profile_image: 
+    image: 
 url: http://truecoders.io
 email: contact@truecoders.io
 description: |-
