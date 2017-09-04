@@ -13,23 +13,14 @@ call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/229711320
 background_video_file: "/uploads/hero-video-1.mp4"
+
 sections:
 - title: We Are TrueCoders
-  body: 
   collection: team_members
   limit: 3
-  call_to_action:
-    title: Find Out More
-    url: mailto:contact@truecoders.io
-- title: Our First Course
-  body: "Our first class is starting on October 2nd! The cost is $10,000 up front.\n\n
-    Think you've got what it takes to go through this course with flying colors?
-    You might qualify for a scholarship."
+- title: Our Courses
   collection: courses
   limit: 3
-  call_to_action:
-    title: Apply for Scholarship
-    url: mailto:contact@truecoders.io
 - title: Keep Updated on TrueCoders
   body: |-
     Want to stay updated on what's happening with TrueCoders?
@@ -49,6 +40,7 @@ sections:
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
       </div>
     </form>
+
 redirect_from:
 - "/home/"
 ---
