@@ -18,6 +18,8 @@ qa_items:
     We believe that smart, passionate people should always be engaged, doing what they love to do.
 
     Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
+- question: That's interesting. How much?
+  answer: It costs $10,000, but you can apply for a scholarship.
 ---
 
 All of your questions answered in one place.
