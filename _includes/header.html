@@ -1,7 +1,7 @@
-{% if page.hero.image %}
-  {% assign header_style = "background:url(" | append: page.hero.image | append: ");" %}
+{% if page.hero_image %}
+  {% assign header_style = "background:url(" | append: page.hero_image | append: ");" %}
 {% else %}
-  {% assign header_style = "background-color:" | append: page.hero.background_color %}
+  {% assign header_style = "background-color:" | append: page.hero_color %}
 {% endif %}
 
 <header style="{{ header_style }}">
@@ -41,8 +41,8 @@
         <h2 class="page-hero-subtitle"> {{ page.subtitle }} </h2>
         {% endif %}
 
-        {% if page.hero.body %}
-        {{ page.hero.body | markdownify }}
+        {% if page.hero_body %}
+        {{ page.hero_body | markdownify }}
         {% endif %}
       </div>
     </div>

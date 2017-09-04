@@ -4,8 +4,7 @@ date: 2017-09-03 15:00:00 -05:00
 position: 2
 is_nav_page: true
 subtitle: All of your questions answered in one place
-hero:
-  image: "/uploads/hero-image-1.jpg"
+hero_image: "/uploads/hero-image-1.jpg"
 call_to_action:
   title: Ask a Question
   url: mailto:contact@truecoders.io

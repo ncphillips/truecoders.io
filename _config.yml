@@ -30,12 +30,11 @@ defaults:
   values:
     layout: plain-page
     is_nav_page: false
+    hero_color: "#4b4948"
+    hero_image: 
+    hero_body: 
     display_title: 
     subtitle: 
-    hero:
-      background_color: "#4b4948"
-      image: 
-      body: 
     call_to_action:
       title: 
       url: 
