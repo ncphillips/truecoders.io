@@ -7,8 +7,9 @@ tags:
 - sql
 position: 2
 company_title: Manager
-profile_image: "/uploads/martin-murphy.jpg"
-is_teacher: true
 is_board_member: true
+is_teacher: true
+profile_image: "/uploads/martin-murphy.jpg"
 ---
 
+Martin is a senior developer with decades of experience in C#, PHP, .NET, and many other dev stacks
