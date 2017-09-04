@@ -11,7 +11,6 @@ hero:
     title: Watch Intro
     link: https://player.vimeo.com/video/229711320
 redirect_from:
-- "/about/"
 - "/home/"
 background:
   video_file: "/uploads/hero-video-1.mp4"
