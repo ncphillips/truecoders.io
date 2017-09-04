@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<div class="container-fluid page-container">
+  {% include header.html %}
+
+  <div id="hero" class="row justify-content-center text-align-center">
+    <div class="col-10">
+      
+      {% if page.display_title %}
+      <h1 class="display-1"> {{ page.display_title }} </h1>
+      {% else %}
+      <h1 class="display-1"> {{ page.title }} </h1>
+      {% endif %}
+      
+      {{ content }}
+
+      <a href={{ page.hero.video.link }} id="hero-video"> {{ page.hero.video.title }} </a>
+
+      <div style="height:80px"></div>
+
+      {% if page.hero.button %}
+      <a href={{ page.hero.button.url }} class="btn btn-primary btn-lg" role="button" aria-pressed="true" style="border-color:transparent; background-color:white; color:{{ site.company.primary_color }}">
+        {{ page.hero.button.title }}
+      </a>
+
+      <div style="height:160px"></div>
+      {% endif %}
+    
+    </div>
+  </div>
+
+  <video autoplay loop id="video-background" muted plays-inline>
+    <source src={{ page.background.video_file }} type="video/mp4">
+  </video>
+
+  {% for section in page.sections %}
+  
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+
+  <div class="row justify-content-center text-align-center" style="background-color:{{ background_color }}">
+    <div style="height:60px"></div>
+  </div>
+
+  <div class="row justify-content-center text-align-center" style="background-color:{{ background_color }}">
+    <div class="col-10">
+      
+      {% if section.title %}
+      <h1 class="display-2"> {{ section.title }} </h1>
+      {% endif %}
+
+      <div style="height:40px"></div>
+
+      <div class="row justify-content-center">
+        {% for subsection in section.subsections %}
+        <div class="col-3">
+          <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+          <h4>{{ subsection.title }}</h4>
+          {{ subsection.body | markdownify }}
+        </div>
+        {% endfor %}
+      </div>
+
+      {{ section.body | markdownify }} {% if section.button %}
+      <div style="height:40px"></div>
+      <a href={{ section.button.url }} class="btn btn-primary btn-lg" role="button" aria-pressed="true">
+        {{ section.button.title }}
+      </a> {% endif %}
+
+      <div style="height:40px"></div>
+
+    </div>
+  </div>
+
+  {% endfor %}
+  
+  {% include footer.html %}
+</div>
