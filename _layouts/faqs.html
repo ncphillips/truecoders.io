@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: plain-page
 ---
 
 {{ content }}
 
 {% for qa_item in page.qa_items %}
 
-<h5> {{ qa_item.question }} </h5>
+<h3> {{ qa_item.question }} </h3>
 <p> {{ qa_item.answer }} </p>
 
 {% endfor %}

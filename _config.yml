@@ -28,7 +28,7 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: page
+    layout: plain-page
     is_nav_page: false
     display_title: 
     subtitle: 

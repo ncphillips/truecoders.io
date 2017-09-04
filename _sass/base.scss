@@ -4,15 +4,11 @@
 
 @import 'variables';
 @import 'bootstrap/bootstrap';
+@import 'page';
 @import 'header';
 @import 'footer';
 
 // Page Settings
-
-.page-container {
-    margin: 0;
-    padding: 0;
-}
 
 /*
 .navbar {
