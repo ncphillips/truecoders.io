@@ -4,4 +4,89 @@
 
 @import 'variables';
 @import 'bootstrap/bootstrap';
-@import 'layouts';
+
+.main-container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    padding: 40px;
+    margin: 0;
+    max-height: 120px;
+}
+
+.subsection-image {
+    max-width: 60%;
+    border-radius: 50%;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+#hero {
+    color: white;
+    background-color: rgba(black, 0.2)
+}
+
+header {
+    color: white;
+    background-color: rgba(black, 0.2)
+}
+
+#hero-video {
+    color: white;
+    text-decoration: none;
+    font-size: 2.5em;
+}
+
+/* The only rule that matters */
+#video-background {
+/*  making the video fullscreen  */
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+}
+
+// Responsive Updates
+
+footer {
+    background-color: $blue;
+    color: $white;
+}
+
+footer .col {
+	box-sizing: border-box;
+}
+
+@media screen and (max-width: 414px) {
+    .col-3 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important
+    }
+
+    #video-background {
+        visibility: hidden;
+    }
+
+    #hero {
+        background-color: $blue;
+    }
+    
+    .navbar {
+        background-color: $white;
+    }
+    
+    .display-1,
+    .display-2,
+    .display-3 {
+        font-size: 35px !important;
+        line-height: 1.5 !important;
+    }
+}
