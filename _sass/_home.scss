@@ -1,6 +1,18 @@
-.subsection-image {
-    border-radius: 50%;
-    max-width: 60%;
+.page-section {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 40px 16px 120px 16px;
+
+    .subsection-image {
+        border-radius: 50%;
+        max-width: 60%;
+        margin-bottom: 20px;
+    }
+
+    .section-button {
+        margin-top: 40px;
+    }
 }
 
 #hero-video {
@@ -14,8 +26,8 @@
     // making the video fullscreen
     bottom: 0;
     height: auto;
-    min-height: 100%;
-    min-width: 100%;
+    min-height: 100vh;
+    min-width: 100vw;
     position: fixed;
     right: 0;
     width: auto;
@@ -36,10 +48,6 @@
 
     #hero {
         background-color: $blue;
-    }
-
-    .navbar {
-        background-color: $white;
     }
 
     .display-1,

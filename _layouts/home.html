@@ -6,6 +6,37 @@ layout: default
   {% include header.html %}
 
   {{ content }}
+
+  {% for section in page.sections %}
   
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+
+  <div class="row justify-content-center page-section" style="background-color:{{ background_color }}">
+    <div class="col-10">
+      
+      {% if section.title %}
+      <h1 class="display-2"> {{ section.title }} </h1>
+      {% endif %}
+
+      <div class="row justify-content-center">
+        {% for subsection in section.subsections %}
+        <div class="col-3">
+          <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+          <h4>{{ subsection.title }}</h4>
+          {{ subsection.body | markdownify }}
+        </div>
+        {% endfor %}
+      </div>
+
+      {{ section.body | markdownify }} {% if section.button %}
+      <a href={{ section.button.url }} class="btn btn-primary btn-lg section-button" role="button" aria-pressed="true">
+        {{ section.button.title }}
+      </a> {% endif %}
+
+    </div>
+  </div>
+
+  {% endfor %}
+
   {% include footer.html %}
 </div>

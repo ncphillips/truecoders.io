@@ -35,7 +35,7 @@ defaults:
     hero:
       background_color: "#4b4948"
       image: 
-      video_file: 
+      body: 
     call_to_action:
       title: 
       url: 

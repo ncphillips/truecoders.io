@@ -37,7 +37,11 @@
         {% endif %}
 
         {% if page.subtitle %}
-        <h3> {{ page.subtitle }} </h3>
+        <h2 class="page-hero-subtitle"> {{ page.subtitle }} </h2>
+        {% endif %}
+
+        {% if page.hero.body %}
+        {{ page.hero.body | markdownify }}
         {% endif %}
       </div>
     </div>

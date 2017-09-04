@@ -6,13 +6,17 @@ display_title: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
 hero:
   image: "/uploads/hero-image-3.jpg"
-  video_file: "/uploads/hero-video-1.mp4"
   button:
     title: Apply Now
     url: mailto:contact@truecoders.io
   video:
     title: Watch Intro
     link: https://player.vimeo.com/video/229711320
+  body: |-
+    We believe that smart, passionate people should always be engaged, doing what they love to do.
+    
+    Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged  
+    working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 background:
   video_file: "/uploads/hero-video-1.mp4"
 sections:
@@ -65,8 +69,3 @@ sections:
 redirect_from:
 - "/home/"
 ---
-
-We believe that smart, passionate people should always be engaged, doing what they love to do.
-
-Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged  
-working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
