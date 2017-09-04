@@ -1,0 +1,17 @@
+---
+layout: plain-page
+---
+
+{{ content }}
+
+<h3> Details </h3>
+
+<p> Our first course will be focusing on {{ page.title }}. This course is starting on {{ page.start_date | date: "%A, %B %e" }}
+and last for {{ page.weeks_length }} weeks. </p>
+
+<h3> Pricing </h3>
+
+<p> The price up-front is {{ page.price }}. </p>
+{% if page.has_scholarship %}
+<p> Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship. </p>
+{% endif %}

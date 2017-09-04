@@ -55,12 +55,19 @@ defaults:
     path: ''
     type: courses
   values:
-    layout: plain-page
+    layout: course
+    hero_color: "#4b4948"
+    hero_image: 
+    display_title: 
+    subtitle: 
     image: 
     start_date: 
-    end_date: 
+    weeks_length: 0
     has_scholarship: true
-    price: 
+    price: $10,000
+    call_to_action:
+      title: 
+      url: 
 - scope:
     path: ''
     type: posts
