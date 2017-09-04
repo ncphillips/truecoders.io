@@ -1,12 +1,8 @@
 ---
 title: Home
+date: 2017-09-01 00:00:00 -05:00
 position: 0
 display_title: Be Mentored. Be Connected.
-redirect_from:
-- "/about/"
-- "/home/"
-background:
-  video_file: "/uploads/hero-video-1.mp4"
 hero:
   button:
     title: Apply Now
@@ -14,6 +10,11 @@ hero:
   video:
     title: Watch Intro
     link: https://player.vimeo.com/video/229711320
+redirect_from:
+- "/about/"
+- "/home/"
+background:
+  video_file: "/uploads/hero-video-1.mp4"
 sections:
 - title: We Are TrueCoders
   button:
