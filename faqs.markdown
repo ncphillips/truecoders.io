@@ -21,3 +21,4 @@ qa_items:
 - question: That's interesting. How much does it cost?
   answer: It costs $10,000, but you can apply for a scholarship.
 ---
+
