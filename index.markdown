@@ -15,32 +15,21 @@ call_to_action:
 background_video_file: "/uploads/hero-video-1.mp4"
 sections:
 - title: We Are TrueCoders
-  button:
+  body: 
+  collection: team_members
+  limit: 3
+  call_to_action:
     title: Find Out More
     url: mailto:contact@truecoders.io
-  subsections:
-  - title: Martin Murphy
-    body: Martin is a senior developer with decades of experience in C#, PHP, .NET,
-      and many other dev stacks
-    image: "/uploads/martin-murphy.jpg"
-  - title: Cody Winton
-    body: Cody is a senior developer with years of experience in Swift, JavaScript,
-      Node.js, and many other dev stacks
-    image: "/uploads/cody-winton.jpg"
-  - title: Daniel Walsh
-    body: Daniel is an excellent communicator with years of experience in sales, marketing,
-      and management
-    image: "/uploads/daniel-walsh.jpg"
-  body: 
 - title: Our First Course
-  button:
+  body: "Our first class is starting on October 2nd! The cost is $10,000 up front.\n\n
+    Think you've got what it takes to go through this course with flying colors?
+    You might qualify for a scholarship."
+  collection: courses
+  limit: 3
+  call_to_action:
     title: Apply for Scholarship
     url: mailto:contact@truecoders.io
-  subsections: 
-  body: |-
-    Our first class is starting on October 2nd! The cost is $10,000 up front.
-
-    Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship.
 - title: Keep Updated on TrueCoders
   body: |-
     Want to stay updated on what's happening with TrueCoders?
@@ -62,10 +51,5 @@ sections:
     </form>
 redirect_from:
 - "/home/"
-new_sections:
-- collection: team_members
-  limit: 3
-- collection: courses
-  limit: 3
 ---
 
