@@ -2,8 +2,10 @@
 title: Home
 date: 2017-09-01 00:00:00 -05:00
 position: 0
-display_title: Be Mentored. Be Connected.
+display_title: We Are TrueCoders
+subtitle: Be Mentored. Be Connected.
 hero:
+  image: "/uploads/hero-image-3.jpg"
   video_file: "/uploads/hero-video-1.mp4"
   button:
     title: Apply Now
