@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-09-04 10:00:00 -05:00
+position: 1
 is_nav_page: true
 display_title: Who We Are
 call_to_action:
