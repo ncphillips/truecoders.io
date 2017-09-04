@@ -7,8 +7,9 @@ tags:
 - swift
 position: 0
 company_title: President & Technology Officer
-profile_image: "/uploads/cody-winton.jpg"
-is_teacher: true
 is_board_member: true
+is_teacher: true
+profile_image: "/uploads/cody-winton.jpg"
 ---
 
+Cody is a senior developer with years of experience in Swift, JavaScript, Node.js, and many other dev stacks
