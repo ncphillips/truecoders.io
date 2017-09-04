@@ -8,5 +8,13 @@
         .row {
             margin: 0;
         }
+
+        .call-to-action-col {
+            text-align: center;
+
+            .call-to-action-button {
+                margin-top: 80px;
+            }
+        }
     }
 }
