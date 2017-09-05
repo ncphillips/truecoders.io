@@ -16,7 +16,10 @@ call_to_action:
   url: mailto:contact@truecoders.io
 course_schedule:
 - title: Testing
-  body: "How do you know your right until you test?  The reality is that if you haven't tested then you've got something wrong. Knowing how to property test your code for accuracy and security is one of the very first steps in becoming a coder and is critical becoming someone who delivers things that just work."
+  body: How do you know your right until you test?  The reality is that if you haven't
+    tested then you've got something wrong. Knowing how to property test your code
+    for accuracy and security is one of the very first steps in becoming a coder and
+    is critical becoming someone who delivers things that just work.
 ---
 
 Our first course will be focusing on {{ page.title }}, starting on {{ page.start_date | date: "%A, %B %e" }}
