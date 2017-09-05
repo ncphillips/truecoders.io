@@ -8,9 +8,9 @@ subtitle: Be Mentored. Be Connected.
 call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/229711320
-background_video_file: "/uploads/hero-video-1.mp4"
 sections:
 - title: We Are TrueCoders
+  body: 
   collection: team_members
   limit: 3
 - title: Our Courses
@@ -35,11 +35,9 @@ sections:
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_97f1bc02efa56031b67a2b00f_fc7b4ce646" tabindex="-1" value=""></div>
       </div>
     </form>
+background_video_file: "/uploads/hero-video-1.mp4"
 redirect_from:
 - "/home/"
 ---
 
 We believe that smart, passionate people should always be engaged, doing what they love to do.
-
-Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged  
-working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
