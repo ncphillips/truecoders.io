@@ -4,12 +4,16 @@ layout: page
 
 {{ content }}
 
-<h3> Details </h3>
+<h2> Course Schedule </h2>
 
-<p> Our first course will be focusing on {{ page.title }}. This course is starting on {{ page.start_date | date: "%A, %B %e" }}
-and last for {{ page.weeks_length }} weeks. </p>
+{% for item in page.course_schedule %}
 
-<h3> Pricing </h3>
+<h4> {{ item.title }} </h4>
+{{ item.body | markdownify }}
+
+{% endfor %}
+
+<h2> Pricing </h2>
 
 <p> The price up-front is {{ page.price }}. </p>
 {% if page.has_scholarship %}

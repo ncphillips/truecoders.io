@@ -66,6 +66,9 @@ defaults:
     weeks_length: 0
     has_scholarship: true
     price: "$10,000"
+    course_schedule:
+    - title: 
+      body:
     call_to_action:
       title: 
       url: 
