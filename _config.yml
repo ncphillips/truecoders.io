@@ -19,7 +19,7 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: plain-page
+    layout: page
     is_nav_page: false
     hero_color: "#4b4948"
     hero_image: 
@@ -73,13 +73,13 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: plain-page
+    layout: page
     permalink: "/blog/:title/"
 - scope:
     path: ''
     type: team_members
   values:
-    layout: plain-page
+    layout: page
     company_title: 
     is_board_member: false
     is_teacher: false

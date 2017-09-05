@@ -4,6 +4,28 @@ layout: default
 
 <div class="container-fluid page-container">
   {% include header.html %}
-  {{ content }}
+  
+  <div class="page-content">
+    
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        {{ content }}
+      </div>
+    </div>
+  
+    {% if page.call_to_action.url %}
+  
+    <div class="row justify-content-center">
+      <div class="col call-to-action-col">
+        <a href={{ page.call_to_action.url }} class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
+          {{ page.call_to_action.title }}
+        </a>
+      </div>
+    </div>
+  
+    {% endif %}
+  
+  </div>
+  
   {% include footer.html %}
 </div>
