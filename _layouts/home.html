@@ -13,7 +13,7 @@ layout: default
     <div class="col-10">
       
       {% if section.title %}
-      <h1 class="display-2"> {{ section.title }} </h1>
+      <h2 class="display-2"> {{ section.title }} </h2>
       {% endif %}
 
       {% if section.body %}
@@ -43,18 +43,12 @@ layout: default
 
           {% if collection.output %}
             <a href={{ item.url }} class="btn btn-primary section-button" role="button" aria-pressed="true">
-              View More
+              Find Out More
             </a>
           {% endif %}
         </div>
         {% endfor %}
       </div>
-      
-      {% if section.call_to_action %}
-      <a href={{ section.call_to_action.url }} class="btn btn-primary btn-lg section-button call-to-action-button" role="button" aria-pressed="true">
-        {{ section.call_to_action.title }}
-      </a>
-      {% endif %}
 
     </div>
   </div>

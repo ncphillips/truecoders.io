@@ -16,7 +16,7 @@ sections:
 - title: Our Courses
   collection: courses
   limit: 3
-- title: Keep Updated on TrueCoders
+- title: Keep Me Updated
   body: |-
     Want to stay updated on what's happening with TrueCoders?
 
