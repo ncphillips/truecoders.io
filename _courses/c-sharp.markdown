@@ -1,11 +1,11 @@
 ---
-title: "C#"
+title: C#
 date: 2017-08-23 15:04:00 -05:00
 tags:
 - c#
 - ".net"
-display_title: "C# & .NET"
-subtitle: 'Thorough training in all things C# & .NET'
+display_title: C# & .NET
+subtitle: Thorough training in all things C# & .NET
 image: "/uploads/csharp-logo.jpg"
 start_date: 2017-10-02 08:00:00 -05:00
 weeks_length: 8
