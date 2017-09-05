@@ -1,0 +1,25 @@
+items:
+- title: Contact
+  url: mailto:contact@truecoders.io
+  target: "_blank"
+- title: Blog
+  url: https://medium.com/@truecodersio
+  target: "_blank"
+- title: Facebook
+  url: http://facebook.com/truecodersio
+  target: "_blank"
+- title: Twitter
+  url: http://twitter.com/truecodersio
+  target: "_blank"
+- title: Instagram
+  url: http://instagram.com/truecodersio
+  target: "_blank"
+- title: GitHub
+  url: https://github.com/truecodersio
+  target: "_blank"
+- title: LinkedIn
+  url: https://www.linkedin.com/company/truecodersio
+  target: "_blank"
+- title: Angel List
+  url: https://angel.co/truecodersio
+  target: "_blank"

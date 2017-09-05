@@ -25,7 +25,7 @@ sections:
     <br>
 
     <form action="//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
-      <div class="form-group row justify-content-center text-align-center">
+      <div class="form-group row justify-content-center">
         <div class="col-auto">
           <input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control" placeholder="Email Address">
         </div>
