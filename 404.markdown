@@ -3,8 +3,8 @@ title: '404'
 date: 2017-08-23 22:00:00 -05:00
 permalink: 404.html
 position: 4
+display_title: Whoops
+subtitle: Looks like we got a 404
 ---
-
-# Looks Like We Got a 404
 
 The requested page could not be found. :(
