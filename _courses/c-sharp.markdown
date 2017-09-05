@@ -70,5 +70,6 @@ call_to_action:
   url: mailto:contact@truecoders.io
 ---
 
-Our first course will be focusing on {{ page.title }}, starting on {{ page.start_date | date: "%A, %B %e" }}
+Our first course will be focusing on {{ page.title }},
+starting on {{ page.start_date | date: "%A, %B %e" }}
 and lasting for {{ page.weeks_length }} weeks.
