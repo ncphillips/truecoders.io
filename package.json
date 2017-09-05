@@ -21,8 +21,8 @@
     "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/popper",
     "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/tether",
     "copy": "npm run copyBootstrapSASS && npm run copyBootstrapJS && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS",
-    "build": "npm run-script copy && jekyll build",
-    "serve": "npm run-script copy && jekyll serve"
+    "build": "npm run copy && bundle exec jekyll build",
+    "serve": "npm run copy && bundle exec jekyll serve"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
