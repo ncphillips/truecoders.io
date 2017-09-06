@@ -15,12 +15,11 @@
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
   "scripts": {
-    "copyBootstrapSASS": "cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
-    "copyBootstrapJS": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/bootstrap",
+    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
     "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/jquery",
     "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/popper",
     "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/tether",
-    "copy": "npm run copyBootstrapSASS && npm run copyBootstrapJS && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS",
+    "copy": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS",
     "build": "npm run copy && bundle exec jekyll build",
     "serve": "npm run copy && bundle exec jekyll serve"
   },
