@@ -1,7 +1,3 @@
-/*
-* Zoom Images, Get Date and Shadow
-* ========================================================================== */
-
 $(document).ready(function() {
   //$('.subsection-image').magnificPopup({type:'image'});
   //$('.display-2').css("color", "red");
