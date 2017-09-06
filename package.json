@@ -15,11 +15,12 @@
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
   "scripts": {
-    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
-    "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/jquery",
-    "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/popper",
-    "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/tether",
-    "copy": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS",
+    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
+    "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
+    "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/js/popper",
+    "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/js/tether",
+    "copyMagnificPopup": "cpx \"node_modules/magnific-popup/dist/jquery.magnific-popup.min.js\" assets/js/magnific-popup && cpx \"node_modules/magnific-popup/dist/magnific-popup.css\" assets/css",
+    "copy": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS && npm run copyMagnificPopup",
     "build": "npm run copy && bundle exec jekyll build",
     "serve": "npm run copy && bundle exec jekyll serve"
   },
@@ -27,6 +28,7 @@
     "bootstrap": "^4.0.0-beta",
     "fontawesome": "^4.7.2",
     "jquery": "^3.2.1",
+    "magnific-popup": "^1.1.0",
     "popper.js": "^1.12.5",
     "tether": "^1.4.0"
   },
