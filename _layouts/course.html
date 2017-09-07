@@ -4,7 +4,15 @@ layout: page
 
 {{ content }}
 
-<h2> Course Schedule </h2>
+<h1> Pricing </h1>
+
+<p> The price up-front is {{ page.price }}.
+{% if page.has_scholarship %}
+Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship. </p>
+{% endif %}
+</p>
+
+<h1> Course Schedule </h1>
 
 {% for item in page.course_schedule %}
 
@@ -13,9 +21,6 @@ layout: page
 
 {% endfor %}
 
-<h2> Pricing </h2>
+<h1> Aptitude Test </h1>
 
-<p> The price up-front is {{ page.price }}. </p>
-{% if page.has_scholarship %}
-<p> Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship. </p>
-{% endif %}
+<p> If you're interested in this course, please take the our aptitude test. </p>
