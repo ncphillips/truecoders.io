@@ -11,6 +11,9 @@ image: "/uploads/c-sharp-logo.jpg"
 start_date: 2017-10-02 08:00:00 -05:00
 weeks_length: 8
 price: "$10,000"
+call_to_action:
+  title: Take the Aptitude Test
+  url: https://goo.gl/forms/p8SCTBWDUTKCPEF32
 course_schedule:
 - title: Testing
   body: How do you know your right until you test?  The reality is that if you haven't
@@ -65,9 +68,6 @@ course_schedule:
     up against an army, I'm betting on the army every time. Learn how to expand your
     network and fully leverage the coders you know by being connected and being engaged.
     We'll help you get started!
-call_to_action:
-  title: Apply for a Scholarship
-  url: mailto:contact@truecoders.io
 ---
 
 Our first course will be focusing on {{ page.title }},
