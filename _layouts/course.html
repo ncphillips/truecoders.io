@@ -27,7 +27,8 @@ Think you've got what it takes to go through this course with flying colors? You
 
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Oct 2, 2017 8:00:00").getTime();
+  var dateString = "{{ page.start_date | date: "%b %e, %Y %k:%M:%S" }}";
+  var countDownDate = new Date(dateString).getTime();
   
   // Update the count down every 1 second
   var x = setInterval(function() {
