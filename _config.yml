@@ -49,9 +49,9 @@ defaults:
     layout: home
     sections:
     - title: 
-      body: 
       collection: 
       limit: 3
+      body: 
 - scope:
     path: ''
     type: courses

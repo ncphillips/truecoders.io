@@ -10,13 +10,16 @@ call_to_action:
   url: https://player.vimeo.com/video/229711320
 sections:
 - title: We Are TrueCoders
-  body: 
   collection: team_members
   limit: 3
+  body: We believe that smart, passionate people should always be engaged, doing what they love to do.
 - title: Our Courses
   collection: courses
   limit: 3
+  body: 
 - title: Keep Me Updated
+  collection: 
+  limit: 
   body: |-
     Want to stay updated on what's happening with TrueCoders?
 
@@ -39,5 +42,3 @@ background_video_file: "/uploads/hero-video-1.mp4"
 redirect_from:
 - "/home/"
 ---
-
-We believe that smart, passionate people should always be engaged, doing what they love to do.

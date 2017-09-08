@@ -20,7 +20,7 @@ layout: default
       {{ section.body | markdownify }}
       {% endif %}
 
-      <div class="row justify-content-center">
+      <div class="row justify-content-center sub-section-row">
         
         {% for item in site[section.collection] limit:section.limit %}
         <div class="col-lg-4 sub-section">
