@@ -12,7 +12,8 @@ sections:
 - title: We Are TrueCoders
   collection: team_members
   limit: 3
-  body: We believe that smart, passionate people should always be engaged, doing what they love to do.
+  body: We believe that smart, passionate people should always be engaged, doing what
+    they love to do.
 - title: Our Courses
   collection: courses
   limit: 3
@@ -42,3 +43,4 @@ background_video_file: "/uploads/hero-video-1.mp4"
 redirect_from:
 - "/home/"
 ---
+
