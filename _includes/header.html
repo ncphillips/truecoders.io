@@ -6,27 +6,29 @@
 
 <header style="{{ header_style }}">
   <div class="page-hero">
-
-    <nav class="navbar navbar-expand navbar-dark justify-content-between">
+    <nav class="navbar navbar-expand-sm navbar-dark">
       <a class="navbar-brand" href="/">
         <img src={{ "uploads/logo-only.svg" | relative_url }} height="120" alt="Logo">
       </a>
-      
-      <ul class="nav nav-pills">
-        
-        {% assign pages = site.pages | where:"is_nav_page",true | sort: 'position' %}
-        {% for page in pages %}
-        <li class="nav-item">
-          <a href={{ page.url | escape }} class="nav-link" style="color:white">{{ page.title }}</a>
-        </li>
-        {% endfor %}
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          {% assign pages = site.pages | where:"is_nav_page",true | sort: 'position' %}
+          {% for page in pages %}
+          <li class="nav-item">
+            <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
+          </li>
+          {% endfor %}
 
-        {% assign call_to_action = site.data.nav.call_to_action %}
-        <li class="nav-item">
-          <a href={{ call_to_action.url | escape }} class="nav-link active">{{ call_to_action.title }}</a>
-        </li>
-      
-      </ul>
+          {% assign call_to_action = site.data.nav.call_to_action %}
+          <li class="nav-item nav-call-to-action">
+            <a class="nav-link active" href={{ call_to_action.url | escape }}>{{ call_to_action.title }}</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
     <div class="row page-hero-copy">
