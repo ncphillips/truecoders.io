@@ -94,7 +94,8 @@ contact:
   full_name: TrueCoders LLC
   phone: 12055308496
   address:
-    street: '205 20th Street N #1015'
+    street: 205 20th Street N
+    unit: '#1015'
     city: Birmingham
     state: AL
     zip: '35203'
