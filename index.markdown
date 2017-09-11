@@ -14,26 +14,31 @@ sections:
   collection: team_members
   limit: 3
   subsections: 
-  body: We are TrueCoders. We believe that smart, passionate people should always be engaged, doing what they love to do.
+  body: We are TrueCoders. We believe that smart, passionate people should always
+    be engaged, doing what they love to do.
 - title: Our Process
   collection: 
   limit: 3
-  subsections: 
+  subsections:
   - title: Training
-    body: We mentor coders as they pursue their passion, helping them achive success along every step of the way
+    body: We mentor coders as they pursue their passion, helping them achive success
+      along every step of the way
     icon: fa-code
   - title: Connection
-    body: We enable developers to connect with their mentor and with each other to hone their skills
+    body: We enable developers to connect with their mentor and with each other to
+      hone their skills
     icon: fa-plug
   - title: Scholarships
     body: We offer full-ride course scholarships for individuals who qualify
     icon: fa-graduation-cap
-  body: We have decades of experience to lean on as we train and mentor the next generation of amazing coders.
+  body: We have decades of experience to lean on as we train and mentor the next generation
+    of amazing coders.
 - title: Our Courses
   collection: courses
   limit: 3
   subsections: 
-  body: We have experience in many different technology stacks. Here's some of the courses we currently offer.
+  body: We have experience in many different technology stacks. Here's some of the
+    courses we currently offer.
 redirect_from:
 - "/home/"
 ---
