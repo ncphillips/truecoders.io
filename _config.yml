@@ -88,23 +88,18 @@ defaults:
     is_teacher: false
     image: 
 url: http://truecoders.io
-email: contact@truecoders.io
 description: |-
   Be Mentored. Be Connected.
 
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
+logo: "/uploads/logo.png"
 company:
-  name: TrueCoders
+  email: contact@truecoders.io
   full_name: TrueCoders LLC
+  name: TrueCoders
   primary_color: "#0093C9"
-author:
-  picture: "/uploads/cody-winton.jpg"
-  twitter: codytwinton
 google_analytics:
   tracking_id: UA-104643272-1
-logo: "/uploads/logo.png"
-sass:
-  style: compressed
 social:
   name: TrueCoders
   links:
@@ -114,6 +109,8 @@ social:
   - https://github.com/truecodersio
 twitter:
   username: truecodersio
+sass:
+  style: compressed
 baseurl: 
 exclude:
 - Gemfile
