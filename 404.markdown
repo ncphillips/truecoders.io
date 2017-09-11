@@ -3,8 +3,12 @@ title: '404'
 date: 2017-08-23 22:00:00 -05:00
 permalink: 404.html
 position: 5
+hero_image: "/uploads/hero-image-6.jpg"
 display_title: Whoops
 subtitle: Looks like we got a 404
+call_to_action:
+  title: Contact Us
+  url: mailto:contact@truecoders.io
 ---
 
-The requested page could not be found. :(
+We couldn't find that page. Sorry about that!
