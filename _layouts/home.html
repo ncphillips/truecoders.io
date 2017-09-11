@@ -22,7 +22,11 @@ layout: default
 
       <div class="row justify-content-center sub-section-row">
         
-        {% for item in site[section.collection] limit:section.limit %}
+        {% if section.collection %}
+
+        {% assign items = site[section.collection] | sort: 'position' %}
+        
+        {% for item in items limit:section.limit %}
         <div class="col-lg-4 sub-section">
 
           {% assign collection = site.collections | where: "label", section.collection | first %}
@@ -48,6 +52,8 @@ layout: default
           {% endif %}
         </div>
         {% endfor %}
+        
+        {% endif %}
       </div>
 
     </div>
