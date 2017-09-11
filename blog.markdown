@@ -2,8 +2,8 @@
 title: Blog
 date: 2017-08-23 22:00:00 -05:00
 position: 3
-is_nav_page: false
 is_footer_page: true
+hero_image: "/uploads/hero-image-5.jpg"
 display_title: Our Blog
 subtitle: Find out what we think about stuff
 call_to_action:
@@ -11,4 +11,6 @@ call_to_action:
   url: https://medium.com/@truecodersio
 ---
 
-We're currently blogging on Medium.
+# Our Blog is on Medium
+
+We've got some thoughts to share, but we're currently blogging on Medium. Medium is a fantastic... well, medium for expressing creative thoughts. That's why you'll find us on Medium. Check it out below!
