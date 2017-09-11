@@ -18,15 +18,19 @@
         <ul class="navbar-nav ml-auto">
           {% assign pages = site.pages | where:"is_nav_page",true | sort: 'position' %}
           {% for page in pages %}
+
+          {% if forloop.last == true %}
+          <li class="nav-item nav-call-to-action">
+            <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
+          </li>
+          {% else %}
           <li class="nav-item">
             <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
           </li>
-          {% endfor %}
+          {% endif %}
 
-          {% assign call_to_action = site.data.nav.call_to_action %}
-          <li class="nav-item nav-call-to-action">
-            <a class="nav-link active" href={{ call_to_action.url | escape }}>{{ call_to_action.title }}</a>
-          </li>
+          {% endfor %}
+          
         </ul>
       </div>
     </nav>
