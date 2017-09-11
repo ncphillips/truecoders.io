@@ -1,9 +1,21 @@
 <footer class="footer sticky-bottom">
 
   <ul class="list-inline">
-    {% for item in site.data.footer.items %}
+    {% assign pages = site.pages | where:"is_footer_page", true | sort: 'position' %}
+    {% for page in pages %}
     <li class="list-inline-item">
-      <a href={{ item.url | escape }} target={{ item.target }}>{{ item.title }}</a>
+      <a href={{ page.url | escape }}>{{ page.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <ul class="list-inline">
+    {% assign pages = site.pages | where:"is_footer_page", true | sort: 'position' %}
+    {% for social in site.data.socials %}
+    <li class="list-inline-item">
+      <a href={{ social.url | escape }} target="_blank">
+        <i class="fa {{ social.icon }} fa-lg"></i>
+      </a>
     </li>
     {% endfor %}
   </ul>
