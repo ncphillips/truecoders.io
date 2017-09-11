@@ -1,11 +1,10 @@
 ---
-title: C#
+title: C# and .NET
 date: 2017-08-23 15:04:00 -05:00
 tags:
 - c#
 - ".net"
 hero_color: "#690081"
-display_title: C# and .NET
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
 start_date: 2017-10-02 08:00:00 -05:00
@@ -70,6 +69,6 @@ call_to_action:
   url: https://goo.gl/forms/p8SCTBWDUTKCPEF32
 ---
 
-Our first course will be focusing on {{ page.title }},
-starting on {{ page.start_date | date: "%A, %B %e" }}
-and lasting for {{ page.weeks_length }} weeks.
+This course covers all things {{ page.title }}.
+The next {{ page.weeks_length }} week course starts on
+{{ page.start_date | date: "%A, %B %e" }}.
