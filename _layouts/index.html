@@ -13,7 +13,7 @@ layout: default
     <div class="col-10">
       
       {% if section.title %}
-      <h2 class="display-2"> {{ section.title }} </h2>
+      <h1> {{ section.title }} </h1>
       {% endif %}
 
       {% if section.body %}
@@ -42,7 +42,7 @@ layout: default
           <h4>{{ item.title }}</h4>
 
           {% if item.content %}
-          {{ item.content | markdownify }}
+          {{ item.excerpt | markdownify }}
           {% endif %}
 
           {% if collection.output %}
@@ -62,11 +62,11 @@ layout: default
   {% if forloop.last == true %}
   {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
   {% endif %}
+
   {% endfor %}
 
   <div class="row justify-content-center page-section" style="background-color:{{ mail_bg }}">
     <div class="col-10">
-      <h2 class="display-2">Keep Me Updated</h2>
       {% include email-signup.html %}
     </div>
   </div>
