@@ -8,7 +8,7 @@ display_title: Whoops
 subtitle: Looks like we got a 404
 call_to_action:
   title: Contact Us
-  url: mailto:contact@truecoders.io
+  url: /contact
 ---
 
 We couldn't find that page. Sorry about that!

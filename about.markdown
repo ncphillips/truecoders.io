@@ -8,8 +8,8 @@ hero_image: "/uploads/hero-image-2.jpg"
 display_title: Who We Are
 subtitle: Here's some info about our company
 call_to_action:
-  title: Find Out More
-  url: mailto:contact@truecoders.io
+  title: Contact Us
+  url: /contact
 ---
 
 # We're TrueCoders
