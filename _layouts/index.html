@@ -7,9 +7,9 @@ layout: default
 
   {% for section in page.sections %}
   
-  {% capture style %} {% cycle 'background-color:#fff', 'background-color:#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
-  <div class="row justify-content-center page-section" style="{{ style }}">
+  <div class="row justify-content-center page-section" style="background-color:{{ background_color }}">
     <div class="col-10">
       
       {% if section.title %}
@@ -59,7 +59,17 @@ layout: default
     </div>
   </div>
 
+  {% if forloop.last == true %}
+  {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% endif %}
   {% endfor %}
+
+  <div class="row justify-content-center page-section" style="background-color:{{ mail_bg }}">
+    <div class="col-10">
+      <h2 class="display-2">Keep Me Updated</h2>
+      {% include email-signup.html %}
+    </div>
+  </div>
 
   {% include footer.html %}
 </div>

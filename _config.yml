@@ -46,7 +46,7 @@ defaults:
     path: index.markdown
     type: pages
   values:
-    layout: home
+    layout: index
     sections:
     - title: 
       collection: 
