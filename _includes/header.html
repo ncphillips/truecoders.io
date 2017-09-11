@@ -6,9 +6,9 @@
 
 <header style="{{ header_style }}">
   <div class="page-hero">
-    <nav class="navbar navbar-expand-sm navbar-dark">
+    <nav class="navbar navbar-expand-sm navbar-light">
       <a class="navbar-brand" href="/">
-        <img src={{ "uploads/logo-only.svg" | relative_url }} height="120" alt="Logo">
+        <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo">
       </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -21,7 +21,7 @@
 
           {% if forloop.last == true %}
           <li class="nav-item nav-call-to-action">
-            <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
+            <a class="nav-link active" style="color:white" href={{ page.url | escape }}>{{ page.title }}</a>
           </li>
           {% else %}
           <li class="nav-item">
@@ -48,9 +48,11 @@
         {% endif %}
 
         {% if page.url == "/" %}
-        <a href={{ page.call_to_action.url }} class="btn btn-primary btn-lg call-to-action-button video-player" role="button" aria-pressed="true">
-          {{ page.call_to_action.title }}
-        </a>
+        <div class="play-icon">
+          <a href={{ page.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
+            <i class="fa fa-play-circle fa-lg"></i> Watch the Intro
+          </a>
+        </div>
         {% endif %}
 
       </div>
