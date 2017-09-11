@@ -13,48 +13,58 @@ layout: default
     <div class="col-10">
       
       {% if section.title %}
-      <h1> {{ section.title }} </h1>
+      <h1>{{ section.title }}</h1>
       {% endif %}
 
-      {% if section.body %}
-      {{ section.body | markdownify }}
+      <div class="row justify-content-center">
+        <div class="col-xl-6">
+          {% if section.body %}
+          {{ section.body | markdownify }}
+          {% endif %}
+        </div>
+      </div>
+
+      {% if section.collection %}
+        {% assign subsections = site[section.collection] | sort: 'position' %}
+        {% assign collection = site.collections | where: "label", section.collection | first %}
+      {% elsif section.subsections %}
+        {% assign subsections = section.subsections %}
       {% endif %}
+
+      {% if subsections %}
 
       <div class="row justify-content-center sub-section-row">
         
-        {% if section.collection %}
-
-        {% assign items = site[section.collection] | sort: 'position' %}
-        
-        {% for item in items limit:section.limit %}
+        {% for subsection in subsections limit:section.limit %}
         <div class="col-lg-4 sub-section">
 
-          {% assign collection = site.collections | where: "label", section.collection | first %}
-
-          {% if collection.output and item.image %}
-          <a href={{ item.url }}>
-            <img src={{ item.image }} alt={{ item.title }} class="subsection-image">
+          {% if collection.output and subsection.image %}
+          <a href={{ subsection.url }}>
+            <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
           </a>
-          {% elsif item.image %}
-          <img src={{ item.image }} alt={{ item.title }} class="subsection-image">
+          {% elsif subsection.image %}
+          <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+          {% elsif subsection.icon %}
+          <i class="fa {{ subsection.icon }} fa-5x subsection-icon"></i>
           {% endif %}
 
-          <h4>{{ item.title }}</h4>
-
-          {% if item.content %}
-          {{ item.excerpt | markdownify }}
+          {% if subsection.display_title %}
+          <h4>{{ subsection.display_title }}</h4>
+          {% else %}
+          <h4>{{ subsection.title }}</h4>
           {% endif %}
 
-          {% if collection.output %}
-            <a href={{ item.url }} class="btn btn-primary section-button" role="button" aria-pressed="true">
-              Find Out More
-            </a>
+          {% if subsection.content %}
+          {{ subsection.excerpt | markdownify }}
+          {% elsif subsection.body %}
+          {{ subsection.body | markdownify }}
           {% endif %}
         </div>
         {% endfor %}
         
-        {% endif %}
       </div>
+      
+      {% endif %}
 
     </div>
   </div>

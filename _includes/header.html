@@ -1,11 +1,13 @@
 {% if page.hero_image %}
   {% assign header_style = "background:url(" | append: page.hero_image | append: ");" %}
+  {% assign hero_style = "background-color: rgba(0, 0, 0, 0.5);" %}
 {% else %}
   {% assign header_style = "background-color:" | append: page.hero_color %}
+  {% assign hero_style = "" %}
 {% endif %}
 
 <header style="{{ header_style }}">
-  <div class="page-hero">
+  <div class="page-hero" style="{{ hero_style }}">
     <nav class="navbar navbar-expand-sm navbar-light">
       <a class="navbar-brand" href="/">
         <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo">
