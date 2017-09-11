@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     is_nav_page: false
-    hero_color: "#4b4948"
+    hero_color: '#4b4948'
     hero_image: 
     display_title: 
     subtitle: 
@@ -57,7 +57,7 @@ defaults:
     type: courses
   values:
     layout: course
-    hero_color: "#4b4948"
+    hero_color: '#4b4948'
     hero_image: 
     display_title: 
     subtitle: 
@@ -65,7 +65,7 @@ defaults:
     start_date: 
     weeks_length: 0
     has_scholarship: true
-    price: "$10,000"
+    price: '$10,000'
     course_schedule:
     - title: 
       body: 
@@ -77,7 +77,7 @@ defaults:
     type: posts
   values:
     layout: page
-    permalink: "/blog/:title/"
+    permalink: '/blog/:title/'
 - scope:
     path: ''
     type: team_members
@@ -88,7 +88,7 @@ defaults:
     is_teacher: false
     image: 
 url: http://truecoders.io
-logo: "/uploads/logo.png"
+logo: '/uploads/logo.png'
 contact:
   email: contact@truecoders.io
   full_name: TrueCoders LLC
