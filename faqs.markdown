@@ -8,7 +8,7 @@ hero_image: "/uploads/hero-image-1.jpg"
 subtitle: All of your questions answered in one place
 call_to_action:
   title: Ask a Question
-  url: /contact
+  url: "/contact"
 qa_items:
 - question: Who is TrueCoders?
   answer: We're kind of a different animal. We're trying to bridge the gap between

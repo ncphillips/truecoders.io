@@ -9,7 +9,7 @@ display_title: Who We Are
 subtitle: Here's some info about our company
 call_to_action:
   title: Contact Us
-  url: /contact
+  url: "/contact"
 ---
 
 # We're TrueCoders
