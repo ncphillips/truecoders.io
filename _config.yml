@@ -30,12 +30,6 @@ defaults:
       title: 
       url: 
 - scope:
-    path: admin.markdown
-    type: pages
-  values:
-    display_title: TrueCoders CMS
-    redirect_to: https://manage.siteleaf.com/sites/59928993035d0c67cfb24827
-- scope:
     path: faqs.markdown
     type: pages
   values:
