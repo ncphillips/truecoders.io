@@ -30,6 +30,11 @@ defaults:
       title: 
       url: 
 - scope:
+    path: contact.markdown
+    type: pages
+  values:
+    layout: contact
+- scope:
     path: faqs.markdown
     type: pages
   values:

@@ -1,0 +1,28 @@
+---
+layout: page
+contact:
+  email: contact@truecoders.io
+  full_name: TrueCoders LLC
+  phone: 12055308496
+  address:
+    street: 205 20th Street N
+    unit: "#1015"
+    city: Birmingham
+    state: AL
+    zip: '35203'
+---
+
+{{ content }}
+<br>
+
+<p>For general inquiries, email us:
+  <a href="mailto:{{ site.contact.email }}">
+    {{ site.contact.email }}
+  </a>
+</p>
+<p>Also, you can give us a call: 
+  <a href="tel:{{ site.contact.phone }}">
+    {% assign phone = site.contact.phone | split: '' %}
+    +{{ phone[0] }} ({{ phone[1] }}{{ phone[2] }}{{ phone[3] }}) {{ phone[4] }}{{ phone[5] }}{{ phone[6] }}-{{ phone[7] }}{{ phone[8] }}{{ phone[9] }}{{ phone[10] }}
+  </a>
+</p>
