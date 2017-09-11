@@ -10,4 +10,4 @@ subtitle: Here's how you get in touch with us
 
 # We Are TrueCoders
 
-Thanks for stopping by! Here's our contact info
+Thanks for stopping by! Here's our contact info:
