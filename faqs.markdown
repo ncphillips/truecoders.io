@@ -22,3 +22,8 @@ qa_items:
   answer: It costs $10,000, but you can apply for a scholarship.
 ---
 
+# Frequently Asked Questions
+
+We get a lot of questions about our company, so we wanted to create a single place to answer these questions once and for all.
+
+<hr>
