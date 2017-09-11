@@ -44,13 +44,13 @@
         {% endif %}
 
         {% if page.subtitle %}
-        <h2 id="hero-subtitle" class="page-hero-subtitle">{{ page.subtitle }}</h2>
+        <h2 class="page-hero-subtitle">{{ page.subtitle }}</h2>
         {% endif %}
 
         {% if page.url == "/" %}
         <div class="play-icon">
           <a href={{ page.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
-            <i class="fa fa-play-circle fa-lg"></i> Watch the Intro
+            <i class="fa fa-play-circle fa-lg"></i> {{ page.call_to_action.title }}
           </a>
         </div>
         {% endif %}
