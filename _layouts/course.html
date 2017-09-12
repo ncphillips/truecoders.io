@@ -16,9 +16,9 @@ Think you've got what it takes to go through this course with flying colors? You
 <h1> Course Subjects </h1>
 
 {% for subject_title in page.subjects %}
-{% assign subject = site.subjects | where: "title", subject_title %}
-<h4> {{ subject_title }} </h4>
-<p>{{ subject }}</p>
+{% assign subject = site.subjects | where: "title", subject_title | first %}
+<h4> {{ subject.title }} </h4>
+<p>{{ subject.content | markdownify }}</p>
 {% endfor %}
 
 {% if page.call_to_action.url %}
