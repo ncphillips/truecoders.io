@@ -67,6 +67,10 @@ defaults:
       collection: 
       limit: 3
       body: 
+      call_to_action:
+        title: 
+        url: 
+      subsections: 
 - scope:
     path: ''
     type: courses
