@@ -36,7 +36,14 @@ defaults:
     path: about.markdown
     type: pages
   values:
-    layout: about
+    layout: collection-page
+    collection: team_members
+- scope:
+    path: courses.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: courses
 - scope:
     path: contact.markdown
     type: pages
@@ -89,7 +96,7 @@ defaults:
     type: team_members
   values:
     layout: page
-    company_title: 
+    subtitle: 
     is_board_member: false
     is_teacher: false
     image: 

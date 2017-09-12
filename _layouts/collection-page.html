@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign items = site[page.collection] | sort: 'position' %}
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+<h2>Our {{ collection.title }}</h2>
+
+<div class="row item-row">
+  
+  
+  {% for item in items %}
+  <div class="col-md-4 item-col">
+
+    {% if collection.output and item.image %}
+    <a href={{ item.url }}>
+      <img src={{ item.image }} alt={{ item.title }} class="item-image">
+    </a>
+    {% elsif item.image %}
+    <img src={{ item.image }} alt={{ item.title }} class="item-image">
+    {% elsif item.icon %}
+    <i class="fa {{ item.icon }} fa-5x item-icon"></i>
+    {% endif %}
+
+    <h3 class="item-title">{{ item.title }}</h3>
+    <h5 class="item-subtitle">{{ item.subtitle }}</h5>
+
+    {% if item.content %}
+    {{ item.content | markdownify }}
+    {% endif %}
+  
+  </div>
+  {% endfor %}
+
+</div>

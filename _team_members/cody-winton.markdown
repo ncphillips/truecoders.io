@@ -7,7 +7,7 @@ tags:
 - swift
 position: 0
 image: "/uploads/cody-winton.jpg"
-company_title: President & Technology Officer
+subtitle: President & Technology Officer
 is_board_member: true
 is_teacher: true
 ---

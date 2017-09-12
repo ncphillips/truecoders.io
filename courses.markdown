@@ -14,6 +14,4 @@ call_to_action:
 
 # We're TrueCoders
 
-## Our Courses
-
 We have experience in many different technology stacks. Here’s some of the courses we currently offer.

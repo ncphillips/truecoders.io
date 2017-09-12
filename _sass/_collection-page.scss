@@ -1,10 +1,10 @@
-.team-row {
+.item-row {
     text-align: center;
 
-    .team-col {
+    .item-col {
         padding: 0 16px 40px;
 
-        .team-company-title {
+        .item-subtitle {
             line-height: 1em;
             padding-bottom: 16px;
         }
@@ -12,6 +12,7 @@
         img {
             border-radius: 50%;
             max-width: 40%;
+            margin-bottom: 30px;
         }
     }
 }
