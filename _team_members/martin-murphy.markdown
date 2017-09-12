@@ -5,7 +5,7 @@ tags:
 - c#
 - ".net"
 - sql
-position: 0
+position: 2
 image: "/uploads/martin-murphy.jpg"
 company_title: Manager
 is_board_member: true
