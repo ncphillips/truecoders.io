@@ -13,8 +13,18 @@ hero_color: "#7BC087"
 subtitle: Thorough training in all things Mobile Development
 image: "/uploads/mobile-logo.png"
 subjects:
-- Source Control
 - Testing
+- Utilities
+- Source Control
+- Logging
+- Browsers
+- Relational Databases
+- Diagnostics
+- Architecture
+- Communication
+call_to_action:
+  title: Find Out More
+  url: /contact
 ---
 
 This course will cover both iOS and Android {{ page.title }}. More details about this course coming soon...
