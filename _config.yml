@@ -23,8 +23,8 @@ defaults:
     type: pages
   values:
     layout: page
-    is_nav_page: false
-    is_footer_page: false
+    is_nav: false
+    is_footer: false
     hero_color: "#4b4948"
     hero_image: 
     display_title: 

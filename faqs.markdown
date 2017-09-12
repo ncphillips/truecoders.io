@@ -2,8 +2,8 @@
 title: FAQs
 date: 2017-09-03 15:00:00 -05:00
 position: 2
-is_nav_page: true
-is_footer_page: true
+is_nav: true
+is_footer: true
 hero_image: "/uploads/hero-image-1.jpg"
 subtitle: All of your questions answered in one place
 call_to_action:

@@ -20,19 +20,19 @@
     
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          {% assign pages = site.pages | where:"is_nav_page",true | sort: 'position' %}
+          {% assign pages = site.pages | where:"is_nav",true | sort: 'position' %}
           {% for page in pages %}
 
-          {% if forloop.last == true %}
-          <li class="nav-item nav-call-to-action">
-            <a class="nav-link active" style="color:white" href={{ page.url | escape }}>{{ page.title }}</a>
-          </li>
-          {% else %}
+          {% unless forloop.last == true %}
           <li class="nav-item">
             <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
           </li>
-          {% endif %}
-
+          {% else %}
+          <li class="nav-item nav-call-to-action">
+            <a class="nav-link active" style="color:white" href={{ page.url | escape }}>{{ page.title }}</a>
+          </li>
+          {% endunless %}
+          
           {% endfor %}
           
         </ul>
