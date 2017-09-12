@@ -4,26 +4,31 @@ layout: page
 
 {{ content }}
 
+{% if page.price %}
 <h1> Pricing </h1>
-
 <p> The price up-front is {{ page.price }}.
 {% if page.has_scholarship %}
 Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship. </p>
 {% endif %}
 </p>
+{% endif %}
 
+{% assign schedule = page.course_schedule | first %}
+{% if schedule.title %}
 <h1> Course Schedule </h1>
 
 {% for item in page.course_schedule %}
-
 <h4> {{ item.title }} </h4>
 {{ item.body | markdownify }}
-
 {% endfor %}
 
+{% endif %}
+
+{% if page.call_to_action.url %}
 <h1> Aptitude Test </h1>
 
 <p> If you're interested in this course, please take the our aptitude test. </p>
+{% endif %}
 
 {% if page.start_date %}
 <script>
