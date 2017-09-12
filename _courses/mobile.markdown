@@ -24,7 +24,7 @@ subjects:
 - Communication
 call_to_action:
   title: Find Out More
-  url: /contact
+  url: "/contact"
 ---
 
 This course will cover both iOS and Android {{ page.title }}. More details about this course coming soon...

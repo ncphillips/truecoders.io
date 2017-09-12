@@ -22,7 +22,7 @@ subjects:
 - Communication
 call_to_action:
   title: Find Out More
-  url: /contact
+  url: "/contact"
 ---
 
 This course will cover the {{ page.title }} stack. More details about this course coming soon...
