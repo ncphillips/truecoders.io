@@ -8,8 +8,9 @@ tags:
 - objective-c
 - java
 - kotlin
-hero_color: "#1997C7"
+hero_color: "#7BC087"
 subtitle: Thorough training in all things Mobile Development
+image: "/uploads/mobile-logo.png"
 ---
 
 Coming Soon...
