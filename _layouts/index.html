@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container-fluid page-container">
+<div class="page-container index-container">
   {% include header.html %}
 
   {% for section in page.sections %}
@@ -17,7 +17,7 @@ layout: default
       {% endif %}
 
       <div class="row justify-content-center">
-        <div class="col-xl-6">
+        <div class="col-lg-4">
           {% if section.body %}
           {{ section.body | markdownify }}
           {% endif %}

@@ -1,8 +1,12 @@
 .page-section {
-    margin: 0;
-    padding: 0;
     text-align: center;
     padding: 80px 16px 80px 16px;
+}
+
+.index-container {
+    .col-lg-4 {
+        padding: 0 16px;
+    }
 }
 
 .sub-section-row {
