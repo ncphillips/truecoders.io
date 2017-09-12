@@ -8,6 +8,9 @@ collections:
   posts:
     title: Posts
     output: true
+  subjects:
+    title: Subjects
+    output: true
   team_members:
     title: Team Members
     output: false
