@@ -13,16 +13,13 @@ Think you've got what it takes to go through this course with flying colors? You
 </p>
 {% endif %}
 
-{% assign subject = page.subjects | first %}
-{% if subject.title %}
 <h1> Course Subjects </h1>
 
-{% for subject in page.subjects %}
-<h4> {{ subject.title }} </h4>
-{{ subject.body | markdownify }}
+{% for subject_title in page.subjects %}
+{% assign subject = site.subjects | where: "title", subject_title %}
+<h4> {{ subject_title }} </h4>
+<p>{{ subject }}</p>
 {% endfor %}
-
-{% endif %}
 
 {% if page.call_to_action.url %}
 <h1> Aptitude Test </h1>

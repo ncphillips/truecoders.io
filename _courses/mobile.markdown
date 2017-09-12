@@ -17,5 +17,4 @@ subjects:
 - Testing
 ---
 
-This course will cover both iOS and Android {{ page.title }}.  
-More details about this course coming soon...
+This course will cover both iOS and Android {{ page.title }}. More details about this course coming soon...

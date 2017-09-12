@@ -12,5 +12,4 @@ subtitle: Thorough training in all things Javascript
 image: "/uploads/javascript-logo.jpg"
 ---
 
-This course will cover the {{ page.title }} stack.  
-More details about this course coming soon...
+This course will cover the {{ page.title }} stack. More details about this course coming soon...
