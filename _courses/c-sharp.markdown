@@ -70,6 +70,6 @@ call_to_action:
   url: https://goo.gl/forms/p8SCTBWDUTKCPEF32
 ---
 
-This course covers all things {{ page.title }}.
+This course covers the {{ page.title }} stack.  
 The next {{ page.weeks_length }} week course starts on
 {{ page.start_date | date: "%A, %B %e" }}.

@@ -59,7 +59,6 @@ defaults:
     layout: course
     hero_color: "#4b4948"
     hero_image: 
-    display_title: 
     subtitle: 
     image: 
     start_date: 
