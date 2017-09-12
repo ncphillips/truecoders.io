@@ -11,7 +11,7 @@ image: "/uploads/c-sharp-logo.jpg"
 start_date: 2017-10-02 08:00:00 -05:00
 weeks_length: 8
 price: "$10,000"
-course_schedule:
+subjects:
 - title: Testing
   body: How do you know your right until you test?  The reality is that if you haven't
     tested then you've got something wrong. Knowing how to property test your code

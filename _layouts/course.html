@@ -13,13 +13,13 @@ Think you've got what it takes to go through this course with flying colors? You
 </p>
 {% endif %}
 
-{% assign schedule = page.course_schedule | first %}
-{% if schedule.title %}
-<h1> Course Schedule </h1>
+{% assign subject = page.subjects | first %}
+{% if subject.title %}
+<h1> Course Subjects </h1>
 
-{% for item in page.course_schedule %}
-<h4> {{ item.title }} </h4>
-{{ item.body | markdownify }}
+{% for subject in page.subjects %}
+<h4> {{ subject.title }} </h4>
+{{ subject.body | markdownify }}
 {% endfor %}
 
 {% endif %}
