@@ -4,6 +4,7 @@ date: 2017-08-23 15:04:00 -05:00
 tags:
 - c#
 - ".net"
+position: 0
 hero_color: "#690081"
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
