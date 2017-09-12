@@ -14,4 +14,5 @@ call_to_action:
 
 # We're TrueCoders
 
-We have experience in many different technology stacks. Here’s some of the courses we currently offer.
+We provide 8-9 week developer bootcamps aimed at getting you to the next level.
+We'll train you, mentor you, then place you directly into a great developer job. We are now selecting candidates for our full scholarship program.

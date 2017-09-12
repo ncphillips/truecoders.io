@@ -14,4 +14,7 @@ call_to_action:
 
 # Our Blog is on Medium
 
-We've got some thoughts to share, but we're currently blogging on Medium. Medium is a fantastic... well, medium for expressing creative thoughts. That's why you'll find us on Medium. Check it out below!
+We've got some thoughts to share, but we're currently blogging on Medium.
+Medium is a fantastic... well, medium for expressing creative thoughts.
+That's why you'll find us on Medium.
+Check it out below!
