@@ -12,6 +12,9 @@ position: 1
 hero_color: "#7BC087"
 subtitle: Thorough training in all things Mobile Development
 image: "/uploads/mobile-logo.png"
+subjects:
+- Source Control
+- Testing
 ---
 
 This course will cover both iOS and Android {{ page.title }}.  
