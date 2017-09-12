@@ -10,7 +10,7 @@ collections:
     output: true
   subjects:
     title: Subjects
-    output: true
+    output: false
   team_members:
     title: Team Members
     output: false
