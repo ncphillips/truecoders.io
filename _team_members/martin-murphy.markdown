@@ -7,7 +7,7 @@ tags:
 - sql
 position: 2
 image: "/uploads/martin-murphy.jpg"
-company_title: Manager
+company_title: Manager & Investor
 is_board_member: true
 is_teacher: true
 ---
