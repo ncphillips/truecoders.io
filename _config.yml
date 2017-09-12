@@ -69,7 +69,7 @@ defaults:
       call_to_action:
         title: 
         url: 
-      subsections: 
+      subsections:
       - 
       body: 
 - scope:
