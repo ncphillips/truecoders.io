@@ -29,7 +29,8 @@ sections:
       to hone their skills"
     icon: fa-plug
   - title: Scholarships
-    body: We offer full-ride course scholarships for individuals who qualify
+    body: "We offer full-ride course scholarships  \nfor any individual who qualifies
+      by passing an aptitude test"
     icon: fa-graduation-cap
   body: We have decades of experience to lean on as we train and mentor the next generation
     of amazing coders.
