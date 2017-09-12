@@ -21,15 +21,15 @@ sections:
   limit: 3
   subsections:
   - title: Training
-    body: "We mentor coders as they pursue their passion,  \nhelping them achieve
+    body: "We mentor coders as they pursue their passion, helping them achieve
       success along every step of the way"
     icon: fa-code
   - title: Connection
-    body: "We enable developers to connect with their mentor  \nand with each other
+    body: "We enable developers to connect with their mentor and with each other
       to hone their skills"
     icon: fa-plug
   - title: Scholarships
-    body: "We offer full-ride course scholarships  \nfor any individual who qualifies
+    body: "We offer full-ride course scholarships for any individual who qualifies
       by passing an aptitude test"
     icon: fa-graduation-cap
   body: We have decades of experience to lean on as we train and mentor the next generation
