@@ -73,7 +73,7 @@ defaults:
     weeks_length: 0
     has_scholarship: true
     price: 
-    subjects: 
+    subjects:
     - 
     call_to_action:
       title: 
