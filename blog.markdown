@@ -2,6 +2,7 @@
 title: Blog
 date: 2017-08-23 22:00:00 -05:00
 position: 3
+is_nav_page: true
 is_footer_page: true
 hero_image: "/uploads/hero-image-5.jpg"
 display_title: Our Blog
