@@ -13,16 +13,16 @@ sections:
 - title: Our Team
   collection: team_members
   limit: 3
-  subsections: 
   body: We are TrueCoders. We believe that smart, passionate people should always
     be engaged, doing what they love to do.
+  subsections: 
 - title: Our Process
   collection: 
   limit: 3
   subsections:
   - title: Training
-    body: We mentor coders as they pursue their passion, helping them achive success
-      along every step of the way
+    body: "We mentor coders as they pursue their passion,  \nhelping them achive success
+      along every step of the way"
     icon: fa-code
   - title: Connection
     body: We enable developers to connect with their mentor and with each other to
