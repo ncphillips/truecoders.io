@@ -21,12 +21,12 @@ sections:
   limit: 3
   subsections:
   - title: Training
-    body: "We mentor coders as they pursue their passion,  \nhelping them achive success
-      along every step of the way"
+    body: "We mentor coders as they pursue their passion,  \nhelping them achieve
+      success along every step of the way"
     icon: fa-code
   - title: Connection
-    body: We enable developers to connect with their mentor and with each other to
-      hone their skills
+    body: "We enable developers to connect with their mentor  \nand with each other
+      to hone their skills"
     icon: fa-plug
   - title: Scholarships
     body: We offer full-ride course scholarships for individuals who qualify
