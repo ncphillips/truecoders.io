@@ -15,6 +15,9 @@ sections:
   limit: 3
   body: We are TrueCoders. We believe that smart, passionate people should always
     be engaged, doing what they love to do.
+  call_to_action:
+    title: More About Us
+    url: "/about"
   subsections: 
 - title: Our Process
   collection: 
@@ -40,6 +43,9 @@ sections:
   subsections: 
   body: We have experience in many different technology stacks. Here's some of the
     courses we currently offer.
+  call_to_action:
+    title: All Our Courses
+    url: "/courses"
 redirect_from:
 - "/home/"
 ---
