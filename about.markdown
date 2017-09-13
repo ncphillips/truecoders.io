@@ -6,8 +6,7 @@ is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-2.jpg"
 display_title: Why TrueCoders Exists
-subtitle: 'Our aim is to bridge the gap of tech talent in our community with authentic
-  coders in order to drive local innovation. '
+subtitle: 'Our aim is to bridge the gap of tech talent in our community with TrueCoders! '
 call_to_action:
   title: Find Out More
   url: "/contact"
