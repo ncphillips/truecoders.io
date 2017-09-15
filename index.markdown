@@ -8,7 +8,7 @@ display_title: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
 call_to_action:
   title: Watch Intro
-  url: https://player.vimeo.com/video/229711320
+  url: https://player.vimeo.com/video/234034039
 sections:
 - title: Our Team
   collection: team_members
