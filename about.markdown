@@ -16,9 +16,7 @@ call_to_action:
 
 ## Our Mission
 
-We believe smart passionate people should always be engaged doing what they love to do and driving local innovation for our community.
-
-Our mission is to educate, elevate and supply smart passionate people with authentic coding skills to ensure they're capable of solving real-world programming problems.
+We believe smart passionate people should always be engaged doing what they love to do and driving local innovation for our community. Our mission is to educate, elevate, and supply smart passionate people with authentic coding skills to ensure they're capable of solving real-world programming problems.
 
 We are not:
 * A fast track bootcamp, in fact we are anti-bootcamp
