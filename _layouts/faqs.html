@@ -9,6 +9,6 @@ layout: page
 {% for qa_item in page.qa_items %}
 
 <h4> {{ qa_item.question }} </h4>
-<p> {{ qa_item.answer }} </p>
+{{ qa_item.answer_text | markdownify }}
 
 {% endfor %}
