@@ -28,10 +28,12 @@ layout: page
     <h3 class="item-title">{{ item.title }}</h3>
     <h5 class="item-subtitle">{{ item.subtitle }}</h5>
 
-    {% if item.content %}
+    {% if item.excerpt %}
+    {{ item.excerpt | markdownify }}
+    {% elsif item.content %}
     {{ item.content | markdownify }}
     {% endif %}
-  
+
   </div>
   {% endfor %}
 
