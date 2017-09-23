@@ -31,7 +31,11 @@ This course covers the {{ page.title }} stack.
 The next {{ page.weeks_length }} week course starts on
 {{ page.start_date | date: "%A, %B %e" }}.
 
+# Schedule
+
 The schedule for this course is Monday through Friday from 8am until 2pm. Here's how a normal course day will look:
+
+> Testing
 
 * 8:00 am: Course Lecture, Demo, and Q&A
 * 9:00 am: Coding Exercises
