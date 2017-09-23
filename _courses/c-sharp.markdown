@@ -35,8 +35,6 @@ The next {{ page.weeks_length }} week course starts on
 
 The schedule for this course is Monday through Friday from 8am until 2pm. Here's how a normal course day will look:
 
-> Testing
-
 * 8:00 am: Course Lecture, Demo, and Q&A
 * 9:00 am: Coding Exercises
 * 10:00 am: Coding Challenge: Overview and Demo
