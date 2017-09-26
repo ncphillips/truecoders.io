@@ -6,9 +6,8 @@ layout: page
 
 <hr>
 
-{% for qa_item in page.qa_items %}
-
-<h4> {{ qa_item.question }} </h4>
-{{ qa_item.answer_text | markdownify }}
-
+{% assign faqs = site.faqs | sort: 'position' %}
+{% for faq in faqs %}
+<h4>{{ faq.title }}</h4>
+{{ faq.content | markdownify }}
 {% endfor %}

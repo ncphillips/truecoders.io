@@ -57,9 +57,6 @@ defaults:
     type: pages
   values:
     layout: faqs
-    qa_items:
-    - question: 
-      answer_text: 
 - scope:
     path: index.markdown
     type: pages
