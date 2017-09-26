@@ -4,10 +4,21 @@ layout: page
 
 {{ content }}
 
+{% assign faqs = site.faqs | sort: 'position' %}
+
+<h2>Table of Contents</h2>
+
+<ul>
+    {% for faq in faqs %}
+    <li> <a href="#faq-{{ faq.position }}">{{ faq.title }}</a> </li>
+    {% endfor %}
+</ul>
+
 <hr>
 
-{% assign faqs = site.faqs | sort: 'position' %}
+<h2>FAQs</h2>
+
 {% for faq in faqs %}
-<h4>{{ faq.title }}</h4>
+<h4 id="faq-{{ faq.position }}">{{ faq.title }}</h4>
 {{ faq.content | markdownify }}
 {% endfor %}
