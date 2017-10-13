@@ -3,7 +3,7 @@ title: What is included with the scholarship?
 date: 2017-09-22 16:43:00 -05:00
 categories:
 - courses
-position: 14
+position: 15
 ---
 
 Here's what is included with a TrueCoders scholarship:
