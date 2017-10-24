@@ -1,5 +1,5 @@
 ---
-title: Javascript and Node.js
+title: JavaScript and Node.js
 date: 2017-09-11 15:04:00 -05:00
 tags:
 - javascript
@@ -8,7 +8,7 @@ tags:
 - node.js
 position: 2
 hero_color: "#EEDA4E"
-subtitle: Thorough training in all things Javascript
+subtitle: Thorough training in all things JavaScript
 image: "/uploads/javascript-logo.jpg"
 subjects:
 - Testing
