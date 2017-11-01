@@ -40,10 +40,10 @@ layout: default
 
           {% if collection.output and subsection.image %}
           <a href={{ subsection.url }}>
-            <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+            <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
           </a>
           {% elsif subsection.image %}
-          <img src={{ subsection.image }} alt={{ subsection.title }} class="subsection-image">
+          <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
           {% elsif subsection.icon %}
           <i class="fa {{ subsection.icon }} fa-5x subsection-icon"></i>
           {% endif %}
