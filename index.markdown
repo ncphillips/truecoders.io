@@ -13,10 +13,10 @@ sections:
 - title: Our Team
   collection: team_members
   limit: 3
-  subsections: 
   call_to_action:
     title: More About Us
     url: "/about"
+  subsections: 
   body: We are TrueCoders. We believe that smart, passionate people should always
     be engaged, doing what they love to do.
 - title: Our Process
@@ -35,9 +35,6 @@ sections:
     body: We offer full-ride course scholarships for any individual who qualifies
       by passing an aptitude test
     icon: fa-graduation-cap
-  call_to_action:
-    title: 
-    url: 
   body: We have decades of experience to lean on as we train and mentor the next generation
     of amazing coders.
 - title: Our Courses
