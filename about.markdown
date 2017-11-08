@@ -19,11 +19,13 @@ call_to_action:
 We believe smart passionate people should always be engaged doing what they love to do and driving local innovation for our community. Our mission is to educate, elevate, and supply smart passionate people with authentic coding skills to ensure they're capable of solving real-world programming problems.
 
 We are not:
+
 * A fast track bootcamp, in fact we are anti-bootcamp
 * Guaranteeing future programming jobs
 * Or a light-weight front end development course
 
 Our team is dedicated to ensuring TrueCoders:
+
 * Learn soft skills in order to work with people
 * Achieve real world programming skills
 * Establish a process to elevate your career
