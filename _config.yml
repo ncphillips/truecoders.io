@@ -95,6 +95,19 @@ defaults:
       url: 
 - scope:
     path: ''
+    type: page-section
+  values:
+  - title: 
+      collection: 
+      limit: 3
+      call_to_action:
+        title: 
+        url: 
+      subsections:
+      - 
+      body: 
+- scope:
+    path: ''
     type: posts
   values:
     layout: page
