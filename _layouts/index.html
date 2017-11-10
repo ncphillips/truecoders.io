@@ -9,71 +9,7 @@ layout: default
   
   {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
-  <div class="row justify-content-center page-section" style="background-color:{{ background_color }}">
-    <div class="col-10">
-      
-      {% if section.title %}
-      <h1>{{ section.title }}</h1>
-      {% endif %}
-
-      <div class="row justify-content-center">
-        <div class="col-lg-4">
-          {% if section.body %}
-          {{ section.body | markdownify }}
-          {% endif %}
-        </div>
-      </div>
-
-      {% if section.collection %}
-        {% assign subsections = site[section.collection] | sort: 'position' %}
-        {% assign collection = site.collections | where: "label", section.collection | first %}
-      {% elsif section.subsections %}
-        {% assign subsections = section.subsections %}
-      {% endif %}
-
-      {% if subsections %}
-
-      <div class="row justify-content-center sub-section-row">
-        
-        {% for subsection in subsections limit:section.limit %}
-        <div class="col-lg-4 sub-section">
-
-          {% if collection.output and subsection.image %}
-          <a href={{ subsection.url }}>
-            <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
-          </a>
-          {% elsif subsection.image %}
-          <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
-          {% elsif subsection.icon %}
-          <i class="fa {{ subsection.icon }} fa-5x subsection-icon"></i>
-          {% endif %}
-
-          {% if subsection.display_title %}
-          <h4>{{ subsection.display_title }}</h4>
-          {% else %}
-          <h4>{{ subsection.title }}</h4>
-          {% endif %}
-
-          {% if subsection.content %}
-          {{ subsection.excerpt | markdownify }}
-          {% elsif subsection.body %}
-          {{ subsection.body | markdownify }}
-          {% endif %}
-        </div>
-        {% endfor %}
-        
-      </div>
-      
-      {% endif %}
-
-      {% if section.call_to_action.url %}
-      <a href={{ section.call_to_action.url }} class="btn btn-primary btn-lg section-cta" role="button" aria-pressed="true">
-        {{ section.call_to_action.title }}
-      </a>
-      {% endif %}
-
-    </div>
-  </div>
+  {% include section.html background_color=background_color section=section %}
 
   {% if forloop.last == true %}
   {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}

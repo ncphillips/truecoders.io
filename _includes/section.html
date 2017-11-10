@@ -1,0 +1,48 @@
+<div class="row justify-content-center page-section" style="background-color:{{ include.background_color }}">
+    <div class="col-10">
+
+        {% if include.section.title %}
+        <h1>{{ include.section.title }}</h1>
+        {% endif %}
+
+        <div class="row justify-content-center">
+            <div class="col-lg-4">
+                {% if include.section.body %} {{ include.section.body | markdownify }} {% endif %}
+            </div>
+        </div>
+
+        {% if include.section.collection %} {% assign subsections = site[include.section.collection] | sort: 'position' %} {% assign collection =
+        site.collections | where: "label", include.section.collection | first %} {% elsif include.section.subsections %} {% assign subsections
+        = include.section.subsections %} {% endif %} {% if subsections %}
+
+        <div class="row justify-content-center sub-section-row">
+
+            {% for subsection in subsections limit:include.section.limit %}
+            <div class="col-lg-4 sub-section">
+
+                {% if collection.output and subsection.image %}
+                <a href={{ subsection.url }}>
+                    <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
+                </a>
+                {% elsif subsection.image %}
+                <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image"> {% elsif subsection.icon %}
+                <i class="fa {{ subsection.icon }} fa-5x subsection-icon"></i>
+                {% endif %} {% if subsection.display_title %}
+                <h4>{{ subsection.display_title }}</h4>
+                {% else %}
+                <h4>{{ subsection.title }}</h4>
+                {% endif %} {% if subsection.content %} {{ subsection.excerpt | markdownify }} {% elsif subsection.body %} {{ subsection.body
+                | markdownify }} {% endif %}
+            </div>
+            {% endfor %}
+
+        </div>
+
+        {% endif %} {% if include.section.call_to_action.url %}
+        <a href={{ include.section.call_to_action.url }} class="btn btn-primary btn-lg section-cta" role="button" aria-pressed="true">
+            {{ include.section.call_to_action.title }}
+        </a>
+        {% endif %}
+
+    </div>
+</div>
