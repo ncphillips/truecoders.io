@@ -103,9 +103,9 @@ defaults:
       title: 
       url: 
     subsections:
-    - title: 
-      body: 
+    - title:
       icon: 
+      body: 
 - scope:
     path: ''
     type: posts
