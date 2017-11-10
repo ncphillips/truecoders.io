@@ -8,8 +8,8 @@ collections:
   faqs:
     title: FAQs
     output: false
-  page-section:
-    title: Page Section
+  page-sections:
+    title: Page Sections
     output: false
   posts:
     title: Posts
@@ -95,7 +95,7 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: page-section
+    type: page-sections
   values:
     collection: 
     limit: 3
