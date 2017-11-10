@@ -104,7 +104,6 @@ defaults:
       url: 
     subsections:
     - 
-    body: 
 - scope:
     path: ''
     type: posts
