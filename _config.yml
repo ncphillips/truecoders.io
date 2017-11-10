@@ -97,7 +97,6 @@ defaults:
     path: ''
     type: page-section
   values:
-    title: 
     collection: 
     limit: 3
     call_to_action:
