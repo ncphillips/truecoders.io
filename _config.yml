@@ -10,7 +10,7 @@ collections:
     output: false
   page-section:
     title: Page Section
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
