@@ -1,0 +1,6 @@
+---
+title: Our Team
+date: 2017-11-10 17:13:00 -06:00
+---
+
+We are TrueCoders. We believe that smart, passionate people should always be engaged, doing what they love to do.
