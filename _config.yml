@@ -1,4 +1,6 @@
 ---
+title: TrueCoders
+timezone: America/Chicago
 collections:
   courses:
     title: Courses
@@ -119,8 +121,6 @@ defaults:
     layout: sections-page
     pagesections:
     - 
-title: TrueCoders
-timezone: America/Chicago
 url: http://truecoders.io
 logo: "/uploads/logo.png"
 contact:
