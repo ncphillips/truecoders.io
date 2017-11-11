@@ -26,49 +26,6 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: pages
-  values:
-    layout: page
-    is_nav: false
-    is_footer: false
-    hero_color: "#4b4948"
-    hero_image: 
-    display_title: 
-    subtitle: 
-    call_to_action:
-      title: 
-      url: 
-- scope:
-    path: about.markdown
-    type: pages
-  values:
-    layout: collection-page
-    collection: teammates
-- scope:
-    path: courses.markdown
-    type: pages
-  values:
-    layout: collection-page
-    collection: courses
-- scope:
-    path: contact.markdown
-    type: pages
-  values:
-    layout: contact
-- scope:
-    path: faqs.markdown
-    type: pages
-  values:
-    layout: faqs
-- scope:
-    path: index.markdown
-    type: pages
-  values:
-    layout: index
-    pagesections:
-    - 
-- scope:
-    path: ''
     type: courses
   values:
     layout: course
@@ -113,6 +70,49 @@ defaults:
     is_board_member: false
     is_teacher: false
     image: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    is_nav: false
+    is_footer: false
+    hero_color: "#4b4948"
+    hero_image: 
+    display_title: 
+    subtitle: 
+    call_to_action:
+      title: 
+      url: 
+- scope:
+    path: about.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: teammates
+- scope:
+    path: courses.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: courses
+- scope:
+    path: contact.markdown
+    type: pages
+  values:
+    layout: contact
+- scope:
+    path: faqs.markdown
+    type: pages
+  values:
+    layout: faqs
+- scope:
+    path: index.markdown
+    type: pages
+  values:
+    layout: sections-page
+    pagesections:
+    - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"
 contact:
