@@ -1,15 +1,11 @@
 <div class="row justify-content-center page-section" style="background-color:{{ include.background_color }}">
     <div class="col-10">
 
-        {% if include.section.display_title %}
-        <h1>{{ include.section.display_title }}</h1>
-        {% elsif include.section.title %}
-        <h1>{{ include.section.title }}</h1>
-        {% endif %}
+        <h1>{{ include.section.display_title | default: include.section.title }}</h1>
 
         <div class="row justify-content-center">
             <div class="col-lg-4">
-                {% if include.section.content %} {{ include.section.content | markdownify }} {% endif %}
+                {{ include.section.content | markdownify }}
             </div>
         </div>
 
@@ -37,17 +33,10 @@
                 <i class="fa {{ subsection.fa_icon }} fa-5x subsection-icon"></i>
                 {% endif %}
                 
-                {% if subsection.display_title %}
-                <h4>{{ subsection.display_title }}</h4>
-                {% else %}
-                <h4>{{ subsection.title }}</h4>
-                {% endif %}
+                <h4>{{ subsection.display_title | default: subsection.title }}</h4>
 
-                {% if subsection.content %}
-                {{ subsection.excerpt | markdownify }}
-                {% elsif subsection.body %}
-                {{ subsection.body | markdownify }}
-                {% endif %}
+                {{ subsection.excerpt | default: subsection.body | markdownify }}
+            
             </div>
             {% endfor %}
 

@@ -15,19 +15,19 @@ layout: default
   
     {% if page.call_to_action.url %}
 
-    {% if page.call_to_action.url contains 'http' %}
-      {% assign link_target = "_blank" %}
-    {% else %}
-      {% assign link_target = "_self" %}
-    {% endif %}
-  
-    <div class="row justify-content-center">
-      <div class="col call-to-action-col">
-        <a href={{ page.call_to_action.url }} target={{ link_target }} class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
-          {{ page.call_to_action.title }}
-        </a>
+      {% if page.call_to_action.url contains 'http' %}
+        {% assign link_target = "_blank" %}
+      {% else %}
+        {% assign link_target = "_self" %}
+      {% endif %}
+    
+      <div class="row justify-content-center">
+        <div class="col call-to-action-col">
+          <a href={{ page.call_to_action.url }} target={{ link_target }} class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
+            {{ page.call_to_action.title }}
+          </a>
+        </div>
       </div>
-    </div>
   
     {% endif %}
   
