@@ -9,41 +9,33 @@ layout: page
 {% assign faq_categories = "" | split:"|" %}
 {% for faq in faqs %}
     {% for cat in faq.categories %}
-    {% assign faq_categories = faq_categories | push: cat | uniq %}
+        {% assign faq_categories = faq_categories | push: cat | uniq %}
     {% endfor %}
 {% endfor %}
 
-<h2>Table of Contents</h2>
+{% assign sections = "Table of Contents|FAQs" | split:"|" %}
+{% for section in sections %}
 
-{% for category in faq_categories %}
-{% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
-{% assign cat_faqs = faqs | where_exp: "faq", expression %}
+    <h2>{{ section }}</h2>
 
-<strong>{{ category | capitalize }}</strong>
+    {% for category in faq_categories %}
+        {% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
+        {% assign cat_faqs = faqs | where_exp: "faq", expression %}
 
-<ul>
-    {% for faq in cat_faqs %}
-    <li>
-        <a href="#{{ faq.slug }}">{{ faq.title }}</a>
-    </li>
+        {% case section %}
+        {% when 'Table of Contents' %}
+            <strong>{{ category | capitalize }}</strong>
+            <ul>
+                {% for faq in cat_faqs %}
+                    <li><a href="#{{ faq.slug }}">{{ faq.title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <h3>{{ category | capitalize }} Questions</h3>
+            {% for faq in cat_faqs %}
+                <strong id="{{ faq.slug }}">{{ faq.title }}</strong>
+                {{ faq.content | markdownify }}
+            {% endfor %}
+        {% endcase %}
     {% endfor %}
-</ul>
-
-{% endfor %}
-
-<hr>
-
-<h2>FAQs</h2>
-
-{% for category in faq_categories %}
-{% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
-{% assign cat_faqs = faqs | where_exp: "faq", expression %}
-
-<h3>{{ category | capitalize }} Questions</h3>
-
-{% for faq in cat_faqs %}
-<strong id="{{ faq.slug }}">{{ faq.title }}</strong>
-{{ faq.content | markdownify }}
-{% endfor %}
-
 {% endfor %}
