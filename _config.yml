@@ -55,7 +55,7 @@ defaults:
       url: 
     subsections:
     - title: 
-      icon: 
+      fa_icon: 
       body: 
 - scope:
     path: ''

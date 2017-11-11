@@ -14,7 +14,7 @@
     {% for social in site.data.socials %}
     <li class="list-inline-item">
       <a href={{ social.url | escape }} target="_blank">
-        <i class="fa {{ social.icon }} fa-lg"></i>
+        <i class="fa {{ social.fa_icon }} fa-lg"></i>
       </a>
     </li>
     {% endfor %}

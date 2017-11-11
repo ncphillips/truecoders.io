@@ -21,8 +21,8 @@ layout: page
     </a>
     {% elsif item.image %}
     <img src={{ item.image }} alt="{{ item.title }}" class="item-image">
-    {% elsif item.icon %}
-    <i class="fa {{ item.icon }} fa-5x item-icon"></i>
+    {% elsif item.fa_icon %}
+    <i class="fa {{ item.fa_icon }} fa-5x item-icon"></i>
     {% endif %}
 
     <h3 class="item-title">{{ item.title }}</h3>

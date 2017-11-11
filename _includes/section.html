@@ -32,8 +32,9 @@
                     <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
                 </a>
                 {% elsif subsection.image %}
-                <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image"> {% elsif subsection.icon %}
-                <i class="fa {{ subsection.icon }} fa-5x subsection-icon"></i>
+                <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
+                {% elsif subsection.fa_icon %}
+                <i class="fa {{ subsection.fa_icon }} fa-5x subsection-icon"></i>
                 {% endif %}
                 
                 {% if subsection.display_title %}
