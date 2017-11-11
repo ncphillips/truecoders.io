@@ -6,11 +6,26 @@ layout: page
 
 {% assign faqs = site.faqs | sort: 'position' %}
 
+{% assign company_faqs = faqs | where_exp: "faq", "faq.categories contains 'company'" %}
+{% assign courses_faqs = faqs | where_exp: "faq", "faq.categories contains 'courses'" %}
+
 <h2>Table of Contents</h2>
 
+<strong>Company</strong>
+
 <ul>
-    {% for faq in faqs %}
-    <li> <a href="#faq-{{ faq.position }}">{{ faq.title }}</a> </li>
+    {% for faq in company_faqs %}
+    <li>
+        <a href="#{{ faq.slug }}">{{ faq.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<strong>Courses</strong>
+
+<ul>
+    {% for faq in courses_faqs %}
+    <li> <a href="#{{ faq.slug }}">{{ faq.title }}</a> </li>
     {% endfor %}
 </ul>
 
@@ -18,7 +33,16 @@ layout: page
 
 <h2>FAQs</h2>
 
-{% for faq in faqs %}
-<h4 id="faq-{{ faq.position }}">{{ faq.title }}</h4>
+<h3>Company Questions</h3>
+
+{% for faq in company_faqs %}
+<strong id="{{ faq.slug }}">{{ faq.title }}</strong>
+{{ faq.content | markdownify }}
+{% endfor %}
+
+<h3>Courses Questions</h3>
+
+{% for faq in courses_faqs %}
+<strong id="{{ faq.slug }}">{{ faq.title }}</strong>
 {{ faq.content | markdownify }}
 {% endfor %}
