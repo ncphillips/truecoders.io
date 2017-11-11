@@ -10,9 +10,9 @@ call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/234034039
 pagesections:
-- Our Team
+- Team Collection
 - Our Process
-- Our Courses
+- Courses Collection
 redirect_from:
 - "/home/"
 ---

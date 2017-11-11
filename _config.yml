@@ -11,7 +11,7 @@ collections:
   pagesections:
     title: PageSections
     output: false
-    display_name: Page Sections
+    display_title: Page Sections
   posts:
     title: Posts
     output: true
@@ -47,6 +47,7 @@ defaults:
     path: ''
     type: pagesections
   values:
+    display_title: 
     sub_collection: 
     limit: 3
     call_to_action:
