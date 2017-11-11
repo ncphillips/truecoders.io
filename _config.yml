@@ -11,6 +11,7 @@ collections:
   pagesections:
     title: PageSections
     output: false
+    display_name: Page Sections
   posts:
     title: Posts
     output: true
