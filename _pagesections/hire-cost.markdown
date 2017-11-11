@@ -1,6 +1,7 @@
 ---
 title: Hire Cost
 date: 2017-11-11 13:25:00 -06:00
+position: 4
 display_title: Our Cost
 subsections:
 - title: Individual Hire
