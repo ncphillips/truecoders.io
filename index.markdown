@@ -11,7 +11,7 @@ call_to_action:
   url: https://player.vimeo.com/video/234034039
 pagesections:
 - Team Collection
-- Our Process
+- Courses Process
 - Courses Collection
 redirect_from:
 - "/home/"

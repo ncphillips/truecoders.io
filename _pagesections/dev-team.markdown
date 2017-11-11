@@ -1,6 +1,7 @@
 ---
-title: Our Dev Team
+title: Dev Team
 date: 2017-11-11 13:18:00 -06:00
+display_title: Our Team
 subsections:
 - title: Developers
   icon: fa-terminal

@@ -10,8 +10,8 @@ call_to_action:
   title: Hire TrueCoders
   url: "/contact"
 pagesections:
-- Our Dev Team
-- Our Dev Process
-- Our Cost
+- Dev Team
+- Dev Process
+- Hire Cost
 ---
 
