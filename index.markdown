@@ -9,43 +9,10 @@ subtitle: Be Mentored. Be Connected.
 call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/234034039
-sections:
-- title: Our Team
-  collection: team_members
-  limit: 3
-  call_to_action:
-    title: More About Us
-    url: "/about"
-  subsections: 
-  body: We are TrueCoders. We believe that smart, passionate people should always
-    be engaged, doing what they love to do.
-- title: Our Process
-  collection: 
-  limit: 3
-  subsections:
-  - title: Training
-    body: We mentor coders as they pursue their passion, helping them achieve success
-      along every step of the way
-    icon: fa-code
-  - title: Connection
-    body: We enable developers to connect with their mentor and with each other to
-      hone their skills
-    icon: fa-plug
-  - title: Scholarships
-    body: We offer full-ride course scholarships for any individual who qualifies
-      by passing an aptitude test
-    icon: fa-graduation-cap
-  body: We have decades of experience to lean on as we train and mentor the next generation
-    of amazing coders.
-- title: Our Courses
-  collection: courses
-  limit: 3
-  subsections: 
-  call_to_action:
-    title: All Our Courses
-    url: "/courses"
-  body: We have experience in many different technology stacks. Here's some of the
-    courses we currently offer.
+pagesections:
+- Our Team
+- Our Process
+- Our Courses
 redirect_from:
 - "/home/"
 ---

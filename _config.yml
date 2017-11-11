@@ -8,8 +8,8 @@ collections:
   faqs:
     title: FAQs
     output: false
-  page-section:
-    title: Page Section
+  pagesections:
+    title: PageSections
     output: false
   posts:
     title: Posts
@@ -17,64 +17,13 @@ collections:
   subjects:
     title: Subjects
     output: false
-  team_members:
-    title: Team Members
+  teammates:
+    title: Teammates
     output: false
   uploads:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-    is_nav: false
-    is_footer: false
-    hero_color: "#4b4948"
-    hero_image: 
-    display_title: 
-    subtitle: 
-    call_to_action:
-      title: 
-      url: 
-- scope:
-    path: about.markdown
-    type: pages
-  values:
-    layout: collection-page
-    collection: team_members
-- scope:
-    path: courses.markdown
-    type: pages
-  values:
-    layout: collection-page
-    collection: courses
-- scope:
-    path: contact.markdown
-    type: pages
-  values:
-    layout: contact
-- scope:
-    path: faqs.markdown
-    type: pages
-  values:
-    layout: faqs
-- scope:
-    path: index.markdown
-    type: pages
-  values:
-    layout: index
-    sections:
-    - title: 
-      collection: 
-      limit: 3
-      call_to_action:
-        title: 
-        url: 
-      subsections:
-      - 
-      body: 
 - scope:
     path: ''
     type: courses
@@ -95,15 +44,17 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: page-section
+    type: pagesections
   values:
-    collection: 
+    sub_collection: 
     limit: 3
     call_to_action:
       title: 
       url: 
     subsections:
-    - 
+    - title: 
+      icon: 
+      body: 
 - scope:
     path: ''
     type: posts
@@ -112,13 +63,56 @@ defaults:
     permalink: "/blog/:title/"
 - scope:
     path: ''
-    type: team_members
+    type: teammates
   values:
     layout: page
     subtitle: 
     is_board_member: false
     is_teacher: false
     image: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    is_nav: false
+    is_footer: false
+    hero_color: "#4b4948"
+    hero_image: 
+    display_title: 
+    subtitle: 
+    call_to_action:
+      title: 
+      url: 
+- scope:
+    path: about.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: teammates
+- scope:
+    path: courses.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: courses
+- scope:
+    path: contact.markdown
+    type: pages
+  values:
+    layout: contact
+- scope:
+    path: faqs.markdown
+    type: pages
+  values:
+    layout: faqs
+- scope:
+    path: index.markdown
+    type: pages
+  values:
+    layout: sections-page
+    pagesections:
+    - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"
 contact:
