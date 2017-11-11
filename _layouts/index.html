@@ -5,7 +5,8 @@ layout: default
 <div class="page-container index-container">
   {% include header.html %}
 
-  {% for section in page.sections %}
+  {% for title in page.page_sections %}
+  {% assign section = site.page_sections | where: "title", title | first %}
   
   {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 

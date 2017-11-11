@@ -8,7 +8,7 @@ collections:
   faqs:
     title: FAQs
     output: false
-  page-sections:
+  page_sections:
     title: Page Sections
     output: false
   posts:
@@ -65,16 +65,8 @@ defaults:
     type: pages
   values:
     layout: index
-    sections:
-    - title: 
-      collection: 
-      limit: 3
-      call_to_action:
-        title: 
-        url: 
-      subsections:
-      - 
-      body: 
+    page_sections:
+    - 
 - scope:
     path: ''
     type: courses
@@ -95,9 +87,9 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: page-sections
+    type: page_sections
   values:
-    collection: 
+    sub_collection: 
     limit: 3
     call_to_action:
       title: 

@@ -1,7 +1,7 @@
 ---
 title: Our Courses
 date: 2017-11-10 17:35:00 -06:00
-collection: courses
+sub_collection: courses
 call_to_action:
   title: All Our Courses
   url: "/courses"
