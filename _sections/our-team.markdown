@@ -1,7 +1,7 @@
 ---
 title: Our Team
 date: 2017-11-10 17:13:00 -06:00
-sub_collection: team_members
+sub_collection: teammates
 call_to_action:
   title: More About Us
   url: "/about"

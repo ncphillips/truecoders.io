@@ -8,7 +8,7 @@ collections:
   faqs:
     title: FAQs
     output: false
-  page_sections:
+  sections:
     title: Page Sections
     output: false
   posts:
@@ -17,7 +17,7 @@ collections:
   subjects:
     title: Subjects
     output: false
-  team_members:
+  teammates:
     title: Team Members
     output: false
   uploads:
@@ -43,7 +43,7 @@ defaults:
     type: pages
   values:
     layout: collection-page
-    collection: team_members
+    collection: teammates
 - scope:
     path: courses.markdown
     type: pages
@@ -65,7 +65,7 @@ defaults:
     type: pages
   values:
     layout: index
-    page_sections:
+    sections:
     - 
 - scope:
     path: ''
@@ -87,7 +87,7 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: page_sections
+    type: sections
   values:
     sub_collection: 
     limit: 3
@@ -106,7 +106,7 @@ defaults:
     permalink: "/blog/:title/"
 - scope:
     path: ''
-    type: team_members
+    type: teammates
   values:
     layout: page
     subtitle: 
