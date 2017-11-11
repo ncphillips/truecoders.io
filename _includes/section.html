@@ -1,7 +1,11 @@
 <div class="row justify-content-center page-section" style="background-color:{{ include.background_color }}">
     <div class="col-10">
 
-        {% if include.section.title %} <h1>{{ include.section.title }}</h1> {% endif %}
+        {% if include.section.display_title %}
+        <h1>{{ include.section.display_title }}</h1>
+        {% elsif include.section.title %}
+        <h1>{{ include.section.title }}</h1>
+        {% endif %}
 
         <div class="row justify-content-center">
             <div class="col-lg-4">
