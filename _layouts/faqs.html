@@ -6,43 +6,44 @@ layout: page
 
 {% assign faqs = site.faqs | sort: 'position' %}
 
-{% assign company_faqs = faqs | where_exp: "faq", "faq.categories contains 'company'" %}
-{% assign courses_faqs = faqs | where_exp: "faq", "faq.categories contains 'courses'" %}
+{% assign faq_categories = "" | split:"|" %}
+{% for faq in faqs %}
+    {% for cat in faq.categories %}
+    {% assign faq_categories = faq_categories | push: cat | uniq %}
+    {% endfor %}
+{% endfor %}
 
 <h2>Table of Contents</h2>
 
-<strong>Company</strong>
+{% for category in faq_categories %}
+{% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
+{% assign cat_faqs = faqs | where_exp: "faq", expression %}
+
+<strong>{{ category | capitalize }}</strong>
 
 <ul>
-    {% for faq in company_faqs %}
+    {% for faq in cat_faqs %}
     <li>
         <a href="#{{ faq.slug }}">{{ faq.title }}</a>
     </li>
     {% endfor %}
 </ul>
 
-<strong>Courses</strong>
-
-<ul>
-    {% for faq in courses_faqs %}
-    <li> <a href="#{{ faq.slug }}">{{ faq.title }}</a> </li>
-    {% endfor %}
-</ul>
+{% endfor %}
 
 <hr>
 
 <h2>FAQs</h2>
 
-<h3>Company Questions</h3>
+{% for category in faq_categories %}
+{% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
+{% assign cat_faqs = faqs | where_exp: "faq", expression %}
 
-{% for faq in company_faqs %}
+<h3>{{ category | capitalize }} Questions</h3>
+
+{% for faq in cat_faqs %}
 <strong id="{{ faq.slug }}">{{ faq.title }}</strong>
 {{ faq.content | markdownify }}
 {% endfor %}
 
-<h3>Courses Questions</h3>
-
-{% for faq in courses_faqs %}
-<strong id="{{ faq.slug }}">{{ faq.title }}</strong>
-{{ faq.content | markdownify }}
 {% endfor %}
