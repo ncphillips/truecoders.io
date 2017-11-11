@@ -1,7 +1,7 @@
 ---
 title: Dev Process
 date: 2017-11-11 13:24:00 -06:00
-position: 3
+position: 2
 display_title: Our Process
 subsections:
 - title: Project Management

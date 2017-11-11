@@ -1,7 +1,7 @@
 ---
 title: Dev Team
 date: 2017-11-11 13:18:00 -06:00
-position: 2
+position: 3
 display_title: Our Team
 subsections:
 - title: Developers
