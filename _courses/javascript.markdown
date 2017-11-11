@@ -6,7 +6,7 @@ tags:
 - js
 - nodejs
 - node.js
-position: 2
+position: 1
 hero_color: "#EEDA4E"
 subtitle: Thorough training in all things JavaScript
 image: "/uploads/javascript-logo.jpg"
