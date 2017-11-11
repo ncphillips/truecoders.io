@@ -27,13 +27,13 @@ layout: page
             <strong>{{ category | capitalize }}</strong>
             <ul>
                 {% for faq in cat_faqs %}
-                    <li><a href="#{{ faq.slug }}">{{ faq.title }}</a></li>
+                    <li><a href="#{{ faq.slug }}">{{ faq.display_title | default: faq.title }}</a></li>
                 {% endfor %}
             </ul>
         {% else %}
             <h3>{{ category | capitalize }} Questions</h3>
             {% for faq in cat_faqs %}
-                <strong id="{{ faq.slug }}">{{ faq.title }}</strong>
+                <strong id="{{ faq.slug }}">{{ faq.display_title | default: faq.title }}</strong>
                 {{ faq.content | markdownify }}
             {% endfor %}
         {% endcase %}
