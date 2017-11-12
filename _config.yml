@@ -112,14 +112,14 @@ defaults:
     path: index.markdown
     type: pages
   values:
-    layout: sections-page
+    layout: index
     pagesections:
     - 
 - scope:
     path: hire.markdown
     type: pages
   values:
-    layout: sections-page
+    layout: index
     pagesections:
     - 
 url: http://truecoders.io
