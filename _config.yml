@@ -119,7 +119,7 @@ defaults:
     path: hire.markdown
     type: pages
   values:
-    layout: index
+    layout: hire
     pagesections:
     - 
 url: http://truecoders.io

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="page-container index-container">
+  {% include header.html %}
+
+  {% for title in page.pagesections %}
+  {% assign section = site.pagesections | where: "title", title | first %}
+  
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+
+  {% include section.html background_color=background_color section=section %}
+
+  {% if forloop.last == true %}
+  {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% endif %}
+
+  {% endfor %}
+
+  <div class="row justify-content-center page-section" style="background-color:{{ mail_bg }}">
+    <div class="col-10">
+      <h1>Keep Me Updated</h1>
+      {% include email-signup.html %}
+    </div>
+  </div>
+
+  {% include footer.html %}
+</div>
