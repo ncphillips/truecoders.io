@@ -109,17 +109,17 @@ defaults:
   values:
     layout: faqs
 - scope:
-    path: index.markdown
-    type: pages
-  values:
-    layout: index
-    pagesections:
-    - 
-- scope:
     path: hire.markdown
     type: pages
   values:
     layout: hire
+    pagesections:
+    - 
+- scope:
+    path: index.markdown
+    type: pages
+  values:
+    layout: index
     pagesections:
     - 
 url: http://truecoders.io
