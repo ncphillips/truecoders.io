@@ -5,7 +5,7 @@ position: 2
 display_title: Our Process
 call_to_action:
   title: Engage Our Process
-  url: "/contact"
+  url: "#hire-form"
 subsections:
 - title: Project Management
   fa_icon: fa-file-text-o

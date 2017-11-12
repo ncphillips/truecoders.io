@@ -5,7 +5,7 @@ position: 3
 display_title: Our Team
 call_to_action:
   title: Engage a Team
-  url: "/contact"
+  url: "#hire-form"
 subsections:
 - title: Developers
   fa_icon: fa-terminal

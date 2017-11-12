@@ -5,6 +5,21 @@ layout: default
 <div class="page-container index-container">
   {% include header.html %}
 
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+
+  <div id="hire-form" class="row justify-content-center" style="background-color:{{ background_color }}; padding: 40px 40px;">
+
+    <div class="col-4">
+      {{content}}
+    </div>
+
+    <div class="col-1"></div>
+
+    <div class="col-4">
+      {% include info-form.html %}
+    </div>
+  </div>
+
   {% for title in page.pagesections %}
   {% assign section = site.pagesections | where: "title", title | first %}
   

@@ -5,7 +5,7 @@ position: 4
 display_title: Our Cost
 call_to_action:
   title: Discuss Pricing
-  url: "/contact"
+  url: "#hire-form"
 subsections:
 - title: Individual Hire
   fa_icon: fa-user

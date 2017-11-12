@@ -16,3 +16,6 @@ pagesections:
 - Hire Cost
 ---
 
+# Hiring TrueCoders Info
+
+Reach out to us about pricing for your next development job. We look forward to working with you.
