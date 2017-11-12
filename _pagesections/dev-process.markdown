@@ -5,21 +5,14 @@ position: 2
 display_title: Our Process
 subsections:
 - title: Project Management
-  fa_icon: fa-cogs
-  body: Filet mignon doner cupim bresaola swine pork pork belly jerky tail, pancetta
-    andouille brisket burgdoggen. Beef ribs salami bresaola strip steak. Burgdoggen
-    ribeye cupim prosciutto filet mignon.
-- title: Development
-  fa_icon: fa-code
-  body: Frankfurter cow tri-tip chuck burgdoggen pig, shankle fatback shoulder. Chicken
-    ham hock tongue turkey. Rump meatball flank, bacon pig picanha landjaeger shoulder
-    andouille biltong chuck shank strip steak tri-tip capicola.
+  fa_icon: fa-file-text-o
+  body: Our dedicated project manager will work with you, gathering requirements and giving progress updates along the way.
+- title: Agile Methodology
+  fa_icon: fa-refresh
+  body: Changes are normal. Using agile methods, our developers can iterate quickly, incorporate changes, and maintain code quality.
 - title: Quality Assurance
   fa_icon: fa-check
-  body: Tongue ball tip boudin burgdoggen flank pork loin biltong, brisket hamburger
-    tail jowl jerky frankfurter t-bone pig. Ham hock pork chop kevin cupim frankfurter
-    pig. Beef ribs andouille corned beef ham hock meatloaf pork loin, pork belly shankle
-    jerky.
+  body: Before we ship code, our work is thoroughly tested from the ground up to ensure that every part of the project is working perfectly.
 ---
 
-Tongue ball tip boudin burgdoggen flank pork loin biltong, brisket hamburger tail jowl jerky frankfurter t-bone pig. Ham hock pork chop kevin cupim frankfurter pig.
+We've implemented process that we follow with every project we work on to ensure efficiency, quality, and effectiveness
