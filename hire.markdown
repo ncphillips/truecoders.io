@@ -24,6 +24,10 @@ Here’s just a few benefits of hiring TrueCoders:
 
 With a focus on education, best practice training, and enforcement of the software lifecycle.  We can produce quality teams at pricing below the US average.
 
+Having a senior resource doing code review we're able to produce a very high level of output from our less seasoned alumni while training them along the way.
+
 Our bootcamps allow us to scale to demand with relative ease if you're needs ourgrow us then we have more alumni coming.
 
-## Call Us: [(205) 530-8496](tel:12055308496)
+Send us a message or feel free to call us:
+
+## [(205) 530-8496](tel:12055308496)
