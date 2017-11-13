@@ -1,6 +1,6 @@
 ---
 title: Hire TrueCoders
-date: 2017-09-04 10:00:00 -05:00
+date: 2017-11-10 10:00:00 -06:00
 position: 6
 is_nav: true
 is_footer: true
