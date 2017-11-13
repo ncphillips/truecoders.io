@@ -30,6 +30,24 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: coders
+  values:
+    social:
+      github: 
+      linkedin: 
+      codewars: 
+    codewars:
+      - 0
+    skills:
+    - title: 
+      rank: 
+    personality: 
+    job_history_body:
+    reviews:
+    - instructor: 
+      review_body: 
+- scope:
+    path: ''
     type: courses
   values:
     layout: course
