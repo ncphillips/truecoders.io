@@ -28,4 +28,6 @@ Having a senior resource doing code review we're able to produce a very high lev
 
 Our bootcamps allow us to scale to demand with relative ease if your needs outgrow us then we have more alumni coming.
 
-## Call Us: [(205) 530-8496](tel:12055308496)
+Send us a message or feel free to call us:
+
+## [(205) 530-8496](tel:12055308496)
