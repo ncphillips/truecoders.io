@@ -28,4 +28,4 @@ Our bootcamps allow us to scale to demand with relative ease if you're needs our
 
 Send us a message or feel free to call us:
 
-## [(205) 530-8496](tel:12055308496)
+## Call: [(205) 530-8496](tel:12055308496)
