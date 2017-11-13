@@ -6,7 +6,7 @@ is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-9.jpg"
 display_title: Hire TrueCoders
-subtitle: Engage with US-based .NET developers to fulfill your company’s needs
+subtitle: Quality developer teams at pricing below the US average
 pagesections:
 - Dev Team
 - Dev Process
