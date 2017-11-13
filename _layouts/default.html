@@ -5,6 +5,10 @@
 
   <body>
     {{ content }}
-    {% include scripts.html %}
+    
+    {% for script in site.data.scripts %}
+    <script src="{{ script | relative_url }}"></script>
+    {% endfor %}
+
   </body>
 </html>
