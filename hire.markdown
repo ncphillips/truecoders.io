@@ -4,7 +4,7 @@ date: 2017-09-04 10:00:00 -05:00
 position: 6
 is_nav: true
 is_footer: true
-hero_image: "/uploads/hero-image-8.jpg"
+hero_image: "/uploads/alex-kotliarskyi-361081.jpg"
 display_title: Hire TrueCoders
 subtitle: Engage with US-based .NET developers to fulfill your company’s needs
 pagesections:
