@@ -8,14 +8,17 @@ call_to_action:
   url: "#hire-form"
 subsections:
 - title: Developers
+  subtitle: 
   fa_icon: fa-terminal
   body: At the core of our company is development. We're constantly training the right
     people to meet your development needs.
 - title: QAs and PMs
+  subtitle: 
   fa_icon: fa-cogs
   body: In addition to development, we provide every client with a dedicated project
     manager and consistent quality assurance testing.
 - title: Architects
+  subtitle: 
   fa_icon: fa-compass
   body: Every one of our dev teams is supervised by a Software Architect with years
     of experience in every aspect of the software lifecycle.
