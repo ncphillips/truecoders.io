@@ -22,6 +22,8 @@ Here’s just a few benefits of hiring TrueCoders:
 * Affordable rates
 * Month to month billing arrangements
 
+With a focus on education, best practice training, and enforcement of the software lifecycle.  We can produce quality teams at pricing below the US average.
+
 Our bootcamps allow us to scale to demand with relative ease if you're needs ourgrow us then we have more alumni coming.
 
 Send us a message or feel free to call us:
