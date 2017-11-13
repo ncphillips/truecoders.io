@@ -27,4 +27,6 @@ Here’s just a few benefits of hiring TrueCoders:
 
 Flexible month to month agreements making sure you can spin up or scale back quality development teams when it’s convenient for you.
 
-Send us a message or feel free to call us: [(205) 530-8496](tel:12055308496)
+Send us a message or feel free to call us:
+
+**[(205) 530-8496](tel:12055308496)**
