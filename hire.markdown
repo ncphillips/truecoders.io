@@ -22,7 +22,7 @@ Here’s just a few benefits of hiring TrueCoders:
 * Affordable rates
 * Month to month billing arrangements
 
-Flexible month to month agreements making sure you can spin up or scale back quality development teams when it’s convenient for you.
+Our bootcamps allow us to scale to demand with relative ease if you're needs ourgrow us then we have more alumni coming.
 
 Send us a message or feel free to call us:
 
