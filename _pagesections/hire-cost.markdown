@@ -9,9 +9,8 @@ call_to_action:
 subsections:
 - title: Individual Hire
   fa_icon: fa-user
-  body: |2-
-                   $50-$75/Hour
-    Sometimes the best option for a small project is a single developer. We'll help you engage with the perfect developer for the job.
+  body: Sometimes the best option for a small project is a single developer. We'll
+    help you engage with the perfect developer for the job.
 - title: Team Hire
   fa_icon: fa-users
   body: Three developers at a blended hourly rate, with included QA, PM, and a supervising
