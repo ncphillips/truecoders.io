@@ -6,13 +6,16 @@ is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-8.jpg"
 display_title: Hire TrueCoders
-subtitle: Engage with smart developers that fulfill your company's needs.
+subtitle: Engage with US-based .NET developers to fulfill your company’s needs
 pagesections:
 - Dev Team
 - Dev Process
 - Hire Cost
 ---
 
-# Hiring TrueCoders Info
+# Benefits of Hiring TrueCoders
 
-Reach out to us about pricing for your next development job. We look forward to working with you.
+* US-based 
+* Highly trained with hands-on experience
+* Affordable rates
+* Month to month billing arrangements
