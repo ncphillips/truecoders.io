@@ -7,7 +7,9 @@ call_to_action:
   title: Discuss Pricing
   url: "#hire-form"
 subsections:
-- title: Individual Hire
+- title: |-
+    Individual Hire
+     $50-$75/Hour
   fa_icon: fa-user
   body: Sometimes the best option for a small project is a single developer. We'll
     help you engage with the perfect developer for the job.
