@@ -44,7 +44,7 @@ defaults:
     personality: 
     job_history_body:
     reviews:
-    - instructor: 
+    - teammate: 
       review_body: 
 - scope:
     path: ''
