@@ -15,7 +15,7 @@
     "url": "https://github.com/truecodersio/truecoders.io/issues"
   },
   "scripts": {
-    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
+    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js.map\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
     "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
     "copyMagnificPopup": "cpx \"node_modules/magnific-popup/dist/jquery.magnific-popup.min.js\" assets/js/magnific-popup && cpx \"node_modules/magnific-popup/dist/magnific-popup.css\" assets/css",
     "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/js/popper",
