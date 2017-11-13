@@ -18,7 +18,7 @@
     "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js.map\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
     "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
     "copyMagnificPopup": "cpx \"node_modules/magnific-popup/dist/jquery.magnific-popup.min.js\" assets/js/magnific-popup && cpx \"node_modules/magnific-popup/dist/magnific-popup.css\" assets/css",
-    "copyPopperJS": "cpx \"node_modules/popper.js/dist/popper.min.js\" assets/js/popper",
+    "copyPopperJS": "cpx \"node_modules/popper.js/dist/umd/popper.min.js\" assets/js/popper && cpx \"node_modules/popper.js/dist/umd/popper.min.js.map\" assets/js/popper",
     "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/js/tether",
     "copyAll": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS && npm run copyMagnificPopup",
     "build": "npm run copyAll && bundle exec jekyll build",
