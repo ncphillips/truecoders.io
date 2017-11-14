@@ -48,8 +48,6 @@ experience:
   start_date: 2017-09-01 00:00:00 -05:00
   end_date: 
   body: |-
-    At TrueCoders, Daniel:
-
     * Performs the Role of VP of Sales & Marketing
     * Generates leads
     * Generally excels
@@ -58,8 +56,6 @@ experience:
   start_date: 2017-03-20 00:00:00 -05:00
   end_date: 2017-08-31 00:00:00 -05:00
   body: |-
-    At Credntia, Daniel:
-
     * Performed the Role of CMO
     * Generated leads
     * Generally excelled
@@ -68,8 +64,6 @@ experience:
   start_date: 2016-09-26 00:00:00 -05:00
   end_date: 2017-03-17 00:00:00 -05:00
   body: |-
-    At ACCI, Daniel:
-
     * Performed the Role of New Business Developer
     * Generated leads
     * Generally excelled
