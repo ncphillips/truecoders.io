@@ -35,13 +35,13 @@ codewars_scores:
 - 250
 reviews:
 - teammate: Cody Winton
-  review_body: |-
+  body: |-
     Cody's review:
 
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
     * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
 - teammate: Martin Murphy
-  review_body: |-
+  body: |-
     Martin's review:
 
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
