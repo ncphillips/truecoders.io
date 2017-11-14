@@ -67,6 +67,22 @@ experience:
     * Performed the Role of CMO
     * Generated leads
     * Generally excelled
+- company: ACCI
+  job_title: New Business Developer
+  start_date: 2016-09-26 00:00:00 -05:00
+  end_date: 2017-03-17 00:00:00 -05:00
+  body: |-
+    At ACCI, Daniel:
+
+    * Performed the Role of New Business Developer
+    * Generated leads
+    * Generally excelled
+education:
+- school: Florida High School
+  degree: High School Diploma
+  graduation_date: 2010-05-28 01:00:00 -05:00
+  location: Orlando, FL
+  body: Graduated from High School in 2010
 ---
 
 Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
