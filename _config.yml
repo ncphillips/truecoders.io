@@ -4,7 +4,7 @@ timezone: America/Chicago
 collections:
   classes:
     title: Classes
-    output: true
+    output: false
   coders:
     title: Coders
     output: true
