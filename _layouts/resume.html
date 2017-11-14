@@ -5,7 +5,6 @@ layout: default
 <div class="container-fluid" style="padding:60px;">
 
   <!-- Social Row -->
-  <br/>
   <div class="row justify-content-center" style="text-align:center; margin-bottom:20px;">
     <div class="col-sm-3">
       <i class="fa fa-github fa-lg"></i> 
@@ -63,7 +62,7 @@ layout: default
     </div>
   </div>
 
-  <!-- Reviews Row -->
+  <!-- Experience Row -->
   <br/>
   <div class="row">
     <div class="col">
@@ -77,6 +76,24 @@ layout: default
       </p>
 
       {{ experience.body | markdownify }}
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Education Row -->
+  <br/>
+  <div class="row">
+    <div class="col">
+      <h4>Education</h4>
+      {% for education in page.education %}
+
+      <p>
+        <strong>{{ education.school }}</strong> {% if education.degree %} / {{ education.degree }}{% endif %}
+        <br/>
+        {{ education.graduation_date | date: "%b %Y" | upcase }}, {{ education.location | upcase }}
+      </p>
+
+      {{ education.body | markdownify }}
       {% endfor %}
     </div>
   </div>

@@ -72,7 +72,18 @@ education:
   degree: High School Diploma
   graduation_date: 2010-05-28 01:00:00 -05:00
   location: Orlando, FL
-  body: Graduated from High School in 2010
+  body: |-
+    * Did some things
+    * Accomplished tasks
+    * Performed well
+- school: TrueCoders
+  degree: 
+  graduation_date: 2017-11-23 01:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    * Did some things
+    * Accomplished tasks
+    * Performed well
 ---
 
 Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
