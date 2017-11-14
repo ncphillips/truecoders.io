@@ -59,6 +59,23 @@ layout: default
     </div>
   </div>
 
+  <!-- Reviews Row -->
+  <div class="row">
+    <div class="col">
+      <h4>Experience</h4>
+      {% for experience in page.experience %}
+
+      <p>
+        <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
+        <br/>
+        {{ experience.start_date | date: "%b %Y" | upcase }} - {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
+      </p>
+
+      {{ experience.body | markdownify }}
+      {% endfor %}
+    </div>
+  </div>
+
 </div>
 
 
