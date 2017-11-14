@@ -7,7 +7,7 @@ is_footer: true
 hero_image: "/uploads/hero-image-9.jpg"
 display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
-pagesections:
+page_sections:
 - Dev Team
 - Dev Process
 - Hire Cost

@@ -11,8 +11,8 @@ collections:
   faqs:
     title: FAQs
     output: false
-  pagesections:
-    title: PageSections
+  page_sections:
+    title: Page_Sections
     output: false
     display_title: Page Sections
   personality_types:
@@ -71,7 +71,7 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: pagesections
+    type: page_sections
   values:
     display_title: 
     sub_collection: 
@@ -140,14 +140,14 @@ defaults:
     type: pages
   values:
     layout: hire
-    pagesections:
+    page_sections:
     - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    pagesections:
+    page_sections:
     - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"

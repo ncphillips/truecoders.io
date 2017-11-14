@@ -9,7 +9,7 @@ subtitle: Be Mentored. Be Connected.
 call_to_action:
   title: Watch Intro
   url: https://player.vimeo.com/video/234034039
-pagesections:
+page_sections:
 - Team Collection
 - Courses Process
 - Courses Collection
