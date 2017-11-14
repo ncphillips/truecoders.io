@@ -2,17 +2,20 @@
 layout: default
 ---
 
-<div class="container-fluid" style="padding:30px;">
-  <div class="row">
-    <div class="col">
+<div class="container-fluid" style="padding:60px;">
+
+  <!-- Social Row -->
+  <div class="row justify-content-center" style="text-align:center; margin-bottom:20px;">
+
+    <div class="col-3">
       <i class="fa fa-github fa-lg"></i> 
       <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank">@{{ page.social.github }}</a>
     </div>
-    <div class="col">
+    <div class="col-3">
       <i class="fa fa-linkedin-square fa-lg"></i> 
       <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank">@{{ page.social.linkedin }}</a>
     </div>
-    <div class="col">
+    <div class="col-3">
       <img src="{{ "assets/images/codewars.png" | relative_url }}" alt="Codewars" style="width:20px;"> 
       <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank">@{{ page.social.codewars }}</a>
     </div>
