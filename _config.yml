@@ -44,8 +44,8 @@ defaults:
       linkedin: 
       codewars: 
     skills:
-    - title: C#
-      rank: 0
+    - title: Git
+      rank: 0.0
     codewars_scores:
     - 0
     reviews:
