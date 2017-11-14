@@ -41,8 +41,7 @@ reviews:
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
     * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
 - teammate: Martin Murphy
-  body: |-
-    Daniel exceeded my expectations in everything he did
+  body: Daniel exceeded my expectations in everything he did
 experience:
 - company: TrueCoders
   job_title: VP of Sales & Marketing
