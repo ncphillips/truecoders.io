@@ -15,6 +15,10 @@ collections:
     title: PageSections
     output: false
     display_title: Page Sections
+  personality:
+    title: Personality
+    output: false
+    display_title: Personality Type
   posts:
     title: Posts
     output: true
