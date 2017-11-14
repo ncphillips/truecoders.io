@@ -55,7 +55,7 @@ defaults:
     reviews:
     - teammate: 
       review_body: 
-    experiences:
+    experience:
     - company: 
       job_title: 
       start_date: 

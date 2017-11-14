@@ -46,7 +46,7 @@ reviews:
 
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
     * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
-experiences:
+experience:
 - company: Credntia
   job_title: Job Title
   start_date: 2017-03-20 00:00:00 -05:00
