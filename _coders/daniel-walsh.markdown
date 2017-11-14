@@ -8,6 +8,7 @@ social:
   github: danielwwalsh1992
   linkedin: daniel-walsh-aa17b02a
   codewars: danielwwalsh
+class: Alpha C#
 skills:
 - title: C#
   rank: 3.7
