@@ -43,7 +43,15 @@ defaults:
       linkedin: 
       codewars: 
     skills:
-    - title: 
+    - title: C#
+      rank: 0
+    - title: Git
+      rank: 0
+    - title: ASP.NET
+      rank: 0
+    - title: Database
+      rank: 0
+    - title: Attendance
       rank: 0
     codewars_scores:
     - 0
