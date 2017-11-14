@@ -47,16 +47,6 @@ reviews:
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
     * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
 experience:
-- company: Credntia
-  job_title: Job Title
-  start_date: 2017-03-20 00:00:00 -05:00
-  end_date: 2017-08-31 00:00:00 -05:00
-  body: |-
-    At Credntia, Daniel:
-
-    * Performed the Role of CMO
-    * Generated leads
-    * Generally excelled
 - company: TrueCoders
   job_title: VP of Sales & Marketing
   start_date: 2017-09-01 00:00:00 -05:00
@@ -67,6 +57,16 @@ experience:
     * Performs the Role of VP of Sales & Marketing
     * Generates leads
     * Generally excels
+- company: Credntia
+  job_title: Job Title
+  start_date: 2017-03-20 00:00:00 -05:00
+  end_date: 2017-08-31 00:00:00 -05:00
+  body: |-
+    At Credntia, Daniel:
+
+    * Performed the Role of CMO
+    * Generated leads
+    * Generally excelled
 ---
 
 Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
