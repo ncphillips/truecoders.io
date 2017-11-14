@@ -36,6 +36,7 @@ defaults:
     path: ''
     type: coders
   values:
+    image: 
     personality: 
     social:
       github: 
