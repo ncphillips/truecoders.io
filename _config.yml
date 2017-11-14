@@ -15,8 +15,8 @@ collections:
     title: PageSections
     output: false
     display_title: Page Sections
-  personality:
-    title: Personality
+  personality_types:
+    title: Personality_Types
     output: false
     display_title: Personality Type
   posts:
@@ -38,7 +38,7 @@ defaults:
   values:
     layout: resume
     image: 
-    personality: 
+    personality_type: 
     social:
       github: 
       linkedin: 
