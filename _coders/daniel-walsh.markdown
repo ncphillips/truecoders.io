@@ -36,16 +36,13 @@ codewars_scores:
 reviews:
 - teammate: Cody Winton
   body: |-
-    Cody's review:
+    I found that Daniel was:
 
     * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
     * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
 - teammate: Martin Murphy
   body: |-
-    Martin's review:
-
-    * Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac interdum nisi.
-    * Sed in consequat mi, sed pulvinar lacinia felis eu nibus.
+    Daniel exceeded my expectations in everything he did
 experience:
 - company: TrueCoders
   job_title: VP of Sales & Marketing
