@@ -7,6 +7,19 @@ social:
   github: danielwwalsh1992
   linkedin: daniel-walsh-aa17b02a
   codewars: danielwwalsh
+skills:
+- title: C#
+  rank: 5
+- title: Git
+  rank: 4
+- title: Attendance
+  rank: 5
+- title: ASP.NET MVC
+  rank: 3
+- title: Browsers
+  rank: 3.5
+- title: Unit Testing
+  rank: 4.5
 codewars_scores:
 - 10
 - 30

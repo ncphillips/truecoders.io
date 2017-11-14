@@ -2,4 +2,103 @@
 layout: default
 ---
 
-{{ content }}
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <i class="fa fa-github fa-lg"></i> 
+      <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank">@{{ page.social.github }}</a>
+    </div>
+    <div class="col">
+      <i class="fa fa-linkedin-square fa-lg"></i> 
+      <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank">@{{ page.social.linkedin }}</a>
+    </div>
+    <div class="col">
+      <img src="{{ "assets/images/codewars.png" | relative_url }}" alt="Codewars" style="width:20px;"> 
+      <a href="{{ "https://www.codewars.com/" | append: page.social.codewars }}" target="_blank">@{{ page.social.codewars }}</a>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:160px; border-radius:50%">
+      <h4>{{ page.title }}</h4>
+      
+      {% assign type = site.personality_types | where: "title", page.personality_type | first %}
+      <strong> {{ type.title }} </strong>
+      {{ type.content | markdownify }}
+
+    </div>
+    <div class="col">
+      <canvas id="skills-chart" width="200" height="100"></canvas>
+      <canvas id="codewars-chart" width="200" height="100"></canvas>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
+
+<script>
+  var scores = {{ page.codewars_scores | jsonify }};
+  var scoreLabels = [];
+
+  for (var i = 0; i < scores.length; i++) {
+    scoreLabels.push("Week " + (i + 1));
+  }
+  
+  var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
+
+  var codewarsChart = new Chart(codewarsTarg, {
+    type: 'line',
+    data: {
+        labels: scoreLabels,
+        datasets: [{
+            label: 'Codewars Scores',
+            data: scores,
+            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
+            borderColor: [ 'rgba(0, 147, 201, 1)' ],
+            borderWidth: 4
+        }]
+    },
+    options: {
+      showLines: true,
+      fill: false
+    }
+  });
+</script>
+
+<script>
+  var labels = [];
+  var ranks = [];
+  var skills = {{ page.skills | jsonify }};
+
+  console.log("skills.length " + skills.length);
+
+  for (var i = 0; i < skills.length; i++) {
+    var item = skills[i];
+    console.log("item " + item.title + " testing " + i);
+    labels.push(item.title);
+    ranks.push(item.rank);
+  }
+
+  var skillsTarg = document.getElementById("skills-chart").getContext('2d');
+
+  var skillsChart = new Chart(skillsTarg, {
+    type: 'radar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Skills',
+            data: ranks,
+            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
+            borderColor: [ 'rgba(0, 147, 201, 1)' ],
+            borderWidth: 4
+        }]
+    }
+  });
+</script>
