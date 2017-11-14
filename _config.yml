@@ -46,6 +46,7 @@ defaults:
       github: 
       linkedin: 
       codewars: 
+    class: 
     skills:
     - title: Git
       rank: 0.0
