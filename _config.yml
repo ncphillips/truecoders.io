@@ -40,7 +40,7 @@ defaults:
     - 0
     skills:
     - title: 
-      rank: 
+      rank: 0
     personality: 
     job_history_body: 
     reviews:
