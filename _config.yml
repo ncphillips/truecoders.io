@@ -51,6 +51,18 @@ defaults:
     reviews:
     - teammate: 
       review_body: 
+    experiences:
+    - company: 
+      job_title: 
+      start_date: 
+      end_date: 
+      body: 
+    education:
+    - school: 
+      degree: 
+      graduation_date: 
+      location: 
+      body: 
 - scope:
     path: ''
     type: courses
