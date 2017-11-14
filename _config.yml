@@ -16,7 +16,7 @@ collections:
     output: false
     display_title: Page Sections
   personality_types:
-    title: Personality_Types
+    title: Personality Types
     output: false
     display_title: Personality Type
   posts:
