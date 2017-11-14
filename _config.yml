@@ -36,17 +36,16 @@ defaults:
     path: ''
     type: coders
   values:
+    personality: 
     social:
       github: 
       linkedin: 
       codewars: 
-    codewars:
-    - 0
     skills:
     - title: 
       rank: 0
-    personality: 
-    job_history_body: 
+    codewars_scores:
+    - 0
     reviews:
     - teammate: 
       review_body: 
