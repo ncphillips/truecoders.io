@@ -20,12 +20,14 @@
     "copyMagnificPopup": "cpx \"node_modules/magnific-popup/dist/jquery.magnific-popup.min.js\" assets/js/magnific-popup && cpx \"node_modules/magnific-popup/dist/magnific-popup.css\" assets/css",
     "copyPopperJS": "cpx \"node_modules/popper.js/dist/umd/popper.min.js\" assets/js/popper && cpx \"node_modules/popper.js/dist/umd/popper.min.js.map\" assets/js/popper",
     "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/js/tether",
-    "copyAll": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS && npm run copyMagnificPopup",
+    "copyChartJS": "cpx \"node_modules/chart.js/dist/Chart.min.js\" assets/js/chart",
+    "copyAll": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS && npm run copyMagnificPopup && npm run copyChartJS",
     "build": "npm run copyAll && bundle exec jekyll build",
     "serve": "npm run copyAll && bundle exec jekyll serve"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
+    "chart.js": "^2.7.1",
     "fontawesome": "^4.7.2",
     "jquery": "^3.2.1",
     "magnific-popup": "^1.1.0",
