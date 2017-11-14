@@ -11,12 +11,12 @@ collections:
   faqs:
     title: FAQs
     output: false
-  pagesections:
-    title: PageSections
+  page_sections:
+    title: Page_Sections
     output: false
     display_title: Page Sections
-  personality:
-    title: Personality
+  personality_types:
+    title: Personality_Types
     output: false
     display_title: Personality Type
   posts:
@@ -38,7 +38,7 @@ defaults:
   values:
     layout: resume
     image: 
-    personality: 
+    personality_type: 
     social:
       github: 
       linkedin: 
@@ -71,7 +71,7 @@ defaults:
       url: 
 - scope:
     path: ''
-    type: pagesections
+    type: page_sections
   values:
     display_title: 
     sub_collection: 
@@ -140,14 +140,14 @@ defaults:
     type: pages
   values:
     layout: hire
-    pagesections:
+    page_sections:
     - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    pagesections:
+    page_sections:
     - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"

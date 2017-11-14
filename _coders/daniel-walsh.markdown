@@ -2,7 +2,7 @@
 title: Daniel Walsh
 date: 2017-11-13 17:18:00 -06:00
 image: "/uploads/daniel-walsh.jpg"
-personality: ENFJ
+personality_type: ENFJ
 social:
   github: danielwwalsh1992
   linkedin: daniel-walsh-aa17b02a
