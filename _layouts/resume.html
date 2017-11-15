@@ -4,47 +4,54 @@ layout: default
 
 <div class="container-fluid" style="padding:60px;">
 
-  <!-- Image, Title, Content, Charts Row -->
-  <div class="row justify-content-between">
-
-    <!-- Image, Title, Content Col -->
-    <div class="col-xl-5">
+  <!-- Image, Title, Content Row -->
+  <div class="row">
+    <div class="col-12" style="text-align:center;">
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:160px; border-radius:50%">
       <h4>{{ page.title }}</h4>
+      <strong>{{ page.class }} Graduate</strong>
 
       <p>
-        <strong>{{ page.class }} Graduate</strong>
-
-        <br/>
-        <i class="fa fa-github fa-lg"></i>
-        <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank"> github.com/{{ page.social.github }}</a>
-
-        <br/>
-        <i class="fa fa-linkedin-square fa-lg"></i>
-        <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank"> linkedin.com/in/{{ page.social.linkedin }}</a>
-
-        <br/>
-        <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;">
-        <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank"> codewars.com/users/{{ page.social.codewars }}</a>
-
+        <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+          <i class="fa fa-github fa-lg"></i>
+        </a>
+        <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+          <i class="fa fa-linkedin-square fa-lg"></i>
+        </a>
+        <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank" style="margin: 0px 10px;">
+          <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;">
+        </a>
       </p>
+    </div>
+  </div>
 
+  <div class="row">
+    <div class="col-12">
       {{ content }}
     </div>
+  </div>
 
-    <!-- Chart Col -->
-    <div class="col-xl-5">
-      <h6>Skill Sets</h6>
-      <canvas id="skills-chart" width="32" height="32" style="max-width: 480px;"></canvas>
-      
-      <h6>Codewars Scores</h6>
+  <!-- Image, Title, Content, Charts Row -->
+  <div class="row">
+
+    <!-- Skills Col -->
+    <div class="col-xl-6">
+      <h5>Skill Sets</h5>
+      <div style="margin-left: auto;">
+        <canvas id="skills-chart" width="32" height="24" style="max-width: 480px;"></canvas>
+      </div>
+    </div>
+
+    <!-- Codewars Col -->
+    <div class="col-xl-6">
+      <h5>Codewars Scores</h5>
       <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px;"></canvas>
     </div>
   </div>
 
   <!-- Personality Row -->
   <br/>
-  <div class="row justify-content-center">
+  <div class="row">
     <div class="col-12">
       {% assign type = site.personality_types | where: "title", page.personality_type | first %}
       <h4>Personality Type</h4>
@@ -55,7 +62,7 @@ layout: default
 
   <!-- Reviews Row -->
   <br/>
-  <div class="row justify-content-center">
+  <div class="row">
     <div class="col-12">
       <h4>Instructor Reviews</h4>
       {% for review in page.reviews %} {{ review.body | markdownify }}
@@ -69,7 +76,7 @@ layout: default
 
   <!-- Experience Row -->
   <br/>
-  <div class="row justify-content-center">
+  <div class="row">
     <div class="col-12">
       <h4>Experience</h4>
       {% for experience in page.experience %}
@@ -88,7 +95,7 @@ layout: default
 
   <!-- Education Row -->
   <br/>
-  <div class="row justify-content-center">
+  <div class="row">
     <div class="col-12">
       <h4>Education</h4>
       {% for education in page.education %}

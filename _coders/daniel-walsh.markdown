@@ -86,4 +86,6 @@ education:
     * Performed well
 ---
 
-Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+I enjoy working with people to discover the best ways a mobile strategy can help their business.
+
+Specialties: Graphic Design, Mobile Development, iPhone App development, Android App Development, Windows App Development, BlackBerry App Development, iPad App Development.
