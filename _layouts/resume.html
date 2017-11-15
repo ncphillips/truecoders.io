@@ -6,11 +6,11 @@ layout: default
 
   <!-- Image, Title, Content, Charts Row -->
   <br/>
-  <div class="row justify-content-center">
+  <div class="row justify-content-between">
 
     <!-- Image, Title, Content Col -->
-    <div class="col-10 col-lg-4">
-      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:200px; border-radius:50%">
+    <div class="col-xl-5">
+      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:160px; border-radius:50%">
       <h4>{{ page.title }}</h4>
 
       <p>
@@ -33,22 +33,20 @@ layout: default
       {{ content }}
     </div>
 
-    <!-- Dividing Col -->
-    <div class="col-1"></div>
-
     <!-- Chart Col -->
-    <div class="col-10 col-lg-5">
+    <div class="col-xl-5">
       <h6>Skill Sets</h6>
-      <canvas id="skills-chart"></canvas>
+      <canvas id="skills-chart" width="32" height="32" style="max-width: 480px;"></canvas>
+      
       <h6>Codewars Scores</h6>
-      <canvas id="codewars-chart"></canvas>
+      <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px;"></canvas>
     </div>
   </div>
 
   <!-- Personality Row -->
   <br/>
   <div class="row justify-content-center">
-    <div class="col-10">
+    <div class="col-12">
       {% assign type = site.personality_types | where: "title", page.personality_type | first %}
       <h4>Personality Type</h4>
       <strong>{{ type.title }}</strong>
@@ -59,7 +57,7 @@ layout: default
   <!-- Reviews Row -->
   <br/>
   <div class="row justify-content-center">
-    <div class="col-10">
+    <div class="col-12">
       <h4>Instructor Reviews</h4>
       {% for review in page.reviews %} {{ review.body | markdownify }}
       <p>
@@ -73,7 +71,7 @@ layout: default
   <!-- Experience Row -->
   <br/>
   <div class="row justify-content-center">
-    <div class="col-10">
+    <div class="col-12">
       <h4>Experience</h4>
       {% for experience in page.experience %}
 
@@ -92,7 +90,7 @@ layout: default
   <!-- Education Row -->
   <br/>
   <div class="row justify-content-center">
-    <div class="col-10">
+    <div class="col-12">
       <h4>Education</h4>
       {% for education in page.education %}
 
@@ -133,7 +131,7 @@ layout: default
             data: scores,
             backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
             borderColor: [ 'rgba(0, 147, 201, 1)' ],
-            borderWidth: 4,
+            borderWidth: 3,
             lineTension: 0
         }]
     },
@@ -172,7 +170,7 @@ layout: default
             data: ranks,
             backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
             borderColor: [ 'rgba(0, 147, 201, 1)' ],
-            borderWidth: 4
+            borderWidth: 3
         }]
     },
     options: {
