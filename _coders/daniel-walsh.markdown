@@ -78,7 +78,7 @@ education:
     * Performed well
 - school: TrueCoders
   degree: 
-  graduation_date: 2017-11-23 01:00:00 -05:00
+  graduation_date: 2017-11-23 00:00:00 -06:00
   location: Birmingham, AL
   body: |-
     * Did some things
