@@ -4,41 +4,47 @@ layout: default
 
 <div class="container-fluid" style="padding:60px;">
 
-  <!-- Social Row -->
-  <div class="row justify-content-center" style="text-align:center; margin-bottom:20px;">
-    <div class="col-sm-3">
-      <i class="fa fa-github fa-lg"></i> 
-      <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank">@{{ page.social.github }}</a>
-    </div>
-    <div class="col-sm-3">
-      <i class="fa fa-linkedin-square fa-lg"></i> 
-      <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank">@{{ page.social.linkedin }}</a>
-    </div>
-    <div class="col-sm-3">
-      <img src="{{ "assets/images/codewars.png" | relative_url }}" alt="Codewars" style="width:20px;"> 
-      <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank">@{{ page.social.codewars }}</a>
-    </div>
-  </div>
-
-  <!-- Image, Content, Charts Row -->
+  <!-- Image, Title, Content, Charts Row -->
   <br/>
-  <div class="row justify-content-around">
-    <div class="col-sm-4">
-      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:160px; border-radius:50%">
+  <div class="row justify-content-center">
+    
+    <!-- Image, Title, Content Col -->
+    <div class="col-10 col-lg-4">
+      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:200px; border-radius:50%">
       <h4>{{ page.title }}</h4>
+      <strong>{{ page.class }} Graduate</strong>
+
+      <br/>
+      <i class="fa fa-github fa-lg"></i> 
+      <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank"> github.com/{{ page.social.github }}</a>
+      
+      <br/>
+      <i class="fa fa-linkedin-square fa-lg"></i> 
+      <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank"> linkedin.com/in/{{ page.social.linkedin }}</a>
+      
+      <br/>
+      <img src="{{ "assets/images/codewars.png" | relative_url }}" alt="Codewars" style="width:20px;"> 
+      <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank"> codewars.com/users/{{ page.social.codewars }}</a>
+      
       {{ content }}
     </div>
-    <div class="col-sm-4">
-      <h4>Skill Sets</h4>
+
+    <!-- Dividing Col -->
+    <div class="col-1"></div>
+
+    <!-- Chart Col -->
+    <div class="col-10 col-lg-5">
+      <h6>Skill Sets</h6>
       <canvas id="skills-chart"></canvas>
+      <h6>Codewars Scores</h6>
       <canvas id="codewars-chart"></canvas>
     </div>
   </div>
 
   <!-- Personality Row -->
   <br/>
-  <div class="row">
-    <div class="col">
+  <div class="row justify-content-center">
+    <div class="col-10">
       {% assign type = site.personality_types | where: "title", page.personality_type | first %}
       <h4>Personality Type</h4>
       <strong>{{ type.title }}</strong>
@@ -48,8 +54,8 @@ layout: default
 
   <!-- Reviews Row -->
   <br/>
-  <div class="row">
-    <div class="col">
+  <div class="row justify-content-center">
+    <div class="col-10">
       <h4>Instructor Reviews</h4>
       {% for review in page.reviews %}
 
@@ -64,8 +70,8 @@ layout: default
 
   <!-- Experience Row -->
   <br/>
-  <div class="row">
-    <div class="col">
+  <div class="row justify-content-center">
+    <div class="col-10">
       <h4>Experience</h4>
       {% for experience in page.experience %}
 
@@ -82,8 +88,8 @@ layout: default
 
   <!-- Education Row -->
   <br/>
-  <div class="row">
-    <div class="col">
+  <div class="row justify-content-center">
+    <div class="col-10">
       <h4>Education</h4>
       {% for education in page.education %}
 
@@ -119,7 +125,7 @@ layout: default
     data: {
         labels: scoreLabels,
         datasets: [{
-            label: 'Codewars Scores',
+            label: '',
             data: scores,
             backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
             borderColor: [ 'rgba(0, 147, 201, 1)' ],
@@ -127,6 +133,9 @@ layout: default
         }]
     },
     options: {
+      legend: {
+        display: false
+      },
       showLines: true,
       fill: false
     }
@@ -154,7 +163,7 @@ layout: default
     data: {
         labels: labels,
         datasets: [{
-            label: 'Skills',
+            label: '',
             data: ranks,
             backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
             borderColor: [ 'rgba(0, 147, 201, 1)' ],
@@ -162,6 +171,9 @@ layout: default
         }]
     },
     options: {
+      legend: {
+        display: false
+      },
       scale: {
           ticks: {
             beginAtZero: true
