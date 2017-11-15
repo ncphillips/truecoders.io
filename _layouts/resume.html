@@ -7,25 +7,29 @@ layout: default
   <!-- Image, Title, Content, Charts Row -->
   <br/>
   <div class="row justify-content-center">
-    
+
     <!-- Image, Title, Content Col -->
     <div class="col-10 col-lg-4">
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:200px; border-radius:50%">
       <h4>{{ page.title }}</h4>
-      <strong>{{ page.class }} Graduate</strong>
 
-      <br/>
-      <i class="fa fa-github fa-lg"></i> 
-      <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank"> github.com/{{ page.social.github }}</a>
-      
-      <br/>
-      <i class="fa fa-linkedin-square fa-lg"></i> 
-      <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank"> linkedin.com/in/{{ page.social.linkedin }}</a>
-      
-      <br/>
-      <img src="{{ "assets/images/codewars.png" | relative_url }}" alt="Codewars" style="width:20px;"> 
-      <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank"> codewars.com/users/{{ page.social.codewars }}</a>
-      
+      <p>
+        <strong>{{ page.class }} Graduate</strong>
+
+        <br/>
+        <i class="fa fa-github fa-lg"></i>
+        <a href="{{ " https://www.github.com/ " | append: page.social.github }}" target="_blank"> github.com/{{ page.social.github }}</a>
+
+        <br/>
+        <i class="fa fa-linkedin-square fa-lg"></i>
+        <a href="{{ " https://www.linkedin.com/in/ " | append: page.social.linkedin }}" target="_blank"> linkedin.com/in/{{ page.social.linkedin }}</a>
+
+        <br/>
+        <img src="{{ " assets/images/codewars.png " | relative_url }}" alt="Codewars" style="width:20px;">
+        <a href="{{ " https://www.codewars.com/users/ " | append: page.social.codewars }}" target="_blank"> codewars.com/users/{{ page.social.codewars }}</a>
+
+      </p>
+
       {{ content }}
     </div>
 
@@ -57,9 +61,7 @@ layout: default
   <div class="row justify-content-center">
     <div class="col-10">
       <h4>Instructor Reviews</h4>
-      {% for review in page.reviews %}
-
-      {{ review.body | markdownify }}
+      {% for review in page.reviews %} {{ review.body | markdownify }}
       <p>
         <strong>{{ "- " | append: review.teammate }}</strong>
       </p>
@@ -77,11 +79,12 @@ layout: default
 
       <p>
         <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
-        <br/>
-        {{ experience.start_date | date: "%b %Y" | upcase }} - {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
+        <br/> {{ experience.start_date | date: "%b %Y" | upcase }} -
+        {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
       </p>
 
       {{ experience.body | markdownify }}
+
       {% endfor %}
     </div>
   </div>
@@ -100,6 +103,7 @@ layout: default
       </p>
 
       {{ education.body | markdownify }}
+      
       {% endfor %}
     </div>
   </div>
