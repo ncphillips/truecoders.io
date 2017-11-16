@@ -6,15 +6,14 @@ personality_type: ENFJ
 class: Alpha C#
 reviews:
 - teammate: Martin Murphy
-  body: 'Darius is a perpetual learner able to digest complex problems quickly and
+  body: |-
+    Darius is a perpetual learner able to digest complex problems quickly and
     put them into use. Great interpersonal skills I believe he’ll be a valuable asset
     to any team and produce the best results from those around him.  Diagnostics are
     his strong suit and I look forward to seeing what he can do in the wild.
-
-'
 experience:
 - company: FEDEX GROUND
-  job_title: 'Driver '
+  job_title: Driver
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -22,7 +21,7 @@ experience:
     Mange route scheduling and equipment
     Maintain company vehicles under strict guidelines and maintenance schedules
 - company: BADA-DING, INC
-  job_title: 'Detailer '
+  job_title: Detailer
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -36,7 +35,7 @@ education:
   location: Birmingham, AL
   body: 
 - school: HUFFMAN HIGH SCHOOL
-  degree: 'HIGH SCHOOL DIPLOMA '
+  degree: High School Diploma
   graduation_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL
   body: 
