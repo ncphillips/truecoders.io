@@ -112,8 +112,49 @@ layout: default
 
 </div>
 
+<!-- Javascript Skills Chart -->
+<script>
+  var labels = [];
+  var ranks = [];
+  var skills = {{ page.skills | jsonify }};
 
-<!-- Charts Javascript -->
+  console.log("skills.length " + skills.length);
+
+  for (var i = 0; i < skills.length; i++) {
+    var item = skills[i];
+    console.log("item " + item.title + " testing " + i);
+    labels.push(item.title);
+    ranks.push(item.rank);
+  }
+
+  var skillsTarg = document.getElementById("skills-chart").getContext('2d');
+
+  var skillsChart = new Chart(skillsTarg, {
+    type: 'radar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: '',
+            data: ranks,
+            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
+            borderColor: [ 'rgba(0, 147, 201, 1)' ],
+            borderWidth: 3
+        }]
+    },
+    options: {
+      legend: {
+        display: false
+      },
+      scale: {
+          ticks: {
+            beginAtZero: true
+          }
+      }
+  }
+  });
+</script>
+
+<!-- Javascript Codewars Chart -->
 <script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
 
 <script>
@@ -146,47 +187,5 @@ layout: default
       showLines: true,
       fill: false
     }
-  });
-</script>
-
-<script>
-  var labels = [];
-  var ranks = [];
-  var skills = {{ page.skills | jsonify }};
-
-  console.log("skills.length " + skills.length);
-
-  for (var i = 0; i < skills.length; i++) {
-    var item = skills[i];
-    console.log("item " + item.title + " testing " + i);
-    labels.push(item.title);
-    ranks.push(item.rank);
-  }
-
-  var skillsTarg = document.getElementById("skills-chart").getContext('2d');
-  
-
-  var skillsChart = new Chart(skillsTarg, {
-    type: 'radar',
-    data: {
-        labels: labels,
-        datasets: [{
-            label: '',
-            data: ranks,
-            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
-            borderColor: [ 'rgba(0, 147, 201, 1)' ],
-            borderWidth: 3
-        }]
-    },
-    options: {
-      legend: {
-        display: false
-      },
-      scale: {
-          ticks: {
-            beginAtZero: true
-          }
-      }
-  }
   });
 </script>
