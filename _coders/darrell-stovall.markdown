@@ -5,6 +5,10 @@ position: 5
 image: "/uploads/darrell-stovall.jpg"
 class: Alpha C#
 personality_type: INTJ
+social:
+  github: darrellstovall
+  linkedin: darrell-stovall-222857151
+  codewars: darrellstovall
 reviews:
 - teammate: Cody Winton
   body: Darrel is anxious to learn and do well in his career as a programmer and possesses

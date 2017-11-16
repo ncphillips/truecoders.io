@@ -5,6 +5,10 @@ position: 9
 image: "/uploads/jessica-reid.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: jrharris620
+  linkedin: jessica-reid-a9bb0681
+  codewars: jrharris620
 reviews:
 - teammate: Cody Winton
   body: Jessica has amazed me with her ability to both learn and accomplish any task

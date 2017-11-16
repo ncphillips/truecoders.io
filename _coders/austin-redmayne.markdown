@@ -5,6 +5,10 @@ position: 1
 image: "/uploads/austin-redmayne.jpg"
 class: Alpha C#
 personality_type: INFJ
+social:
+  github: austinrickmayne
+  linkedin: austin-redmayne-2271a0151
+  codewars: austinrickmayne
 reviews:
 - teammate: Cody Winton
   body: Austin has shown himself anxious to learn and do well in his work. I would

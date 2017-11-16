@@ -5,6 +5,10 @@ position: 13
 image: "/uploads/noah-holtkamp.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: HoltkampN
+  linkedin: noah-holtkamp-1003b9100
+  codewars: HoltkampN
 reviews:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs

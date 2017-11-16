@@ -5,6 +5,10 @@ position: 14
 image: "/uploads/toriana-grooms.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: torigrooms
+  linkedin: toriana-grooms-506853151
+  codewars: torigrooms
 reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating

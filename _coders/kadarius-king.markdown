@@ -5,6 +5,10 @@ position: 11
 image: "/uploads/kadarius-king.jpg"
 class: Alpha C#
 personality_type: INFP
+social:
+  github: KaDarius
+  linkedin: kadarius-king
+  codewars: KaDarius
 reviews:
 - teammate: Martin Murphy
   body: Willing to go the distance for the cause, his gaming background makes him

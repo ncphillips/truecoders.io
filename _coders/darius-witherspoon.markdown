@@ -5,6 +5,10 @@ position: 4
 image: "/uploads/darius-witherspoon.jpg"
 class: Alpha C#
 personality_type: ENFJ
+social:
+  github: wcordari
+  linkedin: cordarius-witherspoon-97468794
+  codewars: wcordarius
 reviews:
 - teammate: Cody Winton
   body: Darius has both skill and drive to complete tasks with quality and accuracy.

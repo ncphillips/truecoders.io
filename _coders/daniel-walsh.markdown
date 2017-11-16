@@ -7,7 +7,6 @@ class: Alpha C#
 personality_type: ENFJ
 social:
   github: danielwwalsh1992
-  linkedin: daniel-walsh-aa17b02a
   codewars: danielwwalsh
 skills:
 - title: C#

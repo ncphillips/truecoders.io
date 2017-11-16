@@ -5,6 +5,10 @@ position: 7
 image: "/uploads/harshith-julapelli.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: Harshithj88
+  linkedin: hjulapelli
+  codewars: Harshithj
 reviews:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. I'd highly

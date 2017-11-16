@@ -5,6 +5,10 @@ position: 6
 image: "/uploads/grant-berryman.jpg"
 class: Alpha C#
 personality_type: ISTP
+social:
+  github: 2unes
+  linkedin: grantberryman
+  codewars: 2unes
 reviews:
 - teammate: Cody Winton
   body: Grant is highly intelligent and will not rest until he has accomplished the

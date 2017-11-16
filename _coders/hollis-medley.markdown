@@ -5,6 +5,10 @@ position: 8
 image: "/uploads/hollis-medley.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: hmedley
+  linkedin: hollis-medley-8a6169152
+  codewars: hmedley
 reviews:
 - teammate: Cody Winton
   body: Hollis brings a plethora of skills to the table and has a real knack for learning.

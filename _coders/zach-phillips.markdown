@@ -5,6 +5,10 @@ position: 15
 image: "/uploads/zach-phillips.jpg"
 class: Alpha C#
 personality_type: ISTJ
+social:
+  github: zachstagrammer
+  linkedin: zach-phillips-087135152
+  codewars: zachstagrammer
 reviews:
 - teammate: Cody Winton
   body: Zach is an intelligent individual with a real talent for accomplishing the

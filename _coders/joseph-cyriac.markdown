@@ -5,6 +5,10 @@ position: 10
 image: "/uploads/joseph-cyriac.jpg"
 class: Alpha C#
 personality_type: ENTJ
+social:
+  github: cyriajo
+  linkedin: 
+  codewars: cyriajo
 reviews:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks

@@ -5,6 +5,10 @@ position: 12
 image: "/uploads/micah-weech.jpg"
 class: Alpha C#
 personality_type: ESTJ
+social:
+  github: mweechzing
+  linkedin: micah-weech-b911a256
+  codewars: mweechzing
 reviews:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to

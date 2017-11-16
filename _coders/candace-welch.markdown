@@ -5,6 +5,10 @@ position: 2
 image: "/uploads/candace-welch.jpg"
 class: Alpha C#
 personality_type: INFJ
+social:
+  github: candacejwelch
+  linkedin: candacewelch
+  codewars: candacejwelch
 reviews:
 - teammate: Cody Winton
   body: Candace has exceeded all my expectations, seeking quality in her work and
