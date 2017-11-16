@@ -76,13 +76,15 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Instructor Reviews</h4>
-      {% for review in page.reviews %}
+      
+      {% assign reviews = page.reviews | sort: 'teammate' %}
+      {% for review in reviews %}
       {{ review.body | markdownify }}
       <p>
         <strong>{{ "- " | append: review.teammate }}</strong>
       </p>
-
       {% endfor %}
+
     </div>
   </div>
   {% endif %}
@@ -93,7 +95,8 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Experience</h4>
-      {% for experience in page.experience %}
+      {% assign experiences = page.experience | sort: 'start_date' | reverse %}
+      {% for experience in experiences %}
 
       <p>
         <strong>{{ experience.company | capitalize }}</strong> / {{ experience.job_title | capitalize }}
