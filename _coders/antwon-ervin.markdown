@@ -2,6 +2,7 @@
 title: Antwon Ervin
 date: 2017-11-14 01:53:00 -06:00
 position: 0
+image: "/uploads/antwon-ervin.jpg"
 personality_type: ESTJ
 social:
   github: antwonervin
@@ -16,20 +17,20 @@ reviews:
     the end user and the business requirements.
 experience:
 - company: TrueCoders
-  job_title: 'Developer '
+  job_title: Developer
   start_date: 0002-10-01 00:09:24 -05:50
-  end_date: 'Present '
+  end_date: 
   body: C# and .NET Developer with experience in Javascript, CSS, and HTML.
 - company: Discover Birmingham
   job_title: Founder
   start_date: 0001-01-01 00:09:24 -05:50
-  end_date: Present
+  end_date: 
   body: 'Discover Birmingham serves as a insider’s guide to Birmingham,AL. A tool
     that will be a information hub for things like: video restaurant reviews and local
     event listings We will also host/sponsor community building projects around Birmingham
     to affect positive change.'
 - company: Five Star Painting
-  job_title: 'Project Consultant '
+  job_title: Project Consultant
   start_date: 0001-09-01 00:09:24 -05:50
   end_date: 2017-07-20 00:00:00 -05:00
   body: Production management and business development.
@@ -61,7 +62,7 @@ experience:
     windshield repair tech
 education:
 - school: Brown Mackie College-Birmingham
-  degree: Associate's degree
+  degree: Associate's Degree
   graduation_date: 2015-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: Associate's degree, Business, Management, Marketing, and Related Support Services,
