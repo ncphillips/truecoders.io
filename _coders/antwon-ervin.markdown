@@ -9,6 +9,13 @@ social:
   linkedin: antwonervin
   codewars: aervin
 class: Alpha C#
+codewars_scores:
+- 4
+- 4
+- 18
+- 18
+- 70
+- 70
 reviews:
 - teammate: Martin Murphy
   body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
