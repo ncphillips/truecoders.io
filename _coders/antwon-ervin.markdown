@@ -18,7 +18,7 @@ reviews:
 experience:
 - company: TrueCoders
   job_title: Developer
-  start_date: 0002-10-01 00:09:24 -05:50
+  start_date: 2017-10-02 00:00:00 -05:00
   end_date: 
   body: C# and .NET Developer with experience in Javascript, CSS, and HTML.
 - company: Discover Birmingham
