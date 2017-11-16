@@ -132,76 +132,80 @@ layout: default
 
 <!-- Javascript Skills Chart -->
 <script>
-  var labels = [];
-  var ranks = [];
   var skills = {{ page.skills | jsonify }};
 
-  console.log("skills.length " + skills.length);
+  if (skills.length < 1) {
+    var labels = [];
+    var ranks = [];
+    
+    for (var i = 0; i < skills.length; i++) {
+      var item = skills[i];
+      console.log("item " + item.title + " testing " + i);
+      labels.push(item.title);
+      ranks.push(item.rank);
+    }
 
-  for (var i = 0; i < skills.length; i++) {
-    var item = skills[i];
-    console.log("item " + item.title + " testing " + i);
-    labels.push(item.title);
-    ranks.push(item.rank);
-  }
+    var skillsTarg = document.getElementById("skills-chart").getContext('2d');
 
-  var skillsTarg = document.getElementById("skills-chart").getContext('2d');
-
-  var skillsChart = new Chart(skillsTarg, {
-    type: 'radar',
-    data: {
-        labels: labels,
-        datasets: [{
-            label: '',
-            data: ranks,
-            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
-            borderColor: [ 'rgba(0, 147, 201, 1)' ],
-            borderWidth: 3
-        }]
-    },
-    options: {
-      legend: {
-        display: false
+    var skillsChart = new Chart(skillsTarg, {
+      type: 'radar',
+      data: {
+          labels: labels,
+          datasets: [{
+              label: '',
+              data: ranks,
+              backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
+              borderColor: [ 'rgba(0, 147, 201, 1)' ],
+              borderWidth: 3
+          }]
       },
-      scale: {
-          ticks: {
-            beginAtZero: true
-          }
+      options: {
+        legend: {
+          display: false
+        },
+        scale: {
+            ticks: {
+              beginAtZero: true
+            }
+        }
       }
+    });
   }
-  });
 </script>
 
 <!-- Javascript Codewars Chart -->
 <script>
   var scores = {{ page.codewars_scores | jsonify }};
-  var scoreLabels = [];
 
-  for (var i = 0; i < scores.length; i++) {
-    scoreLabels.push("Week " + (i + 1));
-  }
-  
-  var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
+  if (scores.length < 1) {
+    var scoreLabels = [];
 
-  var codewarsChart = new Chart(codewarsTarg, {
-    type: 'line',
-    data: {
-        labels: scoreLabels,
-        datasets: [{
-            label: '',
-            data: scores,
-            backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
-            borderColor: [ 'rgba(0, 147, 201, 1)' ],
-            borderWidth: 3,
-            lineTension: 0
-        }]
-    },
-    options: {
-      legend: {
-        display: false
-      },
-      showLines: true,
-      fill: false
+    for (var i = 0; i < scores.length; i++) {
+      scoreLabels.push("Week " + (i + 1));
     }
-  });
+    
+    var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
+
+    var codewarsChart = new Chart(codewarsTarg, {
+      type: 'line',
+      data: {
+          labels: scoreLabels,
+          datasets: [{
+              label: '',
+              data: scores,
+              backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
+              borderColor: [ 'rgba(0, 147, 201, 1)' ],
+              borderWidth: 3,
+              lineTension: 0
+          }]
+      },
+      options: {
+        legend: {
+          display: false
+        },
+        showLines: true,
+        fill: false
+      }
+    });
+  }
 </script>
