@@ -110,7 +110,7 @@ layout: default
       {% for experience in experiences %}
 
       <p>
-        <strong>{{ experience.company | capitalize }}</strong> / {{ experience.job_title | capitalize }}
+        <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
         <br/> {{ experience.start_date | date: "%b %Y" | upcase }} -
         {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
       </p>
@@ -128,12 +128,13 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
-      {% for education in page.education %}
+      {% assign educations = page.education | sort: 'graduation_date' | reverse %}
+      {% for education in educations %}
 
       <p>
-        <strong>{{ education.school | capitalize }}</strong> {% if education.degree %} / {{ education.degree | capitalize }}{% endif %}
+        <strong>{{ education.school }}</strong> {% if education.degree %} / {{ education.degree }}{% endif %}
         <br/>
-        {{ education.graduation_date | date: "%b %Y" | upcase }}, {{ education.location | upcase }}
+        {{ education.graduation_date | date: "%b %Y" | upcase }}, {{ education.location }}
       </p>
 
       {{ education.body | markdownify }}
