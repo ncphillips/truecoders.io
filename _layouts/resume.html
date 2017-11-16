@@ -16,17 +16,28 @@ layout: default
       <strong>{{ page.class }} Graduate</strong>
       {% endif %}
 
+      {% if page.social %}
       <p>
+        {% if page.social.github %}
         <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank" style="color:#212529; margin: 0px 10px;">
           <i class="fa fa-github fa-lg"></i>
         </a>
+        {% endif %}
+
+        {% if page.social.linkedin %}
         <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank" style="color:#212529; margin: 0px 10px;">
           <i class="fa fa-linkedin-square fa-lg"></i>
         </a>
+        {% endif %}
+
+        {% if page.social.codewars %}
         <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank" style="margin: 0px 10px;">
           <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;">
         </a>
+        {% endif %}
       </p>
+      {% endif %}
+
     </div>
   </div>
 
@@ -41,7 +52,7 @@ layout: default
 
     <!-- Skills Col -->
     {% if page.skills[1] %}
-    <div class="col-xl-6" style="text-align:center;">
+    <div class="col-xl" style="text-align:center;">
       <h5>Skill Sets</h5>
       <canvas id="skills-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
@@ -49,8 +60,8 @@ layout: default
 
     <!-- Codewars Col -->
     {% if page.codewars_scores[1] %}
-    <div class="col-xl-6" style="text-align:center;">
-      <h5>Codewars Scores</h5>
+    <div class="col-xl" style="text-align:center;">
+      <h5>Codewars Score</h5>
       <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
     {% endif %}
