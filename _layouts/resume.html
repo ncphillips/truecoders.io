@@ -178,38 +178,4 @@ layout: default
 </script>
 
 <!-- Javascript Codewars Chart -->
-<script>
-  var scores = {{ page.codewars_scores | jsonify }};
-
-  if (scores.length > 1) {
-    var scoreLabels = [];
-
-    for (var i = 0; i < scores.length; i++) {
-      scoreLabels.push("Week " + (i + 1));
-    }
-    
-    var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
-
-    var codewarsChart = new Chart(codewarsTarg, {
-      type: 'line',
-      data: {
-          labels: scoreLabels,
-          datasets: [{
-              label: '',
-              data: scores,
-              backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
-              borderColor: [ 'rgba(0, 147, 201, 1)' ],
-              borderWidth: 3,
-              lineTension: 0
-          }]
-      },
-      options: {
-        legend: {
-          display: false
-        },
-        showLines: true,
-        fill: false
-      }
-    });
-  }
-</script>
+{% include charts/codewars-scores-chart.html scores=page.codewars_scores %}
