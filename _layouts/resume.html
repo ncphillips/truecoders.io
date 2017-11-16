@@ -138,7 +138,7 @@ layout: default
 <script>
   var skills = {{ page.skills | jsonify }};
 
-  if (skills.length < 1) {
+  if (skills.length > 1) {
     var labels = [];
     var ranks = [];
     
@@ -181,7 +181,7 @@ layout: default
 <script>
   var scores = {{ page.codewars_scores | jsonify }};
 
-  if (scores.length < 1) {
+  if (scores.length > 1) {
     var scoreLabels = [];
 
     for (var i = 0; i < scores.length; i++) {
