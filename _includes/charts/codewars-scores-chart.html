@@ -1,4 +1,7 @@
 <script>
+
+  Chart.defaults.global.defaultFontFamily = 'Montserrat';
+
   var scores = {{ include.scores | jsonify }};
 
   if (scores.length > 1) {

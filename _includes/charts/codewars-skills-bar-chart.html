@@ -1,4 +1,7 @@
 <script>
+
+  Chart.defaults.global.defaultFontFamily = 'Montserrat';
+
   var skills = {{ include.skills | jsonify }};
 
   if (skills.length > 1) {
