@@ -88,6 +88,7 @@ layout: default
   {% endif %}
 
   <!-- Experience Row -->
+  {% if page.experience[0].company %}
   <br/>
   <div class="row">
     <div class="col-12">
@@ -95,7 +96,7 @@ layout: default
       {% for experience in page.experience %}
 
       <p>
-        <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
+        <strong>{{ experience.company | capitalize }}</strong> / {{ experience.job_title | capitalize }}
         <br/> {{ experience.start_date | date: "%b %Y" | upcase }} -
         {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
       </p>
@@ -105,8 +106,10 @@ layout: default
       {% endfor %}
     </div>
   </div>
+  {% endif %}
 
   <!-- Education Row -->
+  {% if page.education[0].school %}
   <br/>
   <div class="row">
     <div class="col-12">
@@ -114,7 +117,7 @@ layout: default
       {% for education in page.education %}
 
       <p>
-        <strong>{{ education.school }}</strong> {% if education.degree %} / {{ education.degree }}{% endif %}
+        <strong>{{ education.school | capitalize }}</strong> {% if education.degree %} / {{ education.degree | capitalize }}{% endif %}
         <br/>
         {{ education.graduation_date | date: "%b %Y" | upcase }}, {{ education.location | upcase }}
       </p>
@@ -124,6 +127,7 @@ layout: default
       {% endfor %}
     </div>
   </div>
+  {% endif %}
 
 </div>
 
