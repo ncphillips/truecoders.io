@@ -28,7 +28,9 @@ layout: page
     <h3 class="item-title">{{ item.title }}</h3>
     <h5 class="item-subtitle">{{ item.subtitle }}</h5>
 
+    {% unless page.collection == 'coders' %}
     {{ item.excerpt | default: item.content | markdownify }}
+    {% endunless %}
 
   </div>
   {% endfor %}

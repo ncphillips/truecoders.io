@@ -71,8 +71,6 @@ education:
   body: 
 ---
 
-To whom it may concern,
-
 I, Austin Redmayne, am and always have been highly intrigued by
 the open range of the technology field. Growing up I became very
 familiar with OS installation, virus protection/removal, and most of
