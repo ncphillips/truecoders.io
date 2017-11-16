@@ -5,6 +5,10 @@ position: 1
 image: "/uploads/austin-redmayne.jpg"
 class: Alpha C#
 personality_type: INFJ
+reviews:
+- teammate: Cody Winton
+  body: Austin has shown himself anxious to learn and do well in his work. I would
+    recommend Austin for Quality Assurance.
 experience:
 - company: Baumhowers
   job_title: Server
@@ -68,6 +72,7 @@ education:
 ---
 
 To whom it may concern,
+
 I, Austin Redmayne, am and always have been highly intrigued by
 the open range of the technology field. Growing up I became very
 familiar with OS installation, virus protection/removal, and most of
