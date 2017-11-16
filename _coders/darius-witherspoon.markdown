@@ -6,11 +6,13 @@ image: "/uploads/darius-witherspoon.jpg"
 class: Alpha C#
 personality_type: ENFJ
 reviews:
+- teammate: Cody Winton
+  body: Darius has both skill and drive to complete tasks with quality and accuracy.
+    I'd recommend Darius for a programming or quality assurance role.
 - teammate: Martin Murphy
-  body: |-
-    Darius is a perpetual learner able to digest complex problems quickly and
+  body: Darius is a perpetual learner able to digest complex problems quickly and
     put them into use. Great interpersonal skills I believe he’ll be a valuable asset
-    to any team and produce the best results from those around him.  Diagnostics are
+    to any team and produce the best results from those around him. Diagnostics are
     his strong suit and I look forward to seeing what he can do in the wild.
 experience:
 - company: FEDEX GROUND
