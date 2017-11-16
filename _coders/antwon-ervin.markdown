@@ -23,7 +23,7 @@ experience:
   body: C# and .NET Developer with experience in Javascript, CSS, and HTML.
 - company: Discover Birmingham
   job_title: Founder
-  start_date: 0001-01-01 00:09:24 -05:50
+  start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
   body: 'Discover Birmingham serves as a insider’s guide to Birmingham,AL. A tool
     that will be a information hub for things like: video restaurant reviews and local
@@ -31,12 +31,12 @@ experience:
     to affect positive change.'
 - company: Five Star Painting
   job_title: Project Consultant
-  start_date: 0001-09-01 00:09:24 -05:50
+  start_date: 2014-09-01 00:00:00 -05:00
   end_date: 2017-07-20 00:00:00 -05:00
   body: Production management and business development.
 - company: Chronicle Studio
   job_title: Service Consultant
-  start_date: 2020-04-01 00:00:00 -05:00
+  start_date: 2010-04-01 01:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
     Served as lead support for the project Automotive Leadership Technology. Served as first contact for clients.
