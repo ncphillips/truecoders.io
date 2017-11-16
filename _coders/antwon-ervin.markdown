@@ -3,7 +3,7 @@ title: Antwon Ervin
 date: 2017-11-14 01:53:00 -06:00
 position: 0
 image: "/uploads/antwon-ervin.jpg"
-personality_type: ESTJ
+personality_type: ENFP
 social:
   github: antwonervin
   linkedin: antwonervin
