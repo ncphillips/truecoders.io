@@ -22,6 +22,9 @@ reviews:
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
+- teammate: Cody Winton
+  body: Antwon is an exceptional individual with a real knack for interaction and
+    explanation. I highly recommend Antwon for a DBA or Project Management role.
 experience:
 - company: TrueCoders
   job_title: Developer
