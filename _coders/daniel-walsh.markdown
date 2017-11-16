@@ -11,7 +11,7 @@ social:
 class: Alpha C#
 skills:
 - title: C#
-  rank: 3.7
+  rank: 3.5
 - title: Git
   rank: 4
 - title: Attendance
@@ -21,7 +21,7 @@ skills:
 - title: Unit Testing
   rank: 4.5
 - title: SQL
-  rank: 3.9
+  rank: 4
 - title: Browsers
   rank: 1.5
 codewars_scores:
