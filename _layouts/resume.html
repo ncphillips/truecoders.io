@@ -135,47 +135,7 @@ layout: default
 <script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
 
 <!-- Javascript Skills Chart -->
-<script>
-  var skills = {{ page.skills | jsonify }};
-
-  if (skills.length > 1) {
-    var labels = [];
-    var ranks = [];
-    
-    for (var i = 0; i < skills.length; i++) {
-      var item = skills[i];
-      console.log("item " + item.title + " testing " + i);
-      labels.push(item.title);
-      ranks.push(item.rank);
-    }
-
-    var skillsTarg = document.getElementById("skills-chart").getContext('2d');
-
-    var skillsChart = new Chart(skillsTarg, {
-      type: 'radar',
-      data: {
-          labels: labels,
-          datasets: [{
-              label: '',
-              data: ranks,
-              backgroundColor: [ 'rgba(0, 147, 201, 0.0)' ], //R: 0 G: 147 B: 201
-              borderColor: [ 'rgba(0, 147, 201, 1)' ],
-              borderWidth: 3
-          }]
-      },
-      options: {
-        legend: {
-          display: false
-        },
-        scale: {
-            ticks: {
-              beginAtZero: true
-            }
-        }
-      }
-    });
-  }
-</script>
+{% include charts/codewars-skills-radar-chart.html skills=page.skills %}
 
 <!-- Javascript Codewars Chart -->
 {% include charts/codewars-scores-chart.html scores=page.codewars_scores %}
