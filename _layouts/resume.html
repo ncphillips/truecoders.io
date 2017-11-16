@@ -7,7 +7,9 @@ layout: default
   <!-- Image, Title, Content Row -->
   <div class="row">
     <div class="col-12" style="text-align:center;">
+      {% if page.image %}
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:160px; border-radius:50%">
+      {% endif %}
       <h4>{{ page.title }}</h4>
       
       {% if page.class %}
@@ -69,11 +71,13 @@ layout: default
   {% endif %}
 
   <!-- Reviews Row -->
+  {% if page.reviews[0].body %}
   <br/>
   <div class="row">
     <div class="col-12">
       <h4>Instructor Reviews</h4>
-      {% for review in page.reviews %} {{ review.body | markdownify }}
+      {% for review in page.reviews %}
+      {{ review.body | markdownify }}
       <p>
         <strong>{{ "- " | append: review.teammate }}</strong>
       </p>
@@ -81,6 +85,7 @@ layout: default
       {% endfor %}
     </div>
   </div>
+  {% endif %}
 
   <!-- Experience Row -->
   <br/>
