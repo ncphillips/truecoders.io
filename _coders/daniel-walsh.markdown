@@ -11,7 +11,7 @@ social:
 class: Alpha C#
 skills:
 - title: C#
-  rank: 3.7
+  rank: 3.5
 - title: Git
   rank: 4
 - title: Attendance
@@ -21,7 +21,7 @@ skills:
 - title: Unit Testing
   rank: 4.5
 - title: SQL
-  rank: 3.9
+  rank: 4
 - title: Browsers
   rank: 1.5
 codewars_scores:
@@ -86,4 +86,6 @@ education:
     * Performed well
 ---
 
-Content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+I enjoy working with people to discover the best ways a mobile strategy can help their business.
+
+Specialties: Graphic Design, Mobile Development, iPhone App development, Android App Development, Windows App Development, BlackBerry App Development, iPad App Development.
