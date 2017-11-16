@@ -2,6 +2,7 @@
 title: Austin Redmayne
 date: 2017-11-14 02:01:00 -06:00
 position: 1
+image: "/uploads/austin-redmayne.jpg"
 personality_type: INFJ
 class: Alpha C#
 experience:
