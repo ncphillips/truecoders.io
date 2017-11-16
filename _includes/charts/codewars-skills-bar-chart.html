@@ -7,39 +7,29 @@
   if (skills.length > 1) {
     var labels = [];
     var ranks = [];
+    var backgroundColors = [];
+    var borderColors = [];
 
     for (var i = 0; i < skills.length; i++) {
       var item = skills[i];
       console.log("item " + item.title + " testing " + i);
       labels.push(item.title);
       ranks.push(item.rank);
+      backgroundColors.push('rgba(0, 147, 201, 1)');
+      borderColors.push('rgba(0, 147, 201, 1)');
     }
 
     var skillsTarg = document.getElementById("skills-chart").getContext('2d');
 
     var skillsChart = new Chart(skillsTarg, {
-      type: 'bar',
+      type: 'horizontalBar',
       data: {
         labels: labels,
         datasets: [{
           label: 'Skills',
           data: ranks,
-          backgroundColor: [
-            'rgba(0, 147, 201, 0.3)',
-            'rgba(0, 147, 201, 0.3)',
-            'rgba(0, 147, 201, 0.3)',
-            'rgba(0, 147, 201, 0.3)',
-            'rgba(0, 147, 201, 0.3)',
-            'rgba(0, 147, 201, 0.3)',
-          ],
-          borderColor: [
-            'rgba(0, 147, 201, 1)',
-            'rgba(0, 147, 201, 1)',
-            'rgba(0, 147, 201, 1)',
-            'rgba(0, 147, 201, 1)',
-            'rgba(0, 147, 201, 1)',
-            'rgba(0, 147, 201, 1)',
-          ],
+          backgroundColor: backgroundColors,
+          borderColor: borderColors,
           borderWidth: 1
         }]
       },
