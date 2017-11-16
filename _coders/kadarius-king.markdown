@@ -10,6 +10,9 @@ reviews:
   body: Willing to go the distance for the cause, his gaming background makes him
     fast with numbers and a natural problem solver. I see him playing a critical role
     as a developer in any organization that snaps him up.
+- teammate: Cody Winton
+  body: KaDarius is intelligent and never stops learning what he needs to know to
+    get the job done. I'd recommend KaDarius for a programming position.
 experience:
 - company: PNC Bank
   job_title: Financial Sales Consultant
