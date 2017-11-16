@@ -4,6 +4,7 @@ date: 2017-11-14 02:03:00 -06:00
 position: 14
 image: "/uploads/toriana-grooms.jpg"
 class: Alpha C#
+personality_type: ESTJ
 reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating
