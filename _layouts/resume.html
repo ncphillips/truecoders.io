@@ -127,6 +127,9 @@ layout: default
 
 </div>
 
+<!-- Javascript Chart Source -->
+<script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
+
 <!-- Javascript Skills Chart -->
 <script>
   var labels = [];
@@ -170,8 +173,6 @@ layout: default
 </script>
 
 <!-- Javascript Codewars Chart -->
-<script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
-
 <script>
   var scores = {{ page.codewars_scores | jsonify }};
   var scoreLabels = [];
