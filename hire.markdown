@@ -1,10 +1,11 @@
 ---
-title: Hire TrueCoders
+title: Hire Us
 date: 2017-11-10 10:00:00 -06:00
 position: 6
 is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-9.jpg"
+display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 page_sections:
 - Dev Team
