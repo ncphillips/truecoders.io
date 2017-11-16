@@ -35,17 +35,15 @@ layout: default
   <div class="row">
 
     <!-- Skills Col -->
-    <div class="col-xl-6">
+    <div class="col-xl-6" style="text-align:center;">
       <h5>Skill Sets</h5>
-      <div style="margin-left: auto;">
-        <canvas id="skills-chart" width="32" height="24" style="max-width: 480px;"></canvas>
-      </div>
+      <canvas id="skills-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
 
     <!-- Codewars Col -->
-    <div class="col-xl-6">
+    <div class="col-xl-6" style="text-align:center;">
       <h5>Codewars Scores</h5>
-      <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px;"></canvas>
+      <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
   </div>
 
@@ -166,6 +164,7 @@ layout: default
   }
 
   var skillsTarg = document.getElementById("skills-chart").getContext('2d');
+  
 
   var skillsChart = new Chart(skillsTarg, {
     type: 'radar',
