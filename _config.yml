@@ -41,12 +41,12 @@ defaults:
   values:
     layout: resume
     image: 
+    class: 
     personality_type: 
     social:
       github: 
       linkedin: 
       codewars: 
-    class: 
     skills:
     - title: Git
       rank: 0.0
