@@ -8,6 +8,7 @@ collections:
   coders:
     title: Coders
     output: true
+    reviews_limit: 1
   courses:
     title: Courses
     output: true
