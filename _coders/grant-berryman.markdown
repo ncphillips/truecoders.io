@@ -45,7 +45,8 @@ experience:
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
   body: |-
-    [Tech-Ease](www.tech-ease.org) provides tech consultation, solutions, training and repairs for all Apple products.  As Lead Tech, I am an independent contractor and work with minimal oversight. My duties include:
+    [Tech-Ease](www.tech-ease.org) provides tech consultation, solutions, training and repairs for all Apple products. As Lead Tech, I am an independent contractor and work with minimal oversight. My duties include:
+
     * Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise
     * Troubleshoot, resolve and repair all hardware and software issues on all Apple products
     * Lead both group workshops and training sessions
@@ -119,10 +120,13 @@ education:
   graduation_date: 2006-05-01 01:00:00 -05:00
   location: Murfreesboro, TN
   body: |-
-    Bachelor of Science Degree in Recording Industry; Production and Technology, Minor in Music Industry, Major GPA: 3.857 Overall GPA: 3.34
-    Active member of Audio Engineering Society
-    Dean’s list
-    Internship with Grammy award winning engineer [Dan Rudin](http://www.danrudin.com).
+    * Production and Technology
+    * Minor in Music Industry
+    * Major GPA: 3.857
+    * Overall GPA: 3.34
+    * Active member of Audio Engineering Society
+    * Dean’s list
+    * Internship with Grammy award winning engineer [Dan Rudin](http://www.danrudin.com).
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.
