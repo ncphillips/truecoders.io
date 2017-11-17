@@ -11,3 +11,9 @@
 .call-to-action-button {
     margin-top: 80px;
 }
+
+@media print {
+  body {
+    font-size: $font-size-base - 0.2;
+  }
+}

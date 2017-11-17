@@ -47,21 +47,21 @@ layout: default
     </div>
   </div>
 
-  <!-- Image, Title, Content, Charts Row -->
-  <div class="row justify-content-center">
+  <!-- Charts Row -->
+  <div class="row justify-content-between">
 
     <!-- Skills Col -->
     {% if page.skills[1] %}
-    <div class="col-xl" style="text-align:center;">
-      <h5>Skill Sets</h5>
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Skill Sets</h4>
       <canvas id="skills-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
     {% endif %}
 
     <!-- Codewars Col -->
     {% if page.codewars_scores[1] %}
-    <div class="col-xl" style="text-align:center;">
-      <h5>Codewars Score</h5>
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Codewars Score</h4>
       <canvas id="codewars-chart" width="32" height="24" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
     {% endif %}
