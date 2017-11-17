@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<div class="page-container index-container">
-  {% include header.html %}
+{% include header.html %}
+
+<div class="container-fluid page-container index-container">
 
   {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
@@ -34,5 +35,6 @@ layout: default
 
   {% endfor %}
 
-  {% include footer.html %}
 </div>
+
+{% include footer.html %}
