@@ -122,7 +122,7 @@ education:
     Bachelor of Science Degree in Recording Industry; Production and Technology, Minor in Music Industry, Major GPA: 3.857 Overall GPA: 3.34
     Active member of Audio Engineering Society
     Dean’s list
-    Internship with Grammy award winning engineer Dan Rudin ([www.danrudin.com](http://www.danrudin.com))
+    Internship with Grammy award winning engineer [Dan Rudin](http://www.danrudin.com).
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.
