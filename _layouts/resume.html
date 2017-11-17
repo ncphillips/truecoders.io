@@ -139,7 +139,7 @@ layout: default
       <p>
         <strong>{{ education.school }}</strong> {% if education.degree %} | {{ education.degree }}{% endif %}
         <br/>
-        {{ education.graduation_date | date: "%b %Y" | upcase }}{% if education.graduation_date and education.location %}, {% endif %}
+        {{ education.graduation_date | date: "%b %Y" | default: "Present" | upcase }},
         {{ education.location }}
       </p>
 
