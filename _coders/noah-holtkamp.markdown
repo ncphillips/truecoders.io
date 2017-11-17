@@ -12,6 +12,8 @@ social:
 skills:
 - title: Attendance
   rank: 1.2
+- title: C#
+  rank: 2.5
 codewars_scores:
 - 10
 - 44

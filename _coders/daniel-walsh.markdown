@@ -13,7 +13,7 @@ skills:
 - title: Attendance
   rank: 5.0
 - title: C#
-  rank: 3.5
+  rank: 4.5
 - title: Git
   rank: 4.0
 - title: ASP.NET MVC
