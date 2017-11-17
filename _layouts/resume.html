@@ -113,7 +113,7 @@ layout: default
       {% unless experience.company and experience.job_title %} {% continue %} {% endunless %}
 
       <p>
-        <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
+        <strong>{{ experience.company }}</strong> | {{ experience.job_title }}
         <br/> {{ experience.start_date | date: "%b %Y" | upcase }} -
         {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
       </p>
@@ -137,7 +137,7 @@ layout: default
       {% unless education.school %} {% continue %} {% endunless %}
 
       <p>
-        <strong>{{ education.school }}</strong> {% if education.degree %} / {{ education.degree }}{% endif %}
+        <strong>{{ education.school }}</strong> {% if education.degree %} | {{ education.degree }}{% endif %}
         <br/>
         {{ education.graduation_date | date: "%b %Y" | upcase }}{% if education.graduation_date and education.location %}, {% endif %}
         {{ education.location }}
