@@ -99,17 +99,22 @@ education:
   graduation_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
   body: 
+- school: Northwest​ ​Shoals​ ​Community​ ​College
+  degree: General
+  graduation_date: 2013-12-01 00:00:00 -06:00
+  location: "​Muscle​ ​Shoals,​ ​AL"
+  body: 
+- school: Jeff​ ​State​ ​Community​ ​College
+  degree: General
+  graduation_date: 2013-05-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: 
+- school: University​ ​of​ ​North​ ​Alabama
+  degree: Music Performance
+  graduation_date: 2016-05-01 00:00:00 -05:00
+  location: Florence, AL
+  body: 
 ---
 
-I, Austin Redmayne, am and always have been highly intrigued by
-the open range of the technology field. Growing up I became very
-familiar with OS installation, virus protection/removal, and most of
-all troubleshooting. The possibilities are limitless and that in itself
-has my attention. As a musician, I am always looking for an
-expressive outlet and the Application and Web Development field
-fuels my fixation for that creativity. The realm of possibilities are
-limitless for this field and that in itself has my attention. I am
-currently in school for Computer Programming with TrueCoders. I
-believe that this program will have properly prepared me to be
-very successful in the Developer industry along with my skills I
-have acquired in life experiences.
+Able to handle extreme environments, high stress situations. Knowledge of computer repair, software installation, data transfer, virus
+removal. Knack for troubleshooting with speed. Understanding of the diverse and unique needs of others.
