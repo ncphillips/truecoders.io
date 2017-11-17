@@ -54,10 +54,10 @@ experience:
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
-  body: 'Discover Birmingham serves as a insider’s guide to Birmingham,AL. A tool
-    that will be a information hub for things like: video restaurant reviews and local
-    event listings We will also host/sponsor community building projects around Birmingham
-    to affect positive change.'
+  body: Discover Birmingham serves as a insider’s guide to Birmingham, AL. A tool
+    that will be a information hub for things like video restaurant reviews and local
+    event listings. We will also host/sponsor community building projects around Birmingham
+    to affect positive change.
 - company: Five Star Painting
   job_title: Project Consultant
   start_date: 2014-09-01 00:00:00 -05:00
@@ -65,17 +65,19 @@ experience:
   body: Production management and business development.
 - company: Chronicle Studio
   job_title: Service Consultant
-  start_date: 2010-04-01 01:00:00 -05:00
+  start_date: 2014-04-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
-    Served as lead support for the project Automotive Leadership Technology. Served as first contact for clients.
-    Outside sales. Provided tech support.
+    * Served as lead support for the project Automotive Leadership Technology.
+    * Served as first contact for clients.
+    * Outside sales.
+    * Provided tech support.
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
-    Pack auto glass and related products and deliver to customer’s premises.Drive employee owned vehicle to deliver customer orders in good working condition Perform pre-trip examination of all glass products Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any
+    Pack auto glass and related products and deliver to customer’s premises. Drive employee owned vehicle to deliver customer orders in good working condition. Perform pre-trip examination of all glass products. Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any
     problems encountered.
 - company: Pittsburgh Glass Works, LLC
   job_title: Digital Sales Manager
@@ -84,11 +86,11 @@ experience:
   body: Manage website, maintain internet reputation and social profiles. Take photos
     of vehicle for posting on internet.
 - company: Pittsburgh Glass Works, LLC
-  job_title: Sales Mgr,Repair Tech
+  job_title: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
-  body: outside sales, customer service, invoice customer, manage work flow, dispatch,
-    windshield repair tech
+  body: Outside sales, customer service, invoice customer, manage work flow, dispatch,
+    windshield repair tech.
 education:
 - school: Brown Mackie College-Birmingham
   degree: Associate's Degree
