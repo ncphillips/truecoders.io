@@ -55,19 +55,22 @@ experience:
   job_title: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
-  body: "[Twist Technology LLC](www.twisttechllc.com) delivers the custom integration
+  body:  |-
+    [Twist Technology LLC](www.twisttechllc.com) delivers the custom integration
     of technology into residential, commercial and worship environments. Twist specializes
     in audio/video distribution solutions, theaters, automation systems, lighting
     systems, camera systems, access control and networking. As Service Department
-    Head my responsibilities were varied and included:\n\n* Diagnosed and resolved
-    issues with client systems, while giving customers a second to none experience\n*
-    Coordinated with Project Manager to effectively manage staff\n* Communicated directly
-    with customers to setup service calls\n* Programmed automation systems, pulled
-    wire, terminated cables and field engineered solutions \n* Created service tickets,
-    invoices, and return/RMA defective products\n* Educated and trained customers
-    on products \n* Sold products to customers when existing equipment has failed\n*
-    Managed my schedule to ensure that all company service needs are met in a timely
-    manner\n* Built and maintained customer networks and access points "
+    Head my responsibilities were varied and included:
+    
+    * Diagnosed and resolved issues with client systems, while giving customers a second to none experience
+    * Coordinated with Project Manager to effectively manage staff
+    * Communicated directly with customers to setup service calls
+    * Programmed automation systems, pulled wire, terminated cables and field engineered solutions
+    * Created service tickets, invoices, and return/RMA defective products
+    * Educated and trained customers on products
+    * Sold products to customers when existing equipment has failed
+    * Managed my schedule to ensure that all company service needs are met in a timely manner
+    * Built and maintained customer networks and access points
 - company: Apple Retail
   job_title: Genius / Certified Mac Technician
   start_date: 2012-01-01 00:00:00 -06:00
