@@ -11,7 +11,7 @@ social:
   codewars: KaDarius
 skills:
 - title: Attendance
-  rank: 1.0
+  rank: 1
 - title: C#
   rank: 3.8
 - title: ANSI SQL

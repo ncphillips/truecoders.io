@@ -21,7 +21,7 @@ skills:
 - title: Git
   rank: 2.5
 - title: Diagnostics
-  rank: 2.0
+  rank: 2
 - title: ASP.NET
   rank: 2.3
 - title: Soft Skills

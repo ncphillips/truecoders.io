@@ -13,7 +13,7 @@ skills:
 - title: Attendance
   rank: 4.6
 - title: C#
-  rank: 3.0
+  rank: 3
 - title: ANSI SQL
   rank: 3.4
 - title: JavaScript

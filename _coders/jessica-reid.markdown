@@ -15,7 +15,7 @@ skills:
 - title: C#
   rank: 4.5
 - title: ANSI SQL
-  rank: 4.0
+  rank: 4
 - title: JavaScript
   rank: 4.4
 - title: Git
@@ -23,7 +23,7 @@ skills:
 - title: Diagnostics
   rank: 4.6
 - title: ASP.NET
-  rank: 4.0
+  rank: 4
 - title: Soft Skills
   rank: 4.2
 codewars_scores:

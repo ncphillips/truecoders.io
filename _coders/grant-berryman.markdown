@@ -41,16 +41,15 @@ reviews:
     task at hand. I'd highly recommend him for a developer position.
 experience:
 - company: Tech-Ease
-  job_title: " Apple Consultant / Lead Tech"
+  job_title: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
   body: |-
-    [www.tech-ease.org](www.tech-ease.org)
-    Tech-Ease provides tech consultation, solutions, training and repairs for all Apple products.  As Lead Tech, I am an independent contractor and work with minimal oversight. My duties include:
-    Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise
-    Troubleshoot, resolve and repair all hardware and software issues on all Apple products
-    Lead both group workshops and training sessions
-    Guide customers in finding the best technical solution for their needs
+    [Tech-Ease](www.tech-ease.org) provides tech consultation, solutions, training and repairs for all Apple products.  As Lead Tech, I am an independent contractor and work with minimal oversight. My duties include:
+    * Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise
+    * Troubleshoot, resolve and repair all hardware and software issues on all Apple products
+    * Lead both group workshops and training sessions
+    * Guide customers in finding the best technical solution for their needs
 - company: Twist Technology LLC
   job_title: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
@@ -82,7 +81,7 @@ experience:
     Performed repairs on all Apple hardware
     Managed time and multitasked to keep customer appointments on time in fast paced, time sensitive environment
 - company: Apple Retail
-  job_title: " Family Room Specialist"
+  job_title: Family Room Specialist
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -94,7 +93,7 @@ experience:
     Transferred data from old customer computers to new Apple computer
     Visual Team Member- ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
-  job_title: " Specialist"
+  job_title: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2010-09-01 01:00:00 -05:00
   body: |-

@@ -17,7 +17,7 @@ skills:
 - title: ANSI SQL
   rank: 4.1
 - title: JavaScript
-  rank: 4.0
+  rank: 4
 - title: Git
   rank: 3.7
 - title: Diagnostics

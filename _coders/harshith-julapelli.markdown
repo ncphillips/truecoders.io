@@ -11,7 +11,7 @@ social:
   codewars: Harshithj
 skills:
 - title: Attendance
-  rank: 4.0
+  rank: 4
 - title: C#
   rank: 4.5
 - title: ANSI SQL
