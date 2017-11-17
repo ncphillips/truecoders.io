@@ -25,7 +25,7 @@ skills:
 - title: ASP.NET
   rank: 4.0
 - title: Soft Skills
-  rank: 0.0
+  rank: 4.2
 codewars_scores:
 - 49
 - 127
