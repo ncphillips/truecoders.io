@@ -41,6 +41,8 @@ reviews:
     recommend Harshith for a developer position.
 education:
 - school: University of Central Missouri
+  degree: 
+  graduation_date: 
   location: Missouri
   body: |-
     Academic Project:
@@ -48,6 +50,21 @@ education:
     Project Title: Emergency Mail Sender (EMS)
     This application helps to get updates especially in case of emergency, through mails regarding the missed calls and messages obtained when the mobile is inaccessible. Few times by not attempting Calls/Messages for long hours we may need to face few issues later. To avoid this, we are coming up with an application where we can integrate the mobile with SMTP email system so that employee/user will get the notification of email or SMS to their email client which is installed at his/her work stations.
     Environment: Java, XML, SQL, Eclipse, Android 2.2, Junit, HTML, CSS, Bootstrap.
+- school: University of Central Missouri
+  degree: 
+  graduation_date: 
+  location: 
+  body: |-
+    Responsibilities:
+    Jan 2016 – Dec 2016
+    • Work under the support and guidance of the senior professor.
+    • Assist with collecting and analyzing qualitative data.
+    • Reviewing and analyzing research, including meta-analysis.
+    • Produce reports and assist with general analysis of data it relates.
+    • Data collection, data entry, merge and manipulate collected information, database
+    management, create and run queries from various databases.
+    • Write the queries to get optimal results.
+    • Writing reports on the data analyzed.
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational
