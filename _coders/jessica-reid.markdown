@@ -20,12 +20,12 @@ skills:
   rank: 4.4
 - title: Git
   rank: 4.8
-- title: Unit Testing
-  rank: 3.0
 - title: Diagnostics
   rank: 4.6
 - title: ASP.NET
   rank: 4.0
+- title: Soft Skills
+  rank: 0.0
 codewars_scores:
 - 49
 - 127

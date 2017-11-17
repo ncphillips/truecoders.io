@@ -20,12 +20,12 @@ skills:
   rank: 0
 - title: Git
   rank: 0
-- title: Unit Testing
-  rank: 0
 - title: Diagnostics
   rank: 0
 - title: ASP.NET
   rank: 0
+- title: Soft Skills
+  rank: 0.0
 codewars_scores:
 - 46
 - 81
