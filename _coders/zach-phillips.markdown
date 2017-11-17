@@ -40,7 +40,7 @@ experience:
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 2017-09-29 00:00:00 -05:00
   body: "* Provide technical support for Mac systems, printers, and ecommerce website"
-- company: 
+- company: Personal
   job_title: Website Administration
   start_date: 2011-01-01 00:00:00 -06:00
   end_date: 
