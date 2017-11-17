@@ -39,6 +39,15 @@ reviews:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. I'd highly
     recommend Harshith for a developer position.
+education:
+- school: University of Central Missouri
+  location: Missouri
+  body: |-
+    Academic Project:
+    University of Central Missouri Warrensburg, MO
+    Project Title: Emergency Mail Sender (EMS)
+    This application helps to get updates especially in case of emergency, through mails regarding the missed calls and messages obtained when the mobile is inaccessible. Few times by not attempting Calls/Messages for long hours we may need to face few issues later. To avoid this, we are coming up with an application where we can integrate the mobile with SMTP email system so that employee/user will get the notification of email or SMS to their email client which is installed at his/her work stations.
+    Environment: Java, XML, SQL, Eclipse, Android 2.2, Junit, HTML, CSS, Bootstrap.
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational
