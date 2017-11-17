@@ -11,7 +11,7 @@ social:
   codewars: torigrooms
 skills:
 - title: Attendance
-  rank: 0.6
+  rank: 1.1
 - title: C#
   rank: 3.8
 - title: ANSI SQL
