@@ -9,6 +9,9 @@ social:
   github: connordavis98
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98
+skills:
+- title: Attendance
+  rank: 4.9
 codewars_scores:
 - 46
 - 81

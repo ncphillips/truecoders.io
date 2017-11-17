@@ -9,6 +9,9 @@ social:
   github: candacejwelch
   linkedin: candacewelch
   codewars: candacejwelch
+skills:
+- title: Attendance
+  rank: 5.0
 codewars_scores:
 - 91
 - 159

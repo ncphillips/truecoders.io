@@ -9,6 +9,9 @@ social:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
+skills:
+- title: Attendance
+  rank: 1.8
 codewars_scores:
 - 49
 - 127

@@ -9,6 +9,9 @@ social:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall
+skills:
+- title: Attendance
+  rank: 5.0
 codewars_scores:
 - 39
 - 49

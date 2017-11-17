@@ -9,6 +9,9 @@ social:
   github: Harshithj88
   linkedin: hjulapelli
   codewars: Harshithj
+skills:
+- title: Attendance
+  rank: 4.0
 codewars_scores:
 - 44
 - 137

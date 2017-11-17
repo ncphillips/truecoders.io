@@ -9,6 +9,9 @@ social:
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne
+skills:
+- title: Attendance
+  rank: 2.8
 codewars_scores:
 - 16
 - 18

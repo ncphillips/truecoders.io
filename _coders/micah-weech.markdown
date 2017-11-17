@@ -9,6 +9,9 @@ social:
   github: mweechzing
   linkedin: micah-weech-b911a256
   codewars: mweechzing
+skills:
+- title: Attendance
+  rank: 0.0
 codewars_scores:
 - 10
 - 16

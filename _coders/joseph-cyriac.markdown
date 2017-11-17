@@ -9,6 +9,9 @@ social:
   github: cyriajo
   linkedin: 
   codewars: cyriajo
+skills:
+- title: Attendance
+  rank: 4.6
 codewars_scores:
 - 40
 - 58

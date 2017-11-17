@@ -9,6 +9,9 @@ social:
   github: HoltkampN
   linkedin: noah-holtkamp-1003b9100
   codewars: HoltkampN
+skills:
+- title: Attendance
+  rank: 1.2
 codewars_scores:
 - 10
 - 44

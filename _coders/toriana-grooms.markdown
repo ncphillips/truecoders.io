@@ -9,6 +9,9 @@ social:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms
+skills:
+- title: Attendance
+  rank: 0.6
 codewars_scores:
 - 50
 - 60

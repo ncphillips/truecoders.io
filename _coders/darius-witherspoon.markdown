@@ -9,6 +9,9 @@ social:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius
+skills:
+- title: Attendance
+  rank: 4.4
 codewars_scores:
 - 6
 - 13

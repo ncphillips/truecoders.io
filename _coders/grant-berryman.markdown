@@ -9,6 +9,9 @@ social:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
+skills:
+- title: Attendance
+  rank: 5.0
 codewars_scores:
 - 54
 - 90

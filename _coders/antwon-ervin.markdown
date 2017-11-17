@@ -9,6 +9,9 @@ social:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
+skills:
+- title: Attendance
+  rank: 2.1
 codewars_scores:
 - 4
 - 4

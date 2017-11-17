@@ -9,6 +9,9 @@ social:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
+skills:
+- title: Attendance
+  rank: 4.7
 codewars_scores:
 - 51
 - 67

@@ -9,6 +9,9 @@ social:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
+skills:
+- title: Attendance
+  rank: 1.0
 codewars_scores:
 - 9
 - 11

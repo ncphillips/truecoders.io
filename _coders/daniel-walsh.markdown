@@ -11,17 +11,17 @@ social:
   codewars: danielwwalsh
 skills:
 - title: Attendance
-  rank: 5
+  rank: 5.0
 - title: C#
   rank: 3.5
 - title: Git
-  rank: 4
+  rank: 4.0
 - title: ASP.NET MVC
-  rank: 2
+  rank: 2.0
 - title: Unit Testing
   rank: 4.5
 - title: SQL
-  rank: 4
+  rank: 4.0
 - title: Browsers
   rank: 1.5
 codewars_scores:
