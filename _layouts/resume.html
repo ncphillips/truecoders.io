@@ -87,9 +87,10 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Instructor Reviews</h4>
-      
-      {% assign reviews = page.reviews | sort: 'teammate' %}
-      {% for review in reviews %}
+
+      {% assign reviews = page.reviews | sort: 'teammate' | reverse %}
+      {% assign collection = site.collections | where: 'label', 'coders' | first %}
+      {% for review in reviews limit: collection.reviews_limit %}
       {{ review.body | markdownify }}
       <p>
         <strong>{{ "- " | append: review.teammate }}</strong>
