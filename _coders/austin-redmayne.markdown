@@ -67,7 +67,7 @@ experience:
 - company: All​ ​American​ ​Swim​ ​Supply
   job_title: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00
-  end_date: Present
+  end_date: 
   body: |-
     * Packing, setting up and maintaining a mobile shop
     * Helped customers decide what would be the best option for them

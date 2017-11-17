@@ -106,8 +106,11 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Experience</h4>
-      {% assign experiences = page.experience | sort: 'start_date' | reverse %}
+      {% assign experiences = page.experience | sort: 'start_date', 'last' %}
+      {% assign experiences = experiences | sort: 'end_date', 'last' | reverse %}
       {% for experience in experiences %}
+
+      {% unless experience.company and experience.job_title %} {% continue %} {% endunless %}
 
       <p>
         <strong>{{ experience.company }}</strong> / {{ experience.job_title }}
