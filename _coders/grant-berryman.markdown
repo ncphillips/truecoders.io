@@ -9,6 +9,15 @@ social:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
+codewars_scores:
+- 54
+- 90
+- 148
+- 156
+- 162
+- 248
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Grant is highly intelligent and will not rest until he has accomplished the

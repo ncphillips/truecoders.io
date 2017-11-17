@@ -9,6 +9,15 @@ social:
   github: mweechzing
   linkedin: micah-weech-b911a256
   codewars: mweechzing
+codewars_scores:
+- 10
+- 16
+- 45
+- 49
+- 51
+- 113
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to

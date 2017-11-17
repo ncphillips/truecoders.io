@@ -9,6 +9,15 @@ social:
   github: Harshithj88
   linkedin: hjulapelli
   codewars: Harshithj
+codewars_scores:
+- 44
+- 137
+- 165
+- 191
+- 209
+- 312
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. I'd highly

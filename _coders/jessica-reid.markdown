@@ -9,6 +9,15 @@ social:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
+codewars_scores:
+- 49
+- 127
+- 151
+- 193
+- 221
+- 314
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Jessica has amazed me with her ability to both learn and accomplish any task

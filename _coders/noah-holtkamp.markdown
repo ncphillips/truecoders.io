@@ -9,6 +9,15 @@ social:
   github: HoltkampN
   linkedin: noah-holtkamp-1003b9100
   codewars: HoltkampN
+codewars_scores:
+- 10
+- 44
+- 48
+- 48
+- 70
+- 114
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs

@@ -9,6 +9,15 @@ social:
   github: cyriajo
   linkedin: 
   codewars: cyriajo
+codewars_scores:
+- 40
+- 58
+- 64
+- 66
+- 72
+- 76
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks

@@ -9,6 +9,15 @@ social:
   github: candacejwelch
   linkedin: candacewelch
   codewars: candacejwelch
+codewars_scores:
+- 91
+- 159
+- 178
+- 186
+- 186
+- 286
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Candace has exceeded all my expectations, seeking quality in her work and

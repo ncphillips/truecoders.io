@@ -9,6 +9,15 @@ social:
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne
+codewars_scores:
+- 16
+- 18
+- 18
+- 19
+- 49
+- 51
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Austin has shown himself anxious to learn and do well in his work. I would

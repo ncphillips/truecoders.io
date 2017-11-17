@@ -9,6 +9,15 @@ social:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall
+codewars_scores:
+- 39
+- 49
+- 51
+- 73
+- 81
+- 91
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Darrel is anxious to learn and do well in his career as a programmer and possesses

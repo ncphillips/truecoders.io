@@ -9,6 +9,15 @@ social:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms
+codewars_scores:
+- 50
+- 60
+- 60
+- 60
+- 70
+- 159
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating

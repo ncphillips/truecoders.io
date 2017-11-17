@@ -9,6 +9,15 @@ social:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius
+codewars_scores:
+- 6
+- 13
+- 45
+- 47
+- 67
+- 91
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Darius has both skill and drive to complete tasks with quality and accuracy.

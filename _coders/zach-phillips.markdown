@@ -9,6 +9,15 @@ social:
   github: zachstagrammer
   linkedin: zach-phillips-087135152
   codewars: zachstagrammer
+codewars_scores:
+- 44
+- 62
+- 76
+- 124
+- 129
+- 171
+- 
+- 
 reviews:
 - teammate: Cody Winton
   body: Zach is an intelligent individual with a real talent for accomplishing the

@@ -9,6 +9,15 @@ social:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
+codewars_scores:
+- 9
+- 11
+- 45
+- 45
+- 75
+- 161
+- 
+- 
 reviews:
 - teammate: Martin Murphy
   body: Willing to go the distance for the cause, his gaming background makes him
