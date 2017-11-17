@@ -48,21 +48,7 @@ defaults:
       linkedin: 
       codewars: 
     skills:
-    - title: Attendance
-      rank: 0.0
-    - title: C#
-      rank: 0.0
-    - title: ANSI SQL
-      rank: 0.0
-    - title: JavaScript
-      rank: 0.0
-    - title: Git
-      rank: 0.0
-    - title: Unit Testing
-      rank: 0.0
-    - title: Diagnostics
-      rank: 0.0
-    - title: ASP.NET
+    - title: 
       rank: 0.0
     codewars_scores:
     - 0

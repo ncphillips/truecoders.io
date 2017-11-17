@@ -14,6 +14,18 @@ skills:
   rank: 4.0
 - title: C#
   rank: 4.5
+- title: ANSI SQL
+  rank: 0.0
+- title: JavaScript
+  rank: 0.0
+- title: Git
+  rank: 0.0
+- title: Unit Testing
+  rank: 0.0
+- title: Diagnostics
+  rank: 0.0
+- title: ASP.NET
+  rank: 0.0
 codewars_scores:
 - 44
 - 137
