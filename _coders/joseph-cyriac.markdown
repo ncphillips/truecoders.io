@@ -33,7 +33,7 @@ codewars_scores:
 - 66
 - 72
 - 76
-- 
+- 96
 - 
 reviews:
 - teammate: Cody Winton

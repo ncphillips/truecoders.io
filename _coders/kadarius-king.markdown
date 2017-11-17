@@ -33,7 +33,7 @@ codewars_scores:
 - 45
 - 75
 - 161
-- 
+- 170
 - 
 reviews:
 - teammate: Martin Murphy
