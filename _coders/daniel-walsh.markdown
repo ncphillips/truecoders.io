@@ -10,12 +10,12 @@ social:
   linkedin: daniel-walsh-aa17b02a
   codewars: danielwwalsh
 skills:
+- title: Attendance
+  rank: 5
 - title: C#
   rank: 3.5
 - title: Git
   rank: 4
-- title: Attendance
-  rank: 5
 - title: ASP.NET MVC
   rank: 2
 - title: Unit Testing
