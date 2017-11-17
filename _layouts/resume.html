@@ -131,13 +131,16 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
-      {% assign educations = page.education | sort: 'graduation_date' | reverse %}
+      {% assign educations = page.education | sort: 'graduation_date', 'last' | reverse %}
       {% for education in educations %}
+
+      {% unless education.school %} {% continue %} {% endunless %}
 
       <p>
         <strong>{{ education.school }}</strong> {% if education.degree %} / {{ education.degree }}{% endif %}
         <br/>
-        {{ education.graduation_date | date: "%b %Y" | upcase }}, {{ education.location }}
+        {{ education.graduation_date | date: "%b %Y" | upcase }}{% if education.graduation_date and education.location %}, {% endif %}
+        {{ education.location }}
       </p>
 
       {{ education.body | markdownify }}
