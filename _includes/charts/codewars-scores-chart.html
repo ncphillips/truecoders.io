@@ -5,11 +5,13 @@
   var scores = {{ include.scores | jsonify }};
 
   if (scores.length > 1) {
-    var scoreLabels = [];
+    var scoreLabels = ["Start"];
 
     for (var i = 0; i < scores.length; i++) {
       scoreLabels.push("Week " + (i + 1));
     }
+
+    scores.splice(0, 0, 0);
 
     var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
 
