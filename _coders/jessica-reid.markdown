@@ -81,6 +81,21 @@ experience:
   body: |-
     * Took and served customers food and beverage orders.
     * Prepped and stocked utensils, condiments, ice, and garnishes for next shift.
+- company: "​SITEL,​ ​Inc.​"
+  job_title: Customer Service Representative
+  start_date: 2008-03-01 00:00:00 -06:00
+  end_date: 2008-06-01 01:00:00 -05:00
+  body: |-
+    * Answered calls from Verizon Wireless customers regarding their wireless devices.
+    * Notated customers accounts upon resolving all cellular issues.
+    * Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about.
+- company: "​Results​ ​Construction​"
+  job_title: Administrative Assistant
+  start_date: 2007-08-01 01:00:00 -05:00
+  end_date: 2008-03-01 00:00:00 -06:00
+  body: |-
+    * Typed letters, memos, and other official business documents.
+    * Gained knowledge of Microsoft Office and its components.
 education:
 - school: "​P.D.​ ​Jackson​ ​Olin​"
   degree: GED
