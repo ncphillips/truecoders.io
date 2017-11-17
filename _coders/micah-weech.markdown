@@ -11,7 +11,7 @@ social:
   codewars: mweechzing
 skills:
 - title: Attendance
-  rank: 0.05
+  rank: 1.05
 - title: C#
   rank: 2.0
 - title: ANSI SQL

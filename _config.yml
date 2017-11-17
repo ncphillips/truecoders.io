@@ -49,7 +49,7 @@ defaults:
       codewars: 
     skills:
     - title: 
-      rank: 0.0
+      rank: 0
     codewars_scores:
     - 0
     reviews:
