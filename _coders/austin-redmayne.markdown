@@ -75,7 +75,7 @@ experience:
 - company: Hometown​ ​Market
   job_title: Cashier
   start_date: 2014-06-01 00:00:00 -05:00
-  end_date: 2017-11-01 00:00:00 -05:00
+  end_date: 2014-11-01 00:00:00 -05:00
   body: |-
     * Assisting customers in locating products, at times helping them make a
     decision between multiple products
