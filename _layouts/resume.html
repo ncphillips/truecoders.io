@@ -19,7 +19,7 @@ layout: default
       {% if page.social %}
       <p>
         {% if page.social.github %}
-        <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+        <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank" style="color:#212529; margin-right: 10px;">
           <i class="fa fa-github fa-lg"></i>
         </a>
         {% endif %}
@@ -31,7 +31,7 @@ layout: default
         {% endif %}
 
         {% if page.social.codewars %}
-        <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank" style="margin: 0px 10px;">
+        <a href="{{ "https://www.codewars.com/users/" | append: page.social.codewars }}" target="_blank" style="margin-left: 10px;">
           <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;">
         </a>
         {% endif %}
@@ -144,10 +144,9 @@ layout: default
   </div>
   {% endif %}
 
-  <br/>
   <div class="row" style="text-align:center;">
     <div class="col-12">
-      <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo" style="max-width:160px;">
+      <img src={{ "uploads/logo-notag.svg" | relative_url }} alt="Logo" style="max-width:320px;">
     </div>
   </div>
 </div>
