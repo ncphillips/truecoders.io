@@ -102,7 +102,7 @@ education:
 - school: Northwest​ ​Shoals​ ​Community​ ​College
   degree: General
   graduation_date: 2013-12-01 00:00:00 -06:00
-  location: "​Muscle​ ​Shoals,​ ​AL"
+  location: Muscle​ ​Shoals,​ ​AL
   body: 
 - school: Jeff​ ​State​ ​Community​ ​College
   degree: General
