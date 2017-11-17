@@ -55,13 +55,13 @@ experience:
   job_title: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
-  body:  |-
+  body: |-
     [Twist Technology LLC](www.twisttechllc.com) delivers the custom integration
     of technology into residential, commercial and worship environments. Twist specializes
     in audio/video distribution solutions, theaters, automation systems, lighting
     systems, camera systems, access control and networking. As Service Department
     Head my responsibilities were varied and included:
-    
+
     * Diagnosed and resolved issues with client systems, while giving customers a second to none experience
     * Coordinated with Project Manager to effectively manage staff
     * Communicated directly with customers to setup service calls
