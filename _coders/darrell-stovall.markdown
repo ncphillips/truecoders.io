@@ -11,9 +11,15 @@ social:
   codewars: darrellstovall
 skills:
 - title: Attendance
-  rank: 5.0
+  rank: 5
 - title: C#
   rank: 3.5
+- title: ANSI SQL
+- title: JavaScript
+- title: Git
+- title: Unit Testing
+- title: Diagnostics
+- title: ASP.NET
 codewars_scores:
 - 39
 - 49
