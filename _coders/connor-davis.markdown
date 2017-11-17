@@ -46,20 +46,20 @@ reviews:
     the goal. In a competitive environment he will be a consistently high performer.
 experience:
 - company: Garywood Assembly of God
-  job_title: 'Media/Audio department '
+  job_title: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: 
-- company: Tennis Instructor
-  job_title: 'Instructor '
+- company: Tennis Instruction
+  job_title: Instructor
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: 
 education:
-- school: 'Hope Christian High School '
-  degree: 'Highschool Diploma '
+- school: Hope Christian High School
+  degree: High School Diploma
   graduation_date: 2016-05-01 00:00:00 -05:00
   location: Birmingham, AL
 ---
 
-I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media. 
+I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media.
