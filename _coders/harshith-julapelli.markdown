@@ -52,8 +52,8 @@ education:
     Environment: Java, XML, SQL, Eclipse, Android 2.2, Junit, HTML, CSS, Bootstrap.
 - school: University of Central Missouri
   degree: 
-  graduation_date: 
-  location: 
+  graduation_date: 2016-01-01 00:00:00 -06:00
+  location: Missouri
   body: |-
     Responsibilities:
     Jan 2016 – Dec 2016
@@ -65,6 +65,47 @@ education:
     management, create and run queries from various databases.
     • Write the queries to get optimal results.
     • Writing reports on the data analyzed.
+- school: University of Central Missouri
+  degree: Master’s in Computer Science
+  graduation_date: 2016-12-01 00:00:00 -06:00
+  location: Missouri
+  body: |-
+    EDUCATIONAL QUALIFICATION:
+    • Master’s in Computer Science University of Central Missouri Warrensburg, MO
+    GPA: 3.60/4.0
+    • Bachelor’s in Computer Science and Engineering Jawaharlal Nehru Technological University, Hyderabad, India
+    GPA: 3.50/4.0
+    Graduate Course Work:
+    • Advanced Operating Systems
+    • Web Technologies
+    • Compiler Design and Construction
+    • Advanced Software Engineering
+    • Data Base Theory and Apps
+    • Advance Algorithms and Data
+    Structures
+    TECHNICAL SKILLS:
+    • Advance Computer Networking and Security
+    • Advance Application Programming in C# and .NET
+    • Advanced Database Systems
+    • Big Data: Storage, Analytics
+- school: Jawaharlal Nehru Technological University
+  degree: Bachelor’s in Computer Science and Engineering
+  graduation_date: 2015-04-01 00:00:00 -05:00
+  location: Hyderabad, India
+  body: |-
+    Graduate Course Work:
+    • Advanced Operating Systems
+    • Web Technologies
+    • Compiler Design and Construction
+    • Advanced Software Engineering
+    • Data Base Theory and Apps
+    • Advance Algorithms and Data
+    Structures
+    TECHNICAL SKILLS:
+    • Advance Computer Networking and Security
+    • Advance Application Programming in C# and .NET
+    • Advanced Database Systems
+    • Big Data: Storage, Analytics
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational
