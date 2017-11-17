@@ -1,7 +1,7 @@
 ---
 title: Coders
 date: 2017-09-12 02:39:00 -05:00
-position: 2
+position: 7
 is_nav: false
 is_footer: false
 hero_image: "/uploads/hero-image-7.jpg"
