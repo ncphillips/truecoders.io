@@ -31,11 +31,11 @@
     "fontawesome": "^4.7.2",
     "jquery": "^3.2.1",
     "magnific-popup": "^1.1.0",
-    "popper.js": "^1.12.7",
+    "popper.js": "^1.13.0",
     "tether": "^1.4.1"
   },
   "devDependencies": {
     "cpx": "^1.5.0",
-    "markdownlint": "^0.6.2"
+    "markdownlint": "^0.6.3"
   }
 }
