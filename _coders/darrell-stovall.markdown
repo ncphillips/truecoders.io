@@ -66,12 +66,12 @@ education:
   degree: Masters of Arts
   graduation_date: 1995-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: 
+  body: "* Special Education (Gifted and Talented Cert.)"
 - school: Birmingham-Southern College
   degree: Bachelor of Arts
   graduation_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: 
+  body: "* Secondary Education (English and Economics Cert.)"
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I’ve been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference.
