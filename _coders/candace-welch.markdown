@@ -64,16 +64,14 @@ experience:
   job_title: Graphic Design Intern
   start_date: 2016-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
-  body: |-
-    Several ads were completed for the July/August 2016 edition of RSVP. In addition
+  body: 'Several ads were completed for the July/August 2016 edition of RSVP. In addition
     to designing two event flyers: the “RSViP Riverboat Cruise” and the Release Party
-    for the July/August Edition.
+    for the July/August Edition.'
 - company: Gumptionneers
   job_title: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
   end_date: 2016-07-01 00:00:00 -05:00
-  body: |-
-    A summer program of 3 students, which was started in 2015 and last 6 to 8
+  body: A summer program of 3 students, which was started in 2015 and last 6 to 8
     weeks. During this time, projects were completed to improve different aspects
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
@@ -81,8 +79,7 @@ experience:
   job_title: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
   end_date: 
-  body: |-
-    During the internship, I was allowed the opportunity to designing a new Billboard
+  body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
 - company: Square Root Interactive
@@ -101,9 +98,8 @@ education:
   degree: Bachelor of Fine Arts - BFA Field Of StudyGraphic Design GradeCum Laude
   graduation_date: 
   location: Montgomery, AL
-  body: |-
-    Activities and Societies: Phi Eta Sigma Honor Society The National Society
-    of Collegiate Scholars Phi Kappa Phi Honor Society
+  body: 'Activities and Societies: Phi Eta Sigma Honor Society The National Society
+    of Collegiate Scholars Phi Kappa Phi Honor Society'
 - school: University of South Alabama
   degree: 
   graduation_date: 2016-05-01 00:00:00 -05:00
