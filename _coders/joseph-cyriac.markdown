@@ -72,9 +72,9 @@ experience:
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: 
-- company: 
-  job_title: 
-  start_date: 
+- company: Song Eye Center Inc.
+  job_title: Information Technology Consultant
+  start_date: 1997-01-01 00:00:00 -06:00
   end_date: 
   body: 
 education:
