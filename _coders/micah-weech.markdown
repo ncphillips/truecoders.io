@@ -43,6 +43,7 @@ experience:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
   start_date: 2013-05-01 00:00:00 -05:00
+  end_date: 
   body: "Worked with:\n\n1. New Life SDA Church in Birmingham, AL\n1. Mt. Zion SDA
     Church in Talladega, AL\n1. New Hope SDA Church in Mobile, AL\n1. Maranatha SDA
     Church in Gulfport, MS\n\n* Oversee the affairs of the local church or district.\n*
@@ -51,6 +52,27 @@ experience:
     \n* Renovated both churches. \n* Trained and developed leaders on the local level.
     \n* Supported the community thru various initiatives focused on improving the
     quality of life in the areas surrounding the churches."
+- company: Emmanuel Jr Academy
+  job_title: Teacher
+  start_date: 2015-08-01 00:00:00 -05:00
+  end_date: 2016-05-01 00:00:00 -05:00
+  body: |-
+    * Taught k-10 as a substitute teacher.
+    * Computer class for grades 9&10
+    * PE class for grades 3-10
+- company: Savannah College of Art and Design
+  job_title: Teaching Assistant
+  start_date: 2012-01-01 00:00:00 -06:00
+  end_date: 2012-12-31 00:00:00 -06:00
+  body: "* Steadicam Class"
+- company: Oakwood University Church
+  job_title: Media Director/Assistant Youth Pastor
+  start_date: 2008-08-01 01:00:00 -05:00
+  end_date: 2010-07-01 01:00:00 -05:00
+  body: |-
+    * Responsible for maintaining and developing the youth ministry of the church, as well as other Pastoral duties.
+    * Responsible for managing, recruiting, and training camera persons and sound engineers for the media team that produces and broadcasts every worship service.
+    * Manage audio/visual equipment installation, maintenance and upgrades.
 education:
 - school: Oakwood University
   degree: Bachelor of Arts, Theology Pastoral/Evangelism
