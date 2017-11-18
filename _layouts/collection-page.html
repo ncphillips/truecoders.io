@@ -11,8 +11,10 @@ layout: page
 
 <div class="row item-row">
   
-  
   {% for item in items %}
+
+  {% if item.tags contains "example" %} {% continue %} {% endif %}
+
   <div class="col-md-4 item-col">
 
     {% if collection.output and item.image %}
