@@ -12,3 +12,5 @@ call_to_action:
 ---
 
 # We're TrueCoders
+
+These individuals are all TrueCoders graduates.
