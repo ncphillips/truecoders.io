@@ -67,6 +67,16 @@ experience:
     * Implementing Electronic Billing utilizing Lytec 2012 Practice Management systems
     * Transcribing medical documents and patient records into Electronic Health Records utilizing McKesson Practice Partner
     * Providing support and conflict resolution for office staff and patients
+- company: Hussain Fadhil & Partners LLC
+  job_title: Import - Export Broker
+  start_date: 2015-01-01 00:00:00 -06:00
+  end_date: 
+  body: 
+- company: 
+  job_title: 
+  start_date: 
+  end_date: 
+  body: 
 education:
 - school: Auburn University
   degree: Bachelor of Science Degree
