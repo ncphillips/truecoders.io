@@ -49,6 +49,8 @@ experience:
   start_date: 2014-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
+    * Top 5 banker in the territory for 2+ years at PNC
+    * Most deposit accounts opened by a single banker 2015
     * Manage and implement new and revised policies centered around Outreach and Workplace
     business growth.
     * Provide personal financial counseling, assist with lending services, and building relationships with
@@ -70,10 +72,22 @@ experience:
   start_date: 2008-01-01 00:00:00 -06:00
   end_date: 2012-02-01 00:00:00 -06:00
   body: |-
+    * Top 2 producer in the state for the Digital Imaging department at BestBuy
     * Utilized versatility to work in several departments, including technical support.
-    * Assisted marketing group in putting together sales floor market during holiday and peek sale
+    * Assisted marketing group in putting together sales floor market during holiday and peak sale
     quarters.
     * Worked closely with management to build new sales tactics and practices to motivate sales team.
+education:
+- school: Auburn University
+  degree: Political Science Major
+  graduation_date: 2012-05-01 00:00:00 -05:00
+  location: Auburn, AL
+  body: 
+- school: Jefferson State Community College
+  degree: Political Science Major
+  graduation_date: 
+  location: Birmingham, AL
+  body: 
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.
