@@ -1,7 +1,7 @@
 ---
 title: Hire Us
 date: 2017-11-10 10:00:00 -06:00
-position: 6
+position: 7
 is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-9.jpg"
