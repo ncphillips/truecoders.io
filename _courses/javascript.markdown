@@ -25,4 +25,4 @@ call_to_action:
   url: "/contact"
 ---
 
-This course will cover the {{ page.title }} stack. More details about this course coming soon...
+This course will cover the {{ page.title }} stack.

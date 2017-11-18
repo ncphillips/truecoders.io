@@ -27,7 +27,9 @@ Think you've got what it takes to go through this course with flying colors? You
 <p> If you're interested in this course, please take the our aptitude test. </p>
 {% endif %}
 
-{% if page.start_date %}
+{% unless page.start_date %}
+<p>More details about this course coming soon</p>
+{% else %}
 <script>
   // Set the date we're counting down to
   var dateString = "{{ page.start_date | date: "%b %e, %Y %k:%M:%S" }}";
@@ -65,4 +67,4 @@ Think you've got what it takes to go through this course with flying colors? You
 
   }, 1000);
 </script>
-{% endif %}
+{% endunless %}
