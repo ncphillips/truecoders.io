@@ -62,11 +62,6 @@ experience:
   end_date: 2003-01-01 00:00:00 -06:00
   body: 
 education:
-- school: TrueCoders
-  degree: C# and .NET Bootcamp
-  graduation_date: 2017-11-22 00:00:00 -06:00
-  location: Birmingham, AL
-  body: 
 - school: University of Alabama, Birmingham (UAB)
   degree: Masters of Arts
   graduation_date: 1995-05-01 01:00:00 -05:00
