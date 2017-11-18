@@ -7,7 +7,6 @@ class: Alpha C#
 personality_type: ENTJ
 social:
   github: cyriajo
-  linkedin: 
   codewars: cyriajo
 skills:
 - title: Attendance
@@ -40,3 +39,4 @@ reviews:
     effectively. I recommend Joseph for a developer or QA position.
 ---
 
+Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office operations, manage office technology, and develop efficiency systems in support of business goals and initiatives. Det ail orient ed and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.
