@@ -38,12 +38,44 @@ reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating
     them into her workflow. I'd highly recommend Tori for a developer role.
+experience:
+- company: Cricket Wireless
+  job_title: Assistant Manager
+  start_date: 2017-06-01 00:00:00 -05:00
+  end_date: 
+  body: "* Selling wireless phones and wireless accessories"
+- company: Insomnia Cookies
+  job_title: Store Manager
+  start_date: 2014-10-01 00:00:00 -05:00
+  end_date: 2015-06-01 00:00:00 -05:00
+  body: "* Managing and coordinating all aspects of the business and staff"
+- company: Steak N' Shake
+  job_title: Service Trainer
+  start_date: 2014-05-01 00:00:00 -05:00
+  end_date: 2016-08-01 00:00:00 -05:00
+  body: "* Training new servers according to company regulations and policies"
+- company: RadioShack
+  job_title: Wireless Consultant
+  start_date: 2012-10-01 00:00:00 -05:00
+  end_date: 2013-10-01 00:00:00 -05:00
+  body: |-
+    * Selling wireless service to customers from three major carriers
+    * Selling attachments
+    * Monitoring goals daily
+- company: Children's Hospital of Birmingham
+  job_title: Sterile Processing Technician
+  start_date: 2012-04-01 00:00:00 -05:00
+  end_date: 2012-09-01 00:00:00 -05:00
+  body: |-
+    * Processing dirty instruments
+    * Setting up cases for surgeries
+    * Sterilizing loaner instruments
 education:
 - school: Jefferson State Community College
   degree: Criminal Justice
   graduation_date: 
   location: Birmingham, AL
-  body: Focus on Criminal Justice
+  body: 
 - school: University of Alabama in Birmingham
   degree: Early Childhood Education
   graduation_date: 2013-05-01 00:00:00 -05:00
@@ -57,3 +89,7 @@ education:
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization.
+
+* Excellent Organizational Skills
+* Strong Customer Relations Skills
+* Computer Proficiency
