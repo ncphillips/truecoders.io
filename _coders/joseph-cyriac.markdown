@@ -57,6 +57,16 @@ experience:
     * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
     * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     * Financing and accounting of project budgets to maintain workflow and to ensure profitability
+- company: West Alabama Internal Medicine LLC
+  job_title: Information Technology Consultant
+  start_date: 2003-01-01 00:00:00 -06:00
+  end_date: 
+  body: |-
+    As a permanent staff member serving in the capacity of IT Consultant and Senior Office Assistant responsible for:
+    * Constructing, Networking, & Maintaining office computer infrastructure
+    * Implementing Electronic Billing utilizing Lytec 2012 Practice Management systems
+    * Transcribing medical documents and patient records into Electronic Health Records utilizing McKesson Practice Partner
+    * Providing support and conflict resolution for office staff and patients
 education:
 - school: Auburn University
   degree: Bachelor of Science Degree
