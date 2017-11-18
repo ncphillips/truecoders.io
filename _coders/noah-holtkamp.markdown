@@ -38,5 +38,30 @@ reviews:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs
     to know. I'd recommend Noah for a QA role.
+experience:
+- company: NutritionFacts.org
+  job_title: MD Volunteer Article Retriever
+  start_date: 2016-12-01 00:00:00 -06:00
+  end_date: 
+  body: |-
+    * Work as part of a project team to coordinate database development and determine project scope and limitations. 
+    * Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health.
+- company: Nutrient High LLC
+  job_title: Project Manager
+  start_date: 2015-03-01 00:00:00 -06:00
+  end_date: 2016-08-01 00:00:00 -05:00
+  body: "* Prepare or implement budgets and strategic, operational, purchasing, or
+    maintenance plans. \n* Respond to customer, public, or media requests for information
+    about wellness programs or services. \n* Arrange for transportation or storage
+    of purchased products.\n* Maintain records of business transactions and product
+    inventories, reporting data to companies or government agencies as necessary."
+- company: Home At Last Inc.
+  job_title: Program Administrator
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 2016-01-01 00:00:00 -06:00
+  body: |-
+    * Investigate complaints, disturbances and violations and resolve problems following management rules and regulations
+    * Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties
+    * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
 ---
 
