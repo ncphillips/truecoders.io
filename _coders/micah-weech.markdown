@@ -52,3 +52,8 @@ education:
   body: "* Pending thesis"
 ---
 
+It is my goal to pursue a career as a software developer at your company. As a leader and self-starter I would love the opportunity to adopt your company's work culture and work to advance the company's mission and profitability. Please review the attached resume and contact me if you have any questions.
+
+* Proficient in public speaking
+* Calm in high stress situations
+* Leader who knows how to support others
