@@ -8,9 +8,9 @@ image: "/uploads/john-doe.jpg"
 class: Alpha C#
 personality_type: ESTJ
 social:
-  github: example
-  linkedin: example
-  codewars: example
+  github: truecodersio
+  linkedin: truecodersio
+  codewars: truecodersio
 skills:
 - title: Attendance
   rank: 4
