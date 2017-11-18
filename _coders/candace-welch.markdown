@@ -88,8 +88,7 @@ experience:
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
     * Handled customer relationships between twelve total past and current accounts.
-    * Created project scheduling, milestone completion, and project outlook reports
-    to accurately determine the health of the project.
+    * Created project scheduling, milestone completion, and project outlook reports to accurately determine the health of the project.
     * Managed bug fix distribution for seven person team to improve team efficiency.
     * Provided team with detailed bug reports to lower time between breaks and fixes.
     * Ensured product quality by testing features in multiple environments.
