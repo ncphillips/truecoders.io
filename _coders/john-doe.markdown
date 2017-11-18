@@ -4,13 +4,30 @@ date: 2017-11-18 15:17:00 -06:00
 tags:
 - example
 position: 16
-image: "/uploads/cody-winton.jpg"
+image: "/uploads/john-doe.jpg"
 class: Alpha C#
 personality_type: ESTJ
 social:
   github: example
   linkedin: example
   codewars: example
+skills:
+- title: Attendance
+  rank: 4
+- title: C#
+  rank: 4.5
+- title: ANSI SQL
+  rank: 3.9
+- title: JavaScript
+  rank: 2.7
+- title: Git
+  rank: 3.2
+- title: Diagnostics
+  rank: 4.2
+- title: ASP.NET
+  rank: 3.3
+- title: Soft Skills
+  rank: 4.1
 codewars_scores:
 - 10
 - 33
