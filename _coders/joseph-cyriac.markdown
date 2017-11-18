@@ -37,6 +37,26 @@ reviews:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks
     effectively. I recommend Joseph for a developer or QA position.
+experience:
+- company: Continental Airlines
+  job_title: Customer Relations Representative
+  start_date: 2007-01-01 00:00:00 -06:00
+  end_date: 2008-12-01 00:00:00 -06:00
+  body: |-
+    As a full - time employee working on behalf of the customer and company responsible for:
+
+    * Resolving conflicts in an equitable manner to ensure continued customer loyalty
+    * Managing cargo and ground logistics to ensure scheduled flight departure
+    * Coordinating air port security logistics with corresponding federal agencies
+- company: Business Partnership
+  job_title: Investment Property Manager
+  start_date: 2005-01-01 00:00:00 -06:00
+  end_date: 2010-12-01 00:00:00 -06:00
+  body: |-
+    As a joint investor and property manager responsible for:
+    * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
+    * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
+    * Financing and accounting of project budgets to maintain workflow and to ensure profitability
 education:
 - school: Auburn University
   degree: Bachelor of Science Degree
