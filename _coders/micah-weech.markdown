@@ -39,6 +39,18 @@ reviews:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to
     problems. I'd recommend Micah for a database role.
+experience:
+- company: South Central Conference of Seventh Day Adventists
+  job_title: Senior Pastor
+  start_date: 2013-05-01 00:00:00 -05:00
+  body: "Worked with:\n\n1. New Life SDA Church in Birmingham, AL\n1. Mt. Zion SDA
+    Church in Talladega, AL\n1. New Hope SDA Church in Mobile, AL\n1. Maranatha SDA
+    Church in Gulfport, MS\n\n* Oversee the affairs of the local church or district.\n*
+    Responsible for church growth financially, spiritually and in membership.\n* Responsible
+    for growing the congregation membership, financial base and spiritual growth.
+    \n* Renovated both churches. \n* Trained and developed leaders on the local level.
+    \n* Supported the community thru various initiatives focused on improving the
+    quality of life in the areas surrounding the churches."
 education:
 - school: Oakwood University
   degree: Bachelor of Arts, Theology Pastoral/Evangelism
