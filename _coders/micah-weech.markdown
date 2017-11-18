@@ -34,7 +34,6 @@ codewars_scores:
 - 51
 - 113
 - 118
-- 
 reviews:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to

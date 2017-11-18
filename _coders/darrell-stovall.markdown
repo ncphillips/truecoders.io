@@ -34,7 +34,6 @@ codewars_scores:
 - 81
 - 91
 - 135
-- 
 reviews:
 - teammate: Cody Winton
   body: Darrel is anxious to learn and do well in his career as a programmer and possesses

@@ -34,7 +34,6 @@ codewars_scores:
 - 171
 - 171
 - 179
-- 
 reviews:
 - teammate: Cody Winton
   body: Connor is tenacious and competitive and showed himself skilled in both individual

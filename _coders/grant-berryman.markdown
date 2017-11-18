@@ -34,7 +34,6 @@ codewars_scores:
 - 162
 - 248
 - 263
-- 
 reviews:
 - teammate: Cody Winton
   body: Grant is highly intelligent and will not rest until he has accomplished the

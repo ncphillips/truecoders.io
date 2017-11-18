@@ -34,7 +34,6 @@ codewars_scores:
 - 70
 - 70
 - 73
-- 
 reviews:
 - teammate: Cody Winton
   body: Antwon is an exceptional individual with a real knack for interaction and

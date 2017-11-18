@@ -34,7 +34,6 @@ codewars_scores:
 - 129
 - 171
 - 184
-- 
 reviews:
 - teammate: Cody Winton
   body: Zach is an intelligent individual with a real talent for accomplishing the

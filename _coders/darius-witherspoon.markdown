@@ -34,7 +34,6 @@ codewars_scores:
 - 67
 - 91
 - 142
-- 
 reviews:
 - teammate: Cody Winton
   body: Darius has both skill and drive to complete tasks with quality and accuracy.

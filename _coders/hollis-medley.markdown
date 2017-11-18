@@ -34,7 +34,6 @@ codewars_scores:
 - 81
 - 83
 - 91
-- 
 reviews:
 - teammate: Cody Winton
   body: Hollis brings a plethora of skills to the table and has a real knack for learning.

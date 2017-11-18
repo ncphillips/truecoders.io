@@ -34,7 +34,6 @@ codewars_scores:
 - 209
 - 312
 - 314
-- 
 reviews:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. I'd highly

@@ -34,7 +34,6 @@ codewars_scores:
 - 186
 - 286
 - 286
-- 
 reviews:
 - teammate: Cody Winton
   body: Candace has exceeded all my expectations, seeking quality in her work and

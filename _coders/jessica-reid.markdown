@@ -34,7 +34,6 @@ codewars_scores:
 - 221
 - 314
 - 442
-- 
 reviews:
 - teammate: Cody Winton
   body: Jessica has amazed me with her ability to both learn and accomplish any task

@@ -34,7 +34,6 @@ codewars_scores:
 - 70
 - 159
 - 233
-- 
 reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating

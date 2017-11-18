@@ -34,7 +34,6 @@ codewars_scores:
 - 75
 - 161
 - 170
-- 
 reviews:
 - teammate: Martin Murphy
   body: Willing to go the distance for the cause, his gaming background makes him

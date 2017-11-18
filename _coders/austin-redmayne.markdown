@@ -34,7 +34,6 @@ codewars_scores:
 - 49
 - 51
 - 51
-- 
 reviews:
 - teammate: Cody Winton
   body: Austin has shown himself anxious to learn and do well in his work. I would

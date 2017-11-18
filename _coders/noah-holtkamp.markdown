@@ -34,7 +34,6 @@ codewars_scores:
 - 70
 - 114
 - 117
-- 
 reviews:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs
