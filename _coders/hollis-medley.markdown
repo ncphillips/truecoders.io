@@ -38,5 +38,49 @@ reviews:
 - teammate: Cody Winton
   body: Hollis brings a plethora of skills to the table and has a real knack for learning.
     I'd recommend Hollis for a developer position.
+experience:
+- company: Petland
+  job_title: Kennel Technician
+  start_date: 2016-03-01 00:00:00 -06:00
+  end_date: 2017-01-01 00:00:00 -06:00
+  body: |-
+    * Cleaning up after dogs
+    * A little bit of trimming and bath
+    * Experienced in giving vaccinations
+- company: YMCA
+  job_title: Lifeguard
+  start_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  body: 
+- company: Tractor Supply Co
+  job_title: Cashier/Team Member
+  start_date: 2017-04-01 00:00:00 -05:00
+  end_date: 
+  body: |-
+    * Sales
+    * Cashier
+    * Shelf stocker
+education:
+- school: Lawson State
+  degree: 
+  graduation_date: 
+  location: Birmingham, AL
+  body: "* Dual Enrollment"
+- school: Homeschool
+  degree: High School Degree
+  graduation_date: 
+  location: 
+  body: 
+- school: Trenholm State
+  degree: 
+  graduation_date: 2016-05-01 00:00:00 -05:00
+  location: Montgomery, AL
+  body: "* Dual Enrollment"
+- school: Faulkner University
+  degree: 
+  graduation_date: 2015-05-01 00:00:00 -05:00
+  location: Montgomery, AL
+  body: "* Dual Enrollment"
 ---
 
+Experienced in C#, Visual Basic, Python, and Web Languages (HTML, CSS, JS)
