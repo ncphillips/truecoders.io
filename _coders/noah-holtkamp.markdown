@@ -63,5 +63,18 @@ experience:
     * Investigate complaints, disturbances and violations and resolve problems following management rules and regulations
     * Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties
     * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
+education:
+- school: Vestavia Hills High School
+  degree: High School Diploma
+  graduation_date: 2009-05-01 01:00:00 -05:00
+  location: Vestavia Hills, AL
+  body: 
+- school: T. Colin Campbell Center For Nutrition Studies
+  degree: Plant Based Nutrition
+  graduation_date: 2016-03-01 00:00:00 -06:00
+  location: 
+  body: |-
+    * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc
+    * Gauged role nutrition plays in chronic disease     Learned psychological reasons we are drawn to foods that do not support health
 ---
 
