@@ -47,11 +47,11 @@ experience:
 - company: Garywood Assembly of God
   job_title: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 
+  end_date: 2017-01-01 00:00:00 -06:00
   body: 
 - company: Tennis Instruction
   job_title: Instructor
-  start_date: 2015-01-01 00:00:00 -06:00
+  start_date: 2015-12-01 00:00:00 -06:00
   end_date: 
   body: 
 education:
@@ -59,6 +59,9 @@ education:
   degree: High School Diploma
   graduation_date: 2016-05-01 00:00:00 -05:00
   location: Birmingham, AL
+  body: |-
+    * Graduated with AAD
+    * Outstanding Athlete
 ---
 
-I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media.
+I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media as a DJ. Lastly, I have experience with landscaping.
