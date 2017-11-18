@@ -13,4 +13,4 @@ call_to_action:
 
 # We're TrueCoders
 
-These individuals are all TrueCoders graduates.
+These individuals are all TrueCoders graduates. They've been trained and tested. They've been challenged and vetted. Now, they're ready to work on your projects.
