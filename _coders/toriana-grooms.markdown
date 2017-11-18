@@ -38,5 +38,22 @@ reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping knew concepts and incorporating
     them into her workflow. I'd highly recommend Tori for a developer role.
+education:
+- school: Jefferson State Community College
+  degree: Criminal Justice
+  graduation_date: 
+  location: Birmingham, AL
+  body: Focus on Criminal Justice
+- school: University of Alabama in Birmingham
+  degree: Early Childhood Education
+  graduation_date: 2013-05-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: 
+- school: Erwin High School
+  degree: High School Diploma
+  graduation_date: 2008-05-01 01:00:00 -05:00
+  location: Birmingham, AL
+  body: 
 ---
 
+To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization.
