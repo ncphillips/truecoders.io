@@ -45,21 +45,21 @@ experience:
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 
   body: |-
-    1. Developed and maintained customized WordPress based websites.
-    1. Completed web development training in order to prepare for transitioning into a primarily development role.
-    1. Worked directly alongside of clients to break down project requirements and manage task creation.
-    1. Applied custom Ul/UX concepts to generic templates in order to successfully satisfy customer requirements
-    1. Created responsive design to ensure mobile compatibility for custom websites.
-    1. Developed and designed branding, packaging, & animations for various projects.
+    * Developed and maintained customized WordPress based websites.
+    * Completed web development training in order to prepare for transitioning into a primarily development role.
+    * Worked directly alongside of clients to break down project requirements and manage task creation.
+    * Applied custom Ul/UX concepts to generic templates in order to successfully satisfy customer requirements
+    * Created responsive design to ensure mobile compatibility for custom websites.
+    * Developed and designed branding, packaging, & animations for various projects.
 - company: Costco Wholesale
   job_title: Produce Merchandiser
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2017-02-01 00:00:00 -06:00
   body: |-
-    1. Designed floor layout for produce department to maximize product turnover.
-    1. Reported inventory errors to management to quickly correct stocking issues and avoid runaway over/under stocking.
-    1. Ensured accurate records of inbound shipments.
-    1. Maintained business to business relationships with local restaurants in order to promote Costco community involvement.
+    * Designed floor layout for produce department to maximize product turnover.
+    * Reported inventory errors to management to quickly correct stocking issues and avoid runaway over/under stocking.
+    * Ensured accurate records of inbound shipments.
+    * Maintained business to business relationships with local restaurants in order to promote Costco community involvement.
 - company: RSVP Magazine
   job_title: Graphic Design Intern
   start_date: 2016-05-01 00:00:00 -05:00
@@ -84,25 +84,26 @@ experience:
   body: |-
     During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
-    for the Chamber to use for a “Shop Local” campaign.
+    for the Chamber to use for a "Shop Local" campaign.
 - company: Square Root Interactive
   job_title: Account Coordinator
   start_date: 2014-08-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
-    1. Handled customer relationships between twelve total past and current accounts.
-    1. Created project scheduling, milestone completion, and project outlook reports
+    * Handled customer relationships between twelve total past and current accounts.
+    * Created project scheduling, milestone completion, and project outlook reports
     to accurately determine the health of the project.
-    1. Managed bug fix distribution for seven person team to improve team efficiency.
-    1. Provided team with detailed bug reports to lower time between breaks and fixes.
-    1. Ensured product quality by testing features in multiple environments.
+    * Managed bug fix distribution for seven person team to improve team efficiency.
+    * Provided team with detailed bug reports to lower time between breaks and fixes.
+    * Ensured product quality by testing features in multiple environments.
 education:
 - school: Auburn University at Montgomery
   degree: Bachelor of Fine Arts - BFA Field Of StudyGraphic Design GradeCum Laude
   graduation_date: 
   location: Montgomery, AL
-  body: 'Activities and Societies: Phi Eta Sigma Honor Society The National Society
-    of Collegiate Scholars Phi Kappa Phi Honor Society'
+  body: |-
+    Activities and Societies: Phi Eta Sigma Honor Society The National Society
+    of Collegiate Scholars Phi Kappa Phi Honor Society
 - school: University of South Alabama
   degree: 
   graduation_date: 2016-05-01 00:00:00 -05:00
