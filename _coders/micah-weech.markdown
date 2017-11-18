@@ -39,5 +39,16 @@ reviews:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to
     problems. I'd recommend Micah for a database role.
+education:
+- school: Oakwood University
+  degree: Bachelor of Arts, Theology Pastoral/Evangelism
+  graduation_date: 2013-11-01 00:00:00 -05:00
+  location: Huntsville, AL
+  body: "* Minor in Biblical Languages"
+- school: Savannah College of Art and Design
+  degree: Master of Fine Arts, Film & Television
+  graduation_date: 
+  location: Savannah, GA
+  body: "* Pending thesis"
 ---
 
