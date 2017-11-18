@@ -60,6 +60,27 @@ experience:
     * Example One
     * Example Two
     * Example Three
+education:
+- school: Example High School
+  degree: High School Diploma
+  graduation_date: 2010-05-01 01:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    High School Description
+
+    * Testing 1
+    * Testing 2
+    * Testing 3
+- school: Example College
+  degree: Example Degree
+  graduation_date: 
+  location: Birmingham, AL
+  body: |-
+    High College Description
+
+    * Testing 1
+    * Testing 2
+    * Testing 3
 ---
 
 Example John Doe description here. With a few bullet points:
