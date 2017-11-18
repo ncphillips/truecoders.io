@@ -44,14 +44,14 @@ experience:
   job_title: Senior Pastor
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 
-  body: "Worked with:\n\n1. New Life SDA Church in Birmingham, AL\n1. Mt. Zion SDA
-    Church in Talladega, AL\n1. New Hope SDA Church in Mobile, AL\n1. Maranatha SDA
-    Church in Gulfport, MS\n\n* Oversee the affairs of the local church or district.\n*
-    Responsible for church growth financially, spiritually and in membership.\n* Responsible
-    for growing the congregation membership, financial base and spiritual growth.
-    \n* Renovated both churches. \n* Trained and developed leaders on the local level.
-    \n* Supported the community thru various initiatives focused on improving the
-    quality of life in the areas surrounding the churches."
+  body: "Worked with:\n\n1. New Life SDA Church\n1. Mt. Zion SDA Church\n1. New Hope
+    SDA Church\n1. Maranatha SDA Church\n\nDuties include:\n\n* Oversee the affairs
+    of the local church or district.\n* Responsible for church growth financially,
+    spiritually and in membership.\n* Responsible for growing the congregation membership,
+    financial base and spiritual growth. \n* Renovated both churches. \n* Trained
+    and developed leaders on the local level. \n* Supported the community thru various
+    initiatives focused on improving the quality of life in the areas surrounding
+    the churches."
 - company: Emmanuel Jr Academy
   job_title: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
