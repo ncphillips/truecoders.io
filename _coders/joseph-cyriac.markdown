@@ -37,6 +37,15 @@ reviews:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks
     effectively. I recommend Joseph for a developer or QA position.
+education:
+- school: Auburn University
+  degree: Bachelor of Science Degree
+  graduation_date: 2004-05-01 01:00:00 -05:00
+  location: Auburn, AL
+  body: |-
+    * College of Business
+    * Business Administration with a focus in Logistics
+    * Organized and lead the re - chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
 ---
 
 Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office operations, manage office technology, and develop efficiency systems in support of business goals and initiatives. Det ail orient ed and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.
