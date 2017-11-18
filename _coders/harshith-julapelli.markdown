@@ -38,6 +38,30 @@ reviews:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. I'd highly
     recommend Harshith for a developer position.
+experience:
+- company: University of Central Missouri
+  job_title: Graduate Research Assistant
+  start_date: 2016-01-01 00:00:00 -06:00
+  end_date: 2016-12-01 00:00:00 -06:00
+  body: |-
+    * Work under the support and guidance of the senior professor
+    * Assist with collecting and analyzing qualitative data
+    * Reviewing and analyzing research, including meta - analysis
+    * Produce reports and assist with general analysis of data it relates
+    * Data collection, data entry, merge and manipulate collected information, database management, create and run queries from various databases
+    * Write the queries to get optimal results
+    * Writing reports on the data analyzed
+- company: University of Central Missouri
+  job_title: Emergency Mail Sender
+  start_date: 2015-01-01 00:00:00 -06:00
+  end_date: 2015-12-01 00:00:00 -06:00
+  body: This application helps to get updates especially in case of emergency, through
+    mails regarding the missed calls and messages obtained when the mobile is inaccessible.
+    Few times by not attempting Calls/Messages for long hours we may need to face
+    few issues later. To avoid this, we are coming up with an application where we
+    can integrate the mobile with SMTP email system so that employee/user will get
+    the notification of email or SMS to their email client which is installed at his/her
+    work stations.
 education:
 - school: University of Central Missouri
   degree: Master of Computer Science
