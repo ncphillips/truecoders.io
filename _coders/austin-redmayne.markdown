@@ -73,8 +73,7 @@ experience:
   start_date: 2014-06-01 00:00:00 -05:00
   end_date: 2014-11-01 00:00:00 -05:00
   body: |-
-    * Assisting customers in locating products, at times helping them make a
-    decision between multiple products
+    * Assisting customers in locating products, at times helping them make a decision between multiple products
     * Cleaning
     * Operating a Cash Register
 - company: Blue​ ​Coast​ ​Burrito
@@ -83,7 +82,7 @@ experience:
   end_date: 2014-11-01 00:00:00 -05:00
   body: |-
     * Prepare and serve food
-    * Maintain restaurant clean
+    * Ensure the overall presentation of the restaurant
 education:
 - school: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   degree: Psychology
