@@ -57,11 +57,9 @@ experience:
   job_title: Server
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-11-01 00:00:00 -05:00
-  body: |-
-    * Ensuring customers are happy and satisfied
-    * At times being in charge of 2 sections in different parts of the restaurant
-    * One of the busiest retaurants in Florence, was used to constant flux of customers
-    * Cleaning
+  body: "* Teamwork focused on ensuring all customers are satisfied with their service
+    \n* At times maintaining two or more different parts of the restaurant \n* Constant
+    driving pace\n* Consistent flux of customers"
 - company: All​ ​American​ ​Swim​ ​Supply
   job_title: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00
