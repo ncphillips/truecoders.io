@@ -65,9 +65,9 @@ experience:
   start_date: 2014-07-01 00:00:00 -05:00
   end_date: 
   body: |-
-    * Packing, setting up and maintaining a mobile shop
-    * Helped customers decide what would be the best option for them
-    * Handling money
+    * Setting up and maintaining a mobile store
+    * Helping customers decide what would be the best option for them
+    * Handling money using mobile pay options
 - company: Hometown​ ​Market
   job_title: Cashier
   start_date: 2014-06-01 00:00:00 -05:00
