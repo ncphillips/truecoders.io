@@ -4,7 +4,7 @@ date: 2017-11-14 02:02:00 -06:00
 position: 7
 image: "/uploads/grant-berryman.jpg"
 class: Alpha C#
-personality_type: ISTP
+personality_type: INTJ
 social:
   github: 2unes
   linkedin: grantberryman
@@ -107,7 +107,7 @@ experience:
     * Visual Team Member- ensured that both store and products are displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Buster’s Billiards and Backroom
   job_title: Tech Manager
-  start_date: 2009-01-01 00:00:00 -06:00
+  start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: |-
     * Designed, installed, maintained and ran a top-notch audio and lighting system for 1000 capacity venue
