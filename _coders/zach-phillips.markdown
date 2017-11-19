@@ -56,8 +56,8 @@ experience:
   start_date: 2011-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Developed website using Wordpress
-    * Provide weekly updates for church website
+    * Maintained website using Wordpress
+    * Provided weekly updates
 education:
 - school: Christ Church School
   graduation_date: 2017-11-16 00:00:00 -06:00
