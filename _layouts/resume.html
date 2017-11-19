@@ -152,7 +152,7 @@ layout: default
         {{ education.location }}
       </p>
 
-      {{ education.body | markdownify }}
+      {{ education.body | default: education.content | markdownify }}
       
       {% endfor %}
     </div>
