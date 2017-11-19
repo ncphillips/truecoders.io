@@ -43,10 +43,9 @@ experience:
   job_title: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 
-  body: |-
-    * Meeting a time commitment in order to keep restaurant running smoothly
-    * Team based employee operations
-    * Maintain alertness in full scope of the restaurants needs
+  body: "* Meeting a time commitment in order to keep restaurant running smoothly
+    \n* Team based employee operations\n* Maintain alertness in full scope of the
+    restaurants needs"
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
   job_title: Server
   start_date: 2016-07-01 00:00:00 -05:00
