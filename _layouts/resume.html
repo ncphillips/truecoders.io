@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign class = site.classes | where: "title", page.class | first %}
+
 <div class="container" style="padding:60px 16px;">
 
   <!-- Image, Title, Content Row -->
@@ -145,7 +147,8 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
-      {% assign educations = page.education | sort: 'end_date', 'last' | reverse %}
+
+      {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
       {% for education in educations %}
 
       {% unless education.school %} {% continue %} {% endunless %}

@@ -8,4 +8,8 @@ end_date: 2017-11-22 00:00:00 -06:00
 location: Birmingham, AL
 ---
 
-Our first class working with C# and .NET
+C# and .NET education, along with other marketable skills including:
+
+* SCM and Git
+* ASP.NET MVC
+* Relational Databases
