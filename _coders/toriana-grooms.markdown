@@ -73,7 +73,7 @@ experience:
 education:
 - school: Jefferson State Community College
   degree: Criminal Justice
-  graduation_date: 
+  graduation_date: 2016-12-01 00:00:00 -06:00
   location: Birmingham, AL
   body: 
 - school: University of Alabama in Birmingham
