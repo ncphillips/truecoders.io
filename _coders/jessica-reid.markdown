@@ -100,6 +100,12 @@ education:
   degree: GED
   graduation_date: 2017-11-17 00:00:00 -06:00
   location: Birmingham, AL
+  body: 
+- school: Brown Mackie College
+  degree: Information Technology
+  graduation_date: 2015-10-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: "* Training in Information Technology"
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I’ve been a self-taught hobbyist developer for most of my life. I’ve attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I’ve now decided to make it a Full-Time career.
