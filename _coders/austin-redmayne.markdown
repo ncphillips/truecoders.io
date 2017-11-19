@@ -51,7 +51,7 @@ experience:
   start_date: 2016-07-01 00:00:00 -05:00
   end_date: 2016-11-01 00:00:00 -05:00
   body: |-
-    * Assisting consistently to the changing pace and demand of the restaurant
+    * Adhering persistently to the changing pace and demand of the restaurant
     * Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
   job_title: Server
