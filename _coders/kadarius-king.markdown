@@ -79,12 +79,12 @@ experience:
 education:
 - school: Auburn University
   degree: Political Science Major
-  graduation_date: 2012-05-01 00:00:00 -05:00
+  end_date: 2012-05-01 00:00:00 -05:00
   location: Auburn, AL
   body: 
 - school: Jefferson State Community College
   degree: Political Science Major
-  graduation_date: 
+  end_date: 
   location: Birmingham, AL
   body: 
 ---

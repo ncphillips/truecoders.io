@@ -64,12 +64,12 @@ experience:
 education:
 - school: Jefferson State Community College
   degree: 
-  graduation_date: 
+  end_date: 
   location: Birmingham, AL
   body: 
 - school: Huffman High School
   degree: High School Diploma
-  graduation_date: 2008-05-01 01:00:00 -05:00
+  end_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL
   body: 
 ---

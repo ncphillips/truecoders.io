@@ -64,12 +64,12 @@ experience:
 education:
 - school: University of Alabama, Birmingham (UAB)
   degree: Masters of Arts
-  graduation_date: 1995-05-01 01:00:00 -05:00
+  end_date: 1995-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: "* Special Education (Gifted and Talented Cert.)"
 - school: Birmingham-Southern College
   degree: Bachelor of Arts
-  graduation_date: 1992-05-01 01:00:00 -05:00
+  end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: "* Secondary Education (English and Economics Cert.)"
 ---

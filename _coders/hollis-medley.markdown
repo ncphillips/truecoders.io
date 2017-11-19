@@ -63,22 +63,22 @@ experience:
 education:
 - school: Lawson State
   degree: 
-  graduation_date: 
+  end_date: 
   location: Birmingham, AL
   body: "* Dual Enrollment"
 - school: Homeschool
   degree: High School Degree
-  graduation_date: 
+  end_date: 
   location: 
   body: 
 - school: Trenholm State
   degree: 
-  graduation_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2016-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
 - school: Faulkner University
   degree: 
-  graduation_date: 2015-05-01 00:00:00 -05:00
+  end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
 ---

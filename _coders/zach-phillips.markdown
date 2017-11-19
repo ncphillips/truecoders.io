@@ -60,7 +60,7 @@ experience:
     * Provided weekly updates
 education:
 - school: Christ Church School
-  graduation_date: 2017-11-16 00:00:00 -06:00
+  end_date: 2017-11-16 00:00:00 -06:00
   location: Odenville, AL
   body: |-
     * Developed website using Wordpress

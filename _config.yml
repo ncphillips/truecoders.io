@@ -65,7 +65,7 @@ defaults:
     education:
     - school: 
       degree: 
-      graduation_date: 
+      end_date: 
       location: 
       body: 
 - scope:

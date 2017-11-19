@@ -63,7 +63,7 @@ experience:
 education:
 - school: Example High School
   degree: High School Diploma
-  graduation_date: 2010-05-01 01:00:00 -05:00
+  end_date: 2010-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: |-
     High School Description
@@ -73,7 +73,7 @@ education:
     * Testing 3
 - school: Example College
   degree: Example Degree
-  graduation_date: 
+  end_date: 
   location: Birmingham, AL
   body: |-
     High College Description

@@ -75,12 +75,12 @@ experience:
 education:
 - school: Oakwood University
   degree: Bachelor of Arts, Theology Pastoral/Evangelism
-  graduation_date: 2013-11-01 00:00:00 -05:00
+  end_date: 2013-11-01 00:00:00 -05:00
   location: Huntsville, AL
   body: "* Minor in Biblical Languages"
 - school: Savannah College of Art and Design
   degree: Master of Fine Arts, Film & Television
-  graduation_date: 
+  end_date: 
   location: Savannah, GA
   body: "* Pending thesis"
 ---

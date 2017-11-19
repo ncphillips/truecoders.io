@@ -119,7 +119,7 @@ experience:
 education:
 - school: Middle Tennessee State University
   degree: Bachelor of Science Degree in Recording Industry
-  graduation_date: 2006-05-01 01:00:00 -05:00
+  end_date: 2006-05-01 01:00:00 -05:00
   location: Murfreesboro, TN
   body: |-
     * Production and Technology

@@ -86,27 +86,27 @@ experience:
 education:
 - school: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   degree: Psychology
-  graduation_date: 
+  end_date: 
   location: Birmingham, AL
   body: 
 - school: Homewood​ ​High​ ​School
   degree: High​ ​School Diploma
-  graduation_date: 2011-05-01 01:00:00 -05:00
+  end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
   body: 
 - school: Northwest​ ​Shoals​ ​Community​ ​College
   degree: General
-  graduation_date: 2013-12-01 00:00:00 -06:00
+  end_date: 2013-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - school: Jeff​ ​State​ ​Community​ ​College
   degree: General
-  graduation_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: 
 - school: University​ ​of​ ​North​ ​Alabama
   degree: Music Performance
-  graduation_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2016-05-01 00:00:00 -05:00
   location: Florence, AL
   body: 
 ---

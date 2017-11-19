@@ -140,7 +140,7 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
-      {% assign educations = page.education | sort: 'graduation_date', 'last' | reverse %}
+      {% assign educations = page.education | sort: 'end_date', 'last' | reverse %}
       {% for education in educations %}
 
       {% unless education.school %} {% continue %} {% endunless %}
@@ -148,7 +148,7 @@ layout: default
       <p>
         <strong>{{ education.school }}</strong> {% if education.degree %} | {{ education.degree }}{% endif %}
         <br/>
-        {{ education.graduation_date | date: "%b %Y" | default: "Present" | upcase }},
+        {{ education.end_date | date: "%b %Y" | default: "Present" | upcase }},
         {{ education.location }}
       </p>
 

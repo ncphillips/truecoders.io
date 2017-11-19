@@ -66,12 +66,12 @@ experience:
 education:
 - school: Vestavia Hills High School
   degree: High School Diploma
-  graduation_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
   body: 
 - school: T. Colin Campbell Center For Nutrition Studies
   degree: Plant Based Nutrition
-  graduation_date: 2016-03-01 00:00:00 -06:00
+  end_date: 2016-03-01 00:00:00 -06:00
   location: 
   body: |-
     * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc

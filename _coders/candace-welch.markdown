@@ -95,18 +95,18 @@ experience:
 education:
 - school: Auburn University at Montgomery
   degree: Bachelor of Fine Arts - BFA Field Of StudyGraphic Design GradeCum Laude
-  graduation_date: 
+  end_date: 
   location: Montgomery, AL
   body: 'Activities and Societies: Phi Eta Sigma Honor Society The National Society
     of Collegiate Scholars Phi Kappa Phi Honor Society'
 - school: University of South Alabama
   degree: 
-  graduation_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2016-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: 
 - school: Trinity Presbyterian School
   degree: High School Diploma
-  graduation_date: 
+  end_date: 
   location: 
   body: 
 ---

@@ -98,12 +98,12 @@ experience:
 education:
 - school: P.D.​ ​Jackson​ ​Olin​
   degree: GED
-  graduation_date: 2017-11-17 00:00:00 -06:00
+  end_date: 2017-11-17 00:00:00 -06:00
   location: Birmingham, AL
   body: 
 - school: Brown Mackie College
   degree: Information Technology
-  graduation_date: 2015-10-01 00:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
   body: "* Training in Information Technology"
 ---

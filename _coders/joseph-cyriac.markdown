@@ -80,7 +80,7 @@ experience:
 education:
 - school: Auburn University
   degree: Bachelor of Science Degree
-  graduation_date: 2004-05-01 01:00:00 -05:00
+  end_date: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: |-
     * College of Business

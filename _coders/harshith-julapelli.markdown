@@ -65,12 +65,12 @@ experience:
 education:
 - school: University of Central Missouri
   degree: Master of Computer Science
-  graduation_date: 2016-12-01 00:00:00 -06:00
+  end_date: 2016-12-01 00:00:00 -06:00
   location: Warrensburg, MO
   body: "* GPA: 3.6/4.0"
 - school: Jawaharlal Nehru Technological University
   degree: Bachelor of Computer Science and Engineering
-  graduation_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India
   body: "* GPA: 3.5/4.0"
 ---

@@ -93,13 +93,13 @@ experience:
 education:
 - school: Brown Mackie College-Birmingham
   degree: Associate's Degree
-  graduation_date: 2015-05-01 00:00:00 -05:00
+  end_date: 2015-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: Associate's degree, Business, Management, Marketing, and Related Support Services,
     2014 - 2015
 - school: Bessemer Technical College
   degree: 
-  graduation_date: 2006-05-01 01:00:00 -05:00
+  end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
   body: 
 ---
