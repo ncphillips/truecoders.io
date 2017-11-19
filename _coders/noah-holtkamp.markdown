@@ -66,7 +66,7 @@ experience:
 education:
 - school: Vestavia Hills High School
   degree: High School Diploma
-  graduation_date: 2009-05-01 01:00:00 -05:00
+  graduation_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
   body: 
 - school: T. Colin Campbell Center For Nutrition Studies
