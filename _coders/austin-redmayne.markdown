@@ -115,5 +115,8 @@ education:
   body: 
 ---
 
-Able to handle extreme environments, high stress situations. Knowledge of computer repair, software installation, data transfer, virus
-removal. Knack for troubleshooting with speed. Understanding of the diverse and unique needs of others.
+As far back as I can remember I have been drawn to the creative potential of technology. I became familiar early on with driver and software troubleshooting, data transfer,  and virus/malware removal.
+
+Coming from mostly a customer service working background though I have developed a specific insight into understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.
+
+The experience I have gained has allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.
