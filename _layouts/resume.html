@@ -121,10 +121,15 @@ layout: default
 
       {% unless experience.company and experience.job_title %} {% continue %} {% endunless %}
 
+      {% if experience.end_date < site.time %}
+      {% assign end_date = experience.end_date | date: "%b %Y" | default: "Present" | upcase %}
+      {% else %}
+      {% assign end_date = "Present" %}
+      {% endif %}
+
       <p>
         <strong>{{ experience.company }}</strong> | {{ experience.job_title }}
-        <br/> {{ experience.start_date | date: "%b %Y" | upcase }} -
-        {{ experience.end_date | date: "%b %Y" | default: "Present" | upcase }}
+        <br/> {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
 
       {{ experience.body | markdownify }}
@@ -145,11 +150,16 @@ layout: default
 
       {% unless education.school %} {% continue %} {% endunless %}
 
+      {% if education.end_date < site.time %}
+      {% assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase %}
+      {% else %}
+      {% assign end_date = "Present" %}
+      {% endif %}
+
       <p>
         <strong>{{ education.school }}</strong> {% if education.degree %} | {{ education.degree }}{% endif %}
         <br/>
-        {{ education.end_date | date: "%b %Y" | default: "Present" | upcase }},
-        {{ education.location }}
+        {{ end_date }}, {{ education.location }}
       </p>
 
       {{ education.body | default: education.content | markdownify }}
