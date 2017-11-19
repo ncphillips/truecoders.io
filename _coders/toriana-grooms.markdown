@@ -42,7 +42,7 @@ experience:
 - company: Cricket Wireless
   job_title: Assistant Manager
   start_date: 2017-06-01 00:00:00 -05:00
-  end_date: 
+  end_date: 2017-09-30 00:00:00 -05:00
   body: "* Selling wireless phones and wireless accessories"
 - company: Insomnia Cookies
   job_title: Store Manager
