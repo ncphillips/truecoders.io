@@ -78,13 +78,13 @@ experience:
   body: |-
     Pack auto glass and related products and deliver to customer’s premises. Drive employee owned vehicle to deliver customer orders in good working condition. Perform pre-trip examination of all glass products. Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any
     problems encountered.
-- company: Pittsburgh Glass Works, LLC
+- company: Anthony Underwood Automotive
   job_title: Digital Sales Manager
   start_date: 2010-02-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
   body: Manage website, maintain internet reputation and social profiles. Take photos
     of vehicle for posting on internet.
-- company: Pittsburgh Glass Works, LLC
+- company: Bada Ding Inc.
   job_title: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
