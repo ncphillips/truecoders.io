@@ -78,10 +78,13 @@ experience:
     * Liaison for North American Ventures
     * Process shipments, managing customs, tariffs, and other requirements
 - company: Song Eye Center Inc.
-  job_title: Information Technology Consultant
+  job_title: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
   end_date: 
-  body: 
+  body: |-
+    * Analyzing, Designing and Implementing Office Infrastructure for several locations
+    * Select and Implement Electronic Billing and Health Record program Practice Partner
+    * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 education:
 - school: Auburn University
   degree: Bachelor of Science Degree
