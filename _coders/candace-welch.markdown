@@ -78,7 +78,7 @@ experience:
 - company: Wetumpka Area Chamber of Commerce
   job_title: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
-  end_date: 
+  end_date: 2016-07-01 00:00:00 -05:00
   body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
