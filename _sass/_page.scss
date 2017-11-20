@@ -17,4 +17,17 @@
     body {
         font-size: $font-size-base - 0.2;
     }
+
+    h4 {
+        font-size: $font-size-base - 0.1;
+    }
+
+    div.container {
+        page-break-before: avoid;
+        page-break-after: avoid;
+    }
+
+    div.print-page-break {
+        page-break-before: always;
+    }
 }
