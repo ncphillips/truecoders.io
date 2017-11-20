@@ -69,10 +69,13 @@ experience:
     * Transcribing medical documents and patient records into Electronic Health Records utilizing McKesson Practice Partner
     * Providing support and conflict resolution for office staff and patients
 - company: HFP LLC
-  job_title: Import - Export Broker
+  job_title: Customs and Sales Broker
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
-  body: 
+  body: |-
+    * Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
+    * Liaison for North American Ventures
+    * Process shipments, managing customs, tariffs, and other requirements
 - company: Song Eye Center Inc.
   job_title: Information Technology Consultant
   start_date: 1997-01-01 00:00:00 -06:00
