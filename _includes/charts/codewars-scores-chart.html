@@ -3,8 +3,9 @@
   Chart.defaults.global.defaultFontFamily = 'Montserrat';
 
   var scores = {{ include.scores | jsonify }};
+  var codewarsElement = document.getElementById("codewars-chart");
 
-  if (scores.length > 1) {
+  if (codewarsElement && scores.length > 1) {
     var scoreLabels = ["Start"];
 
     for (var i = 0; i < scores.length; i++) {
@@ -13,9 +14,7 @@
 
     scores.splice(0, 0, 0);
 
-    var codewarsTarg = document.getElementById("codewars-chart").getContext('2d');
-
-    var codewarsChart = new Chart(codewarsTarg, {
+    var codewarsChart = new Chart(codewarsElement.getContext('2d'), {
       type: 'line',
       data: {
         labels: scoreLabels,

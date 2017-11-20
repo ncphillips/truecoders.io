@@ -3,8 +3,9 @@
   Chart.defaults.global.defaultFontFamily = 'Montserrat';
 
   var skills = {{ include.skills | jsonify }};
+  var skillsElement = document.getElementById("skills-chart");
 
-  if (skills.length > 1) {
+  if (skillsElement && skills.length > 1) {
     var labels = [];
     var ranks = [];
     var backgroundColors = [];
@@ -21,9 +22,7 @@
       borderColors.push('rgba(0, 147, 201, 1)');
     }
 
-    var skillsTarg = document.getElementById("skills-chart").getContext('2d');
-
-    var skillsChart = new Chart(skillsTarg, {
+    var skillsChart = new Chart(skillsElement.getContext('2d'), {
       type: 'horizontalBar',
       data: {
         labels: labels,
