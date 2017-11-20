@@ -48,7 +48,7 @@ experience:
 
     * Resolving conflicts in an equitable manner to ensure continued customer loyalty
     * Managing cargo and ground logistics to ensure scheduled flight departure
-    * Coordinating air port security logistics with corresponding federal agencies
+    * Coordinating airport security logistics with corresponding federal agencies
 - company: Business Partnership
   job_title: Investment Property Manager
   start_date: 2005-01-01 00:00:00 -06:00
