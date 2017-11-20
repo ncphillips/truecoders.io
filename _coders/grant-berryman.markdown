@@ -129,6 +129,19 @@ education:
     * Active member of Audio Engineering Society
     * Dean’s list
     * Internship with Grammy award winning engineer [Dan Rudin](http://www.danrudin.com).
+- school: Atlanta Institute of Music
+  degree: Associates Degree in Guitar Performance
+  end_date: 2004-05-01 01:00:00 -05:00
+  location: Atlanta, GA
+  body: "* GPA: 3.3"
+- school: Auburn University
+  degree: Bachelor of Arts Degree in Psychology
+  end_date: 2002-05-01 01:00:00 -05:00
+  location: Auburn, AL
+  body: |-
+    * GPA: 3.198
+    * Dean’s list
+    * Golden Key International Honor Society
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.
