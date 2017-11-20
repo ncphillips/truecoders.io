@@ -75,7 +75,7 @@ education:
   body: "* GPA: 3.5/4.0"
 ---
 
-To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth . Skills required for a C# Developer can preferably match with my educational background and technical knowledge . It would be great to work under your supervision. I would like to say that my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.
+To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth. My educational background and technical knowledge have given me the skills required for a C# Developer. I would like to say that my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.
 
 * Strong knowledge of fundamentals, analytical ability and assimilation of concepts
 * Good team player with excellent organizational skills and business process improvements
