@@ -94,11 +94,13 @@ experience:
     * Ensured product quality by testing features in multiple environments.
 education:
 - school: Auburn University at Montgomery
-  degree: Bachelor of Fine Arts - BFA Field Of StudyGraphic Design GradeCum Laude
+  degree: Graphic Design
   end_date: 2017-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: |-
     Activities and Societies:
+
+    * Cum Laude
     * Phi Eta Sigma Honor Society
     * The National Society of Collegiate Scholars
     * Phi Kappa Phi Honor Society
