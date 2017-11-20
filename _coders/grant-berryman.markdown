@@ -68,7 +68,7 @@ experience:
     * Created service tickets, invoices, and return/RMA defective products
     * Educated and trained customers on products
     * Sold products to customers when existing equipment has failed
-    * Managed my schedule to ensure that all company service needs are met in a timely manner
+    * Managed my schedule to ensure that all company service needs were met in a timely manner
     * Built and maintained customer networks and access points
 - company: Apple Retail
   job_title: Genius / Certified Mac Technician
