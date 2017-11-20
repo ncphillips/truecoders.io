@@ -68,7 +68,7 @@ experience:
     * Implementing Electronic Billing utilizing Lytec 2012 Practice Management systems
     * Transcribing medical documents and patient records into Electronic Health Records utilizing McKesson Practice Partner
     * Providing support and conflict resolution for office staff and patients
-- company: Hussain Fadhil & Partners LLC
+- company: HFP LLC
   job_title: Import - Export Broker
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
@@ -89,4 +89,4 @@ education:
     * Organized and lead the re - chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
 ---
 
-Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office operations, manage office technology, and develop efficiency systems in support of business goals and initiatives. Detail oriented and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.
+Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office personnel, company infrastructure and develop efficiency systems in support of business goals and initiatives. Detail oriented and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.
