@@ -53,7 +53,7 @@ experience:
     * Writing reports on the data analyzed
 - company: University of Central Missouri
   job_title: Emergency Mail Sender
-  start_date: 2015-01-01 00:00:00 -06:00
+  start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2015-12-01 00:00:00 -06:00
   body: This application helps to get updates especially in case of emergency, through
     mails regarding the missed calls and messages obtained when the mobile is inaccessible.
