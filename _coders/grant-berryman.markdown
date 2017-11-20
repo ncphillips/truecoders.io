@@ -11,21 +11,21 @@ social:
   codewars: 2unes
 skills:
 - title: Attendance
-  rank: 5
+  rank: 
 - title: C#
-  rank: 4.2
+  rank: 
 - title: ANSI SQL
-  rank: 3.9
+  rank: 
 - title: JavaScript
-  rank: 4.2
+  rank: 
 - title: Git
-  rank: 4.3
+  rank: 
 - title: Diagnostics
-  rank: 4.7
+  rank: 
 - title: ASP.NET
-  rank: 3.9
+  rank: 
 - title: Soft Skills
-  rank: 3.8
+  rank: 
 codewars_scores:
 - 54
 - 90

@@ -11,21 +11,21 @@ social:
   codewars: aervin
 skills:
 - title: Attendance
-  rank: 2.1
+  rank: 
 - title: C#
-  rank: 2.5
+  rank: 
 - title: ANSI SQL
-  rank: 3.2
+  rank: 
 - title: JavaScript
-  rank: 3.6
+  rank: 
 - title: Git
-  rank: 3.1
+  rank: 
 - title: Diagnostics
-  rank: 3.1
+  rank: 
 - title: ASP.NET
-  rank: 2.8
+  rank: 
 - title: Soft Skills
-  rank: 4.8
+  rank: 
 codewars_scores:
 - 4
 - 4

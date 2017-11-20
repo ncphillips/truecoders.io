@@ -11,21 +11,21 @@ social:
   codewars: hmedley
 skills:
 - title: Attendance
-  rank: 4.7
+  rank: 
 - title: C#
-  rank: 3.5
+  rank: 
 - title: ANSI SQL
-  rank: 3.2
+  rank: 
 - title: JavaScript
-  rank: 4.2
+  rank: 
 - title: Git
-  rank: 3.9
+  rank: 
 - title: Diagnostics
-  rank: 3.4
+  rank: 
 - title: ASP.NET
-  rank: 3.8
+  rank: 
 - title: Soft Skills
-  rank: 4.3
+  rank: 
 codewars_scores:
 - 51
 - 67

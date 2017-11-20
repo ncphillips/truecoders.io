@@ -11,21 +11,21 @@ social:
   codewars: connor_davis98
 skills:
 - title: Attendance
-  rank: 4.9
+  rank: 
 - title: C#
-  rank: 3.9
+  rank: 
 - title: ANSI SQL
-  rank: 3.4
+  rank: 
 - title: JavaScript
-  rank: 3.9
+  rank: 
 - title: Git
-  rank: 3.7
+  rank: 
 - title: Diagnostics
-  rank: 4.1
+  rank: 
 - title: ASP.NET
-  rank: 4.2
+  rank: 
 - title: Soft Skills
-  rank: 4.6
+  rank: 
 codewars_scores:
 - 46
 - 81

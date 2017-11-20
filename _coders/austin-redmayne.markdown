@@ -11,21 +11,21 @@ social:
   codewars: austinrickmayne
 skills:
 - title: Attendance
-  rank: 2.8
+  rank: 
 - title: C#
-  rank: 2.5
+  rank: 
 - title: ANSI SQL
-  rank: 2.9
+  rank: 
 - title: JavaScript
-  rank: 3.1
+  rank: 
 - title: Git
-  rank: 2.5
+  rank: 
 - title: Diagnostics
-  rank: 2
+  rank: 
 - title: ASP.NET
-  rank: 2.3
+  rank: 
 - title: Soft Skills
-  rank: 3.5
+  rank: 
 codewars_scores:
 - 16
 - 18

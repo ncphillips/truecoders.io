@@ -11,21 +11,21 @@ social:
   codewars: torigrooms
 skills:
 - title: Attendance
-  rank: 1.1
+  rank: 
 - title: C#
-  rank: 3.8
+  rank: 
 - title: ANSI SQL
-  rank: 4.1
+  rank: 
 - title: JavaScript
-  rank: 4
+  rank: 
 - title: Git
-  rank: 3.7
+  rank: 
 - title: Diagnostics
-  rank: 3.6
+  rank: 
 - title: ASP.NET
-  rank: 4.1
+  rank: 
 - title: Soft Skills
-  rank: 3.7
+  rank: 
 codewars_scores:
 - 50
 - 60

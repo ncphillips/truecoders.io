@@ -11,21 +11,21 @@ social:
   codewars: mweechzing
 skills:
 - title: Attendance
-  rank: 1.05
+  rank: 
 - title: C#
-  rank: 2
+  rank: 
 - title: ANSI SQL
-  rank: 2.9
+  rank: 
 - title: JavaScript
-  rank: 2.8
+  rank: 
 - title: Git
-  rank: 2.9
+  rank: 
 - title: Diagnostics
-  rank: 2
+  rank: 
 - title: ASP.NET
-  rank: 2.6
+  rank: 
 - title: Soft Skills
-  rank: 2
+  rank: 
 codewars_scores:
 - 10
 - 16

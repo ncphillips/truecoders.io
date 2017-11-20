@@ -11,21 +11,21 @@ social:
   codewars: KaDarius
 skills:
 - title: Attendance
-  rank: 1
+  rank: 
 - title: C#
-  rank: 3.8
+  rank: 
 - title: ANSI SQL
-  rank: 3.9
+  rank: 
 - title: JavaScript
-  rank: 3.2
+  rank: 
 - title: Git
-  rank: 3.8
+  rank: 
 - title: Diagnostics
-  rank: 3.6
+  rank: 
 - title: ASP.NET
-  rank: 3.8
+  rank: 
 - title: Soft Skills
-  rank: 4.4
+  rank: 
 codewars_scores:
 - 9
 - 11

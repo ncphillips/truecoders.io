@@ -11,21 +11,21 @@ social:
   codewars: Harshithj
 skills:
 - title: Attendance
-  rank: 4
+  rank: 
 - title: C#
-  rank: 4.5
+  rank: 
 - title: ANSI SQL
-  rank: 3.9
+  rank: 
 - title: JavaScript
-  rank: 4.2
+  rank: 
 - title: Git
-  rank: 3.8
+  rank: 
 - title: Diagnostics
-  rank: 4.4
+  rank: 
 - title: ASP.NET
-  rank: 4.2
+  rank: 
 - title: Soft Skills
-  rank: 3.7
+  rank: 
 codewars_scores:
 - 44
 - 137

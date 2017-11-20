@@ -11,21 +11,21 @@ social:
   codewars: zachstagrammer
 skills:
 - title: Attendance
-  rank: 5
+  rank: 
 - title: C#
-  rank: 3.5
+  rank: 
 - title: ANSI SQL
-  rank: 3.8
+  rank: 
 - title: JavaScript
-  rank: 3.3
+  rank: 
 - title: Git
-  rank: 3.8
+  rank: 
 - title: Diagnostics
-  rank: 3.5
+  rank: 
 - title: ASP.NET
-  rank: 3.2
+  rank: 
 - title: Soft Skills
-  rank: 4.3
+  rank: 
 codewars_scores:
 - 44
 - 62

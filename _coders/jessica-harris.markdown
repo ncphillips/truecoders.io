@@ -11,21 +11,21 @@ social:
   codewars: jrharris620
 skills:
 - title: Attendance
-  rank: 1.8
+  rank: 
 - title: C#
-  rank: 4.5
+  rank: 
 - title: ANSI SQL
-  rank: 4
+  rank: 
 - title: JavaScript
-  rank: 4.4
+  rank: 
 - title: Git
-  rank: 4.8
+  rank: 
 - title: Diagnostics
-  rank: 4.6
+  rank: 
 - title: ASP.NET
-  rank: 4
+  rank: 
 - title: Soft Skills
-  rank: 4.2
+  rank: 
 codewars_scores:
 - 49
 - 127

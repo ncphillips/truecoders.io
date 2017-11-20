@@ -55,16 +55,12 @@ layout: default
   <div class="row justify-content-between">
 
     <!-- Skills Col -->
-    <!-- TODO: REMOVE THIS
-      Hiding Skills until Finalized
-
-    {% if page.skills[1] %}
+    {% if page.skills[1].rank %}
     <div class="col-xl-5" style="text-align:center;">
       <h4>Skill Sets</h4>
       <canvas id="skills-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
     </div>
     {% endif %}
-    -->
 
     <!-- Codewars Col -->
     {% if page.codewars_scores[1] %}

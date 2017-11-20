@@ -11,21 +11,21 @@ social:
   codewars: HoltkampN
 skills:
 - title: Attendance
-  rank: 1.2
+  rank: 
 - title: C#
-  rank: 2.5
+  rank: 
 - title: ANSI SQL
-  rank: 3.3
+  rank: 
 - title: JavaScript
-  rank: 3.4
+  rank: 
 - title: Git
-  rank: 3.5
+  rank: 
 - title: Diagnostics
-  rank: 2.7
+  rank: 
 - title: ASP.NET
-  rank: 2.9
+  rank: 
 - title: Soft Skills
-  rank: 3.8
+  rank: 
 codewars_scores:
 - 10
 - 44

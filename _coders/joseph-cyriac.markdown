@@ -8,24 +8,23 @@ personality_type: ENTJ
 social:
   github: cyriajo
   linkedin: cyriajo
-  codewars: cyriajo
 skills:
 - title: Attendance
-  rank: 4.6
+  rank: 
 - title: C#
-  rank: 3
+  rank: 
 - title: ANSI SQL
-  rank: 3.4
+  rank: 
 - title: JavaScript
-  rank: 3.6
+  rank: 
 - title: Git
-  rank: 3.9
+  rank: 
 - title: Diagnostics
-  rank: 3.8
+  rank: 
 - title: ASP.NET
-  rank: 2.9
+  rank: 
 - title: Soft Skills
-  rank: 4.5
+  rank: 
 codewars_scores:
 - 40
 - 58

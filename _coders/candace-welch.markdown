@@ -11,21 +11,21 @@ social:
   codewars: candacejwelch
 skills:
 - title: Attendance
-  rank: 5
+  rank: 
 - title: C#
-  rank: 4.5
+  rank: 
 - title: ANSI SQL
-  rank: 4.4
+  rank: 
 - title: JavaScript
-  rank: 4.8
+  rank: 
 - title: Git
-  rank: 4.2
+  rank: 
 - title: Diagnostics
-  rank: 4.7
+  rank: 
 - title: ASP.NET
-  rank: 4.3
+  rank: 
 - title: Soft Skills
-  rank: 4.1
+  rank: 
 codewars_scores:
 - 91
 - 159
