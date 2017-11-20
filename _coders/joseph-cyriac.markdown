@@ -59,15 +59,16 @@ experience:
     * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     * Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: West Alabama Internal Medicine LLC
-  job_title: Information Technology Consultant
+  job_title: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    As a permanent staff member serving in the capacity of IT Consultant and Senior Office Assistant responsible for:
-    * Constructing, Networking, & Maintaining office computer infrastructure
-    * Implementing Electronic Billing utilizing Lytec 2012 Practice Management systems
-    * Transcribing medical documents and patient records into Electronic Health Records utilizing McKesson Practice Partner
-    * Providing support and conflict resolution for office staff and patients
+    As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
+
+    * Analyzing, Designing and Implementing Office Infrastructure
+    * Select and Implement Electronic Billing and Health Record program Practice Partner
+    * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
+    * HR services such as hiring and yearly employee review
 - company: HFP LLC
   job_title: Customs and Sales Broker
   start_date: 2015-01-01 00:00:00 -06:00
