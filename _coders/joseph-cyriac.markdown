@@ -55,6 +55,7 @@ experience:
   end_date: 2010-12-01 00:00:00 -06:00
   body: |-
     As a joint investor and property manager responsible for:
+
     * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
     * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     * Financing and accounting of project budgets to maintain workflow and to ensure profitability
