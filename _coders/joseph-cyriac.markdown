@@ -7,6 +7,7 @@ class: Alpha C#
 personality_type: ENTJ
 social:
   github: cyriajo
+  linkedin: jkc-b77a1662
   codewars: cyriajo
 skills:
 - title: Attendance
