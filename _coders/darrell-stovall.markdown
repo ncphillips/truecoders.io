@@ -55,7 +55,9 @@ experience:
     * Creative Dramatics, 7th-8th grades
     * American History, 8th grade
 
-    I have served as as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team.During the last three years, I have sponsored the following clubs:Cartooning, Comicon, Graphic Novels, HTMS Has Talent, and Glee Club. ...Hour of Code... I coached Scholars Bowl for 20 years, Science Olympiad for 2 years, National Junior Honor Society for 3 years, and our high school’s soccer team for 2 years.
+    I have served as as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team.During the last three years, I have sponsored the following clubs: Cartooning, Comicon, Graphic Novels, HTMS Has Talent, and Glee Club. I coached Scholars Bowl for 20 years, Science Olympiad for 2 years, National Junior Honor Society for 3 years, and our high school’s soccer team for 2 years.
+
+    I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years.
 - company: Hewitt-Trussville Jr. High School
   job_title: Teacher
   start_date: 1992-01-01 00:00:00 -06:00
@@ -66,12 +68,12 @@ education:
   degree: Masters of Arts
   end_date: 1995-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: "* Special Education (Gifted and Talented Cert.)"
+  body: "* Special Education (Gifted and Talented Certification)"
 - school: Birmingham-Southern College
   degree: Bachelor of Arts
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: "* Secondary Education (English and Economics Cert.)"
+  body: "* Secondary Education (English and Economics Certification)"
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I’ve been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference.
