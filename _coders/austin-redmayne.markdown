@@ -111,8 +111,6 @@ education:
   body: 
 ---
 
-As far back as I can remember I have been drawn to the creative potential of technology. I became familiar early on with driver and software troubleshooting, data transfer,  and virus/malware removal.
+As far back as I can remember I have been drawn to the creative potential of technology whether it be within the scope of music, games or computers.
 
-Coming from mostly a customer service working background though I have developed a specific insight into understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.
-
-The experience I have gained has allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.
+This led me to become familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. Technology is an ever-growing field of opportunity and there is no better time to seize the day.
