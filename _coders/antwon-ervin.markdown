@@ -44,11 +44,6 @@ reviews:
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
 experience:
-- company: TrueCoders
-  job_title: Developer
-  start_date: 2017-10-02 00:00:00 -05:00
-  end_date: 
-  body: C# and .NET Developer with experience in Javascript, CSS, and HTML.
 - company: Discover Birmingham
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
