@@ -55,13 +55,13 @@ experience:
   job_title: Emergency Mail Sender
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2015-12-01 00:00:00 -06:00
-  body: This application helps to get updates especially in case of emergency, through
-    mails regarding the missed calls and messages obtained when the mobile is inaccessible.
-    Few times by not attempting Calls/Messages for long hours we may need to face
-    few issues later. To avoid this, we are coming up with an application where we
-    can integrate the mobile with SMTP email system so that employee/user will get
-    the notification of email or SMS to their email client which is installed at his/her
-    work stations.
+  body: Emergency mail sender is an android application targeted for many users who
+    cannot access their mobiles for long duration of time. EMS sends the missed calls
+    and message details to the user specified email id. Few times by not attempting
+    Calls/Messages for long hours we may need to face few issues later. To avoid this,
+    we are coming up with an application where we can integrate the mobile with SMTP
+    email system so that employee/user will get the notification of email or SMS to
+    their email client which is installed at his/her work stations.
 education:
 - school: University of Central Missouri
   degree: Master of Computer Science
