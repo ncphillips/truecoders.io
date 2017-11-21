@@ -75,7 +75,8 @@ education:
   location: 
   body: |-
     * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc
-    * Gauged role nutrition plays in chronic disease     Learned psychological reasons we are drawn to foods that do not support health
+    * Gauged role nutrition plays in chronic disease
+    * Learned psychological reasons we are drawn to foods that do not support health
 ---
 
 I am an enthusiastic TrueCoders Developer who is completing fundamental coursework in C#, SQL, .NET, and Git. I currently seek to apply my passion for learning to a position with a quality employer.
