@@ -93,3 +93,4 @@ To secure a challenging position within the programming industry, utilizing job 
 * Excellent Organizational Skills
 * Strong Customer Relations Skills
 * Computer Proficiency
+* Proficient Problem Solving Process
