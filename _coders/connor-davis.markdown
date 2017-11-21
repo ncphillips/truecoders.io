@@ -57,7 +57,7 @@ experience:
 education:
 - school: Hope Christian High School
   degree: High School Diploma
-  end_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
     * Graduated with AAD
