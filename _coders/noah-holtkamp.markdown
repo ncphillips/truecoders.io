@@ -44,7 +44,7 @@ experience:
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Work as part of a project team to coordinate database development and determine project scope and limitations. 
+    * Work as part of a project team to coordinate database development and determine project scope and limitations.
     * Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health.
 - company: Nutrient High LLC
   job_title: Project Manager
