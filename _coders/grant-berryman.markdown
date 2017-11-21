@@ -55,7 +55,6 @@ experience:
     - Diagnosed and resolved issues with client systems, while giving customers a second to none experience
     - Coordinated with Project Manager to effectively manage staff
     - Programmed automation systems, pulled wire, terminated cables and field engineered solutions
-    - Created service tickets, invoices, and return/RMA defective products
     - Educated and trained customers on products
     - Built and maintained customer networks and access points
 - company: Apple Retail
@@ -63,11 +62,10 @@ experience:
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2013-05-01 00:00:00 -05:00
   body: |-
-    - Provided hands on technical support for all Apple hardware and software
+    - Provided hands on technical support and repairs for all Apple hardware and software
     - Delivered top notch customer service to restore customer faith in Apple
     - Consistently ranked at top of team for service by customers
     - Communicated complex technical ideas to all ages and experience levels
-    - Performed repairs on all Apple hardware
     - Managed time and multitasked to keep customer appointments on time in fast paced, time sensitive environment
 - company: Apple Retail
   job_title: Family Room Specialist
@@ -96,12 +94,11 @@ experience:
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: |-
-    * Designed, installed, maintained and ran a top-notch audio and lighting system for 1000 capacity venue
-    * Trained, supervised, managed and scheduled six tech employees
-    * Responsible for on-site production and coordination of shows
-    * Front of House engineer, Monitor engineer and Stage Manager
-    * Worked with many national touring acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups, Cage The Elephant, etc.
-    * Occasional duties included: managing the bar, counting drawers and cash drops
+    - Designed, installed, maintained and ran a top-notch audio and lighting system for 1000 capacity venue, Front of House engineer, Monitor engineer and Stage Manager
+    - Trained, supervised, managed and scheduled six tech employees
+    - Responsible for on-site production and coordination of shows
+    - Worked with many national touring acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups, Cage The Elephant, etc.
+    - Occasional duties included: managing the bar, counting drawers and cash drops
 education:
 - school: Middle Tennessee State University
   degree: Bachelor of Science Degree in Recording Industry
