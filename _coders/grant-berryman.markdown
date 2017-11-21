@@ -44,57 +44,45 @@ experience:
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
   body: |-
-    [Tech-Ease](www.tech-ease.org) provides tech consultation, solutions, training and repairs for all Apple products. As Lead Tech, I am an independent contractor and work with minimal oversight. My duties include:
-
-    * Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise
-    * Troubleshoot, resolve and repair all hardware and software issues on all Apple products
-    * Lead both group workshops and training sessions
-    * Guide customers in finding the best technical solution for their needs
+    - Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise for finding the best technical solution for their needs
+    - Troubleshoot, resolve and repair all hardware and software issues on all Apple products
+    - Lead both group workshops and training sessions
 - company: Twist Technology LLC
   job_title: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
-    [Twist Technology LLC](www.twisttechllc.com) delivers the custom integration
-    of technology into residential, commercial and worship environments. Twist specializes
-    in audio/video distribution solutions, theaters, automation systems, lighting
-    systems, camera systems, access control and networking. As Service Department
-    Head my responsibilities were varied and included:
-
-    * Diagnosed and resolved issues with client systems, while giving customers a second to none experience
-    * Coordinated with Project Manager to effectively manage staff
-    * Communicated directly with customers to setup service calls
-    * Programmed automation systems, pulled wire, terminated cables and field engineered solutions
-    * Created service tickets, invoices, and return/RMA defective products
-    * Educated and trained customers on products
-    * Sold products to customers when existing equipment has failed
-    * Managed my schedule to ensure that all company service needs were met in a timely manner
-    * Built and maintained customer networks and access points
+    - Diagnosed and resolved issues with client systems, while giving customers a second to none experience
+    - Coordinated with Project Manager to effectively manage staff
+    - Communicated directly with customers to setup service calls
+    - Programmed automation systems, pulled wire, terminated cables and field engineered solutions
+    - Created service tickets, invoices, and return/RMA defective products
+    - Educated and trained customers on products
+    - Managed my schedule to ensure that all company service needs were met in a timely manner
+    - Built and maintained customer networks and access points
 - company: Apple Retail
   job_title: Genius / Certified Mac Technician
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2013-05-01 00:00:00 -05:00
   body: |-
-    [Apple](http://www.apple.com) is a world leading computer and mobile device manufacturer that sells and services their products through Apple Retail stores. As a Genius my duties included:
-
-    * Provided hands on technical support for all Apple hardware and software
-    * Delivered top notch customer service to restore customer faith in Apple
-    * Consistently ranked at top of team for service by customers
-    * Communicated complex technical ideas to all ages and experience levels
-    * Performed repairs on all Apple hardware
-    * Managed time and multitasked to keep customer appointments on time in fast paced, time sensitive environment
+    - Provided hands on technical support for all Apple hardware and software
+    - Delivered top notch customer service to restore customer faith in Apple
+    - Consistently ranked at top of team for service by customers
+    - Communicated complex technical ideas to all ages and experience levels
+    - Performed repairs on all Apple hardware
+    - Managed time and multitasked to keep customer appointments on time in fast paced, time sensitive environment
 - company: Apple Retail
   job_title: Family Room Specialist
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
-    * Apple small device certified
-    * Performed troubleshooting and resolved hardware and software issues on Apple mobile devices
-    * Effectively managed time to handle large volume of appointments
-    * Repaired and rebuilt customer relationships
-    * Taught personal training sessions on Apple hardware and software
-    * Transferred data from old customer computers to new Apple computer
-    * Visual Team Member- ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
+    - Apple small device certified
+    - Performed troubleshooting and resolved hardware and software issues on Apple mobile devices
+    - Effectively managed time to handle large volume of appointments
+    - Repaired and rebuilt customer relationships
+    - Taught personal training sessions on Apple hardware and software
+    - Transferred data from old customer computers to new Apple computer
+    - Visual Team Member- ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
   job_title: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
@@ -121,14 +109,9 @@ education:
   degree: Bachelor of Science Degree in Recording Industry
   end_date: 2006-05-01 01:00:00 -05:00
   location: Murfreesboro, TN
-  body: |-
-    * Production and Technology
-    * Minor in Music Industry
-    * Major GPA: 3.857
-    * Overall GPA: 3.34
-    * Active member of Audio Engineering Society
-    * Dean’s list
-    * Internship with Grammy award winning engineer [Dan Rudin](http://www.danrudin.com).
+  body: "- Major: Production and Technology | Minor: Music Industry\n- Major GPA:
+    3.857 | Overall GPA: 3.34\n- Active member of Audio Engineering Society | Dean’s
+    List \n- Internship with Grammy award winning engineer Dan Rudin"
 - school: Atlanta Institute of Music
   degree: Associates Degree in Guitar Performance
   end_date: 2004-05-01 01:00:00 -05:00
@@ -139,9 +122,8 @@ education:
   end_date: 2002-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: |-
-    * GPA: 3.198
-    * Dean’s list
-    * Golden Key International Honor Society
+    - GPA: 3.198
+    - Dean’s list | Golden Key International Honor Society
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.
