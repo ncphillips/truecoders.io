@@ -93,7 +93,7 @@ education:
   body: |-
     * College of Business
     * Business Administration with a focus in Logistics
-    * Organized and lead the re - chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
+    * Organized and lead the re-chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
 ---
 
 Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office personnel, company infrastructure and develop efficiency systems in support of business goals and initiatives. Detail oriented and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.
