@@ -88,8 +88,7 @@ layout: default
     <div class="col-12">
       {% assign type = site.personality_types | where: "title", page.personality_type | first %}
       <h4>Personality Type</h4>
-      <strong>{{ type.title }}</strong>
-      {{ type.content | markdownify }}
+      {{ "**" | append: type.title | append: ":** " | append: type.content | markdownify }}
     </div>
   </div>
   {% endif %}
