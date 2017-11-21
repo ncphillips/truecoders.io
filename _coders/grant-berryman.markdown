@@ -66,7 +66,7 @@ experience:
     * Delivered top notch customer service to restore customer faith in Apple
     * Consistently ranked at top of team for service by customers
     * Communicated complex technical ideas to all ages and experience levels
-    * Managed time and multitasked to keep customer appointments on time in fast paced, time sensitive environment
+    * Managed time to keep customer appointments on time in fast paced environment
 - company: Apple Retail
   job_title: Family Room Specialist
   start_date: 2010-09-01 01:00:00 -05:00
