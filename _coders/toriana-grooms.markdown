@@ -43,7 +43,9 @@ experience:
   job_title: Assistant Manager
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 2017-09-30 00:00:00 -05:00
-  body: "* Selling wireless phones and wireless accessories"
+  body: |
+    * Selling wireless phones and wireless accessories
+    * Marketing products and services to consumers
 - company: Insomnia Cookies
   job_title: Store Manager
   start_date: 2014-10-01 00:00:00 -05:00
@@ -53,7 +55,9 @@ experience:
   job_title: Service Trainer
   start_date: 2014-05-01 00:00:00 -05:00
   end_date: 2016-08-01 00:00:00 -05:00
-  body: "* Training new servers according to company regulations and policies"
+  body: |-
+    * Training new servers according to company regulations and policies
+    * Providing superior service and a quality experience to the guest.
 - company: RadioShack
   job_title: Wireless Consultant
   start_date: 2012-10-01 00:00:00 -05:00
@@ -93,3 +97,4 @@ To secure a challenging position within the programming industry, utilizing job 
 * Excellent Organizational Skills
 * Strong Customer Relations Skills
 * Computer Proficiency
+* Proficient Problem Solving Process

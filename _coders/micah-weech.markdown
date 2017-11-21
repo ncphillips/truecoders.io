@@ -41,16 +41,16 @@ reviews:
 experience:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
-  start_date: 2013-05-01 00:00:00 -05:00
+  start_date: 2010-05-01 01:00:00 -05:00
   end_date: 
   body: "Worked with:\n\n1. New Life SDA Church\n1. Mt. Zion SDA Church\n1. New Hope
-    SDA Church\n1. Maranatha SDA Church\n\nDuties include:\n\n* Oversee the affairs
-    of the local church or district.\n* Responsible for church growth financially,
-    spiritually and in membership.\n* Responsible for growing the congregation membership,
-    financial base and spiritual growth. \n* Renovated both churches. \n* Trained
-    and developed leaders on the local level. \n* Supported the community thru various
-    initiatives focused on improving the quality of life in the areas surrounding
-    the churches."
+    SDA Church\n1. Maranatha SDA Church\n1. Oakwood University Church\n\nDuties include:\n\n*
+    Oversee the affairs of the local church or district.\n* Responsible for church
+    growth financially, spiritually and in membership.\n* Responsible for growing
+    the congregation membership, financial base and spiritual growth. \n* Renovated
+    both churches. \n* Trained and developed leaders on the local level. \n* Supported
+    the community thru various initiatives focused on improving the quality of life
+    in the areas surrounding the churches."
 - company: Emmanuel Jr Academy
   job_title: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
@@ -69,9 +69,9 @@ experience:
   start_date: 2008-08-01 01:00:00 -05:00
   end_date: 2010-07-01 01:00:00 -05:00
   body: |-
-    * Responsible for maintaining and developing the youth ministry of the church, as well as other Pastoral duties.
-    * Responsible for managing, recruiting, and training camera persons and sound engineers for the media team that produces and broadcasts every worship service.
+    * Managed, recruited, and trained camera operators and sound engineers for church productions.
     * Manage audio/visual equipment installation, maintenance and upgrades.
+    * Managed sale and distribution of content produced at Oakwood University Church.
 education:
 - school: Oakwood University
   degree: Bachelor of Arts, Theology Pastoral/Evangelism

@@ -60,15 +60,14 @@ experience:
     * Provided weekly updates
 education:
 - school: Christ Church School
-  end_date: 2017-11-16 00:00:00 -06:00
+  end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
   body: |-
     * Developed website using Wordpress
     * Provide weekly updates for church website
 ---
 
-Since a very young age I’ve been interested in learning new technologies. I’ve been able to work as a website administrator for my church’s Wordpress site and most recently worked for a small business providing tech support along with Wordpress administration for their business website. I’m very excited to be learning new skillsets in development with TrueCoders. One
-thing I’ve found fascinating about development is it provides a combination of creative outlook and organization. I hope to learn much more and become increasingly passionate as a developer.
+I’m very interested in learning new technologies. Recently I’ve worked for a small business providing tech support along with website administration for their business website. I’m excited to be learning new skillsets in development with TrueCoders. I’ve found development fascinating as it provides a combination of creative outlook and organization. I hope to learn much more and become increasingly passionate as a developer.
 
 * Motivated self learner and detail oriented team player with strong organizational skills
 * Experienced in multiple operating systems, computer applications, and web development

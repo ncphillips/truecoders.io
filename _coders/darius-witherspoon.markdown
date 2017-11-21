@@ -47,7 +47,7 @@ experience:
 - company: FedEx Ground
   job_title: Driver
   start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 
+  end_date: 2017-10-01 00:00:00 -05:00
   body: |-
     * Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer
     * Mange route scheduling and equipment
@@ -64,7 +64,7 @@ experience:
 education:
 - school: Jefferson State Community College
   degree: 
-  end_date: 
+  end_date: 2013-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: 
 - school: Huffman High School
