@@ -55,8 +55,8 @@ experience:
   start_date: 2015-12-01 00:00:00 -06:00
   end_date: 
   body: |-
-    - Worked with wide range of people groups/types
-    - Coach for teen league
+    * Worked with wide range of people groups/types
+    * Coach for teen league
 education:
 - school: Hope Christian High School
   degree: High School Diploma

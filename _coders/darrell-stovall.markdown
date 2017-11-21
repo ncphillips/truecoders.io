@@ -47,13 +47,13 @@ experience:
   body: |-
     I have primarily been my school’s gifted specialist, teaching various courses and leading a number of activities:
 
-    - Enrichment & Technology, 6th-8th grades
-    - English/Language Arts, 7th-9th grades
-    - Yearbook, 7th-8th grades
-    - Problem Solving Rotation, 6th grade
-    - Reading, 6th grade
-    - Creative Dramatics, 7th-8th grades
-    - American History, 8th grade
+    * Enrichment & Technology, 6th-8th grades
+    * English/Language Arts, 7th-9th grades
+    * Yearbook, 7th-8th grades
+    * Problem Solving Rotation, 6th grade
+    * Reading, 6th grade
+    * Creative Dramatics, 7th-8th grades
+    * American History, 8th grade
 
     I have served as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team. During the last three years, I have sponsored the following clubs: Cartooning, Comicon, Graphic Novels, HTMS Has Talent, and Glee Club. I coached Scholars Bowl for 20 years, Science Olympiad for 2 years, National Junior Honor Society for 3 years, and our high school’s soccer team for 2 years.
 
