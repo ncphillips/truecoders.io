@@ -9,7 +9,7 @@ layout: default
   <!-- Image, Title, Content Row -->
   <div class="row">
     <div class="col-1">
-      <button type="button" class="btn btn-link back-button" onclick="goBack()" style="color: #212529; margin: 0px 10px; cursor: pointer;">
+      <button type="button" class="btn btn-link resume-action-button" onclick="goBack()" style="color: #212529; margin: 0px 10px; cursor: pointer;">
         <i class="fa fa-chevron-left fa-lg"></i>
       </button>
     </div>
@@ -51,7 +51,11 @@ layout: default
 
     </div>
 
-    <div class="col-1"></div>
+    <div class="col-1" style="text-align:end;">
+      <a class="resume-action-button" href="{{ "/resumes/" | append: page.slug | append: ".pdf" }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+        <i class="fa fa-download fa-lg"></i>
+      </a>
+    </div>
   </div>
 
   <div class="row">
