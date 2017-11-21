@@ -8,6 +8,7 @@ personality_type: ENTJ
 social:
   github: cyriajo
   linkedin: cyriajo
+  codewars: cyriajo
 skills:
 - title: Attendance
   rank: 
