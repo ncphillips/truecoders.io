@@ -8,8 +8,11 @@ end_date: 2017-11-22 00:00:00 -06:00
 location: Birmingham, AL
 ---
 
-C# and .NET education, along with other marketable skills including:
+Development education, along with other marketable skills including:
 
-* SCM and Git
+* C#.NET
+* Git
 * ASP.NET MVC
-* Relational Databases
+* ANSI SQL, MySQL, TSQL
+* HTML, CSS, JS
+* Diagnostics
