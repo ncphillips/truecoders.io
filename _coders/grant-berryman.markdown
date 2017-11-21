@@ -95,8 +95,7 @@ experience:
     system for 1000 capacity venue, also was Front of House engineer, Monitor engineer
     \n* Trained, supervised, managed and scheduled six tech employees\n* Responsible
     for on-site production and coordination of shows, stage managing\n* Worked with
-    many national touring acts like The Derek Trucks Band, Blues Traveler, Silversun
-    Pickups, Cage The Elephant, etc."
+    national acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups"
 education:
 - school: Middle Tennessee State University
   degree: Bachelor of Science Degree in Recording Industry
