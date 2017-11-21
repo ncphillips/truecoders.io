@@ -52,6 +52,25 @@ experience:
     * Example One
     * Example Two
     * Example Three
+  jobs:
+  - job_title: Job Title
+    start_date: 2017-01-01 00:00:00 -06:00
+    end_date: 
+    body: |-
+      Example description:
+
+      * Example One
+      * Example Two
+      * Example Three
+  - job_title: Job Title 2
+    start_date: 2016-01-01 00:00:00 -06:00
+    end_date: 2016-12-31 00:00:00 -06:00
+    body: |-
+      Example 2 description:
+
+      * Example One
+      * Example Two
+      * Example Three
 - company: Example Inc.
   job_title: Job Title
   start_date: 2016-01-01 00:00:00 -06:00
