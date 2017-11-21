@@ -79,4 +79,4 @@ education:
     * Learned psychological reasons we are drawn to foods that do not support health
 ---
 
-I am an enthusiastic TrueCoders Developer who is completing fundamental coursework in C#, SQL, .NET, and Git. I currently seek to apply my passion for learning to a position with a quality employer.
+I am an enthusiastic TrueCoders Developer completing fundamental coursework in C#, SQL, .NET, and Git. I'm currently seeking to apply my passion for learning to a position with a quality employer.
