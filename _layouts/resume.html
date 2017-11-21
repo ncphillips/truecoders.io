@@ -9,9 +9,9 @@ layout: default
   <!-- Image, Title, Content Row -->
   <div class="row">
     <div class="col-1">
-      <button type="button" class="btn btn-link resume-action-button" onclick="goBack()" style="color: #212529; margin: 0px 10px; cursor: pointer;">
+      <a class="resume-action-button" href="{{ "coders" | relative_url }}" style="color:#212529; margin: 0px 10px;">
         <i class="fa fa-chevron-left fa-lg"></i>
-      </button>
+      </a>
     </div>
 
     <div class="col-10" style="text-align:center;">
@@ -201,10 +201,3 @@ layout: default
 
 <!-- Javascript Codewars Chart -->
 {% include charts/codewars-scores-chart.html scores=page.codewars_scores %}
-
-<!-- Javascript Enable Back Button -->
-<script>
-function goBack() {
-    window.history.back();
-}
-</script>
