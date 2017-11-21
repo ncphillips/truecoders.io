@@ -74,10 +74,9 @@ experience:
   body: |-
     * Apple small device certified
     * Performed troubleshooting and resolved hardware and software issues on Apple mobile devices, transferred data from old customer computers to new Apple computer
-    * Effectively managed time to handle large volume of appointments
-    * Repaired and rebuilt customer relationships
+    * Repaired and rebuilt customer relationships, while managing time effectively
     * Taught personal training sessions on Apple hardware and software
-    * Visual Team Member- ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
+    * Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
   job_title: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
