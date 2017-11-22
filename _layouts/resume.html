@@ -176,7 +176,17 @@ layout: default
 
       <p>
         {{ reference.quote }} <br/>
-        <strong>- {{ reference.name }}</strong>
+
+        {% assign title = reference.title %}
+        {% assign company = reference.company %}
+        {% assign teammate = site.teammates | where: "title", reference.name | first %}
+
+        {% if teammate %}
+          {% assign title = teammate.subtitle %}
+          {% assign company = site.company.full_name %}
+        {% endif %}
+
+        <strong>- {{ reference.name }}</strong> | {{ title }} at {{ company }}
       </p>
 
       {% endfor %}
