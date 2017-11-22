@@ -97,29 +97,6 @@ layout: default
   </div>
   {% endif %}
 
-  <div class="print-page-break"></div>
-
-  <!-- Reviews Row -->
-  <!-- TODO: REMOVE THIS
-    Hiding Reviews until Finalized
-
-  {% if page.reviews[0].body %}
-  <br/>
-  <div class="row">
-    <div class="col-12">
-      <h4>Instructor Reviews</h4>
-
-      {% assign reviews = page.reviews | sort: 'teammate' | reverse %}
-      {% assign collection = site.collections | where: 'label', 'coders' | first %}
-      {% for review in reviews limit: collection.reviews_limit %}
-      {{ review.body | append: " - **" | append: review.teammate | append: "**" | markdownify }}
-      {% endfor %}
-
-    </div>
-  </div>
-  {% endif %}
-  -->
-
   <!-- Experience Row -->
   {% if page.experience[0].company %}
   <br/>
