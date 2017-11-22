@@ -10,9 +10,8 @@ location: Birmingham, AL
 
 Development education, along with other marketable skills including:
 
-* C#.NET
+* C# and ASP.NET
 * Git
-* ASP.NET MVC
 * ANSI SQL, MySQL, TSQL
 * HTML, CSS, JS
 * Diagnostics
