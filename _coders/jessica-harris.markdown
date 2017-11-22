@@ -80,7 +80,8 @@ education:
 reviews:
 - teammate: Cody Winton
   body: Jessica has amazed me with her ability to both learn and accomplish any task
-    given to her. She can grasp and solve any problem given to her. I'd highly recommend her for a developer position.
+    given to her. She can grasp and solve any problem given to her. I'd highly recommend
+    her for a developer position.
 skills:
 - title: Attendance
   rank: 2.5

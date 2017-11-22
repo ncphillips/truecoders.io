@@ -40,7 +40,10 @@ education:
   body: 
 reviews:
 - teammate: Cody Winton
-  body: Darius has both skill and drive to complete tasks with quality and accuracy. His knowledge of the technical and his exceptional soft skills make him a great addition to a team. I'd recommend Darius for a developer or quality assurance role.
+  body: Darius has both skill and drive to complete tasks with quality and accuracy.
+    His knowledge of the technical and his exceptional soft skills make him a great
+    addition to a team. I'd recommend Darius for a developer or quality assurance
+    role.
 - teammate: Martin Murphy
   body: Darius is a perpetual learner able to digest complex problems quickly and
     put them into use. Great interpersonal skills I believe he’ll be a valuable asset

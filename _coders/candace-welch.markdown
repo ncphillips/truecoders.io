@@ -81,8 +81,10 @@ education:
   body: 
 reviews:
 - teammate: Cody Winton
-  body: Candace has exceeded expectations, seeking excellence in her work and
-    advancing her own knowledge base whenever possible. Her attention to detail and the quality of her work make her an exceptional fit for any team. I'd strongly recommend Candace for a developer position.
+  body: Candace has exceeded expectations, seeking excellence in her work and advancing
+    her own knowledge base whenever possible. Her attention to detail and the quality
+    of her work make her an exceptional fit for any team. I'd strongly recommend Candace
+    for a developer position.
 skills:
 - title: Attendance
   rank: 5.0

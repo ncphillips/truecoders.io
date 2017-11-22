@@ -77,7 +77,9 @@ education:
   body: 
 reviews:
 - teammate: Cody Winton
-  body: Austin has shown himself anxious to learn and do well in his work. He is motivated to succeed and his tenacity and work ethic would make him an excellent addition to a team.
+  body: Austin has shown himself anxious to learn and do well in his work. He is motivated
+    to succeed and his tenacity and work ethic would make him an excellent addition
+    to a team.
 skills:
 - title: Attendance
   rank: 3.2

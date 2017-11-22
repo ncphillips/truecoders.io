@@ -64,7 +64,8 @@ education:
 reviews:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping new concepts and incorporating
-    them into her workflow. She is tenacious in her pursuit of knowledge and exceptional in her work. I'd highly recommend Tori for a developer role.
+    them into her workflow. She is tenacious in her pursuit of knowledge and exceptional
+    in her work. I'd highly recommend Tori for a developer role.
 skills:
 - title: Attendance
   rank: 1.4

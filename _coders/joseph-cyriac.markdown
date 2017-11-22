@@ -69,7 +69,8 @@ education:
 reviews:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks
-    effectively. He has the technical abilities and the people skills to provide real value to a team. I recommend Joseph for a developer or QA position.
+    effectively. He has the technical abilities and the people skills to provide real
+    value to a team. I recommend Joseph for a developer or QA position.
 skills:
 - title: Attendance
   rank: 4.7
