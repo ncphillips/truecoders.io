@@ -65,9 +65,4 @@ education:
   location: Odenville, AL
 ---
 
-I’m very interested in learning new technologies. Recently I’ve worked for a small business providing tech support along with website administration for their business website. I’m excited to be learning new skillsets in development with TrueCoders. I’ve found development fascinating as it provides a combination of creative outlook and organization. I hope to learn much more and become increasingly passionate as a developer.
-
-* Motivated self learner and detail oriented team player with strong organizational skills
-* Experienced in multiple operating systems, computer applications, and web development
-* Website development and administration
-* Operating systems experience: Microsoft Windows, Mac OS X, and Linux
+I’m excited to be learning new skillsets and technologies in development with TrueCoders. I’ve found development fascinating as it provides a combination of creative outlook and organization. I'm a motivated self learner and detail oriented team player with strong organizational skills. I hope to learn much more and become increasingly passionate as a developer.
