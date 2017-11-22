@@ -6,7 +6,7 @@ tags:
 - ".net"
 - sql
 position: 2
-subtitle: Investor & Board Member
+subtitle: Co-Founder & Investor
 is_board_member: true
 is_teacher: true
 image: "/uploads/martin-murphy.jpg"
