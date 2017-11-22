@@ -62,7 +62,7 @@ defaults:
       body: 
     references:
     - name: 
-      body: 
+      quote: 
     skills:
     - title: 
       rank: 0

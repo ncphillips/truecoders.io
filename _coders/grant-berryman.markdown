@@ -86,7 +86,7 @@ education:
   body: "* GPA: 3.198 - Dean’s list - Golden Key International Honor Society"
 references:
 - name: Cody Winton
-  body: Grant is highly intelligent and will not rest until he has accomplished the
+  quote: Grant is highly intelligent and will not rest until he has accomplished the
     task at hand. He's a self learner with an ability to tackle any problem given
     him. I'd highly recommend him for a developer position.
 skills:

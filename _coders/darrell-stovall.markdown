@@ -46,7 +46,7 @@ education:
   body: "* Secondary Education (English and Economics Certification)"
 references:
 - name: Cody Winton
-  body: Darrel is anxious to learn and do well in his career as a programmer and possesses
+  quote: Darrel is anxious to learn and do well in his career as a programmer and possesses
     a real ability to both learn and teach others what he knows. His work ethic and
     ability to grasp complex problems make him a real asset to any team. I'd recommend
     Darrel for a programming position.

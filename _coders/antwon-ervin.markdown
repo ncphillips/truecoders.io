@@ -72,11 +72,11 @@ education:
   body: 
 references:
 - name: Cody Winton
-  body: Antwon is an exceptional individual with a real knack for interaction and
+  quote: Antwon is an exceptional individual with a real knack for interaction and
     explanation. He works well with others, bringing insight and perspective to problems.
     I highly recommend Antwon for a DBA or Project Management role.
 - name: Martin Murphy
-  body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
+  quote: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.

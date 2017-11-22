@@ -56,7 +56,7 @@ education:
   body: "* Pending thesis"
 references:
 - name: Cody Winton
-  body: Micah is an out-of-the-box thinker that provides a different perspective to
+  quote: Micah is an out-of-the-box thinker that provides a different perspective to
     problems. He has an ability to accomplish his tasks and the soft skills necessary
     to provide value to a team. I'd recommend Micah for a database role.
 skills:

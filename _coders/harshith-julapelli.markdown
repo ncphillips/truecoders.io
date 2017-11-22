@@ -55,7 +55,7 @@ education:
     * GPA: 3.5/4.0
 references:
 - name: Cody Winton
-  body: Harshith is a skilled individual with a real talent for quality. He has a
+  quote: Harshith is a skilled individual with a real talent for quality. He has a
     knack for details and an ability to accomplish his work quickly and effectively.
     I'd highly recommend Harshith for a developer position.
 skills:

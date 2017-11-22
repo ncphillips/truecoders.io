@@ -79,7 +79,7 @@ education:
   body: "* Training in Information Technology"
 references:
 - name: Cody Winton
-  body: Jessica has amazed me with her ability to both learn and accomplish any task
+  quote: Jessica has amazed me with her ability to both learn and accomplish any task
     given to her. She can grasp and solve any problem given to her. I'd highly recommend
     her for a developer position.
 skills:

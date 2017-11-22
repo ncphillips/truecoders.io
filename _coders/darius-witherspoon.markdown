@@ -40,12 +40,12 @@ education:
   body: 
 references:
 - name: Cody Winton
-  body: Darius has both skill and drive to complete tasks with quality and accuracy.
+  quote: Darius has both skill and drive to complete tasks with quality and accuracy.
     His knowledge of the technical and his exceptional soft skills make him a great
     addition to a team. I'd recommend Darius for a developer or quality assurance
     role.
 - name: Martin Murphy
-  body: Darius is a perpetual learner able to digest complex problems quickly and
+  quote: Darius is a perpetual learner able to digest complex problems quickly and
     put them into use. Great interpersonal skills I believe he’ll be a valuable asset
     to any team and produce the best results from those around him. Diagnostics are
     his strong suit and I look forward to seeing what he can do in the wild.

@@ -36,7 +36,7 @@ education:
   location: Odenville, AL
 references:
 - name: Cody Winton
-  body: Zach is an intelligent individual with a real talent for accomplishing the
+  quote: Zach is an intelligent individual with a real talent for accomplishing the
     tasks at hand. He's quick to learn and apply new knowledge into his work flow.
     I'd recommend Zach for a developer position.
 skills:
