@@ -42,8 +42,8 @@ reviews:
 experience:
 - company: Hewitt-Trussville Middle School
   job_title: Teacher
-  start_date: 2003-01-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  start_date: 2003-08-01 01:00:00 -05:00
+  end_date: 2017-05-01 00:00:00 -05:00
   body: |-
     I have primarily been my school’s gifted specialist, teaching various courses and leading a number of activities:
 
@@ -60,8 +60,8 @@ experience:
     I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years.
 - company: Hewitt-Trussville Jr. High School
   job_title: Teacher
-  start_date: 1992-01-01 00:00:00 -06:00
-  end_date: 2003-01-01 00:00:00 -06:00
+  start_date: 1992-08-01 01:00:00 -05:00
+  end_date: 2003-05-01 01:00:00 -05:00
   body: 
 education:
 - school: University of Alabama, Birmingham (UAB)
