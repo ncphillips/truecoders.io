@@ -18,11 +18,6 @@ experience:
     * Built a community calendar & engagement website
     * Manage written & video content as well as social media channels
     * Lead a team of writers and videographers
-- company: Five Star Painting
-  job_title: Project Consultant
-  start_date: 2014-09-01 00:00:00 -05:00
-  end_date: 2017-07-20 00:00:00 -05:00
-  body: "* Production management and business development"
 - company: Chronicle Studio
   job_title: Service Consultant
   start_date: 2014-04-01 00:00:00 -05:00
@@ -32,6 +27,15 @@ experience:
     * Served as first contact for clients
     * Outside sales
     * Provided tech support
+- company: Five Star Painting
+  job_title: Project Consultant
+  start_date: 2013-09-01 00:00:00 -05:00
+  end_date: 2017-07-01 00:00:00 -05:00
+  body: |-
+    * Production management
+    * Business development
+    * Manage crew’s workflow schedule
+    * Provide customer service
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
