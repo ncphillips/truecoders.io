@@ -131,6 +131,8 @@ layout: default
       <h4>Experience</h4>
       {% assign experiences = page.experience | sort: 'start_date', 'last' %}
       {% assign experiences = experiences | sort: 'end_date', 'last' | reverse %}
+      {% assign company = "" %}
+      
       {% for experience in experiences %}
 
       {% unless experience.company and experience.job_title %} {% continue %} {% endunless %}
@@ -142,12 +144,15 @@ layout: default
       {% endif %}
 
       <p>
-        <strong>{{ experience.company }}</strong> | {{ experience.job_title }}
-        <br/> {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+        {% if company != experience.company %}
+        <strong>{{ experience.company }}</strong><br/>
+        {% endif %}
+        {{ experience.job_title }} | {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
 
       {{ experience.body | markdownify }}
 
+      {% assign company = experience.company %}
       {% endfor %}
     </div>
   </div>
