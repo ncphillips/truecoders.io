@@ -111,6 +111,4 @@ education:
   body: 
 ---
 
-My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. Throughout my professional career, I have worked in several corners of the development world. Starting out, I was an Account Coordinator within a Web Development company. With that level of exposure to the creative side, I chose to pursue a degree in Graphic Design. As my career continued to unfold, I began to lean more into my affinity for technology and fell in love with Front End (Web) Development, mainly using HTML, CSS, JavaScript, and jQuery. However, as every professional knows, there comes a time to pivot or be consumed by the market. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next.
-
-For myself, it is Software Development. Unlike Front End, which is aesthetics based, Software Development is logic based. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.
+My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. I am a Graphic Designer with a knack for development. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.
