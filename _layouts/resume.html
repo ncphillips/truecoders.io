@@ -175,7 +175,6 @@ layout: default
       {% for reference in references limit: collection.references_limit %}
 
       <p>
-        {{ reference.quote }} <br/>
 
         {% assign title = reference.title %}
         {% assign company = reference.company %}
@@ -186,6 +185,7 @@ layout: default
           {% assign company = site.company.full_name %}
         {% endif %}
 
+        {{'“' | append: reference.quote | append: '”'}} <br/>
         <strong>- {{ reference.name }}</strong> | {{ title }} at {{ company }}
       </p>
 
