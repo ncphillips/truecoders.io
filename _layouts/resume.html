@@ -163,11 +163,21 @@ layout: default
   </div>
   {% endif %}
 
+  <!-- Reviews Row -->
   <br/>
   <div class="row">
     <div class="col-12">
-      <h4>Remarks</h4>
-      <p>References and contact info for {{ page.title }} are available upon request.</p>
+      <h4>References</h4>
+      
+      {% if page.reviews[0].body %}
+      {% assign reviews = page.reviews | sort: 'teammate' | reverse %}
+      {% assign collection = site.collections | where: 'label', 'coders' | first %}
+      {% for review in reviews limit: collection.reviews_limit %}
+      {{ review.body | append: " - **" | append: review.teammate | append: "**" | markdownify }}
+      {% endfor %}
+      {% endif %}
+
+      <p>Further references and contact info for {{ page.title }} are available upon request.</p>
     </div>
   </div>
 </div>

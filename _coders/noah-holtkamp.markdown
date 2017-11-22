@@ -51,7 +51,7 @@ education:
 reviews:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs
-    to know. I'd recommend Noah for a QA role.
+    to know. He is diligent in both accomplishing and learning from the task at hand. I'd recommend Noah for a QA role.
 skills:
 - title: Attendance
   rank: 1.8

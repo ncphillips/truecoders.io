@@ -61,7 +61,7 @@ reviews:
     as a developer in any organization that snaps him up.
 - teammate: Cody Winton
   body: KaDarius is intelligent and never stops learning what he needs to know to
-    get the job done. I'd recommend KaDarius for a programming position.
+    get the job done. He takes on any task with determination and works hard to see it accomplished. I'd recommend KaDarius for a programming position.
 skills:
 - title: Attendance
   rank: 1.7

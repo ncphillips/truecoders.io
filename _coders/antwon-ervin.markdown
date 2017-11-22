@@ -73,7 +73,7 @@ education:
 reviews:
 - teammate: Cody Winton
   body: Antwon is an exceptional individual with a real knack for interaction and
-    explanation. I highly recommend Antwon for a DBA or Project Management role.
+    explanation. He works well with others, bringing insight and perspective to problems. I highly recommend Antwon for a DBA or Project Management role.
 - teammate: Martin Murphy
   body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
     and cool demeanor will make for an excellent addition to any team.  With natural
