@@ -14,10 +14,10 @@ experience:
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
-  body: Discover Birmingham serves as a insider’s guide to Birmingham, AL. A tool
-    that will be a information hub for things like video restaurant reviews and local
-    event listings. We will also host/sponsor community building projects around Birmingham
-    to affect positive change.
+  body: |-
+    * Built a community calendar & engagement website
+    * Manage writen & video content as well as social media channels
+    * Lead a team of writers and videographers
 - company: Five Star Painting
   job_title: Project Consultant
   start_date: 2014-09-01 00:00:00 -05:00
