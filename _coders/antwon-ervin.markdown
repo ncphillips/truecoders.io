@@ -9,40 +9,6 @@ social:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 4
-- 4
-- 18
-- 18
-- 70
-- 70
-- 73
-reviews:
-- teammate: Cody Winton
-  body: Antwon is an exceptional individual with a real knack for interaction and
-    explanation. I highly recommend Antwon for a DBA or Project Management role.
-- teammate: Martin Murphy
-  body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
-    and cool demeanor will make for an excellent addition to any team.  With natural
-    communication skills and emotional intelligence he can bridge the gap between
-    the end user and the business requirements.
 experience:
 - company: Discover Birmingham
   job_title: Founder
@@ -100,6 +66,40 @@ education:
   end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
   body: 
+reviews:
+- teammate: Cody Winton
+  body: Antwon is an exceptional individual with a real knack for interaction and
+    explanation. I highly recommend Antwon for a DBA or Project Management role.
+- teammate: Martin Murphy
+  body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
+    and cool demeanor will make for an excellent addition to any team.  With natural
+    communication skills and emotional intelligence he can bridge the gap between
+    the end user and the business requirements.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 4
+- 4
+- 18
+- 18
+- 70
+- 70
+- 73
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I’m a strong team player and enjoy collaboration.

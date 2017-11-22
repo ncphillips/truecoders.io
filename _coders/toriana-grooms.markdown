@@ -9,35 +9,6 @@ social:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 50
-- 60
-- 60
-- 60
-- 70
-- 159
-- 233
-reviews:
-- teammate: Cody Winton
-  body: Toriana is very intelligent, quickly grasping knew concepts and incorporating
-    them into her workflow. I'd highly recommend Tori for a developer role.
 experience:
 - company: Cricket Wireless
   job_title: Assistant Manager
@@ -90,6 +61,35 @@ education:
   end_date: 2008-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: 
+reviews:
+- teammate: Cody Winton
+  body: Toriana is very intelligent, quickly grasping knew concepts and incorporating
+    them into her workflow. I'd highly recommend Tori for a developer role.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 50
+- 60
+- 60
+- 60
+- 70
+- 159
+- 233
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization.

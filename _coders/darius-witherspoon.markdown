@@ -9,40 +9,6 @@ social:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 6
-- 13
-- 45
-- 47
-- 67
-- 91
-- 142
-reviews:
-- teammate: Cody Winton
-  body: Darius has both skill and drive to complete tasks with quality and accuracy.
-    I'd recommend Darius for a programming or quality assurance role.
-- teammate: Martin Murphy
-  body: Darius is a perpetual learner able to digest complex problems quickly and
-    put them into use. Great interpersonal skills I believe he’ll be a valuable asset
-    to any team and produce the best results from those around him. Diagnostics are
-    his strong suit and I look forward to seeing what he can do in the wild.
 experience:
 - company: FedEx Ground
   job_title: Driver
@@ -72,6 +38,40 @@ education:
   end_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL
   body: 
+reviews:
+- teammate: Cody Winton
+  body: Darius has both skill and drive to complete tasks with quality and accuracy.
+    I'd recommend Darius for a programming or quality assurance role.
+- teammate: Martin Murphy
+  body: Darius is a perpetual learner able to digest complex problems quickly and
+    put them into use. Great interpersonal skills I believe he’ll be a valuable asset
+    to any team and produce the best results from those around him. Diagnostics are
+    his strong suit and I look forward to seeing what he can do in the wild.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 6
+- 13
+- 45
+- 47
+- 67
+- 91
+- 142
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company’s performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

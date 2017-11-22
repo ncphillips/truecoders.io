@@ -9,35 +9,6 @@ social:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 51
-- 67
-- 69
-- 81
-- 81
-- 83
-- 91
-reviews:
-- teammate: Cody Winton
-  body: Hollis brings a plethora of skills to the table and has a real knack for learning.
-    I'd recommend Hollis for a developer position.
 experience:
 - company: Petland
   job_title: Kennel Technician
@@ -81,6 +52,35 @@ education:
   end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
+reviews:
+- teammate: Cody Winton
+  body: Hollis brings a plethora of skills to the table and has a real knack for learning.
+    I'd recommend Hollis for a developer position.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 51
+- 67
+- 69
+- 81
+- 81
+- 83
+- 91
 ---
 
 Experienced in C#, Visual Basic, Python, and Web Languages (HTML, CSS, JS)

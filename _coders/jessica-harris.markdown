@@ -9,35 +9,6 @@ social:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 49
-- 127
-- 151
-- 193
-- 221
-- 314
-- 442
-reviews:
-- teammate: Cody Winton
-  body: Jessica has amazed me with her ability to both learn and accomplish any task
-    given to her. I'd highly recommend her for a developer position.
 experience:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver
@@ -106,6 +77,35 @@ education:
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
   body: "* Training in Information Technology"
+reviews:
+- teammate: Cody Winton
+  body: Jessica has amazed me with her ability to both learn and accomplish any task
+    given to her. I'd highly recommend her for a developer position.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 49
+- 127
+- 151
+- 193
+- 221
+- 314
+- 442
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I’ve been a self-taught hobbyist developer for most of my life. I’ve attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I’ve now decided to make it a Full-Time career.

@@ -9,35 +9,6 @@ social:
   github: mweechzing
   linkedin: micah-weech-b911a256
   codewars: mweechzing
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 10
-- 16
-- 45
-- 49
-- 51
-- 113
-- 118
-reviews:
-- teammate: Cody Winton
-  body: Micah is an out-of-the-box thinker that provides a different perspective to
-    problems. I'd recommend Micah for a database role.
 experience:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
@@ -83,6 +54,35 @@ education:
   end_date: 
   location: Savannah, GA
   body: "* Pending thesis"
+reviews:
+- teammate: Cody Winton
+  body: Micah is an out-of-the-box thinker that provides a different perspective to
+    problems. I'd recommend Micah for a database role.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 10
+- 16
+- 45
+- 49
+- 51
+- 113
+- 118
 ---
 
 It is my goal to pursue a career as a software developer at your company. As a leader and self-starter I would love the opportunity to adopt your company's work culture and work to advance the company's mission and profitability. Please review the attached resume and contact me if you have any questions.

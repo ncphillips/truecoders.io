@@ -9,36 +9,6 @@ social:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 39
-- 49
-- 51
-- 73
-- 81
-- 91
-- 135
-reviews:
-- teammate: Cody Winton
-  body: Darrel is anxious to learn and do well in his career as a programmer and possesses
-    a real ability to both learn and teach others what he knows. I'd recommend Darrel
-    for a programming position.
 experience:
 - company: Hewitt-Trussville Middle School
   job_title: Teacher
@@ -74,6 +44,36 @@ education:
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: "* Secondary Education (English and Economics Certification)"
+reviews:
+- teammate: Cody Winton
+  body: Darrel is anxious to learn and do well in his career as a programmer and possesses
+    a real ability to both learn and teach others what he knows. I'd recommend Darrel
+    for a programming position.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 39
+- 49
+- 51
+- 73
+- 81
+- 91
+- 135
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I’ve been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference.

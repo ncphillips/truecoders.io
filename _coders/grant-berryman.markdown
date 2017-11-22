@@ -9,35 +9,6 @@ social:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 54
-- 90
-- 148
-- 156
-- 162
-- 248
-- 263
-reviews:
-- teammate: Cody Winton
-  body: Grant is highly intelligent and will not rest until he has accomplished the
-    task at hand. I'd highly recommend him for a developer position.
 experience:
 - company: Tech-Ease
   job_title: Apple Consultant / Lead Tech
@@ -113,6 +84,35 @@ education:
   end_date: 2002-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: "* GPA: 3.198 - Dean’s list - Golden Key International Honor Society"
+reviews:
+- teammate: Cody Winton
+  body: Grant is highly intelligent and will not rest until he has accomplished the
+    task at hand. I'd highly recommend him for a developer position.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 54
+- 90
+- 148
+- 156
+- 162
+- 248
+- 263
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.

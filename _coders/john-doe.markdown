@@ -11,36 +11,6 @@ social:
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
-skills:
-- title: Attendance
-  rank: 4
-- title: C#
-  rank: 4.5
-- title: ANSI SQL
-  rank: 3.9
-- title: JavaScript
-  rank: 2.7
-- title: Git
-  rank: 3.2
-- title: Diagnostics
-  rank: 4.2
-- title: ASP.NET
-  rank: 3.3
-- title: Soft Skills
-  rank: 4.1
-codewars_scores:
-- 10
-- 33
-- 48
-- 97
-- 122
-- 161
-- 201
-- 287
-reviews:
-- teammate: Cody Winton
-  body: John Doe has shown incredible skills and talent. I'd recommend John Doe for
-    a developer position.
 experience:
 - company: Company LLC
   job_title: Job Title
@@ -71,6 +41,36 @@ education:
     * Testing 1
     * Testing 2
     * Testing 3
+reviews:
+- teammate: Cody Winton
+  body: John Doe has shown incredible skills and talent. I'd recommend John Doe for
+    a developer position.
+skills:
+- title: Attendance
+  rank: 4
+- title: C#
+  rank: 4.5
+- title: ANSI SQL
+  rank: 3.9
+- title: JavaScript
+  rank: 2.7
+- title: Git
+  rank: 3.2
+- title: Diagnostics
+  rank: 4.2
+- title: ASP.NET
+  rank: 3.3
+- title: Soft Skills
+  rank: 4.1
+codewars_scores:
+- 10
+- 33
+- 48
+- 97
+- 122
+- 161
+- 201
+- 287
 ---
 
 Example John Doe description here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

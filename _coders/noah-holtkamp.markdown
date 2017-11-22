@@ -9,35 +9,6 @@ social:
   github: HoltkampN
   linkedin: noah-holtkamp-1003b9100
   codewars: HoltkampN
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 10
-- 44
-- 48
-- 48
-- 70
-- 114
-- 117
-reviews:
-- teammate: Cody Winton
-  body: Noah pursues knowledge and asks questions until he understands what he needs
-    to know. I'd recommend Noah for a QA role.
 experience:
 - company: NutritionFacts.org
   job_title: MD Volunteer Article Retriever
@@ -77,6 +48,35 @@ education:
     * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc
     * Gauged role nutrition plays in chronic disease
     * Learned psychological reasons we are drawn to foods that do not support health
+reviews:
+- teammate: Cody Winton
+  body: Noah pursues knowledge and asks questions until he understands what he needs
+    to know. I'd recommend Noah for a QA role.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 10
+- 44
+- 48
+- 48
+- 70
+- 114
+- 117
 ---
 
 I am an enthusiastic TrueCoders Developer completing fundamental coursework in C#, SQL, .NET, and Git. I'm currently seeking to apply my passion for learning to a position with a quality employer.

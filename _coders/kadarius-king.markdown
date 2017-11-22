@@ -9,39 +9,6 @@ social:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 9
-- 11
-- 45
-- 45
-- 75
-- 161
-- 170
-reviews:
-- teammate: Martin Murphy
-  body: Willing to go the distance for the cause, his gaming background makes him
-    fast with numbers and a natural problem solver. I see him playing a critical role
-    as a developer in any organization that snaps him up.
-- teammate: Cody Winton
-  body: KaDarius is intelligent and never stops learning what he needs to know to
-    get the job done. I'd recommend KaDarius for a programming position.
 experience:
 - company: PNC Bank
   job_title: Financial Sales Consultant
@@ -87,6 +54,39 @@ education:
   end_date: 
   location: Birmingham, AL
   body: 
+reviews:
+- teammate: Martin Murphy
+  body: Willing to go the distance for the cause, his gaming background makes him
+    fast with numbers and a natural problem solver. I see him playing a critical role
+    as a developer in any organization that snaps him up.
+- teammate: Cody Winton
+  body: KaDarius is intelligent and never stops learning what he needs to know to
+    get the job done. I'd recommend KaDarius for a programming position.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 9
+- 11
+- 45
+- 45
+- 75
+- 161
+- 170
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.

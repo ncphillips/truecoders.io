@@ -9,35 +9,6 @@ social:
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne
-skills:
-- title: Attendance
-  rank: 
-- title: C#
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: JavaScript
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
-codewars_scores:
-- 16
-- 18
-- 18
-- 19
-- 49
-- 51
-- 51
-reviews:
-- teammate: Cody Winton
-  body: Austin has shown himself anxious to learn and do well in his work. I would
-    recommend Austin for Quality Assurance.
 experience:
 - company: Baumhowers
   job_title: Server
@@ -104,6 +75,35 @@ education:
   end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
   body: 
+reviews:
+- teammate: Cody Winton
+  body: Austin has shown himself anxious to learn and do well in his work. I would
+    recommend Austin for Quality Assurance.
+skills:
+- title: Attendance
+  rank: 
+- title: C#
+  rank: 
+- title: ANSI SQL
+  rank: 
+- title: JavaScript
+  rank: 
+- title: Git
+  rank: 
+- title: Diagnostics
+  rank: 
+- title: ASP.NET
+  rank: 
+- title: Soft Skills
+  rank: 
+codewars_scores:
+- 16
+- 18
+- 18
+- 19
+- 49
+- 51
+- 51
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.
