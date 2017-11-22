@@ -54,9 +54,9 @@ education:
   body: "* Dual Enrollment"
 references:
 - name: Cody Winton
-  quote: Hollis brings a plethora of skills to the table and has a real knack for learning.
-    He has a real ability to accomplish, and learn from, any problem given him. I'd
-    recommend Hollis for a developer position.
+  quote: Hollis brings a plethora of skills to the table and has a real knack for
+    learning. He has a real ability to accomplish, and learn from, any problem given
+    him. I'd recommend Hollis for a developer position.
 skills:
 - title: Attendance
   rank: 4.7
