@@ -19,8 +19,8 @@
         page-break-after: avoid;
     }
 
-    body {
-        font-size: $font-size-base - 0.25;
+    body, p, strong {
+        font-size: $font-size-base - 0.33;
     }
 
     h3 {
@@ -30,6 +30,11 @@
     
     h4 {
         font-size: $font-size-base - 0.1;
+        page-break-after: avoid;
+    }
+
+    h5 {
+        font-size: $font-size-base - 0.2;
         page-break-after: avoid;
     }
 

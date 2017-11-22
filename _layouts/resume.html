@@ -141,9 +141,9 @@ layout: default
       {% assign end_date = "Present" %}
       {% endif %}
 
+      <h5>{{ experience.company }}</h5>
       <p>
-        <strong>{{ experience.company }}</strong> | {{ experience.job_title }}
-        <br/> {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+        <strong>{{ experience.job_title }}</strong> | {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
 
       {{ experience.body | markdownify }}
