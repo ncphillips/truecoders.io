@@ -112,10 +112,7 @@ layout: default
       {% assign reviews = page.reviews | sort: 'teammate' | reverse %}
       {% assign collection = site.collections | where: 'label', 'coders' | first %}
       {% for review in reviews limit: collection.reviews_limit %}
-      {{ review.body | markdownify }}
-      <p>
-        <strong>{{ "- " | append: review.teammate }}</strong>
-      </p>
+      {{ review.body | append: " - **" | append: review.teammate | append: "**" | markdownify }}
       {% endfor %}
 
     </div>
