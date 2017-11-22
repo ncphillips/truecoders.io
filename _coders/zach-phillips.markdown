@@ -35,7 +35,7 @@ education:
   end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Zach is an intelligent individual with a real talent for accomplishing the
     tasks at hand. He's quick to learn and apply new knowledge into his work flow.
     I'd recommend Zach for a developer position.

@@ -42,7 +42,7 @@ education:
     * Testing 2
     * Testing 3
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: John Doe has shown incredible skills and talent. I'd recommend John Doe for
     a developer position.
 skills:

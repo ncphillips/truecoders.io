@@ -170,13 +170,13 @@ layout: default
       <h4>References</h4>
       
       {% if page.references[0].body %}
-      {% assign references = page.references | sort: 'teammate' | reverse %}
+      {% assign references = page.references | sort: 'name' | reverse %}
       {% assign collection = site.collections | where: 'label', 'coders' | first %}
       {% for reference in references limit: collection.references_limit %}
 
       <p>
         {{ reference.body }} <br/>
-        <strong>- {{ reference.teammate }}</strong>
+        <strong>- {{ reference.name }}</strong>
       </p>
 
       {% endfor %}

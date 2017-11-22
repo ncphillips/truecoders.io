@@ -71,11 +71,11 @@ education:
   location: Bessemer, AL
   body: 
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Antwon is an exceptional individual with a real knack for interaction and
     explanation. He works well with others, bringing insight and perspective to problems.
     I highly recommend Antwon for a DBA or Project Management role.
-- teammate: Martin Murphy
+- name: Martin Murphy
   body: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between

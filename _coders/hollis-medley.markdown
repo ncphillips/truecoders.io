@@ -53,7 +53,7 @@ education:
   location: Montgomery, AL
   body: "* Dual Enrollment"
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Hollis brings a plethora of skills to the table and has a real knack for learning.
     He has a real ability to accomplish, and learn from, any problem given him. I'd
     recommend Hollis for a developer position.

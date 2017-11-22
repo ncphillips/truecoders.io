@@ -32,11 +32,11 @@ education:
     * Graduated with AAD
     * Outstanding Athlete
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Connor is tenacious and competitive and has showed himself skilled in both
     individual and team work. He is a self learner and will not rest until his work
     is accomplished. I'd recommend Connor for a developer position.
-- teammate: Martin Murphy
+- name: Martin Murphy
   body: Connor’s competitive nature has driven him to be one of the more accomplished
     coders in our class. Preparation and consistency are valuable traits. You could
     set your watch by Connor and he will put in the time and effort needed to achieve

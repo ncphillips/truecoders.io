@@ -62,7 +62,7 @@ education:
   location: Birmingham, AL
   body: 
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Toriana is very intelligent, quickly grasping new concepts and incorporating
     them into her workflow. She is tenacious in her pursuit of knowledge and exceptional
     in her work. I'd highly recommend Tori for a developer role.

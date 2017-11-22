@@ -76,7 +76,7 @@ education:
   location: Homewood, AL
   body: 
 references:
-- teammate: Cody Winton
+- name: Cody Winton
   body: Austin has shown himself anxious to learn and do well in his work. He is motivated
     to succeed and his tenacity and work ethic would make him an excellent addition
     to a team.

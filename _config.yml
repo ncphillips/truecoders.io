@@ -61,7 +61,7 @@ defaults:
       location: 
       body: 
     references:
-    - teammate: 
+    - name: 
       body: 
     skills:
     - title: 
