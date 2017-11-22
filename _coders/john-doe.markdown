@@ -50,11 +50,11 @@ references:
 skills:
 - title: Attendance
   rank: 4
-- title: C#
+- title: C# and .NET
   rank: 4.5
 - title: ANSI SQL
   rank: 3.9
-- title: JavaScript
+- title: HTML, CSS, JS
   rank: 2.7
 - title: Git
   rank: 3.2

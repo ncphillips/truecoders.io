@@ -90,11 +90,11 @@ references:
 skills:
 - title: Attendance
   rank: 5.0
-- title: C#
+- title: C# and .NET
   rank: 
 - title: ANSI SQL
   rank: 
-- title: JavaScript
+- title: HTML, CSS, JS
   rank: 
 - title: Git
   rank: 
