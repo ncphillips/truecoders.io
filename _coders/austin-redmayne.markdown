@@ -107,6 +107,7 @@ codewars_scores:
 - 49
 - 51
 - 51
+- 70
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.

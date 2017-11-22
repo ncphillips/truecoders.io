@@ -90,6 +90,7 @@ codewars_scores:
 - 75
 - 161
 - 170
+- 250
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.

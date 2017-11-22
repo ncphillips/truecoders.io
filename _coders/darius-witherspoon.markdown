@@ -78,6 +78,7 @@ codewars_scores:
 - 67
 - 91
 - 142
+- 154
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company’s performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

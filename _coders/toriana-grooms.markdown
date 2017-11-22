@@ -93,6 +93,7 @@ codewars_scores:
 - 70
 - 159
 - 233
+- 372
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization.

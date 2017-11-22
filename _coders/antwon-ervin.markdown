@@ -109,6 +109,7 @@ codewars_scores:
 - 70
 - 70
 - 73
+- 73
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I’m a strong team player and enjoy collaboration.

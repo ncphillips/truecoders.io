@@ -109,6 +109,7 @@ codewars_scores:
 - 221
 - 314
 - 442
+- 519
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I’ve been a self-taught hobbyist developer for most of my life. I’ve attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I’ve now decided to make it a Full-Time career.

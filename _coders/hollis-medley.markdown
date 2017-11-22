@@ -84,6 +84,7 @@ codewars_scores:
 - 81
 - 83
 - 91
+- 93
 ---
 
 Experienced in C#, Visual Basic, Python, and Web Languages (HTML, CSS, JS)

@@ -70,6 +70,7 @@ codewars_scores:
 - 171
 - 171
 - 179
+- 183
 ---
 
 I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media as a DJ. Lastly, I have experience with landscaping.

@@ -66,6 +66,7 @@ codewars_scores:
 - 129
 - 171
 - 184
+- 331
 ---
 
 I’m excited to be learning new skillsets and technologies in development with TrueCoders. I’ve found development fascinating as it provides a combination of creative outlook and organization. I'm a motivated self learner and detail oriented team player with strong organizational skills. I hope to learn much more and become increasingly passionate as a developer.
