@@ -71,20 +71,23 @@ experience:
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
-    Pack auto glass and related products and deliver to customer’s premises. Drive employee owned vehicle to deliver customer orders in good working condition. Perform pre-trip examination of all glass products. Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any
-    problems encountered.
+    * Pack auto glass and related products
+    * Deliver to customer’s premises
+    * Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any problems encountered
 - company: Anthony Underwood Automotive
   job_title: Digital Sales Manager
   start_date: 2010-02-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
-  body: Manage website, maintain internet reputation and social profiles. Take photos
-    of vehicle for posting on internet.
+  body: |-
+    * Manage website, maintain internet reputation
+    * Manage online inventory
+    * Manage Service inventory and sales
 - company: Bada Ding Inc.
   job_title: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
-  body: Outside sales, customer service, invoice customer, manage work flow, dispatch,
-    windshield repair tech.
+  body: "* Outside sales, customer service, invoice customer, manage work flow, dispatch,
+    windshield repair tech"
 education:
 - school: Brown Mackie College-Birmingham
   degree: Associate's Degree
