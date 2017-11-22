@@ -62,6 +62,8 @@ defaults:
       body: 
     references:
     - name: 
+      title: 
+      company: 
       quote: 
     skills:
     - title: 
