@@ -12,6 +12,5 @@ Development education, along with other marketable skills including:
 
 * C# and ASP.NET
 * Git
-* ANSI SQL, MySQL, TSQL
+* ANSI SQL and Relational Databases
 * HTML, CSS, JS
-* Diagnostics
