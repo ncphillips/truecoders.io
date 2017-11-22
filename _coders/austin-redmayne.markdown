@@ -89,25 +89,20 @@ education:
   end_date: 
   location: Birmingham, AL
   body: 
-- school: Homewood​ ​High​ ​School
-  degree: High​ ​School Diploma
-  end_date: 2011-05-01 01:00:00 -05:00
-  location: Homewood, AL
+- school: University​ ​of​ ​North​ ​Alabama
+  degree: Music Performance
+  end_date: 2014-05-01 00:00:00 -05:00
+  location: Florence, AL
   body: 
 - school: Northwest​ ​Shoals​ ​Community​ ​College
   degree: General
   end_date: 2013-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
   body: 
-- school: Jeff​ ​State​ ​Community​ ​College
-  degree: General
-  end_date: 2013-05-01 00:00:00 -05:00
-  location: Birmingham, AL
-  body: 
-- school: University​ ​of​ ​North​ ​Alabama
-  degree: Music Performance
-  end_date: 2014-05-01 00:00:00 -05:00
-  location: Florence, AL
+- school: Homewood​ ​High​ ​School
+  degree: High​ ​School Diploma
+  end_date: 2011-05-01 01:00:00 -05:00
+  location: Homewood, AL
   body: 
 ---
 
