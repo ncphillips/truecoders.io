@@ -56,16 +56,16 @@ experience:
   job_title: Project Consultant
   start_date: 2014-09-01 00:00:00 -05:00
   end_date: 2017-07-20 00:00:00 -05:00
-  body: Production management and business development.
+  body: "* Production management and business development"
 - company: Chronicle Studio
   job_title: Service Consultant
   start_date: 2014-04-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
-    * Served as lead support for the project Automotive Leadership Technology.
-    * Served as first contact for clients.
-    * Outside sales.
-    * Provided tech support.
+    * Served as lead support for the project Automotive Leadership Technology
+    * Served as first contact for clients
+    * Outside sales
+    * Provided tech support
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
@@ -99,4 +99,4 @@ education:
   body: 
 ---
 
-I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.
+I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I’m a strong team player and enjoy collaboration.
