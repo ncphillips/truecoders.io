@@ -54,7 +54,7 @@ education:
   end_date: 
   location: Birmingham, AL
   body: 
-reviews:
+references:
 - teammate: Martin Murphy
   body: Willing to go the distance for the cause, his gaming background makes him
     fast with numbers and a natural problem solver. I see him playing a critical role

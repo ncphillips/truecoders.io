@@ -61,7 +61,7 @@ education:
   end_date: 2008-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: 
-reviews:
+references:
 - teammate: Cody Winton
   body: Toriana is very intelligent, quickly grasping new concepts and incorporating
     them into her workflow. She is tenacious in her pursuit of knowledge and exceptional

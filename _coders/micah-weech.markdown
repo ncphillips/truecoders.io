@@ -54,7 +54,7 @@ education:
   end_date: 
   location: Savannah, GA
   body: "* Pending thesis"
-reviews:
+references:
 - teammate: Cody Winton
   body: Micah is an out-of-the-box thinker that provides a different perspective to
     problems. He has an ability to accomplish his tasks and the soft skills necessary

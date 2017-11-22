@@ -70,7 +70,7 @@ education:
   end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
   body: 
-reviews:
+references:
 - teammate: Cody Winton
   body: Antwon is an exceptional individual with a real knack for interaction and
     explanation. He works well with others, bringing insight and perspective to problems.

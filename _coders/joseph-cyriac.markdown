@@ -66,7 +66,7 @@ education:
     * College of Business
     * Business Administration with a focus in Logistics
     * Organized and lead the re-chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
-reviews:
+references:
 - teammate: Cody Winton
   body: Joseph is anxious to succeed and will do what it takes to accomplish his tasks
     effectively. He has the technical abilities and the people skills to provide real

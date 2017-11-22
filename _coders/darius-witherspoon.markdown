@@ -38,7 +38,7 @@ education:
   end_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL
   body: 
-reviews:
+references:
 - teammate: Cody Winton
   body: Darius has both skill and drive to complete tasks with quality and accuracy.
     His knowledge of the technical and his exceptional soft skills make him a great

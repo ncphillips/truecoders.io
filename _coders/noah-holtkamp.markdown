@@ -48,7 +48,7 @@ education:
     * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc
     * Gauged role nutrition plays in chronic disease
     * Learned psychological reasons we are drawn to foods that do not support health
-reviews:
+references:
 - teammate: Cody Winton
   body: Noah pursues knowledge and asks questions until he understands what he needs
     to know. He is diligent in both accomplishing and learning from the task at hand.

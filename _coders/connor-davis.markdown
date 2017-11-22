@@ -31,7 +31,7 @@ education:
   body: |-
     * Graduated with AAD
     * Outstanding Athlete
-reviews:
+references:
 - teammate: Cody Winton
   body: Connor is tenacious and competitive and has showed himself skilled in both
     individual and team work. He is a self learner and will not rest until his work

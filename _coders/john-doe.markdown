@@ -41,7 +41,7 @@ education:
     * Testing 1
     * Testing 2
     * Testing 3
-reviews:
+references:
 - teammate: Cody Winton
   body: John Doe has shown incredible skills and talent. I'd recommend John Doe for
     a developer position.

@@ -53,7 +53,7 @@ education:
     * Member of Computer Society of India (CSI)
     * Joint Secretary, National Service Scheme (NSS)
     * GPA: 3.5/4.0
-reviews:
+references:
 - teammate: Cody Winton
   body: Harshith is a skilled individual with a real talent for quality. He has a
     knack for details and an ability to accomplish his work quickly and effectively.

@@ -52,7 +52,7 @@ education:
   end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
-reviews:
+references:
 - teammate: Cody Winton
   body: Hollis brings a plethora of skills to the table and has a real knack for learning.
     He has a real ability to accomplish, and learn from, any problem given him. I'd

@@ -84,7 +84,7 @@ education:
   end_date: 2002-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: "* GPA: 3.198 - Dean’s list - Golden Key International Honor Society"
-reviews:
+references:
 - teammate: Cody Winton
   body: Grant is highly intelligent and will not rest until he has accomplished the
     task at hand. He's a self learner with an ability to tackle any problem given

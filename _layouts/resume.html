@@ -163,17 +163,22 @@ layout: default
   </div>
   {% endif %}
 
-  <!-- Reviews Row -->
+  <!-- References Row -->
   <br/>
   <div class="row">
     <div class="col-12">
       <h4>References</h4>
       
-      {% if page.reviews[0].body %}
-      {% assign reviews = page.reviews | sort: 'teammate' | reverse %}
+      {% if page.references[0].body %}
+      {% assign references = page.references | sort: 'teammate' | reverse %}
       {% assign collection = site.collections | where: 'label', 'coders' | first %}
-      {% for review in reviews limit: collection.reviews_limit %}
-      {{ review.body | append: " - **" | append: review.teammate | append: "**" | markdownify }}
+      {% for reference in references limit: collection.references_limit %}
+
+      <p>
+        {{ reference.body }} <br/>
+        <strong>- {{ reference.teammate }}</strong>
+      </p>
+
       {% endfor %}
       {% endif %}
 

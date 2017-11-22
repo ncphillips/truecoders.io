@@ -79,7 +79,7 @@ education:
   end_date: 2012-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: 
-reviews:
+references:
 - teammate: Cody Winton
   body: Candace has exceeded expectations, seeking excellence in her work and advancing
     her own knowledge base whenever possible. Her attention to detail and the quality
