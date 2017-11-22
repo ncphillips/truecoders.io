@@ -16,7 +16,7 @@ experience:
   end_date: 
   body: |-
     * Built a community calendar & engagement website
-    * Manage writen & video content as well as social media channels
+    * Manage written & video content as well as social media channels
     * Lead a team of writers and videographers
 - company: Five Star Painting
   job_title: Project Consultant
