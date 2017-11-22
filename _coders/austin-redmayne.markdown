@@ -77,6 +77,8 @@ education:
   body: 
 references:
 - name: Cody Winton
+  title: 
+  company: 
   quote: Austin has shown himself anxious to learn and do well in his work. He is
     motivated to succeed and his tenacity and work ethic would make him an excellent
     addition to a team.
