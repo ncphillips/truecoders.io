@@ -106,7 +106,7 @@ education:
   body: 
 - school: University​ ​of​ ​North​ ​Alabama
   degree: Music Performance
-  end_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2014-05-01 00:00:00 -05:00
   location: Florence, AL
   body: 
 ---
