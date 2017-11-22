@@ -67,12 +67,21 @@ education:
   degree: Master of Computer Science
   end_date: 2016-12-01 00:00:00 -06:00
   location: Warrensburg, MO
-  body: "* GPA: 3.6/4.0"
+  body: |-
+    * Member of Internation Student Organization (ISO).
+    * Acted as a liaison between School officials and International Students.
+    * Graduate Research Assistant.
+    * GPA: 3.6/4.0
 - school: Jawaharlal Nehru Technological University
   degree: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India
-  body: "* GPA: 3.5/4.0"
+  body: |-
+    * Student Coordinator, Training and Placement Cell, SREC Warangal.
+    * Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR Engineering College, Warangal, India
+    * Member of Computer Society of India (CSI)
+    * Joint Secretary, National Service Scheme (NSS)
+    * GPA: 3.5/4.0
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth. My educational background and technical knowledge have given me the skills required for a C# Developer. Good team player with excellent organizational skills and business process improvements. My strong knowledge of fundamentals and self-motivation along with my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.
