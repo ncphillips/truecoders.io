@@ -96,7 +96,7 @@ education:
   body: Associate's degree, Business, Management, Marketing, and Related Support Services,
     2014 - 2015
 - school: Bessemer Technical College
-  degree: 
+  degree: Architectural Design
   end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
   body: 
