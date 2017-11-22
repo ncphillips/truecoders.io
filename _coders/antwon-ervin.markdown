@@ -81,7 +81,7 @@ reviews:
     the end user and the business requirements.
 skills:
 - title: Attendance
-  rank: 
+  rank: 2.8
 - title: C#
   rank: 
 - title: ANSI SQL

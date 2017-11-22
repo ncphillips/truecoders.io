@@ -51,7 +51,7 @@ reviews:
     for a programming position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 5.0
 - title: C#
   rank: 
 - title: ANSI SQL

@@ -64,7 +64,7 @@ reviews:
     get the job done. I'd recommend KaDarius for a programming position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 1.7
 - title: C#
   rank: 
 - title: ANSI SQL

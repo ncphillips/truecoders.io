@@ -42,7 +42,7 @@ reviews:
     the goal. In a competitive environment he will be a consistently high performer.
 skills:
 - title: Attendance
-  rank: 
+  rank: 4.7
 - title: C#
   rank: 
 - title: ANSI SQL

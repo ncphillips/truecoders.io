@@ -67,7 +67,7 @@ reviews:
     them into her workflow. I'd highly recommend Tori for a developer role.
 skills:
 - title: Attendance
-  rank: 
+  rank: 1.4
 - title: C#
   rank: 
 - title: ANSI SQL

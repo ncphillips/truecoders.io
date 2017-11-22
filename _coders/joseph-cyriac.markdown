@@ -72,7 +72,7 @@ reviews:
     effectively. I recommend Joseph for a developer or QA position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 4.7
 - title: C#
   rank: 
 - title: ANSI SQL

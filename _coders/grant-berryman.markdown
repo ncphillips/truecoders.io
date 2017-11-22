@@ -90,7 +90,7 @@ reviews:
     task at hand. I'd highly recommend him for a developer position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 5.0
 - title: C#
   rank: 
 - title: ANSI SQL

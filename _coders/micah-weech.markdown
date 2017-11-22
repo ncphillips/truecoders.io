@@ -60,7 +60,7 @@ reviews:
     problems. I'd recommend Micah for a database role.
 skills:
 - title: Attendance
-  rank: 
+  rank: 1.1
 - title: C#
   rank: 
 - title: ANSI SQL

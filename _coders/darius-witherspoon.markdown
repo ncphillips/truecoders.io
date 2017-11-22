@@ -49,7 +49,7 @@ reviews:
     his strong suit and I look forward to seeing what he can do in the wild.
 skills:
 - title: Attendance
-  rank: 
+  rank: 4.6
 - title: C#
   rank: 
 - title: ANSI SQL

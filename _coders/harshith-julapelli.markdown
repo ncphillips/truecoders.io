@@ -59,7 +59,7 @@ reviews:
     recommend Harshith for a developer position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 4.3
 - title: C#
   rank: 
 - title: ANSI SQL

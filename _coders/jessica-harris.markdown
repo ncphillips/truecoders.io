@@ -83,7 +83,7 @@ reviews:
     given to her. I'd highly recommend her for a developer position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 2.5
 - title: C#
   rank: 
 - title: ANSI SQL

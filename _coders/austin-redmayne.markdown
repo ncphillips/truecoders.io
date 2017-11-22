@@ -81,7 +81,7 @@ reviews:
     recommend Austin for Quality Assurance.
 skills:
 - title: Attendance
-  rank: 
+  rank: 3.2
 - title: C#
   rank: 
 - title: ANSI SQL

@@ -40,7 +40,7 @@ reviews:
     tasks at hand. I'd recommend Zach for a developer position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 5.0
 - title: C#
   rank: 
 - title: ANSI SQL

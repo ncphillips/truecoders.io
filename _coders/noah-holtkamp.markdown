@@ -54,7 +54,7 @@ reviews:
     to know. I'd recommend Noah for a QA role.
 skills:
 - title: Attendance
-  rank: 
+  rank: 1.8
 - title: C#
   rank: 
 - title: ANSI SQL

@@ -58,7 +58,7 @@ reviews:
     I'd recommend Hollis for a developer position.
 skills:
 - title: Attendance
-  rank: 
+  rank: 4.7
 - title: C#
   rank: 
 - title: ANSI SQL
