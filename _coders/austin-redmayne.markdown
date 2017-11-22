@@ -96,7 +96,7 @@ education:
   body: 
 - school: Northwest​ ​Shoals​ ​Community​ ​College
   degree: General
-  end_date: 2013-12-01 00:00:00 -06:00
+  end_date: 2012-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - school: Homewood​ ​High​ ​School
