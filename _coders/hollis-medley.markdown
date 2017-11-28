@@ -63,19 +63,19 @@ skills:
 - title: Attendance
   rank: 4.7
 - title: C# and .NET
-  rank: 
+  rank: 2.9
 - title: ANSI SQL
-  rank: 
+  rank: 3.0
 - title: HTML, CSS, JS
-  rank: 
+  rank: 3.6
 - title: Git
-  rank: 
+  rank: 3.6
 - title: Diagnostics
-  rank: 
+  rank: 3.2
 - title: ASP.NET
-  rank: 
+  rank: 3.1
 - title: Soft Skills
-  rank: 
+  rank: 4.3
 codewars_scores:
 - 51
 - 67
