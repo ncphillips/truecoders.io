@@ -116,7 +116,7 @@ codewars_scores:
 - 162
 - 248
 - 263
-- 320
+- 371
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.
