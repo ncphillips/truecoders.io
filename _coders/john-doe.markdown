@@ -11,7 +11,7 @@ social:
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
-experience:
+work:
 - company: Company LLC
   job_title: Job Title
   start_date: 2017-01-01 00:00:00 -06:00

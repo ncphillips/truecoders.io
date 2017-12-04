@@ -9,7 +9,7 @@ social:
   github: Harshithj88
   linkedin: hjulapelli
   codewars: Harshithj
-experience:
+work:
 - company: University of Central Missouri
   job_title: Graduate Research Assistant
   start_date: 2016-01-01 00:00:00 -06:00

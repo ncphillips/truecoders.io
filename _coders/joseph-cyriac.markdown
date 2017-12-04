@@ -9,7 +9,7 @@ social:
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo
-experience:
+work:
 - company: Continental Airlines
   job_title: Customer Relations Representative
   start_date: 2007-01-01 00:00:00 -06:00

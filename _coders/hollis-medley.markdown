@@ -9,7 +9,7 @@ social:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
-experience:
+work:
 - company: Petland
   job_title: Kennel Technician
   start_date: 2016-03-01 00:00:00 -06:00

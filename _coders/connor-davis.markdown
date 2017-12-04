@@ -9,7 +9,7 @@ social:
   github: connordavis98
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98
-experience:
+work:
 - company: Garywood Assembly of God
   job_title: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00

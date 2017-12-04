@@ -9,7 +9,7 @@ social:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
-experience:
+work:
 - company: Discover Birmingham
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00

@@ -9,7 +9,7 @@ social:
   github: HoltkampN
   linkedin: noah-holtkamp-1003b9100
   codewars: HoltkampN
-experience:
+work:
 - company: NutritionFacts.org
   job_title: MD Volunteer Article Retriever
   start_date: 2016-12-01 00:00:00 -06:00

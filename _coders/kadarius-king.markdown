@@ -9,7 +9,7 @@ social:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
-experience:
+work:
 - company: PNC Bank
   job_title: Financial Sales Consultant
   start_date: 2014-01-01 00:00:00 -06:00

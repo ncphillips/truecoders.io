@@ -9,7 +9,7 @@ social:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
-experience:
+work:
 - company: Tech-Ease
   job_title: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00

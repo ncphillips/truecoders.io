@@ -9,7 +9,7 @@ social:
   github: mweechzing
   linkedin: micah-weech-b911a256
   codewars: mweechzing
-experience:
+work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
   start_date: 2010-05-01 01:00:00 -05:00

@@ -9,7 +9,7 @@ social:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius
-experience:
+work:
 - company: FedEx Ground
   job_title: Driver
   start_date: 2016-01-01 00:00:00 -06:00

@@ -9,7 +9,7 @@ social:
   github: zachstagrammer
   linkedin: zach-phillips-087135152
   codewars: zachstagrammer
-experience:
+work:
 - company: Market Cove LLC
   job_title: Owner
   start_date: 2015-01-01 00:00:00 -06:00

@@ -9,7 +9,7 @@ social:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall
-experience:
+work:
 - company: Hewitt-Trussville Middle School
   job_title: Teacher
   start_date: 2003-08-01 01:00:00 -05:00

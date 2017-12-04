@@ -9,7 +9,7 @@ social:
   github: candacejwelch
   linkedin: candacewelch
   codewars: candacejwelch
-experience:
+work:
 - company: Out There Creative
   job_title: Graphic Designer & Developer
   start_date: 2017-06-01 00:00:00 -05:00

@@ -9,7 +9,7 @@ social:
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne
-experience:
+work:
 - company: Baumhowers
   job_title: Server
   start_date: 2016-12-01 00:00:00 -06:00

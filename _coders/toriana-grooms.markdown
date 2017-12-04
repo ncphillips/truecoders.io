@@ -9,7 +9,7 @@ social:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms
-experience:
+work:
 - company: Cricket Wireless
   job_title: Assistant Manager
   start_date: 2017-06-01 00:00:00 -05:00

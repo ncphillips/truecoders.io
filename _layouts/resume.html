@@ -95,35 +95,35 @@ layout: default
   </div>
 
   <!-- Experience Row -->
-  {% if page.experience[0].company %}
+  {% if page.work[0].company %}
   <br/>
   <div class="row">
     <div class="col-12">
       <h4>Experience</h4>
-      {% assign experiences = page.experience | sort: 'start_date', 'last' %}
-      {% assign experiences = experiences | sort: 'end_date', 'last' | reverse %}
+      {% assign works = page.work | sort: 'start_date', 'last' %}
+      {% assign works = works | sort: 'end_date', 'last' | reverse %}
       {% assign company = "" %}
       
-      {% for experience in experiences %}
+      {% for work in works %}
 
-      {% unless experience.company and experience.job_title %} {% continue %} {% endunless %}
+      {% unless work.company and work.job_title %} {% continue %} {% endunless %}
 
-      {% if experience.end_date < site.time %}
-      {% assign end_date = experience.end_date | date: "%b %Y" | default: "Present" | upcase %}
+      {% if work.end_date < site.time %}
+      {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
       {% else %}
       {% assign end_date = "Present" %}
       {% endif %}
 
       <p>
-        {% if company != experience.company %}
-        <strong>{{ experience.company }}</strong><br/>
+        {% if company != work.company %}
+        <strong>{{ work.company }}</strong><br/>
         {% endif %}
-        {{ experience.job_title }} | {{ experience.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+        {{ work.job_title }} | {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
 
-      {{ experience.body | markdownify }}
+      {{ work.body | markdownify }}
 
-      {% assign company = experience.company %}
+      {% assign company = work.company %}
       {% endfor %}
     </div>
   </div>

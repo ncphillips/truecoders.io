@@ -9,7 +9,7 @@ social:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
-experience:
+work:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver
   start_date: 2015-08-01 00:00:00 -05:00
