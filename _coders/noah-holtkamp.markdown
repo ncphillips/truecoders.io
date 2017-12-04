@@ -36,7 +36,7 @@ experience:
     * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
 education:
 - school: Vestavia Hills High School
-  degree: High School Degree
+  degree: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
   body: 

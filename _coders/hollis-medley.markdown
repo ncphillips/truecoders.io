@@ -38,7 +38,7 @@ education:
   location: Birmingham, AL
   body: "* Dual Enrollment"
 - school: Homeschool
-  degree: High School Degree
+  degree: High School Diploma
   end_date: 
   location: 
   body: 

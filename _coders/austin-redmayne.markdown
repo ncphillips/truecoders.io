@@ -71,7 +71,7 @@ education:
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - school: Homewood​ ​High​ ​School
-  degree: High​ ​School Degree
+  degree: High​ ​School Diploma
   end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
   body: 
