@@ -75,7 +75,7 @@ education:
     * The National Society of Collegiate Scholars
     * Phi Kappa Phi Honor Society
 - school: Trinity Presbyterian School
-  degree: High School Diploma
+  degree: High School Degree
   end_date: 2012-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: 

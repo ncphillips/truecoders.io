@@ -57,7 +57,7 @@ education:
   location: Birmingham, AL
   body: 
 - school: Erwin High School
-  degree: High School Diploma
+  degree: High School Degree
   end_date: 2008-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: 

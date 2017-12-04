@@ -25,7 +25,7 @@ experience:
     * Coach for teen league
 education:
 - school: Hope Christian High School
-  degree: High School Diploma
+  degree: High School Degree
   end_date: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-

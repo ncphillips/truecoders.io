@@ -31,7 +31,7 @@ experience:
     * Provided weekly updates
 education:
 - school: Christ Church School
-  degree: High School Diploma
+  degree: High School Degree
   end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
 references:
