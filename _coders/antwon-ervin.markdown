@@ -5,7 +5,7 @@ position: 1
 image: "/uploads/antwon-ervin.jpg"
 class: Alpha C#
 personality_type: ENFP
-social:
+profiles:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin

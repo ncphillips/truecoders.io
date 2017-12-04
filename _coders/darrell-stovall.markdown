@@ -5,7 +5,7 @@ position: 6
 image: "/uploads/darrell-stovall.jpg"
 class: Alpha C#
 personality_type: INTJ
-social:
+profiles:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall

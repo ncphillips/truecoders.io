@@ -5,7 +5,7 @@ position: 10
 image: "/uploads/jessica-harris.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620

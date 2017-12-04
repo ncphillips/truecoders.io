@@ -5,7 +5,7 @@ position: 16
 image: "/uploads/zach-phillips.jpg"
 class: Alpha C#
 personality_type: ISTJ
-social:
+profiles:
   github: zachstagrammer
   linkedin: zach-phillips-087135152
   codewars: zachstagrammer

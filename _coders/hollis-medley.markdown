@@ -5,7 +5,7 @@ position: 9
 image: "/uploads/hollis-medley.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley

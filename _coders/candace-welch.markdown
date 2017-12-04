@@ -5,7 +5,7 @@ position: 3
 image: "/uploads/candace-welch.jpg"
 class: Alpha C#
 personality_type: INFJ
-social:
+profiles:
   github: candacejwelch
   linkedin: candacewelch
   codewars: candacejwelch

@@ -5,7 +5,7 @@ position: 8
 image: "/uploads/harshith-julapelli.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: Harshithj88
   linkedin: hjulapelli
   codewars: Harshithj

@@ -5,7 +5,7 @@ position: 14
 image: "/uploads/noah-holtkamp.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: HoltkampN
   linkedin: noah-holtkamp-1003b9100
   codewars: HoltkampN

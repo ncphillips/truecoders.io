@@ -5,7 +5,7 @@ position: 12
 image: "/uploads/kadarius-king.jpg"
 class: Alpha C#
 personality_type: INFP
-social:
+profiles:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius

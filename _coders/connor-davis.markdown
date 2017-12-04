@@ -5,7 +5,7 @@ position: 4
 image: "/uploads/connor-davis.jpg"
 class: Alpha C#
 personality_type: ENFP
-social:
+profiles:
   github: connordavis98
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98

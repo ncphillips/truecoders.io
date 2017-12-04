@@ -5,7 +5,7 @@ position: 13
 image: "/uploads/micah-weech.jpg"
 class: Alpha C#
 personality_type: INFP
-social:
+profiles:
   github: mweechzing
   linkedin: micah-weech-b911a256
   codewars: mweechzing

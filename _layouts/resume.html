@@ -27,23 +27,23 @@ layout: default
       <strong>{{ page.class }} Graduate</strong>
       {% endif %}
 
-      {% if page.social %}
+      {% if page.profiles %}
       <p>
-        {% if page.social.github %}
-        <a href="{{ "https://www.github.com/" | append: page.social.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-github fa-lg"></i> {{ page.social.github }}
+        {% if page.profiles.github %}
+        <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+          <i class="fa fa-github fa-lg"></i> {{ page.profiles.github }}
         </a>
         {% endif %}
 
-        {% if page.social.linkedin %}
-        <a href="{{ "https://www.linkedin.com/in/" | append: page.social.linkedin }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-linkedin-square fa-lg"></i> {{ page.social.linkedin }}
+        {% if page.profiles.linkedin %}
+        <a href="{{ "https://www.linkedin.com/in/" | append: page.profiles.linkedin }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+          <i class="fa fa-linkedin-square fa-lg"></i> {{ page.profiles.linkedin }}
         </a>
         {% endif %}
 
-        {% if page.social.codewars %}
-        <a href="{{ "https:/www.codewars.com/users/" | append: page.social.codewars }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;"> {{ page.social.codewars }}
+        {% if page.profiles.codewars %}
+        <a href="{{ "https:/www.codewars.com/users/" | append: page.profiles.codewars }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+          <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;"> {{ page.profiles.codewars }}
         </a>
         {% endif %}
 

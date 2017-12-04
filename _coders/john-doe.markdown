@@ -7,7 +7,7 @@ position: 0
 image: "/uploads/john-doe.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio

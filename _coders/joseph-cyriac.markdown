@@ -5,7 +5,7 @@ position: 11
 image: "/uploads/joseph-cyriac.jpg"
 class: Alpha C#
 personality_type: ENTJ
-social:
+profiles:
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo

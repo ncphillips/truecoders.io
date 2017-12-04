@@ -5,7 +5,7 @@ position: 2
 image: "/uploads/austin-redmayne.jpg"
 class: Alpha C#
 personality_type: INFJ
-social:
+profiles:
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne

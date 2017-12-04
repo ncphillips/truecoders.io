@@ -5,7 +5,7 @@ position: 15
 image: "/uploads/toriana-grooms.jpg"
 class: Alpha C#
 personality_type: ESTJ
-social:
+profiles:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms

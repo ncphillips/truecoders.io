@@ -5,7 +5,7 @@ position: 5
 image: "/uploads/darius-witherspoon.jpg"
 class: Alpha C#
 personality_type: ENFJ
-social:
+profiles:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius

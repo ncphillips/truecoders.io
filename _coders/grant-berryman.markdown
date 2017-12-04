@@ -5,7 +5,7 @@ position: 7
 image: "/uploads/grant-berryman.jpg"
 class: Alpha C#
 personality_type: INTJ
-social:
+profiles:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes

@@ -48,7 +48,7 @@ defaults:
     image: 
     class: 
     personality_type: 
-    social:
+    profiles:
       github: 
       linkedin: 
       codewars: 
