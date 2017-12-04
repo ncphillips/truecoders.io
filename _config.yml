@@ -59,7 +59,7 @@ defaults:
       end_date: 
       body: 
     education:
-    - school: 
+    - institution: 
       degree: 
       end_date: 
       location: 

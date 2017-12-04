@@ -55,22 +55,22 @@ work:
     * Prepare and serve food
     * Ensure the overall presentation of the restaurant
 education:
-- school: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
+- institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   degree: Psychology
   end_date: 
   location: Birmingham, AL
   body: 
-- school: University​ ​of​ ​North​ ​Alabama
+- institution: University​ ​of​ ​North​ ​Alabama
   degree: Music Performance
   end_date: 2014-05-01 00:00:00 -05:00
   location: Florence, AL
   body: 
-- school: Northwest​ ​Shoals​ ​Community​ ​College
+- institution: Northwest​ ​Shoals​ ​Community​ ​College
   degree: General
   end_date: 2012-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
   body: 
-- school: Homewood​ ​High​ ​School
+- institution: Homewood​ ​High​ ​School
   degree: High​ ​School Diploma
   end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL

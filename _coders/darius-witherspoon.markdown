@@ -28,12 +28,12 @@ work:
     * Managed sales and new customer recruitment dry-calls and solicitation
     * Provided new employees a complete training package from customer standards to basic detailing and customer service skills.
 education:
-- school: Jefferson State Community College
+- institution: Jefferson State Community College
   degree: 
   end_date: 2013-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: 
-- school: Huffman High School
+- institution: Huffman High School
   degree: High School Diploma
   end_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL

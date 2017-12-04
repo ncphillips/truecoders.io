@@ -34,7 +34,7 @@ work:
     email system so that employee/user will get the notification of email or SMS to
     their email client which is installed at his/her work stations.
 education:
-- school: University of Central Missouri
+- institution: University of Central Missouri
   degree: Master of Computer Science
   end_date: 2016-12-01 00:00:00 -06:00
   location: Warrensburg, MO
@@ -43,7 +43,7 @@ education:
     * Acted as a liaison between School officials and International Students.
     * Graduate Research Assistant.
     * GPA: 3.6/4.0
-- school: Jawaharlal Nehru Technological University
+- institution: Jawaharlal Nehru Technological University
   degree: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India

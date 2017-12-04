@@ -67,19 +67,19 @@ work:
     for on-site production and coordination of shows, stage managing\n* Worked with
     national acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups"
 education:
-- school: Middle Tennessee State University
+- institution: Middle Tennessee State University
   degree: Bachelor of Science Degree in Recording Industry
   end_date: 2006-05-01 01:00:00 -05:00
   location: Murfreesboro, TN
   body: "* Major: Production and Technology - Minor: Music Industry\n* Major GPA:
     3.857 - Overall GPA: 3.34 - Dean’s List - Audio Engineering Society Member \n*
     Internship with Grammy award winning engineer Dan Rudin."
-- school: Atlanta Institute of Music
+- institution: Atlanta Institute of Music
   degree: Associates Degree in Guitar Performance
   end_date: 2004-05-01 01:00:00 -05:00
   location: Atlanta, GA
   body: "* GPA: 3.3"
-- school: Auburn University
+- institution: Auburn University
   degree: Bachelor of Arts Degree in Psychology
   end_date: 2002-05-01 01:00:00 -05:00
   location: Auburn, AL

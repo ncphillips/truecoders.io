@@ -34,12 +34,12 @@ work:
   end_date: 2003-05-01 01:00:00 -05:00
   body: 
 education:
-- school: University of Alabama, Birmingham (UAB)
+- institution: University of Alabama, Birmingham (UAB)
   degree: Masters of Arts
   end_date: 1995-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: "* Special Education (Gifted and Talented Certification)"
-- school: Birmingham-Southern College
+- institution: Birmingham-Southern College
   degree: Bachelor of Arts
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL

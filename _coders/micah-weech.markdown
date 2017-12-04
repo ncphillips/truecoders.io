@@ -44,12 +44,12 @@ work:
     * Manage audio/visual equipment installation, maintenance and upgrades.
     * Managed sale and distribution of content produced at Oakwood University Church.
 education:
-- school: Oakwood University
+- institution: Oakwood University
   degree: Bachelor of Arts, Theology Pastoral/Evangelism
   end_date: 2013-11-01 00:00:00 -05:00
   location: Huntsville, AL
   body: "* Minor in Biblical Languages"
-- school: Savannah College of Art and Design
+- institution: Savannah College of Art and Design
   degree: Master of Fine Arts, Film & Television
   end_date: 
   location: Savannah, GA

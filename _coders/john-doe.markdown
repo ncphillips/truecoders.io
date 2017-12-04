@@ -31,7 +31,7 @@ work:
     * Example Two
     * Example Three
 education:
-- school: Example High School
+- institution: Example High School
   degree: High School Diploma
   end_date: 2010-05-01 01:00:00 -05:00
   location: Birmingham, AL

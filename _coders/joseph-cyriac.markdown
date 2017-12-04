@@ -58,7 +58,7 @@ work:
     * Select and Implement Electronic Billing and Health Record program Practice Partner
     * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 education:
-- school: Auburn University
+- institution: Auburn University
   degree: Bachelor of Science Degree
   end_date: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL

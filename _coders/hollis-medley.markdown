@@ -32,22 +32,22 @@ work:
     * Cashier
     * Shelf stocker
 education:
-- school: Lawson State
+- institution: Lawson State
   degree: 
   end_date: 
   location: Birmingham, AL
   body: "* Dual Enrollment"
-- school: Homeschool
+- institution: Homeschool
   degree: High School Diploma
   end_date: 
   location: 
   body: 
-- school: Trenholm State
+- institution: Trenholm State
   degree: 
   end_date: 2016-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
-- school: Faulkner University
+- institution: Faulkner University
   degree: 
   end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL

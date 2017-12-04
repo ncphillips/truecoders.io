@@ -63,7 +63,7 @@ work:
     * Provided team with detailed bug reports to lower time between breaks and fixes.
     * Ensured product quality by testing features in multiple environments.
 education:
-- school: Auburn University at Montgomery
+- institution: Auburn University at Montgomery
   degree: Graphic Design
   end_date: 2017-05-01 00:00:00 -05:00
   location: Montgomery, AL
@@ -74,7 +74,7 @@ education:
     * Phi Eta Sigma Honor Society
     * The National Society of Collegiate Scholars
     * Phi Kappa Phi Honor Society
-- school: Trinity Presbyterian School
+- institution: Trinity Presbyterian School
   degree: High School Diploma
   end_date: 2012-05-01 00:00:00 -05:00
   location: Montgomery, AL

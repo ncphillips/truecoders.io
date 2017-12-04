@@ -35,12 +35,12 @@ work:
     * Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties
     * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
 education:
-- school: Vestavia Hills High School
+- institution: Vestavia Hills High School
   degree: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
   body: 
-- school: T. Colin Campbell Center For Nutrition Studies
+- institution: T. Colin Campbell Center For Nutrition Studies
   degree: Plant Based Nutrition
   end_date: 2016-03-01 00:00:00 -06:00
   location: 

@@ -46,17 +46,17 @@ work:
     * Setting up cases for surgeries
     * Sterilizing loaner instruments
 education:
-- school: Jefferson State Community College
+- institution: Jefferson State Community College
   degree: Criminal Justice
   end_date: 2016-12-01 00:00:00 -06:00
   location: Birmingham, AL
   body: 
-- school: University of Alabama in Birmingham
+- institution: University of Alabama in Birmingham
   degree: Early Childhood Education
   end_date: 2013-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: 
-- school: Erwin High School
+- institution: Erwin High School
   degree: High School Diploma
   end_date: 2008-05-01 01:00:00 -05:00
   location: Birmingham, AL

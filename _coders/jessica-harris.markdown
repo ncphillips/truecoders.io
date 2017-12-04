@@ -67,12 +67,12 @@ work:
     * Typed letters, memos, and other official business documents.
     * Gained knowledge of Microsoft Office and its components.
 education:
-- school: P.D.​ ​Jackson​ ​Olin​
+- institution: P.D.​ ​Jackson​ ​Olin​
   degree: GED
   end_date: 2005-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: 
-- school: Brown Mackie College
+- institution: Brown Mackie College
   degree: Information Technology
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
