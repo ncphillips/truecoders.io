@@ -42,6 +42,14 @@ defaults:
     image: "/uploads/logo.png"
 - scope:
     path: ''
+    type: classes
+  values:
+    institution: 
+    degree: 
+    end_date: 
+    location: 
+- scope:
+    path: ''
     type: coders
   values:
     layout: resume
