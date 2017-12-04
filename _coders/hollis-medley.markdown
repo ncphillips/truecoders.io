@@ -11,7 +11,7 @@ social:
   codewars: hmedley
 work:
 - company: Petland
-  job_title: Kennel Technician
+  position: Kennel Technician
   start_date: 2016-03-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
@@ -19,12 +19,12 @@ work:
     * A little bit of trimming and bath
     * Experienced in giving vaccinations
 - company: YMCA
-  job_title: Lifeguard
+  position: Lifeguard
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-10-01 00:00:00 -05:00
   body: 
 - company: Tractor Supply Co
-  job_title: Cashier/Team Member
+  position: Cashier/Team Member
   start_date: 2017-04-01 00:00:00 -05:00
   end_date: 
   body: |-

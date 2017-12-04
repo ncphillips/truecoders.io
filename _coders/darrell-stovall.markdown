@@ -11,7 +11,7 @@ social:
   codewars: darrellstovall
 work:
 - company: Hewitt-Trussville Middle School
-  job_title: Teacher
+  position: Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
   body: |-
@@ -29,7 +29,7 @@ work:
 
     I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years.
 - company: Hewitt-Trussville Jr. High School
-  job_title: Teacher
+  position: Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: 

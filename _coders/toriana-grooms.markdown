@@ -11,26 +11,26 @@ social:
   codewars: torigrooms
 work:
 - company: Cricket Wireless
-  job_title: Assistant Manager
+  position: Assistant Manager
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 2017-09-30 00:00:00 -05:00
   body: |
     * Selling wireless phones and wireless accessories
     * Marketing products and services to consumers
 - company: Insomnia Cookies
-  job_title: Store Manager
+  position: Store Manager
   start_date: 2014-10-01 00:00:00 -05:00
   end_date: 2015-06-01 00:00:00 -05:00
   body: "* Managing and coordinating all aspects of the business and staff"
 - company: Steak N' Shake
-  job_title: Service Trainer
+  position: Service Trainer
   start_date: 2014-05-01 00:00:00 -05:00
   end_date: 2016-08-01 00:00:00 -05:00
   body: |-
     * Training new servers according to company regulations and policies
     * Providing superior service and a quality experience to the guest.
 - company: RadioShack
-  job_title: Wireless Consultant
+  position: Wireless Consultant
   start_date: 2012-10-01 00:00:00 -05:00
   end_date: 2013-10-01 00:00:00 -05:00
   body: |-
@@ -38,7 +38,7 @@ work:
     * Selling attachments
     * Monitoring goals daily
 - company: Children's Hospital of Birmingham
-  job_title: Sterile Processing Technician
+  position: Sterile Processing Technician
   start_date: 2012-04-01 00:00:00 -05:00
   end_date: 2012-09-01 00:00:00 -05:00
   body: |-

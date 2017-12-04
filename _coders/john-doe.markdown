@@ -13,7 +13,7 @@ social:
   codewars: truecodersio
 work:
 - company: Company LLC
-  job_title: Job Title
+  position: Job Title
   start_date: 2017-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -23,7 +23,7 @@ work:
     * Example Two
     * Example Three
 - company: Example Inc.
-  job_title: Job Title
+  position: Job Title
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-

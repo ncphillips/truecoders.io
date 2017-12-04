@@ -11,7 +11,7 @@ social:
   codewars: Harshithj
 work:
 - company: University of Central Missouri
-  job_title: Graduate Research Assistant
+  position: Graduate Research Assistant
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-
@@ -23,7 +23,7 @@ work:
     * Write the queries to get optimal results
     * Writing reports on the data analyzed
 - company: University of Central Missouri
-  job_title: Emergency Mail Sender
+  position: Emergency Mail Sender
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2015-12-01 00:00:00 -06:00
   body: Emergency mail sender is an android application targeted for many users who

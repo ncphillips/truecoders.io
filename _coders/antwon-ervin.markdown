@@ -11,7 +11,7 @@ social:
   codewars: aervin
 work:
 - company: Discover Birmingham
-  job_title: Founder
+  position: Founder
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -19,7 +19,7 @@ work:
     * Manage written & video content as well as social media channels
     * Lead a team of writers and videographers
 - company: Chronicle Studio
-  job_title: Service Consultant
+  position: Service Consultant
   start_date: 2014-04-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
@@ -28,7 +28,7 @@ work:
     * Outside sales
     * Provided tech support
 - company: Five Star Painting
-  job_title: Project Consultant
+  position: Project Consultant
   start_date: 2013-09-01 00:00:00 -05:00
   end_date: 2017-07-01 00:00:00 -05:00
   body: |-
@@ -37,7 +37,7 @@ work:
     * Manage crew’s workflow schedule
     * Provide customer service
 - company: Pittsburgh Glass Works, LLC
-  job_title: Account Representative
+  position: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
@@ -45,7 +45,7 @@ work:
     * Deliver to customer’s premises
     * Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any problems encountered
 - company: Anthony Underwood Automotive
-  job_title: Digital Sales Manager
+  position: Digital Sales Manager
   start_date: 2010-02-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
   body: |-
@@ -53,7 +53,7 @@ work:
     * Manage online inventory
     * Manage Service inventory and sales
 - company: Bada Ding Inc.
-  job_title: Sales Mgr / Repair Tech
+  position: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: "* Outside sales, customer service, invoice customer, manage work flow, dispatch,

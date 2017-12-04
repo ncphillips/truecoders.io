@@ -11,7 +11,7 @@ social:
   codewars: cyriajo
 work:
 - company: Continental Airlines
-  job_title: Customer Relations Representative
+  position: Customer Relations Representative
   start_date: 2007-01-01 00:00:00 -06:00
   end_date: 2008-12-01 00:00:00 -06:00
   body: |-
@@ -21,7 +21,7 @@ work:
     * Managing cargo and ground logistics to ensure scheduled flight departure
     * Coordinating airport security logistics with corresponding federal agencies
 - company: Business Partnership
-  job_title: Investment Property Manager
+  position: Investment Property Manager
   start_date: 2005-01-01 00:00:00 -06:00
   end_date: 2010-12-01 00:00:00 -06:00
   body: |-
@@ -31,7 +31,7 @@ work:
     * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     * Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: West Alabama Internal Medicine LLC
-  job_title: Senior Manager and IT Analyst
+  position: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -42,7 +42,7 @@ work:
     * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
     * HR services such as hiring and yearly employee review
 - company: HFP LLC
-  job_title: Customs and Sales Broker
+  position: Customs and Sales Broker
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -50,7 +50,7 @@ work:
     * Liaison for North American Ventures
     * Process shipments, managing customs, tariffs, and other requirements
 - company: Song Eye Center Inc.
-  job_title: Assistant Manager and IT Analyst
+  position: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
   end_date: 
   body: |-

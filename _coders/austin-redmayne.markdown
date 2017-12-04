@@ -11,28 +11,28 @@ social:
   codewars: austinrickmayne
 work:
 - company: Baumhowers
-  job_title: Server
+  position: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
   body: "* Meeting a time commitment in order to keep restaurant running smoothly
     \n* Team based employee operations\n* Maintain alertness in full scope of the
     restaurants needs"
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
-  job_title: Server
+  position: Server
   start_date: 2016-07-01 00:00:00 -05:00
   end_date: 2016-11-01 00:00:00 -05:00
   body: |-
     * Adhering persistently to the changing pace and demand of the restaurant
     * Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
-  job_title: Server
+  position: Server
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-11-01 00:00:00 -05:00
   body: "* Teamwork focused on ensuring all customers are satisfied with their service
     \n* At times maintaining two or more different parts of the restaurant \n* Constant
     driving pace\n* Consistent flux of customers"
 - company: All​ ​American​ ​Swim​ ​Supply
-  job_title: Sales Representative
+  position: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00
   end_date: 2015-07-01 00:00:00 -05:00
   body: |-
@@ -40,7 +40,7 @@ work:
     * Helping customers decide what would be the best option for them
     * Handling money using mobile pay options
 - company: Hometown​ ​Market
-  job_title: Cashier
+  position: Cashier
   start_date: 2014-06-01 00:00:00 -05:00
   end_date: 2014-11-01 00:00:00 -05:00
   body: |-
@@ -48,7 +48,7 @@ work:
     * Cleaning
     * Operating a Cash Register
 - company: Blue​ ​Coast​ ​Burrito
-  job_title: Store Employee
+  position: Store Employee
   start_date: 2014-12-01 00:00:00 -06:00
   end_date: 2015-03-01 00:00:00 -06:00
   body: |-

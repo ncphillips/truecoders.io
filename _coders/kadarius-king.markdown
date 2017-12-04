@@ -11,7 +11,7 @@ social:
   codewars: KaDarius
 work:
 - company: PNC Bank
-  job_title: Financial Sales Consultant
+  position: Financial Sales Consultant
   start_date: 2014-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
@@ -26,7 +26,7 @@ work:
     * Educate Teller team to develop confidence in sales opportunities and provide development in
     reaching their own personal growth goals.
 - company: Best Buy
-  job_title: Sales Lead
+  position: Sales Lead
   start_date: 2012-02-01 00:00:00 -06:00
   end_date: 2013-03-01 00:00:00 -06:00
   body: |-
@@ -34,7 +34,7 @@ work:
     * Managed P&amp;L, new product roll-out, and ad-set roll out.
     * Conducted cross-functional team training around cross selling store cards with every purchase.
 - company: Best Buy
-  job_title: Digital Imaging Lead
+  position: Digital Imaging Lead
   start_date: 2008-01-01 00:00:00 -06:00
   end_date: 2012-02-01 00:00:00 -06:00
   body: |-

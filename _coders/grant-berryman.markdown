@@ -11,7 +11,7 @@ social:
   codewars: 2unes
 work:
 - company: Tech-Ease
-  job_title: Apple Consultant / Lead Tech
+  position: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
   body: |-
@@ -19,7 +19,7 @@ work:
     * Troubleshoot, resolve and repair all hardware and software issues on all Apple products
     * Lead both group workshops and training sessions
 - company: Twist Technology LLC
-  job_title: Service Department Head / Programmer
+  position: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -29,7 +29,7 @@ work:
     * Educated and trained customers on products
     * Built and maintained customer networks and access points
 - company: Apple Retail
-  job_title: Genius / Certified Mac Technician
+  position: Genius / Certified Mac Technician
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2013-05-01 00:00:00 -05:00
   body: |-
@@ -39,7 +39,7 @@ work:
     * Communicated complex technical ideas to all ages and experience levels
     * Managed time to keep customer appointments on time in fast paced environment
 - company: Apple Retail
-  job_title: Family Room Specialist
+  position: Family Room Specialist
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -49,7 +49,7 @@ work:
     * Taught personal training sessions on Apple hardware and software
     * Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
-  job_title: Specialist
+  position: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2010-09-01 01:00:00 -05:00
   body: |-
@@ -58,7 +58,7 @@ work:
     * Assisted customers with new device setup and product education
     * Taught group workshops on Apple products and services
 - company: Buster’s Billiards and Backroom
-  job_title: Tech Manager
+  position: Tech Manager
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: "* Designed, installed, maintained and ran a top-notch audio and lighting

@@ -11,14 +11,14 @@ social:
   codewars: HoltkampN
 work:
 - company: NutritionFacts.org
-  job_title: MD Volunteer Article Retriever
+  position: MD Volunteer Article Retriever
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 
   body: |-
     * Work as part of a project team to coordinate database development and determine project scope and limitations.
     * Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health.
 - company: Nutrient High LLC
-  job_title: Project Manager
+  position: Project Manager
   start_date: 2015-03-01 00:00:00 -06:00
   end_date: 2016-08-01 00:00:00 -05:00
   body: "* Prepare or implement budgets and strategic, operational, purchasing, or
@@ -27,7 +27,7 @@ work:
     of purchased products.\n* Maintain records of business transactions and product
     inventories, reporting data to companies or government agencies as necessary."
 - company: Home At Last Inc.
-  job_title: Program Administrator
+  position: Program Administrator
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 2016-01-01 00:00:00 -06:00
   body: |-

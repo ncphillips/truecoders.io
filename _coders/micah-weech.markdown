@@ -11,7 +11,7 @@ social:
   codewars: mweechzing
 work:
 - company: South Central Conference of Seventh Day Adventists
-  job_title: Senior Pastor
+  position: Senior Pastor
   start_date: 2010-05-01 01:00:00 -05:00
   end_date: 
   body: "Worked with:\n\n1. New Life SDA Church\n1. Mt. Zion SDA Church\n1. New Hope
@@ -23,7 +23,7 @@ work:
     the community thru various initiatives focused on improving the quality of life
     in the areas surrounding the churches."
 - company: Emmanuel Jr Academy
-  job_title: Teacher
+  position: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-05-01 00:00:00 -05:00
   body: |-
@@ -31,12 +31,12 @@ work:
     * Computer class for grades 9&10
     * PE class for grades 3-10
 - company: Savannah College of Art and Design
-  job_title: Teaching Assistant
+  position: Teaching Assistant
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
   body: "* Steadicam Class"
 - company: Oakwood University Church
-  job_title: Media Director/Assistant Youth Pastor
+  position: Media Director/Assistant Youth Pastor
   start_date: 2008-08-01 01:00:00 -05:00
   end_date: 2010-07-01 01:00:00 -05:00
   body: |-

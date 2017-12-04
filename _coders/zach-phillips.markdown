@@ -11,19 +11,19 @@ social:
   codewars: zachstagrammer
 work:
 - company: Market Cove LLC
-  job_title: Owner
+  position: Owner
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: |-
     * Research, Purchase, and Sell Products on Amazon marketplace
     * Provide customer support
 - company: 9G LLC
-  job_title: Tech Support
+  position: Tech Support
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 2017-09-29 00:00:00 -05:00
   body: "* Provide technical support for Mac systems, printers, and ecommerce website"
 - company: Christ Church
-  job_title: Website Administration
+  position: Website Administration
   start_date: 2011-01-01 00:00:00 -06:00
   end_date: 
   body: |-

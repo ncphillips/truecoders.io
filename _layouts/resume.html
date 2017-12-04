@@ -106,7 +106,7 @@ layout: default
       
       {% for work in works %}
 
-      {% unless work.company and work.job_title %} {% continue %} {% endunless %}
+      {% unless work.company and work.position %} {% continue %} {% endunless %}
 
       {% if work.end_date < site.time %}
       {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
@@ -118,7 +118,7 @@ layout: default
         {% if company != work.company %}
         <strong>{{ work.company }}</strong><br/>
         {% endif %}
-        {{ work.job_title }} | {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+        {{ work.position }} | {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
 
       {{ work.body | markdownify }}

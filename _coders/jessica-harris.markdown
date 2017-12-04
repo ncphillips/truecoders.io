@@ -11,7 +11,7 @@ social:
   codewars: jrharris620
 work:
 - company: Pizza​ ​Hut
-  job_title: Delivery​ ​Driver
+  position: Delivery​ ​Driver
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-03-01 00:00:00 -06:00
   body: |-
@@ -20,7 +20,7 @@ work:
     * Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks.
     * Cooked and sauced chicken wings and fries.
 - company: Wal-Mart
-  job_title: Deli​ ​Sales​ ​Associate
+  position: Deli​ ​Sales​ ​Associate
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
   body: |-
@@ -28,7 +28,7 @@ work:
     * Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays.
     * Sliced meat and cheese for party trays and individual orders.
 - company: Williams​ ​&​ ​Associates​
-  job_title: Administrative Assistant
+  position: Administrative Assistant
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2011-09-01 01:00:00 -05:00
   body: |-
@@ -38,21 +38,21 @@ work:
     * Managed an exceptional filing system
     * Answered and made calls regarding clients and contracts
 - company: TDM​ ​Research​
-  job_title: Surveyor
+  position: Surveyor
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
     * Called lists of numbers searching for survey participants.
     * Conducted surveys and filled in required information provided from various participants.
 - company: IHOP​ ​Restaurants​
-  job_title: Server
+  position: Server
   start_date: 2009-04-01 01:00:00 -05:00
   end_date: 2010-02-01 00:00:00 -06:00
   body: |-
     * Took and served customers food and beverage orders.
     * Prepped and stocked utensils, condiments, ice, and garnishes for next shift.
 - company: SITEL,​ ​Inc.​
-  job_title: Customer Service Representative
+  position: Customer Service Representative
   start_date: 2008-03-01 00:00:00 -06:00
   end_date: 2008-06-01 01:00:00 -05:00
   body: |-
@@ -60,7 +60,7 @@ work:
     * Notated customers accounts upon resolving all cellular issues.
     * Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about.
 - company: Results​ ​Construction​
-  job_title: Administrative Assistant
+  position: Administrative Assistant
   start_date: 2007-08-01 01:00:00 -05:00
   end_date: 2008-03-01 00:00:00 -06:00
   body: |-

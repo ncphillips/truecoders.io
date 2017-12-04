@@ -11,7 +11,7 @@ social:
   codewars: candacejwelch
 work:
 - company: Out There Creative
-  job_title: Graphic Designer & Developer
+  position: Graphic Designer & Developer
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 
   body: |-
@@ -22,7 +22,7 @@ work:
     * Created responsive design to ensure mobile compatibility for custom websites.
     * Developed and designed branding, packaging, & animations for various projects.
 - company: Costco Wholesale
-  job_title: Produce Merchandiser
+  position: Produce Merchandiser
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2017-02-01 00:00:00 -06:00
   body: |-
@@ -31,14 +31,14 @@ work:
     * Ensured accurate records of inbound shipments.
     * Maintained business to business relationships with local restaurants in order to promote Costco community involvement.
 - company: RSVP Magazine
-  job_title: Graphic Design Intern
+  position: Graphic Design Intern
   start_date: 2016-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: 'Several ads were completed for the July/August 2016 edition of RSVP. In addition
     to designing two event flyers: the “RSViP Riverboat Cruise” and the Release Party
     for the July/August Edition.'
 - company: Gumptionneers
-  job_title: Graphic Design Intern
+  position: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
   end_date: 2016-07-01 00:00:00 -05:00
   body: A summer program of 3 students, which was started in 2015 and last 6 to 8
@@ -46,14 +46,14 @@ work:
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
 - company: Wetumpka Area Chamber of Commerce
-  job_title: Graphic Design Intern
+  position: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
   end_date: 2016-07-01 00:00:00 -05:00
   body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
 - company: Square Root Interactive
-  job_title: Account Coordinator
+  position: Account Coordinator
   start_date: 2014-08-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-

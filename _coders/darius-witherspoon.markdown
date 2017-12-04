@@ -11,7 +11,7 @@ social:
   codewars: wcordarius
 work:
 - company: FedEx Ground
-  job_title: Driver
+  position: Driver
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
@@ -19,7 +19,7 @@ work:
     * Mange route scheduling and equipment
     * Maintain company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
-  job_title: Detailer
+  position: Detailer
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
