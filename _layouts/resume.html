@@ -50,7 +50,7 @@ layout: default
         {% if page.personality_type %}
         {% assign type = site.personality_types | where: "title", page.personality_type | first %}
         <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title }}
+          <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title | downcase }}
         </a>
         {% endif %}
       </p>
