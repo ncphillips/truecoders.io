@@ -129,7 +129,9 @@ layout: default
 
 
   <!-- Education Row -->
-  {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
+
+  {% assign educations = page.education | push: class | sort: 'start_date', 'last' %}
+  {% assign educations = educations | sort: 'end_date', 'last' | reverse %}
 
   <h4>Education</h4>
 
