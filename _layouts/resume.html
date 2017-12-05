@@ -28,8 +28,30 @@ layout: default
       <strong>{{ page.class }} Graduate</strong>
       {% endif %}
 
-      {% if page.profiles %}
+    </div>
+
+    <div class="col-1" style="text-align:end;">
+      <!--
+      <a class="resume-action-button" href="{{ "/resumes/" | append: page.slug | append: ".pdf" }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+        <i class="fa fa-external-link fa-lg"></i>
+      </a>
+      -->
+    </div>
+  </div>
+
+  {% if page.profiles %}
+  <div class="row">
+    <div class="col-12" style="text-align:center;">
       <ul class="list-inline">
+        {% if page.personality_type %}
+        {% assign type = site.personality_types | where: "title", page.personality_type | first %}
+        <li class="list-inline-item">
+          <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title }}
+          </a>
+        </li>
+        {% endif %}
+        
         {% if page.profiles.github %}
         <li class="list-inline-item">
           <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
@@ -53,36 +75,18 @@ layout: default
           </a>
         </li>
         {% endif %}
-
-        {% if page.personality_type %}
-        {% assign type = site.personality_types | where: "title", page.personality_type | first %}
-        <li class="list-inline-item">
-          <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title }}
-          </a>
-        </li>
-        {% endif %}
       </ul>
-      {% endif %}
-
-      {% if page.profiles.video %}
-      <p class="no-print">
-        <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.video }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-play-circle fa-lg"></i> Watch Intro
-        </a>
-      </p>
-      {% endif %}
-
-    </div>
-
-    <div class="col-1" style="text-align:end;">
-      <!--
-      <a class="resume-action-button" href="{{ "/resumes/" | append: page.slug | append: ".pdf" }}" target="_blank" style="color:#212529; margin: 0px 10px;">
-        <i class="fa fa-external-link fa-lg"></i>
-      </a>
-      -->
     </div>
   </div>
+  {% endif %}
+
+  {% if page.profiles.video %}
+  <p class="no-print" style="text-align:center;">
+    <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.video }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+      <i class="fa fa-play-circle fa-lg"></i> Watch Intro
+    </a>
+  </p>
+  {% endif %}
 
   {{ content }}
   
