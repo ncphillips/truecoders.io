@@ -9,7 +9,7 @@ profiles:
   github: torigrooms
   linkedin: toriana-grooms-506853151
   codewars: torigrooms
-  video: 244865297
+  video: 245988278
 work:
 - company: Cricket Wireless
   position: Assistant Manager

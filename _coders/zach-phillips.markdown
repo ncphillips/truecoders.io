@@ -9,7 +9,7 @@ profiles:
   github: zachstagrammer
   linkedin: zach-phillips-087135152
   codewars: zachstagrammer
-  video: 244866713
+  video: 245988282
 work:
 - company: Market Cove LLC
   position: Owner

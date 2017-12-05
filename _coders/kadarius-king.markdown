@@ -9,7 +9,7 @@ profiles:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
-  video: 244864925
+  video: 245988254
 work:
 - company: PNC Bank
   position: Financial Sales Consultant

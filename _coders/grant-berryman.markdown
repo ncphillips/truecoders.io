@@ -9,7 +9,7 @@ profiles:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
-  video: 244915913
+  video: 245987532
 work:
 - company: Tech-Ease
   position: Apple Consultant / Lead Tech

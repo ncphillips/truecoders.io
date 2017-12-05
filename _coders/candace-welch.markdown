@@ -9,7 +9,7 @@ profiles:
   github: candacejwelch
   linkedin: candacewelch
   codewars: candacejwelch
-  video: 244915771
+  video: 245987521
 work:
 - company: Out There Creative
   position: Graphic Designer & Developer

@@ -9,7 +9,7 @@ profiles:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
-  video: 244866311
+  video: 245987515
 work:
 - company: Discover Birmingham
   position: Founder
