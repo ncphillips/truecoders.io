@@ -11,8 +11,8 @@ profiles:
   codewars: darrellstovall
   video: 244865522
 work:
-- company: Hewitt-Trussville Middle School
-  position: Teacher
+- company: Hewitt-Trussville
+  position: Middle School Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
   body: |-
@@ -27,8 +27,8 @@ work:
     * Reading, 6th grade
     * Creative Dramatics, 7th-8th grades
     * American History, 8th grade
-- company: Hewitt-Trussville Jr. High School
-  position: Teacher
+- company: Hewitt-Trussville
+  position: Jr. High School Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: 
