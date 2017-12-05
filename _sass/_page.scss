@@ -11,38 +11,3 @@
 .call-to-action-button {
     margin-top: 80px;
 }
-
-@media print {
-
-    div, br, div.container {
-        page-break-before: avoid;
-        page-break-after: avoid;
-    }
-
-    body, p, strong {
-        font-size: $font-size-base - 0.33;
-    }
-
-    h3 {
-        font-size: $font-size-base;
-        page-break-after: avoid;
-    }
-    
-    h4 {
-        font-size: $font-size-base - 0.1;
-        page-break-after: avoid;
-    }
-
-    h5 {
-        font-size: $font-size-base - 0.2;
-        page-break-after: avoid;
-    }
-
-    div.print-page-break {
-        page-break-before: always;
-    }
-
-    a.resume-action-button {
-        display: none;
-    }
-}
