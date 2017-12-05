@@ -195,6 +195,8 @@ layout: default
 
     <div class="col-6 col-md-3 col-lg-2">
       <p>
+        {% if skill.level %}
+        
         {% for i in (1..5) %}
         {% if i < skill.level %}
           <i class="fa fa-circle"></i>
@@ -202,6 +204,8 @@ layout: default
           <i class="fa fa-circle-o"></i>
         {% endif %}
         {% endfor %}
+
+        {% endif %}
       </p>
     </div>
     {% endfor %}
