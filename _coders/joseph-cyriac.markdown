@@ -74,19 +74,19 @@ references:
     provide real value to a team. I recommend Joseph for a developer or QA position.
 skills:
 - name: C# and .NET
-  level: 
+  level: 3.0
 - name: ANSI SQL
-  level: 
+  level: 3.6
 - name: HTML, CSS, JS
-  level: 
+  level: 3.6
 - name: Git
-  level: 
+  level: 4.0
 - name: Diagnostics
-  level: 
+  level: 3.9
 - name: ASP.NET
-  level: 
+  level: 3.5
 - name: Soft Skills
-  level: 
+  level: 4.5
 - name: Attendance
   level: 4.7
 codewars_scores:

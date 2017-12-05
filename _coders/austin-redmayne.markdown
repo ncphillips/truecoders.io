@@ -86,19 +86,19 @@ references:
     addition to a team.
 skills:
 - name: C# and .NET
-  level: 
+  level: 2.8
 - name: ANSI SQL
-  level: 
+  level: 3.2
 - name: HTML, CSS, JS
-  level: 
+  level: 2.8
 - name: Git
-  level: 
+  level: 3.1
 - name: Diagnostics
-  level: 
+  level: 2.7
 - name: ASP.NET
-  level: 
+  level: 2.8
 - name: Soft Skills
-  level: 
+  level: 3.5
 - name: Attendance
   level: 3.2
 codewars_scores:
