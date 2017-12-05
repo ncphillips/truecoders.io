@@ -18,11 +18,9 @@ work:
   body: |-
     * Research, Purchase, and Sell Products on Amazon marketplace
     * Provide customer support
-- company: 9G LLC
-  position: Tech Support
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 2017-09-29 00:00:00 -05:00
-  body: "* Provide technical support for Mac systems, printers, and ecommerce website"
+    * Created and updated Amazon product listings
+    * Imported order reports from Amazon into ledger providing relevant data
+    * Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
   position: Website Administration
   start_date: 2011-01-01 00:00:00 -06:00
@@ -30,6 +28,16 @@ work:
   body: |-
     * Maintained website using Wordpress
     * Provided weekly updates
+- company: 9G LLC
+  position: Tech Support
+  start_date: 2015-01-01 00:00:00 -06:00
+  end_date: 2017-09-29 00:00:00 -05:00
+  body: |-
+    * Provide technical support for Mac systems, printers, and E-commerce website
+    * Maintained E-commerce website, providing updates and creating listings for new products
+    * Created and updated Amazon and Ebay product listings
+    * Imported order reports from Amazon into ledger providing relevant data
+    * Analyzed and managed shipping products to Amazon warehouses
 education:
 - institution: Christ Church School
   area: High School Diploma
@@ -56,7 +64,7 @@ skills:
 - name: Soft Skills
   level: 4.3
 - name: Attendance
-  level: 5.0
+  level: 5
 codewars_scores:
 - 44
 - 62
