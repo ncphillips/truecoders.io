@@ -11,6 +11,8 @@ page_sections:
 - Dev Team
 - Dev Process
 - Hire Cost
+redirect_from:
+- "/coders/"
 ---
 
 # Hiring TrueCoders
