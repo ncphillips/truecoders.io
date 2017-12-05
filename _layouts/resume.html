@@ -39,15 +39,25 @@ layout: default
     </div>
   </div>
 
+
+  <!-- Profiles Row -->
+
+  {% if page.profiles.video %}
+  <p class="no-print" style="text-align:center;">
+    <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.video }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+      <i class="fa fa-play-circle fa-lg"></i> Watch Intro
+    </a>
+  </p>
+  {% endif %}
+
   {% if page.profiles %}
-  <div class="row">
-    <div class="col-12" style="text-align:center;">
+  <div class="row" style="text-align:center;">
+    <div class="col-12">
       <ul class="list-inline">
         {% if page.personality_type %}
-        {% assign type = site.personality_types | where: "title", page.personality_type | first %}
         <li class="list-inline-item">
-          <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title }}
+          <a href="{{ "https://www.16personalities.com/" | append: page.personality_type | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-lightbulb-o fa-lg"></i> {{ page.personality_type }}
           </a>
         </li>
         {% endif %}
@@ -78,14 +88,6 @@ layout: default
       </ul>
     </div>
   </div>
-  {% endif %}
-
-  {% if page.profiles.video %}
-  <p class="no-print" style="text-align:center;">
-    <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.video }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-      <i class="fa fa-play-circle fa-lg"></i> Watch Intro
-    </a>
-  </p>
   {% endif %}
 
   {{ content }}
