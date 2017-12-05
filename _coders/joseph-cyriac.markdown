@@ -69,9 +69,9 @@ education:
     of the Phi Kappa Psi Fraternity
 references:
 - name: Cody Winton
-  reference: Joseph is anxious to succeed and will do what it takes to accomplish his
-    tasks effectively. He has the technical abilities and the people skills to provide
-    real value to a team. I recommend Joseph for a developer or QA position.
+  reference: Joseph is anxious to succeed and will do what it takes to accomplish
+    his tasks effectively. He has the technical abilities and the people skills to
+    provide real value to a team. I recommend Joseph for a developer or QA position.
 skills:
 - name: Attendance
   level: 4.7
