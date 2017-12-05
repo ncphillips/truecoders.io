@@ -85,22 +85,22 @@ references:
     motivated to succeed and his tenacity and work ethic would make him an excellent
     addition to a team.
 skills:
-- title: Attendance
-  rank: 3.2
-- title: C# and .NET
-  rank: 
-- title: ANSI SQL
-  rank: 
-- title: HTML, CSS, JS
-  rank: 
-- title: Git
-  rank: 
-- title: Diagnostics
-  rank: 
-- title: ASP.NET
-  rank: 
-- title: Soft Skills
-  rank: 
+- name: Attendance
+  level: 3.2
+- name: C# and .NET
+  level: 
+- name: ANSI SQL
+  level: 
+- name: HTML, CSS, JS
+  level: 
+- name: Git
+  level: 
+- name: Diagnostics
+  level: 
+- name: ASP.NET
+  level: 
+- name: Soft Skills
+  level: 
 codewars_scores:
 - 16
 - 18

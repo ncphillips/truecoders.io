@@ -60,22 +60,22 @@ references:
     knack for details and an ability to accomplish his work quickly and effectively.
     I'd highly recommend Harshith for a developer position.
 skills:
-- title: Attendance
-  rank: 4.3
-- title: C# and .NET
-  rank: 4.1
-- title: ANSI SQL
-  rank: 3.8
-- title: HTML, CSS, JS
-  rank: 4.1
-- title: Git
-  rank: 3.9
-- title: Diagnostics
-  rank: 4.2
-- title: ASP.NET
-  rank: 4.1
-- title: Soft Skills
-  rank: 3.7
+- name: Attendance
+  level: 4.3
+- name: C# and .NET
+  level: 4.1
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 4.1
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 4.2
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 3.7
 codewars_scores:
 - 44
 - 137

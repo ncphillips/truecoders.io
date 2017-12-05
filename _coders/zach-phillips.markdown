@@ -42,22 +42,22 @@ references:
     tasks at hand. He's quick to learn and apply new knowledge into his work flow.
     I'd recommend Zach for a developer position.
 skills:
-- title: Attendance
-  rank: 5.0
-- title: C# and .NET
-  rank: 3.6
-- title: ANSI SQL
-  rank: 3.7
-- title: HTML, CSS, JS
-  rank: 3.2
-- title: Git
-  rank: 3.9
-- title: Diagnostics
-  rank: 3.4
-- title: ASP.NET
-  rank: 3.6
-- title: Soft Skills
-  rank: 4.3
+- name: Attendance
+  level: 5.0
+- name: C# and .NET
+  level: 3.6
+- name: ANSI SQL
+  level: 3.7
+- name: HTML, CSS, JS
+  level: 3.2
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 3.4
+- name: ASP.NET
+  level: 3.6
+- name: Soft Skills
+  level: 4.3
 codewars_scores:
 - 44
 - 62

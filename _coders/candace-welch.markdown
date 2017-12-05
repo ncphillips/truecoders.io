@@ -84,22 +84,22 @@ references:
     of her work make her an exceptional fit for any team. I'd strongly recommend Candace
     for a developer position.
 skills:
-- title: Attendance
-  rank: 5.0
-- title: C# and .NET
-  rank: 3.6
-- title: ANSI SQL
-  rank: 4.1
-- title: HTML, CSS, JS
-  rank: 3.9
-- title: Git
-  rank: 3.9
-- title: Diagnostics
-  rank: 4.4
-- title: ASP.NET
-  rank: 4.2
-- title: Soft Skills
-  rank: 4.1
+- name: Attendance
+  level: 5.0
+- name: C# and .NET
+  level: 3.6
+- name: ANSI SQL
+  level: 4.1
+- name: HTML, CSS, JS
+  level: 3.9
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 4.4
+- name: ASP.NET
+  level: 4.2
+- name: Soft Skills
+  level: 4.1
 codewars_scores:
 - 91
 - 159

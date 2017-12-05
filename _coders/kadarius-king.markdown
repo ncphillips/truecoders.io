@@ -66,22 +66,22 @@ references:
     get the job done. He takes on any task with determination and works hard to see
     it accomplished. I'd recommend KaDarius for a programming position.
 skills:
-- title: Attendance
-  rank: 1.7
-- title: C# and .NET
-  rank: 2.9
-- title: ANSI SQL
-  rank: 3.8
-- title: HTML, CSS, JS
-  rank: 2.9
-- title: Git
-  rank: 3.2
-- title: Diagnostics
-  rank: 3.8
-- title: ASP.NET
-  rank: 3.9
-- title: Soft Skills
-  rank: 4.4
+- name: Attendance
+  level: 1.7
+- name: C# and .NET
+  level: 2.9
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 2.9
+- name: Git
+  level: 3.2
+- name: Diagnostics
+  level: 3.8
+- name: ASP.NET
+  level: 3.9
+- name: Soft Skills
+  level: 4.4
 codewars_scores:
 - 9
 - 11

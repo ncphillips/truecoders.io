@@ -53,22 +53,22 @@ references:
     ethic and ability to grasp complex problems make him a real asset to any team.
     I'd recommend Darrel for a programming position.
 skills:
-- title: Attendance
-  rank: 5.0
-- title: C# and .NET
-  rank: 3.3
-- title: ANSI SQL
-  rank: 3.5
-- title: HTML, CSS, JS
-  rank: 3.8
-- title: Git
-  rank: 3.6
-- title: Diagnostics
-  rank: 3.9
-- title: ASP.NET
-  rank: 3.9
-- title: Soft Skills
-  rank: 4.7
+- name: Attendance
+  level: 5.0
+- name: C# and .NET
+  level: 3.3
+- name: ANSI SQL
+  level: 3.5
+- name: HTML, CSS, JS
+  level: 3.8
+- name: Git
+  level: 3.6
+- name: Diagnostics
+  level: 3.9
+- name: ASP.NET
+  level: 3.9
+- name: Soft Skills
+  level: 4.7
 codewars_scores:
 - 39
 - 49

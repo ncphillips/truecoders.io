@@ -86,22 +86,22 @@ references:
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
 skills:
-- title: Attendance
-  rank: 2.8
-- title: C# and .NET
-  rank: 2.6
-- title: ANSI SQL
-  rank: 3.1
-- title: HTML, CSS, JS
-  rank: 2.8
-- title: Git
-  rank: 3.2
-- title: Diagnostics
-  rank: 3.1
-- title: ASP.NET
-  rank: 3.4
-- title: Soft Skills
-  rank: 4.8
+- name: Attendance
+  level: 2.8
+- name: C# and .NET
+  level: 2.6
+- name: ANSI SQL
+  level: 3.1
+- name: HTML, CSS, JS
+  level: 2.8
+- name: Git
+  level: 3.2
+- name: Diagnostics
+  level: 3.1
+- name: ASP.NET
+  level: 3.4
+- name: Soft Skills
+  level: 4.8
 codewars_scores:
 - 4
 - 4

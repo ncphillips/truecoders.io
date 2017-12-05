@@ -85,22 +85,22 @@ references:
     given to her. She can grasp and solve any problem given to her. I'd highly recommend
     her for a developer position.
 skills:
-- title: Attendance
-  rank: 2.5
-- title: C# and .NET
-  rank: 3.4
-- title: ANSI SQL
-  rank: 3.8
-- title: HTML, CSS, JS
-  rank: 3.5
-- title: Git
-  rank: 4.2
-- title: Diagnostics
-  rank: 3.6
-- title: ASP.NET
-  rank: 3.3
-- title: Soft Skills
-  rank: 3.8
+- name: Attendance
+  level: 2.5
+- name: C# and .NET
+  level: 3.4
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 3.5
+- name: Git
+  level: 4.2
+- name: Diagnostics
+  level: 3.6
+- name: ASP.NET
+  level: 3.3
+- name: Soft Skills
+  level: 3.8
 codewars_scores:
 - 49
 - 127

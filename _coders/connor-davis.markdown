@@ -42,22 +42,22 @@ references:
     set your watch by Connor and he will put in the time and effort needed to achieve
     the goal. In a competitive environment he will be a consistently high performer.
 skills:
-- title: Attendance
-  rank: 4.7
-- title: C# and .NET
-  rank: 3.5
-- title: ANSI SQL
-  rank: 3.2
-- title: HTML, CSS, JS
-  rank: 2.6
-- title: Git
-  rank: 3.5
-- title: Diagnostics
-  rank: 3.1
-- title: ASP.NET
-  rank: 4.1
-- title: Soft Skills
-  rank: 4.6
+- name: Attendance
+  level: 4.7
+- name: C# and .NET
+  level: 3.5
+- name: ANSI SQL
+  level: 3.2
+- name: HTML, CSS, JS
+  level: 2.6
+- name: Git
+  level: 3.5
+- name: Diagnostics
+  level: 3.1
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 4.6
 codewars_scores:
 - 46
 - 81

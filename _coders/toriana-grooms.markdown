@@ -70,22 +70,22 @@ references:
     them into her workflow. She is tenacious in her pursuit of knowledge and exceptional
     in her work. I'd highly recommend Tori for a developer role.
 skills:
-- title: Attendance
-  rank: 1.4
-- title: C# and .NET
-  rank: 3.3
-- title: ANSI SQL
-  rank: 3.7
-- title: HTML, CSS, JS
-  rank: 2.8
-- title: Git
-  rank: 3.9
-- title: Diagnostics
-  rank: 3.0
-- title: ASP.NET
-  rank: 4.1
-- title: Soft Skills
-  rank: 3.7
+- name: Attendance
+  level: 1.4
+- name: C# and .NET
+  level: 3.3
+- name: ANSI SQL
+  level: 3.7
+- name: HTML, CSS, JS
+  level: 2.8
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 3.0
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 3.7
 codewars_scores:
 - 50
 - 60

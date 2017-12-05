@@ -81,8 +81,8 @@ defaults:
     - name: 
       reference: 
     skills:
-    - title: 
-      rank: 0
+    - name: 
+      level: 0
     codewars_scores:
     - 0
 - scope:

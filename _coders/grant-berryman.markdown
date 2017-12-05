@@ -94,22 +94,22 @@ references:
     task at hand. He's a self learner with an ability to tackle any problem given
     him. I'd highly recommend him for a developer position.
 skills:
-- title: Attendance
-  rank: 5.0
-- title: C# and .NET
-  rank: 3.6
-- title: ANSI SQL
-  rank: 3.6
-- title: HTML, CSS, JS
-  rank: 4.1
-- title: Git
-  rank: 4.0
-- title: Diagnostics
-  rank: 4.4
-- title: ASP.NET
-  rank: 4.0
-- title: Soft Skills
-  rank: 3.8
+- name: Attendance
+  level: 5.0
+- name: C# and .NET
+  level: 3.6
+- name: ANSI SQL
+  level: 3.6
+- name: HTML, CSS, JS
+  level: 4.1
+- name: Git
+  level: 4.0
+- name: Diagnostics
+  level: 4.4
+- name: ASP.NET
+  level: 4.0
+- name: Soft Skills
+  level: 3.8
 codewars_scores:
 - 54
 - 90

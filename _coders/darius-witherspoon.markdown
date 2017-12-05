@@ -52,22 +52,22 @@ references:
     to any team and produce the best results from those around him. Diagnostics are
     his strong suit and I look forward to seeing what he can do in the wild.
 skills:
-- title: Attendance
-  rank: 4.6
-- title: C# and .NET
-  rank: 2.4
-- title: ANSI SQL
-  rank: 3.6
-- title: HTML, CSS, JS
-  rank: 3.5
-- title: Git
-  rank: 3.7
-- title: Diagnostics
-  rank: 3.2
-- title: ASP.NET
-  rank: 3.5
-- title: Soft Skills
-  rank: 4.2
+- name: Attendance
+  level: 4.6
+- name: C# and .NET
+  level: 2.4
+- name: ANSI SQL
+  level: 3.6
+- name: HTML, CSS, JS
+  level: 3.5
+- name: Git
+  level: 3.7
+- name: Diagnostics
+  level: 3.2
+- name: ASP.NET
+  level: 3.5
+- name: Soft Skills
+  level: 4.2
 codewars_scores:
 - 6
 - 13

@@ -7,17 +7,17 @@
 
   if (skillsElement && skills.length > 1) {
     var labels = [];
-    var ranks = [];
+    var levels = [];
     var backgroundColors = [];
     var borderColors = [];
 
     for (var i = 0; i < skills.length; i++) {
       var item = skills[i];
 
-      if (item.rank == null || item.rank <= 1) { continue }
+      if (item.level == null || item.level <= 1) { continue }
       
-      labels.push(item.title);
-      ranks.push(item.rank);
+      labels.push(item.name);
+      levels.push(item.level);
       backgroundColors.push('rgba(0, 147, 201, 1)');
       borderColors.push('rgba(0, 147, 201, 1)');
     }
@@ -28,7 +28,7 @@
         labels: labels,
         datasets: [{
           label: 'Skills',
-          data: ranks,
+          data: levels,
           backgroundColor: backgroundColors,
           borderColor: borderColors,
           borderWidth: 1

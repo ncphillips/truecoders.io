@@ -55,22 +55,22 @@ references:
     to know. He is diligent in both accomplishing and learning from the task at hand.
     I'd recommend Noah for a QA role.
 skills:
-- title: Attendance
-  rank: 1.8
-- title: C# and .NET
-  rank: 2.3
-- title: ANSI SQL
-  rank: 3.0
-- title: HTML, CSS, JS
-  rank: 3.1
-- title: Git
-  rank: 3.3
-- title: Diagnostics
-  rank: 2.7
-- title: ASP.NET
-  rank: 2.8
-- title: Soft Skills
-  rank: 3.8
+- name: Attendance
+  level: 1.8
+- name: C# and .NET
+  level: 2.3
+- name: ANSI SQL
+  level: 3.0
+- name: HTML, CSS, JS
+  level: 3.1
+- name: Git
+  level: 3.3
+- name: Diagnostics
+  level: 2.7
+- name: ASP.NET
+  level: 2.8
+- name: Soft Skills
+  level: 3.8
 codewars_scores:
 - 10
 - 44
