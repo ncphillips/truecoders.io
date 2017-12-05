@@ -28,32 +28,40 @@ layout: default
       {% endif %}
 
       {% if page.profiles %}
-      <p>
+      <ul class="list-inline">
         {% if page.profiles.github %}
-        <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-github fa-lg"></i> {{ page.profiles.github }}
-        </a>
+        <li class="list-inline-item">
+          <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-github fa-lg"></i> {{ page.profiles.github }}
+          </a>
+        </li>
         {% endif %}
 
         {% if page.profiles.linkedin %}
-        <a href="{{ "https://www.linkedin.com/in/" | append: page.profiles.linkedin }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-linkedin-square fa-lg"></i> {{ page.profiles.linkedin }}
-        </a>
+        <li class="list-inline-item">
+          <a href="{{ "https://www.linkedin.com/in/" | append: page.profiles.linkedin }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-linkedin-square fa-lg"></i> {{ page.profiles.linkedin }}
+          </a>
+        </li>
         {% endif %}
 
         {% if page.profiles.codewars %}
-        <a href="{{ "https:/www.codewars.com/users/" | append: page.profiles.codewars }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;"> {{ page.profiles.codewars }}
-        </a>
+        <li class="list-inline-item">
+          <a href="{{ "https:/www.codewars.com/users/" | append: page.profiles.codewars }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;"> {{ page.profiles.codewars }}
+          </a>
+        </li>
         {% endif %}
 
         {% if page.personality_type %}
         {% assign type = site.personality_types | where: "title", page.personality_type | first %}
-        <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-          <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title | downcase }}
-        </a>
+        <li class="list-inline-item">
+          <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title | downcase }}
+          </a>
+        </li>
         {% endif %}
-      </p>
+      </ul>
       {% endif %}
 
     </div>
