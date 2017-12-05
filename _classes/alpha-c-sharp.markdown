@@ -2,10 +2,9 @@
 title: Alpha C#
 date: 2017-11-14 13:07:00 -06:00
 course: C# and .NET
-institution: TrueCoders
 area: Alpha C# Graduate
+start_date: 2017-10-03 00:00:00 -06:00
 end_date: 2017-11-22 00:00:00 -06:00
-location: Birmingham, AL
 courses:
 - C# and ASP.NET
 - Git

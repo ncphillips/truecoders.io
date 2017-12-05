@@ -74,6 +74,7 @@ defaults:
     education:
     - institution: 
       area: 
+      start_date: 
       end_date: 
       gpa: 
       location: 
