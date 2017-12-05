@@ -37,7 +37,9 @@ work:
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
+  start_date: 
   end_date: 1995-05-01 01:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   courses:
   - Special Education (Gifted and Talented Certification)
@@ -69,7 +71,7 @@ skills:
 - name: Soft Skills
   level: 4.7
 - name: Attendance
-  level: 5.0
+  level: 5
 codewars_scores:
 - 39
 - 49
@@ -82,3 +84,8 @@ codewars_scores:
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference.
+
+* ​​Critical and creative thinking, problem solving 
+​​* Excellent written and spoken communication, able to interpret upper-level concepts
+​​* ​​Strong interpersonal, conflict management, collaborative, and leadership skills
+​​* ​​Experience planning, creating, and implementing projects
