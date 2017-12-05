@@ -15,23 +15,25 @@ work:
   position: Middle School Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
-  body: |-
-    I have served as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team. During the last three years, I have sponsored the following clubs: Cartooning, Comicon, Graphic Novels, HTMS Has Talent, and Glee Club. I coached Scholars Bowl for 20 years, Science Olympiad for 2 years, National Junior Honor Society for 3 years, and our high school's soccer team for 2 years.
-
-    I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years. I have primarily been my school's gifted specialist, teaching various courses and leading a number of activities:
-
-    * Enrichment & Technology, 6th-8th grades
-    * English/Language Arts, 7th-9th grades
-    * Yearbook, 7th-8th grades
-    * Problem Solving Rotation, 6th grade
-    * Reading, 6th grade
-    * Creative Dramatics, 7th-8th grades
-    * American History, 8th grade
+  body: "I have served as an English department chair, been part of our school leadership/professional
+    development team and a system-wide gifted placement team. During the last three
+    years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl
+    and Science Olympiad.\n\nI have used the Hour of Code curriculum to develop coding
+    lessons for my gifted students each year for the past 4 years. I have primarily
+    been my school’s gifted specialist, teaching various courses and leading a number
+    of activities:\n\n* Enrichment & Technology, 6th-8th grades \n* Problem Solving
+    Rotation, 6th grade\n* English/Language Arts, 7th-8th grades\n* Yearbook, 7th-8th
+    grades\n* Reading, 6th grade\n* Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
   position: Jr. High School Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
-  body: 
+  body: |-
+    I served as an English department chair, sponsored National Jr. Honor Society, coached Scholars Bowl, and coached our high school’s soccer team.
+
+    * English/Language Arts, 8th-9th grades
+    * American History, 9th grade
+    * Language Arts elective, 8th grade
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
