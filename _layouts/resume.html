@@ -108,7 +108,7 @@ layout: default
   {% endif %}
 
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
       <p>
         {% if company != work.company %}
         <h5>{{ work.company }}</h5>
@@ -118,7 +118,7 @@ layout: default
       </p>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-8">
       {{ work.body | markdownify }}
       <br/>
     </div>
@@ -153,7 +153,7 @@ layout: default
   {% endif %}
 
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
       <p>
         <h5>{{ education.institution }}</h5>
         {% if education.area %}
@@ -163,13 +163,15 @@ layout: default
       </p>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-8">
+      {% if education.courses.first %}
       <ul>
         {% for course in education.courses %}
         <li>{{ course }}</li>
         {% endfor %}
       </ul>
       <br/>
+      {% endif %}
     </div>
   </div>
 
