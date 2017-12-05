@@ -64,7 +64,7 @@ work:
     * Ensured product quality by testing features in multiple environments.
 education:
 - institution: Auburn University at Montgomery
-  degree: Graphic Design
+  area: Graphic Design
   end_date: 2017-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: |-
@@ -75,7 +75,7 @@ education:
     * The National Society of Collegiate Scholars
     * Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
-  degree: High School Diploma
+  area: High School Diploma
   end_date: 2012-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: 

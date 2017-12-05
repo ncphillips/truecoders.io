@@ -45,12 +45,12 @@ work:
     * Worked closely with management to build new sales tactics and practices to motivate sales team.
 education:
 - institution: Auburn University
-  degree: Political Science Major
+  area: Political Science Major
   end_date: 2012-05-01 00:00:00 -05:00
   location: Auburn, AL
   body: 
 - institution: Jefferson State Community College
-  degree: Political Science Major
+  area: Political Science Major
   end_date: 
   location: Birmingham, AL
   body: 

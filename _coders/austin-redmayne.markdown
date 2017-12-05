@@ -56,22 +56,22 @@ work:
     * Ensure the overall presentation of the restaurant
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
-  degree: Psychology
+  area: Psychology
   end_date: 
   location: Birmingham, AL
   body: 
 - institution: University​ ​of​ ​North​ ​Alabama
-  degree: Music Performance
+  area: Music Performance
   end_date: 2014-05-01 00:00:00 -05:00
   location: Florence, AL
   body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
-  degree: General
+  area: General
   end_date: 2012-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - institution: Homewood​ ​High​ ​School
-  degree: High​ ​School Diploma
+  area: High​ ​School Diploma
   end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
   body: 

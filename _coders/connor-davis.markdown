@@ -25,7 +25,7 @@ work:
     * Coach for teen league
 education:
 - institution: Hope Christian High School
-  degree: High School Diploma
+  area: High School Diploma
   end_date: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-

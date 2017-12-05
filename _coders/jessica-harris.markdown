@@ -68,12 +68,12 @@ work:
     * Gained knowledge of Microsoft Office and its components.
 education:
 - institution: P.D.​ ​Jackson​ ​Olin​
-  degree: GED
+  area: GED
   end_date: 2005-05-01 01:00:00 -05:00
   location: Birmingham, AL
   body: 
 - institution: Brown Mackie College
-  degree: Information Technology
+  area: Information Technology
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
   body: "* Training in Information Technology"

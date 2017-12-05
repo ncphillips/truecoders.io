@@ -35,7 +35,7 @@ work:
     their email client which is installed at his/her work stations.
 education:
 - institution: University of Central Missouri
-  degree: Master of Computer Science
+  area: Master of Computer Science
   end_date: 2016-12-01 00:00:00 -06:00
   location: Warrensburg, MO
   body: |-
@@ -44,7 +44,7 @@ education:
     * Graduate Research Assistant.
     * GPA: 3.6/4.0
 - institution: Jawaharlal Nehru Technological University
-  degree: Bachelor of Computer Science and Engineering
+  area: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India
   body: |-

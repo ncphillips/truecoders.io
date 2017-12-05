@@ -36,12 +36,12 @@ work:
     * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
 education:
 - institution: Vestavia Hills High School
-  degree: High School Diploma
+  area: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
   body: 
 - institution: T. Colin Campbell Center For Nutrition Studies
-  degree: Plant Based Nutrition
+  area: Plant Based Nutrition
   end_date: 2016-03-01 00:00:00 -06:00
   location: 
   body: |-

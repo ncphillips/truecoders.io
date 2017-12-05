@@ -45,7 +45,7 @@ defaults:
     type: classes
   values:
     institution: 
-    degree: 
+    area: 
     end_date: 
     location: 
 - scope:
@@ -68,7 +68,7 @@ defaults:
       body: 
     education:
     - institution: 
-      degree: 
+      area: 
       end_date: 
       location: 
       body: 

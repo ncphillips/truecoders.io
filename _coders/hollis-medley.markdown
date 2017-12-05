@@ -33,22 +33,22 @@ work:
     * Shelf stocker
 education:
 - institution: Lawson State
-  degree: 
+  area: 
   end_date: 
   location: Birmingham, AL
   body: "* Dual Enrollment"
 - institution: Homeschool
-  degree: High School Diploma
+  area: High School Diploma
   end_date: 
   location: 
   body: 
 - institution: Trenholm State
-  degree: 
+  area: 
   end_date: 2016-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
 - institution: Faulkner University
-  degree: 
+  area: 
   end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL
   body: "* Dual Enrollment"
