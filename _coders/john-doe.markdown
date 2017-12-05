@@ -27,6 +27,8 @@ work:
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-
+    Example description:
+
     * Example One
     * Example Two
     * Example Three

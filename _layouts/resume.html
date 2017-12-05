@@ -6,6 +6,7 @@ layout: default
 
 <div class="container" style="padding:60px 16px;">
 
+
   <!-- Image, Title, Content Row -->
   <div class="row">
     <div class="col-1">
@@ -81,77 +82,104 @@ layout: default
     </div>
   </div>
 
+
   <!-- Experience Row -->
   {% if page.work[0].company %}
+
+  {% assign works = page.work | sort: 'start_date', 'last' %}
+  {% assign works = works | sort: 'end_date', 'last' | reverse %}
+  {% assign company = "" %}
+
   <br/>
   <div class="row">
     <div class="col-12">
       <h4>Experience</h4>
-      {% assign works = page.work | sort: 'start_date', 'last' %}
-      {% assign works = works | sort: 'end_date', 'last' | reverse %}
-      {% assign company = "" %}
-      
-      {% for work in works %}
-
-      {% unless work.company and work.position %} {% continue %} {% endunless %}
-
-      {% if work.end_date < site.time %}
-      {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
-      {% else %}
-      {% assign end_date = "Present" %}
-      {% endif %}
-
-      <p>
-        {% if company != work.company %}
-        <strong>{{ work.company }}</strong><br/>
-        {% endif %}
-        {{ work.position }} | {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
-      </p>
-
-      {{ work.body | markdownify }}
-
-      {% assign company = work.company %}
-      {% endfor %}
     </div>
   </div>
+
+  {% for work in works %}
+  
+  {% unless work.company and work.position %} {% continue %} {% endunless %}
+  
+  {% if work.end_date < site.time %}
+  {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
+  {% else %}
+  {% assign end_date = "Present" %}
   {% endif %}
+
+  <div class="row">
+    <div class="col-md-6">
+      <p>
+        {% if company != work.company %}
+        <h5>{{ work.company }}</h5>
+        {% endif %}
+        <h6>{{ work.position }}</h6>
+        {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+      </p>
+    </div>
+
+    <div class="col-md-6">
+      {{ work.body | markdownify }}
+      <br/>
+    </div>
+  </div>
+
+  {% assign company = work.company %}
+  {% endfor %}
+
+  {% endif %}
+
 
   <!-- Education Row -->
   {% if page.education[0].institution %}
+
+  {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
+
   <br/>
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
+    </div>
+  </div>
 
-      {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
-      {% for education in educations %}
+  {% for education in educations %}
+  
+  {% unless education.institution %} {% continue %} {% endunless %}
+  
+  {% if education.end_date < site.time %}
+  {% assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase %}
+  {% else %}
+  {% assign end_date = "Present" %}
+  {% endif %}
 
-      {% unless education.institution %} {% continue %} {% endunless %}
-
-      {% if education.end_date < site.time %}
-      {% assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase %}
-      {% else %}
-      {% assign end_date = "Present" %}
-      {% endif %}
-
+  <div class="row">
+    <div class="col-md-6">
       <p>
-        <strong>{{ education.institution }}</strong> {% if education.area %} | {{ education.area }}{% endif %}
-        <br/>
+        <h5>{{ education.institution }}</h5>
+        {% if education.area %}
+        <h6>{{ education.area }}</h6>
+        {% endif %}
         {{ end_date }}, {{ education.location }}
       </p>
+    </div>
 
+    <div class="col-md-6">
       <ul>
         {% for course in education.courses %}
         <li>{{ course }}</li>
         {% endfor %}
       </ul>
-
-      {% endfor %}
+      <br/>
     </div>
   </div>
+
+  {% endfor %}
+
   {% endif %}
 
+
   <!-- Charts Row -->
+  <br/>
   <div class="row justify-content-between">
 
     <!-- Skills Col -->
@@ -171,6 +199,7 @@ layout: default
     {% endif %}
 
   </div>
+
 
   <!-- References Row -->
   <br/>
@@ -203,6 +232,7 @@ layout: default
     </div>
   </div>
 </div>
+
 
 <!-- Javascript Chart Source -->
 <script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>
