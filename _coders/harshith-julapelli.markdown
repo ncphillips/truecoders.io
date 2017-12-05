@@ -42,17 +42,18 @@ education:
   - Member of Internation Student Organization (ISO).
   - Acted as a liaison between School officials and International Students.
   - Graduate Research Assistant.
-  - "GPA: 3.6/4.0"
+  - 'GPA: 3.6/4.0'
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India
   courses:
   - Student Coordinator, Training and Placement Cell, SREC Warangal.
-  - Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR EngineeringCollege, Warangal, India
+  - Core committee member for conducting Sparkill 2015, a National level Youth Festival
+    at SR EngineeringCollege, Warangal, India
   - Member of Computer Society of India (CSI)
   - Joint Secretary, National Service Scheme (NSS)
-  - "GPA: 3.5/4.0"
+  - 'GPA: 3.5/4.0'
 references:
 - name: Cody Winton
   title: 

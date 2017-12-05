@@ -46,7 +46,7 @@ education:
   end_date: 2016-03-01 00:00:00 -06:00
   location: 
   courses:
-  - "Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc."
+  - 'Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.'
   - Gauged role nutrition plays in chronic disease
   - Learned psychological reasons we are drawn to foods that do not support health
 references:
