@@ -130,7 +130,7 @@ layout: default
   {% endif %}
 
   <!-- Education Row -->
-  {% if page.education[0].school %}
+  {% if page.education[0].institution %}
   <br/>
   <div class="row">
     <div class="col-12">
@@ -139,7 +139,7 @@ layout: default
       {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
       {% for education in educations %}
 
-      {% unless education.school %} {% continue %} {% endunless %}
+      {% unless education.institution %} {% continue %} {% endunless %}
 
       {% if education.end_date < site.time %}
       {% assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase %}
@@ -148,7 +148,7 @@ layout: default
       {% endif %}
 
       <p>
-        <strong>{{ education.school }}</strong> {% if education.degree %} | {{ education.degree }}{% endif %}
+        <strong>{{ education.institution }}</strong> {% if education.area %} | {{ education.area }}{% endif %}
         <br/>
         {{ end_date }}, {{ education.location }}
       </p>
