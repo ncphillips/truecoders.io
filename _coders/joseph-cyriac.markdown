@@ -9,6 +9,7 @@ profiles:
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo
+  video: 244865743
 work:
 - company: Continental Airlines
   position: Customer Relations Representative

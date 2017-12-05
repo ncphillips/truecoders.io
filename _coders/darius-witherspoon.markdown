@@ -9,6 +9,7 @@ profiles:
   github: wcordari
   linkedin: cordarius-witherspoon-97468794
   codewars: wcordarius
+  video: 244916100
 work:
 - company: FedEx Ground
   position: Driver

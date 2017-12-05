@@ -37,7 +37,7 @@
         page-break-before: always;
     }
 
-    a.resume-action-button {
+    .no-print, a.resume-action-button {
         display: none;
     }
 }

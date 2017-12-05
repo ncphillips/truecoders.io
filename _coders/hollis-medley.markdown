@@ -9,6 +9,7 @@ profiles:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
+  video: 244866153
 work:
 - company: Petland
   position: Kennel Technician

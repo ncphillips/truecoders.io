@@ -9,6 +9,7 @@ profiles:
   github: connordavis98
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98
+  video: 
 work:
 - company: Garywood Assembly of God
   position: Media/Audio Department

@@ -65,6 +65,14 @@ layout: default
       </ul>
       {% endif %}
 
+      {% if page.profiles.video %}
+      <p class="no-print">
+        <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.video }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+          <i class="fa fa-play-circle fa-lg"></i> Watch Intro
+        </a>
+      </p>
+      {% endif %}
+
     </div>
 
     <div class="col-1" style="text-align:end;">

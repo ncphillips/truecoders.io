@@ -11,6 +11,7 @@ profiles:
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
+  video: 
 work:
 - company: Company LLC
   position: Job Title

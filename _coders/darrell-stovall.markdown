@@ -9,6 +9,7 @@ profiles:
   github: darrellstovall
   linkedin: darrell-stovall-222857151
   codewars: darrellstovall
+  video: 244865522
 work:
 - company: Hewitt-Trussville Middle School
   position: Teacher
