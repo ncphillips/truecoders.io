@@ -62,8 +62,6 @@ references:
     for learning. He has a real ability to accomplish, and learn from, any problem
     given him. I'd recommend Hollis for a developer position.
 skills:
-- name: Attendance
-  level: 4.7
 - name: C# and .NET
   level: 2.9
 - name: ANSI SQL
@@ -78,6 +76,8 @@ skills:
   level: 3.1
 - name: Soft Skills
   level: 4.3
+- name: Attendance
+  level: 4.7
 codewars_scores:
 - 51
 - 67

@@ -70,8 +70,6 @@ references:
     them into her workflow. She is tenacious in her pursuit of knowledge and exceptional
     in her work. I'd highly recommend Tori for a developer role.
 skills:
-- name: Attendance
-  level: 1.4
 - name: C# and .NET
   level: 3.3
 - name: ANSI SQL
@@ -86,6 +84,8 @@ skills:
   level: 4.1
 - name: Soft Skills
   level: 3.7
+- name: Attendance
+  level: 1.4
 codewars_scores:
 - 50
 - 60

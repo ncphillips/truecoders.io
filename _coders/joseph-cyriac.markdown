@@ -73,8 +73,6 @@ references:
     his tasks effectively. He has the technical abilities and the people skills to
     provide real value to a team. I recommend Joseph for a developer or QA position.
 skills:
-- name: Attendance
-  level: 4.7
 - name: C# and .NET
   level: 
 - name: ANSI SQL
@@ -89,6 +87,8 @@ skills:
   level: 
 - name: Soft Skills
   level: 
+- name: Attendance
+  level: 4.7
 codewars_scores:
 - 40
 - 58

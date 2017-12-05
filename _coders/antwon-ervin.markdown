@@ -86,8 +86,6 @@ references:
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
 skills:
-- name: Attendance
-  level: 2.8
 - name: C# and .NET
   level: 2.6
 - name: ANSI SQL
@@ -102,6 +100,8 @@ skills:
   level: 3.4
 - name: Soft Skills
   level: 4.8
+- name: Attendance
+  level: 2.8
 codewars_scores:
 - 4
 - 4

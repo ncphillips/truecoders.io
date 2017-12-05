@@ -85,8 +85,6 @@ references:
     task given to her. She can grasp and solve any problem given to her. I'd highly
     recommend her for a developer position.
 skills:
-- name: Attendance
-  level: 2.5
 - name: C# and .NET
   level: 3.4
 - name: ANSI SQL
@@ -101,6 +99,8 @@ skills:
   level: 3.3
 - name: Soft Skills
   level: 3.8
+- name: Attendance
+  level: 2.5
 codewars_scores:
 - 49
 - 127

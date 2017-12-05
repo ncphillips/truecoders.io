@@ -42,8 +42,6 @@ references:
     set your watch by Connor and he will put in the time and effort needed to achieve
     the goal. In a competitive environment he will be a consistently high performer.
 skills:
-- name: Attendance
-  level: 4.7
 - name: C# and .NET
   level: 3.5
 - name: ANSI SQL
@@ -58,6 +56,8 @@ skills:
   level: 4.1
 - name: Soft Skills
   level: 4.6
+- name: Attendance
+  level: 4.7
 codewars_scores:
 - 46
 - 81

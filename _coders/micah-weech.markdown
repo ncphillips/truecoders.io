@@ -62,8 +62,6 @@ references:
     to problems. He has an ability to accomplish his tasks and the soft skills necessary
     to provide value to a team. I'd recommend Micah for a database role.
 skills:
-- name: Attendance
-  level: 1.1
 - name: C# and .NET
   level: 
 - name: ANSI SQL
@@ -78,6 +76,8 @@ skills:
   level: 
 - name: Soft Skills
   level: 
+- name: Attendance
+  level: 1.1
 codewars_scores:
 - 10
 - 16

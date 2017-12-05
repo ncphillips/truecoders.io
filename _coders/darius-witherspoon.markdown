@@ -52,8 +52,6 @@ references:
     asset to any team and produce the best results from those around him. Diagnostics
     are his strong suit and I look forward to seeing what he can do in the wild.
 skills:
-- name: Attendance
-  level: 4.6
 - name: C# and .NET
   level: 2.4
 - name: ANSI SQL
@@ -68,6 +66,8 @@ skills:
   level: 3.5
 - name: Soft Skills
   level: 4.2
+- name: Attendance
+  level: 4.6
 codewars_scores:
 - 6
 - 13

@@ -66,8 +66,6 @@ references:
     to get the job done. He takes on any task with determination and works hard to
     see it accomplished. I'd recommend KaDarius for a programming position.
 skills:
-- name: Attendance
-  level: 1.7
 - name: C# and .NET
   level: 2.9
 - name: ANSI SQL
@@ -82,6 +80,8 @@ skills:
   level: 3.9
 - name: Soft Skills
   level: 4.4
+- name: Attendance
+  level: 1.7
 codewars_scores:
 - 9
 - 11

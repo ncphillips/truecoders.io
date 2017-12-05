@@ -85,8 +85,6 @@ references:
     is motivated to succeed and his tenacity and work ethic would make him an excellent
     addition to a team.
 skills:
-- name: Attendance
-  level: 3.2
 - name: C# and .NET
   level: 
 - name: ANSI SQL
@@ -101,6 +99,8 @@ skills:
   level: 
 - name: Soft Skills
   level: 
+- name: Attendance
+  level: 3.2
 codewars_scores:
 - 16
 - 18

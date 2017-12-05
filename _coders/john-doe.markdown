@@ -46,8 +46,6 @@ references:
   reference: John Doe has shown incredible skills and talent. I'd recommend John Doe
     for a developer position.
 skills:
-- name: Attendance
-  level: 4
 - name: C# and .NET
   level: 4.5
 - name: ANSI SQL
@@ -62,6 +60,8 @@ skills:
   level: 3.3
 - name: Soft Skills
   level: 4.1
+- name: Attendance
+  level: 4
 codewars_scores:
 - 10
 - 33

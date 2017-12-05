@@ -96,8 +96,6 @@ references:
     the task at hand. He's a self learner with an ability to tackle any problem given
     him. I'd highly recommend him for a developer position.
 skills:
-- name: Attendance
-  level: 5.0
 - name: C# and .NET
   level: 3.6
 - name: ANSI SQL
@@ -112,6 +110,8 @@ skills:
   level: 4.0
 - name: Soft Skills
   level: 3.8
+- name: Attendance
+  level: 5.0
 codewars_scores:
 - 54
 - 90

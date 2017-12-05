@@ -53,8 +53,6 @@ references:
     work ethic and ability to grasp complex problems make him a real asset to any
     team. I'd recommend Darrel for a programming position.
 skills:
-- name: Attendance
-  level: 5.0
 - name: C# and .NET
   level: 3.3
 - name: ANSI SQL
@@ -69,6 +67,8 @@ skills:
   level: 3.9
 - name: Soft Skills
   level: 4.7
+- name: Attendance
+  level: 5.0
 codewars_scores:
 - 39
 - 49

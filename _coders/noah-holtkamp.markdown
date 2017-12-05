@@ -55,8 +55,6 @@ references:
     needs to know. He is diligent in both accomplishing and learning from the task
     at hand. I'd recommend Noah for a QA role.
 skills:
-- name: Attendance
-  level: 1.8
 - name: C# and .NET
   level: 2.3
 - name: ANSI SQL
@@ -71,6 +69,8 @@ skills:
   level: 2.8
 - name: Soft Skills
   level: 3.8
+- name: Attendance
+  level: 1.8
 codewars_scores:
 - 10
 - 44

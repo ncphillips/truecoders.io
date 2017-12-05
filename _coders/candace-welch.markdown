@@ -84,8 +84,6 @@ references:
     the quality of her work make her an exceptional fit for any team. I'd strongly
     recommend Candace for a developer position.
 skills:
-- name: Attendance
-  level: 5.0
 - name: C# and .NET
   level: 3.6
 - name: ANSI SQL
@@ -100,6 +98,8 @@ skills:
   level: 4.2
 - name: Soft Skills
   level: 4.1
+- name: Attendance
+  level: 5.0
 codewars_scores:
 - 91
 - 159

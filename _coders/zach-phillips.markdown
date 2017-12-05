@@ -40,8 +40,6 @@ references:
     the tasks at hand. He's quick to learn and apply new knowledge into his work flow.
     I'd recommend Zach for a developer position.
 skills:
-- name: Attendance
-  level: 5.0
 - name: C# and .NET
   level: 3.6
 - name: ANSI SQL
@@ -56,6 +54,8 @@ skills:
   level: 3.6
 - name: Soft Skills
   level: 4.3
+- name: Attendance
+  level: 5.0
 codewars_scores:
 - 44
 - 62
