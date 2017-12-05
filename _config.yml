@@ -79,9 +79,7 @@ defaults:
       - 
     references:
     - name: 
-      title: 
-      company: 
-      quote: 
+      reference: 
     skills:
     - title: 
       rank: 0

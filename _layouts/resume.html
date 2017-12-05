@@ -170,24 +170,22 @@ layout: default
     <div class="col-12">
       <h4>References</h4>
       
-      {% if page.references[0].quote %}
+      {% if page.references[0].reference %}
       {% assign references = page.references | sort: 'name' | reverse %}
       {% assign collection = site.collections | where: 'label', 'coders' | first %}
       {% for reference in references limit: collection.references_limit %}
 
       <p>
 
-        {% assign title = reference.title %}
-        {% assign company = reference.company %}
         {% assign teammate = site.teammates | where: "title", reference.name | first %}
 
         {% if teammate %}
-          {% assign title = teammate.subtitle %}
+          {% assign position = teammate.subtitle %}
           {% assign company = site.company.full_name %}
         {% endif %}
 
-        {{'“' | append: reference.quote | append: '”'}} <br/>
-        <strong>- {{ reference.name }}</strong> | {{ title }} at {{ company }}
+        {{'“' | append: reference.reference | append: '”'}} <br/>
+        <strong>- {{ reference.name }}</strong> | {% if position and company %}{{ position }} at {{ company }}{% endif %}
       </p>
 
       {% endfor %}

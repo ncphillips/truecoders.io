@@ -58,13 +58,11 @@ education:
   - 
 references:
 - name: Martin Murphy
-  quote: Willing to go the distance for the cause, his gaming background makes him
+  reference: Willing to go the distance for the cause, his gaming background makes him
     fast with numbers and a natural problem solver. I see him playing a critical role
     as a developer in any organization that snaps him up.
 - name: Cody Winton
-  title: 
-  company: 
-  quote: KaDarius is intelligent and never stops learning what he needs to know to
+  reference: KaDarius is intelligent and never stops learning what he needs to know to
     get the job done. He takes on any task with determination and works hard to see
     it accomplished. I'd recommend KaDarius for a programming position.
 skills:

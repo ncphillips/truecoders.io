@@ -41,9 +41,7 @@ education:
   - Testing 3
 references:
 - name: Cody Winton
-  title: 
-  company: 
-  quote: John Doe has shown incredible skills and talent. I'd recommend John Doe for
+  reference: John Doe has shown incredible skills and talent. I'd recommend John Doe for
     a developer position.
 skills:
 - title: Attendance

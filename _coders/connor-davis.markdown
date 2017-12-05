@@ -33,15 +33,11 @@ education:
   - Outstanding Athlete
 references:
 - name: Cody Winton
-  title: 
-  company: 
-  quote: Connor is tenacious and competitive and has showed himself skilled in both
+  reference: Connor is tenacious and competitive and has showed himself skilled in both
     individual and team work. He is a self learner and will not rest until his work
     is accomplished. I'd recommend Connor for a developer position.
 - name: Martin Murphy
-  title: 
-  company: 
-  quote: Connor’s competitive nature has driven him to be one of the more accomplished
+  reference: Connor’s competitive nature has driven him to be one of the more accomplished
     coders in our class. Preparation and consistency are valuable traits. You could
     set your watch by Connor and he will put in the time and effort needed to achieve
     the goal. In a competitive environment he will be a consistently high performer.

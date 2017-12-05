@@ -66,9 +66,7 @@ education:
   - 
 references:
 - name: Cody Winton
-  title: 
-  company: 
-  quote: Toriana is very intelligent, quickly grasping new concepts and incorporating
+  reference: Toriana is very intelligent, quickly grasping new concepts and incorporating
     them into her workflow. She is tenacious in her pursuit of knowledge and exceptional
     in her work. I'd highly recommend Tori for a developer role.
 skills:
