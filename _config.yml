@@ -44,10 +44,12 @@ defaults:
     path: ''
     type: classes
   values:
-    institution: 
+    course: 
+    institution: TrueCoders
     area: 
+    start_date: 
     end_date: 
-    location: 
+    location: Birmingham, AL
     courses:
     - Git
 - scope:
