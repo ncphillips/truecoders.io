@@ -71,19 +71,22 @@ education:
   area: Bachelor of Science Degree in Recording Industry
   end_date: 2006-05-01 01:00:00 -05:00
   location: Murfreesboro, TN
-  body: "* Major: Production and Technology - Minor: Music Industry\n* Major GPA:
-    3.857 - Overall GPA: 3.34 - Dean’s List - Audio Engineering Society Member \n*
-    Internship with Grammy award winning engineer Dan Rudin."
+  courses:
+  - "Major: Production and Technology - Minor: Music Industry"
+  - "Major GPA: 3.857 - Overall GPA: 3.34 - Dean’s List - Audio Engineering Society Member"
+  - Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
   end_date: 2004-05-01 01:00:00 -05:00
   location: Atlanta, GA
-  body: "* GPA: 3.3"
+  courses:
+  - "GPA: 3.3"
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
   end_date: 2002-05-01 01:00:00 -05:00
   location: Auburn, AL
-  body: "* GPA: 3.198 - Dean’s list - Golden Key International Honor Society"
+  courses:
+  - "GPA: 3.198 - Dean’s list - Golden Key International Honor Society"
 references:
 - name: Cody Winton
   title: 

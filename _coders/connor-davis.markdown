@@ -28,9 +28,9 @@ education:
   area: High School Diploma
   end_date: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
-  body: |-
-    * Graduated with AAD
-    * Outstanding Athlete
+  courses:
+  - Graduated with AAD
+  - Outstanding Athlete
 references:
 - name: Cody Winton
   title: 

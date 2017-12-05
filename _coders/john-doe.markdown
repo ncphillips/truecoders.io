@@ -35,12 +35,10 @@ education:
   area: High School Diploma
   end_date: 2010-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: |-
-    High School Description
-
-    * Testing 1
-    * Testing 2
-    * Testing 3
+  courses:
+  - Testing 1
+  - Testing 2
+  - Testing 3
 references:
 - name: Cody Winton
   title: 

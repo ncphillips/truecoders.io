@@ -6,11 +6,9 @@ institution: TrueCoders
 area: Alpha C# Graduate
 end_date: 2017-11-22 00:00:00 -06:00
 location: Birmingham, AL
+courses:
+- C# and ASP.NET
+- Git
+- ANSI SQL and Relational Databases
+- HTML, CSS, JS
 ---
-
-Development education, along with other marketable skills including:
-
-* C# and ASP.NET
-* Git
-* ANSI SQL and Relational Databases
-* HTML, CSS, JS

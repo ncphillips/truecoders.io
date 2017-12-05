@@ -38,21 +38,21 @@ education:
   area: Master of Computer Science
   end_date: 2016-12-01 00:00:00 -06:00
   location: Warrensburg, MO
-  body: |-
-    * Member of Internation Student Organization (ISO).
-    * Acted as a liaison between School officials and International Students.
-    * Graduate Research Assistant.
-    * GPA: 3.6/4.0
+  courses:
+  - Member of Internation Student Organization (ISO).
+  - Acted as a liaison between School officials and International Students.
+  - Graduate Research Assistant.
+  - "GPA: 3.6/4.0"
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   location: Hyderabad, India
-  body: |-
-    * Student Coordinator, Training and Placement Cell, SREC Warangal.
-    * Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR Engineering College, Warangal, India
-    * Member of Computer Society of India (CSI)
-    * Joint Secretary, National Service Scheme (NSS)
-    * GPA: 3.5/4.0
+  courses:
+  - Student Coordinator, Training and Placement Cell, SREC Warangal.
+  - Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR EngineeringCollege, Warangal, India
+  - Member of Computer Society of India (CSI)
+  - Joint Secretary, National Service Scheme (NSS)
+  - "GPA: 3.5/4.0"
 references:
 - name: Cody Winton
   title: 

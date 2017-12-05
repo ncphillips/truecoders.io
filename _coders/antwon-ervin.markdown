@@ -63,13 +63,18 @@ education:
   area: Associate's Degree
   end_date: 2015-05-01 00:00:00 -05:00
   location: Birmingham, AL
-  body: Associate's area, Business, Management, Marketing, and Related Support Services,
-    2014 - 2015
+  courses:
+  - Associate's Area
+  - Business
+  - Management
+  - Marketing
+  - Related Support Services
 - institution: Bessemer Technical College
   area: Architectural Design
   end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
-  body: 
+  courses:
+  - 
 references:
 - name: Cody Winton
   title: 

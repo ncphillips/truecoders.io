@@ -153,8 +153,12 @@ layout: default
         {{ end_date }}, {{ education.location }}
       </p>
 
-      {{ education.body | default: education.content | markdownify }}
-      
+      <ul>
+        {% for course in education.courses %}
+        <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+
       {% endfor %}
     </div>
   </div>

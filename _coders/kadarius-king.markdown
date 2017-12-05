@@ -48,12 +48,14 @@ education:
   area: Political Science Major
   end_date: 2012-05-01 00:00:00 -05:00
   location: Auburn, AL
-  body: 
+  courses:
+  - 
 - institution: Jefferson State Community College
   area: Political Science Major
   end_date: 
   location: Birmingham, AL
-  body: 
+  courses:
+  - 
 references:
 - name: Martin Murphy
   quote: Willing to go the distance for the cause, his gaming background makes him

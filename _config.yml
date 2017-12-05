@@ -48,6 +48,8 @@ defaults:
     area: 
     end_date: 
     location: 
+    courses:
+    - Git
 - scope:
     path: ''
     type: coders
@@ -71,7 +73,8 @@ defaults:
       area: 
       end_date: 
       location: 
-      body: 
+      courses:
+      - 
     references:
     - name: 
       title: 

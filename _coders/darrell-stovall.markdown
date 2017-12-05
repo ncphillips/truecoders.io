@@ -38,12 +38,14 @@ education:
   area: Masters of Arts
   end_date: 1995-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: "* Special Education (Gifted and Talented Certification)"
+  courses:
+  - Special Education (Gifted and Talented Certification)
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: "* Secondary Education (English and Economics Certification)"
+  courses:
+  - Secondary Education (English and Economics Certification)
 references:
 - name: Cody Winton
   title: 

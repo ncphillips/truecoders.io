@@ -71,12 +71,14 @@ education:
   area: GED
   end_date: 2005-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  body: 
+  courses:
+  - 
 - institution: Brown Mackie College
   area: Information Technology
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
-  body: "* Training in Information Technology"
+  courses:
+  - Training in Information Technology
 references:
 - name: Cody Winton
   title: 
