@@ -81,27 +81,6 @@ layout: default
     </div>
   </div>
 
-  <!-- Charts Row -->
-  <div class="row justify-content-between">
-
-    <!-- Skills Col -->
-    {% if page.skills[1].level > 1 %}
-    <div class="col-xl-5" style="text-align:center;">
-      <h4>Skill Sets</h4>
-      <canvas id="skills-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
-    </div>
-    {% endif %}
-
-    <!-- Codewars Col -->
-    {% if page.codewars_scores[1] > 0 %}
-    <div class="col-xl-5" style="text-align:center;">
-      <h4>Codewars Score</h4>
-      <canvas id="codewars-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
-    </div>
-    {% endif %}
-
-  </div>
-
   <!-- Experience Row -->
   {% if page.work[0].company %}
   <br/>
@@ -171,6 +150,27 @@ layout: default
     </div>
   </div>
   {% endif %}
+
+  <!-- Charts Row -->
+  <div class="row justify-content-between">
+
+    <!-- Skills Col -->
+    {% if page.skills[1].level > 1 %}
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Skill Sets</h4>
+      <canvas id="skills-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
+    </div>
+    {% endif %}
+
+    <!-- Codewars Col -->
+    {% if page.codewars_scores[1] > 0 %}
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Codewars Score</h4>
+      <canvas id="codewars-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
+    </div>
+    {% endif %}
+
+  </div>
 
   <!-- References Row -->
   <br/>
