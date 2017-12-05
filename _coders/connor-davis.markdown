@@ -17,8 +17,8 @@ work:
   end_date: 2017-01-01 00:00:00 -06:00
   body: "* Ran ProPresenter and MainStage \n* Worked with wide range of multi-effects
     boards"
-- company: Tennis Instruction
-  position: Instructor
+- company: Pelham Raquet Club
+  position: Tennis Instructor
   start_date: 2015-12-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -72,4 +72,4 @@ codewars_scores:
 
 I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media as a DJ. Lastly, I have experience with landscaping.
 
-I am familiar with C# and .NET and the main web languages (HTML, CSS, JS). I also enjoy Front End (Web) development.
+I am familiar with C# and .NET, the main web languages (HTML, CSS, JS), as well as PHP. I also enjoy Front-End Web development.
