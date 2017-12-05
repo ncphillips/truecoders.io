@@ -34,8 +34,6 @@ education:
   area: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
-  courses:
-  - 
 references:
 - name: Cody Winton
   reference: Zach is an intelligent individual with a real talent for accomplishing
