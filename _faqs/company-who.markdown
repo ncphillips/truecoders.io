@@ -7,4 +7,4 @@ position: 0
 display_title: Who is TrueCoders?
 ---
 
-We’re kind of a different animal. We’re trying to bridge the gap between coding bootcamps and recruiting companies.
+We're kind of a different animal. We're trying to bridge the gap between coding bootcamps and recruiting companies.

@@ -15,7 +15,7 @@ work:
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-03-01 00:00:00 -06:00
   body: |-
-    * Took customer’s food and beverage orders.
+    * Took customer's food and beverage orders.
     * Delivered food and beverages to customers at address provided
     * Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks.
     * Cooked and sauced chicken wings and fries.
@@ -112,4 +112,4 @@ codewars_scores:
 - 519
 ---
 
-I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I’ve been a self-taught hobbyist developer for most of my life. I’ve attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I’ve now decided to make it a Full-Time career.
+I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I've been a self-taught hobbyist developer for most of my life. I've attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I've now decided to make it a Full-Time career.

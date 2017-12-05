@@ -48,7 +48,7 @@ references:
     role.
 - name: Martin Murphy
   reference: Darius is a perpetual learner able to digest complex problems quickly
-    and put them into use. Great interpersonal skills I believe he’ll be a valuable
+    and put them into use. Great interpersonal skills I believe he'll be a valuable
     asset to any team and produce the best results from those around him. Diagnostics
     are his strong suit and I look forward to seeing what he can do in the wild.
 skills:
@@ -79,4 +79,4 @@ codewars_scores:
 - 154
 ---
 
-I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company’s performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.
+I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company's performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

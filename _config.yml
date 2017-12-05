@@ -74,6 +74,7 @@ defaults:
     - institution: 
       area: 
       end_date: 
+      gpa: 
       location: 
       courses:
       - 

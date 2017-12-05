@@ -58,7 +58,7 @@ layout: default
         {% assign type = site.personality_types | where: "title", page.personality_type | first %}
         <li class="list-inline-item">
           <a href="{{ "https://www.16personalities.com/" | append: type.title | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
-            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title | downcase }}
+            <i class="fa fa-lightbulb-o fa-lg"></i> {{ type.title }}
           </a>
         </li>
         {% endif %}
@@ -81,19 +81,18 @@ layout: default
       {{ content }}
     </div>
   </div>
+  
+  <br/>
 
 
-  <!-- Experience Row -->
-  {% if page.work[0].company %}
-
+  <!-- Work Row -->
   {% assign works = page.work | sort: 'start_date', 'last' %}
   {% assign works = works | sort: 'end_date', 'last' | reverse %}
   {% assign company = "" %}
 
-  <br/>
   <div class="row">
     <div class="col-12">
-      <h4>Experience</h4>
+      <h4>Work</h4>
     </div>
   </div>
 
@@ -111,31 +110,27 @@ layout: default
     <div class="col-md-4">
       <p>
         {% if company != work.company %}
-        <h5>{{ work.company }}</h5>
+        <strong>{{ work.company }}</strong><br/>
         {% endif %}
-        <h6>{{ work.position }}</h6>
+        {{ work.position }}<br/>
         {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
     </div>
 
     <div class="col-md-8">
-      <br/>
       {{ work.body | markdownify }}
     </div>
   </div>
 
+  <br/>
+
   {% assign company = work.company %}
   {% endfor %}
 
-  {% endif %}
-
 
   <!-- Education Row -->
-  {% if page.education[0].institution %}
-
   {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
 
-  <br/>
   <div class="row">
     <div class="col-12">
       <h4>Education</h4>
@@ -155,34 +150,35 @@ layout: default
   <div class="row">
     <div class="col-md-4">
       <p>
-        <h5>{{ education.institution }}</h5>
-        {% if education.area %}
-        <h6>{{ education.area }}</h6>
-        {% endif %}
-        {{ end_date }}, {{ education.location }}
+        <strong>{{ education.institution }}</strong><br/>
+        {{ education.location }}<br/>
+        {{ end_date }}<br/>
       </p>
     </div>
 
     <div class="col-md-8">
       {% if education.courses.first %}
-      <br/>
-      <ul>
-        {% for course in education.courses %}
-        <li>{{ course }}</li>
-        {% endfor %}
-      </ul>
+      <p>
+        {{ education.area }}
+        {% if education.gpa %}
+        | GPA: {{ education.gpa }}
+        {% endif %}
+        <ul>
+          {% for course in education.courses %}
+          <li>{{ course }}</li>
+          {% endfor %}
+        </ul>
+      </p>
       {% endif %}
     </div>
   </div>
 
-  {% endfor %}
+  <br/>
 
-  {% endif %}
+  {% endfor %}
 
 
   <!-- Skills Row -->
-  {% if page.skills[0].name %}
-  <br/>
   <div class="row">
     <div class="col-12">
       <h4>Skills</h4>
@@ -211,10 +207,9 @@ layout: default
     {% endfor %}
   </div>
 
-  {% endif %}
+  <br/>
 
   <!-- References Row -->
-  <br/>
   <div class="row">
     <div class="col-12">
       <h4>References</h4>
@@ -233,7 +228,7 @@ layout: default
           {% assign company = site.company.full_name %}
         {% endif %}
 
-        {{'“' | append: reference.reference | append: '”'}} <br/>
+        {{'“' | append: reference.reference | append: '”'}}<br/>
         <strong>- {{ reference.name }}</strong> | {% if position and company %}{{ position }} at {{ company }}{% endif %}
       </p>
 

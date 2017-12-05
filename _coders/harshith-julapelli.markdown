@@ -37,15 +37,16 @@ education:
 - institution: University of Central Missouri
   area: Master of Computer Science
   end_date: 2016-12-01 00:00:00 -06:00
+  gpa: 3.6
   location: Warrensburg, MO
   courses:
-  - Member of Internation Student Organization (ISO).
-  - Acted as a liaison between School officials and International Students.
-  - Graduate Research Assistant.
-  - 'GPA: 3.6/4.0'
+  - Member of Internation Student Organization (ISO)
+  - Acted as a liaison between School officials and International Students
+  - Graduate Research Assistant
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
+  gpa: 3.5
   location: Hyderabad, India
   courses:
   - Student Coordinator, Training and Placement Cell, SREC Warangal.
@@ -53,7 +54,6 @@ education:
     at SR EngineeringCollege, Warangal, India
   - Member of Computer Society of India (CSI)
   - Joint Secretary, National Service Scheme (NSS)
-  - 'GPA: 3.5/4.0'
 references:
 - name: Cody Winton
   reference: Harshith is a skilled individual with a real talent for quality. He has

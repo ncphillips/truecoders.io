@@ -34,7 +34,7 @@ work:
   body: |-
     * Production management
     * Business development
-    * Manage crew’s workflow schedule
+    * Manage crew's workflow schedule
     * Provide customer service
 - company: Pittsburgh Glass Works, LLC
   position: Account Representative
@@ -42,7 +42,7 @@ work:
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
     * Pack auto glass and related products
-    * Deliver to customer’s premises
+    * Deliver to customer's premises
     * Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any problems encountered
 - company: Anthony Underwood Automotive
   position: Digital Sales Manager
@@ -81,7 +81,7 @@ references:
     and explanation. He works well with others, bringing insight and perspective to
     problems. I highly recommend Antwon for a DBA or Project Management role.
 - name: Martin Murphy
-  reference: I highly recommend Antwon for a DBA position.  He’s a tenacity with problems
+  reference: I highly recommend Antwon for a DBA position.  He's a tenacity with problems
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
@@ -113,4 +113,4 @@ codewars_scores:
 - 73
 ---
 
-I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I’m a strong team player and enjoy collaboration.
+I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.

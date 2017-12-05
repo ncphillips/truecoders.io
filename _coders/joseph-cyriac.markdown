@@ -65,7 +65,7 @@ education:
   courses:
   - College of Business
   - Business Administration with a focus in Logistics
-  - Organized and lead the re-chartering initiative of Auburn University’s chapter
+  - Organized and lead the re-chartering initiative of Auburn University's chapter
     of the Phi Kappa Psi Fraternity
 references:
 - name: Cody Winton

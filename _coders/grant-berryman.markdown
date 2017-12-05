@@ -47,7 +47,7 @@ work:
     * Performed troubleshooting and resolved hardware and software issues on Apple mobile devices, transferred data from old customer computers to new Apple computer
     * Repaired and rebuilt customer relationships, while managing time effectively
     * Taught personal training sessions on Apple hardware and software
-    * Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
+    * Visual Team Member - ensured that both store and products were displayed according to Apple's standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
   position: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
@@ -57,7 +57,7 @@ work:
     * Helped customers through dialogue find the right solution for their needs
     * Assisted customers with new device setup and product education
     * Taught group workshops on Apple products and services
-- company: Buster’s Billiards and Backroom
+- company: Buster's Billiards and Backroom
   position: Tech Manager
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
@@ -70,24 +70,26 @@ education:
 - institution: Middle Tennessee State University
   area: Bachelor of Science Degree in Recording Industry
   end_date: 2006-05-01 01:00:00 -05:00
+  gpa: 3.34
   location: Murfreesboro, TN
   courses:
   - 'Major: Production and Technology - Minor: Music Industry'
-  - 'Major GPA: 3.857 - Overall GPA: 3.34 - Dean’s List - Audio Engineering Society
-    Member'
+  - "Major GPA: 3.857 - Dean's List - Audio Engineering Society Member"
   - Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
   end_date: 2004-05-01 01:00:00 -05:00
+  gpa: 3.3
   location: Atlanta, GA
   courses:
-  - 'GPA: 3.3'
+  - 
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
   end_date: 2002-05-01 01:00:00 -05:00
+  gpa: 3.198
   location: Auburn, AL
   courses:
-  - 'GPA: 3.198 - Dean’s list - Golden Key International Honor Society'
+  - Dean's list - Golden Key International Honor Society
 references:
 - name: Cody Winton
   reference: Grant is highly intelligent and will not rest until he has accomplished
