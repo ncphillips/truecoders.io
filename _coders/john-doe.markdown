@@ -41,8 +41,8 @@ education:
   - Testing 3
 references:
 - name: Cody Winton
-  reference: John Doe has shown incredible skills and talent. I'd recommend John Doe for
-    a developer position.
+  reference: John Doe has shown incredible skills and talent. I'd recommend John Doe
+    for a developer position.
 skills:
 - title: Attendance
   rank: 4
