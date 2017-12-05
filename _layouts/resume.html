@@ -119,8 +119,8 @@ layout: default
     </div>
 
     <div class="col-md-8">
-      {{ work.body | markdownify }}
       <br/>
+      {{ work.body | markdownify }}
     </div>
   </div>
 
@@ -165,12 +165,12 @@ layout: default
 
     <div class="col-md-8">
       {% if education.courses.first %}
+      <br/>
       <ul>
         {% for course in education.courses %}
         <li>{{ course }}</li>
         {% endfor %}
       </ul>
-      <br/>
       {% endif %}
     </div>
   </div>
