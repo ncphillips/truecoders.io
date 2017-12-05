@@ -84,11 +84,7 @@ layout: default
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-12">
-      {{ content }}
-    </div>
-  </div>
+  {{ content }}
   
   <br/>
 
@@ -98,11 +94,7 @@ layout: default
   {% assign works = works | sort: 'end_date', 'last' | reverse %}
   {% assign company = "" %}
 
-  <div class="row">
-    <div class="col-12">
-      <h4>Work</h4>
-    </div>
-  </div>
+  <h4>Work</h4>
 
   {% for work in works %}
   
@@ -139,11 +131,7 @@ layout: default
   <!-- Education Row -->
   {% assign educations = page.education | push: class | sort: 'end_date', 'last' | reverse %}
 
-  <div class="row">
-    <div class="col-12">
-      <h4>Education</h4>
-    </div>
-  </div>
+  <h4>Education</h4>
 
   {% for education in educations %}
   
@@ -187,11 +175,7 @@ layout: default
 
 
   <!-- Skills Row -->
-  <div class="row">
-    <div class="col-12">
-      <h4>Skills</h4>
-    </div>
-  </div>
+  <h4>Skills</h4>
 
   <div class="row">
     {% for skill in page.skills %}
@@ -223,34 +207,30 @@ layout: default
   <br/>
 
   <!-- References Row -->
-  <div class="row">
-    <div class="col-12">
-      <h4>References</h4>
-      
-      {% if page.references[0].reference %}
-      {% assign references = page.references | sort: 'name' | reverse %}
-      {% assign collection = site.collections | where: 'label', 'coders' | first %}
-      {% for reference in references limit: collection.references_limit %}
+  <h4>References</h4>
+  
+  {% if page.references[0].reference %}
+  {% assign references = page.references | sort: 'name' | reverse %}
+  {% assign collection = site.collections | where: 'label', 'coders' | first %}
+  {% for reference in references limit: collection.references_limit %}
 
-      <p>
+  <p>
 
-        {% assign teammate = site.teammates | where: "title", reference.name | first %}
+    {% assign teammate = site.teammates | where: "title", reference.name | first %}
 
-        {% if teammate %}
-          {% assign position = teammate.subtitle %}
-          {% assign company = site.company.full_name %}
-        {% endif %}
+    {% if teammate %}
+      {% assign position = teammate.subtitle %}
+      {% assign company = site.company.full_name %}
+    {% endif %}
 
-        {{'“' | append: reference.reference | append: '”'}}<br/>
-        <strong>- {{ reference.name }}</strong> | {% if position and company %}{{ position }} at {{ company }}{% endif %}
-      </p>
+    {{'“' | append: reference.reference | append: '”'}}<br/>
+    <strong>- {{ reference.name }}</strong> | {% if position and company %}{{ position }} at {{ company }}{% endif %}
+  </p>
 
-      {% endfor %}
-      {% endif %}
+  {% endfor %}
+  {% endif %}
 
-      <p>Further references and contact info for {{ page.title }} are available upon request.</p>
-    </div>
-  </div>
+  <p>Further references and contact info for {{ page.title }} are available upon request.</p>
 
 
   <!-- Charts Row -->
