@@ -12,7 +12,7 @@ profiles:
   video: 245988227
 work:
 - company: Hewitt-Trussville
-  position: Middle School Teacher
+  position: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
   body: "I have served as an English department chair, been part of our school leadership/professional
@@ -25,7 +25,7 @@ work:
     Rotation, 6th grade\n* English/Language Arts, 7th-8th grades\n* Yearbook, 7th-8th
     grades\n* Reading, 6th grade\n* Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
-  position: Jr. High School Teacher
+  position: Jr. High School, Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: |-
