@@ -180,6 +180,39 @@ layout: default
   {% endif %}
 
 
+  <!-- Skills Row -->
+  {% if page.skills[0].name %}
+  <br/>
+  <div class="row">
+    <div class="col-12">
+      <h4>Skills</h4>
+    </div>
+  </div>
+
+  <div class="row">
+    {% for skill in page.skills %}
+    <div class="col-6 col-md-3 col-lg-2">
+      <p>
+        {{ skill.name }}
+      </p>
+    </div>
+
+    <div class="col-6 col-md-3 col-lg-2">
+      <p>
+        {% for i in (1..5) %}
+        {% if i < skill.level %}
+          <i class="fa fa-circle"></i>
+        {% else %}
+          <i class="fa fa-circle-o"></i>
+        {% endif %}
+        {% endfor %}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% endif %}
+
   <!-- References Row -->
   <br/>
   <div class="row">
