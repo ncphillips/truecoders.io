@@ -64,19 +64,19 @@ references:
     to provide value to a team. I'd recommend Micah for a database role.
 skills:
 - name: C# and .NET
-  level: 
+  level: 2.0
 - name: ANSI SQL
-  level: 
+  level: 2.9
 - name: HTML, CSS, JS
-  level: 
+  level: 2.8
 - name: Git
-  level: 
+  level: 2.9
 - name: Diagnostics
-  level: 
+  level: 2.0
 - name: ASP.NET
-  level: 
+  level: 2.6
 - name: Soft Skills
-  level: 
+  level: 2.0
 - name: Attendance
   level: 1.1
 codewars_scores:
