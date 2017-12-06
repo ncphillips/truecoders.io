@@ -155,25 +155,31 @@ layout: default
     <div class="col-md-4">
       <p>
         <strong>{{ education.institution }}</strong><br/>
-        {{ education.location }}<br/>
+        {{ education.area | default: education.course }}
+        {% if education.gpa %}
+        | GPA: {{ education.gpa | times: 1.0 }}
+        {% endif %}<br/>
+
+        {% if education.start_date %}
+        {{ education.start_date | date: "%b %Y" | upcase }} - 
+        {% endif %}
         {{ end_date }}<br/>
       </p>
     </div>
 
     <div class="col-md-8">
-      {% if education.courses.first %}
+
+      {{ education.body | default: education.content | markdownify }}
+
       <p>
-        {{ education.area }}
-        {% if education.gpa %}
-        | GPA: {{ education.gpa }}
-        {% endif %}
+        {% if education.courses.first %}
         <ul>
           {% for course in education.courses %}
           <li>{{ course }}</li>
           {% endfor %}
         </ul>
+        {% endif %}
       </p>
-      {% endif %}
     </div>
   </div>
 

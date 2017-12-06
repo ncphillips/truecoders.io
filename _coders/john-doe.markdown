@@ -36,7 +36,7 @@ work:
 education:
 - institution: Example High School
   area: High School Diploma
-  start_date: 2006-08-01 01:00:00 -05:00
+  start_date: 
   end_date: 2010-05-01 01:00:00 -05:00
   gpa: 4
   location: Birmingham, AL
