@@ -51,7 +51,7 @@ education:
   location: Hyderabad, India
   body: |-
     Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR EngineeringCollege, Warangal, India:
-    
+
     * Student Coordinator, Training and Placement Cell, SREC Warangal.
     * Member of Computer Society of India (CSI)
     * Joint Secretary, National Service Scheme (NSS)

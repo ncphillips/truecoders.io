@@ -88,8 +88,7 @@ education:
   end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL
-  body: |-
-    * Dean's list - Golden Key International Honor Society
+  body: "* Dean's list - Golden Key International Honor Society"
 references:
 - name: Cody Winton
   reference: Grant is highly intelligent and will not rest until he has accomplished

@@ -65,7 +65,7 @@ education:
   location: Auburn, AL
   body: |-
     College of Business:
-    
+
     * Business Administration with a focus in Logistics
     * Organized and lead the re-chartering initiative of Auburn University's chapter of the Phi Kappa Psi Fraternity
 references:
