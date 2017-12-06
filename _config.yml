@@ -47,7 +47,6 @@ defaults:
   values:
     company: TrueCoders
     position: Developer
-    body: 
     course: 
     institution: TrueCoders
     area: Graduate
