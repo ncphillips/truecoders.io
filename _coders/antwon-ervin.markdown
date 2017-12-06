@@ -62,10 +62,13 @@ work:
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
+  start_date: 
   end_date: 2015-05-01 00:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: |-
-    * Associate's Area
+    Focus on:
+
     * Business
     * Management
     * Marketing
