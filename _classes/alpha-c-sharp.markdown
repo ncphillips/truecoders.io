@@ -8,7 +8,7 @@ end_date: 2017-11-22 00:00:00 -06:00
 
 Focus on {{ page.course }}, including:
 
-* ASP.NET
-* Git
+* ASP.NET MVC
+* Source Control
 * ANSI SQL and Relational Databases
 * HTML, CSS, JS
