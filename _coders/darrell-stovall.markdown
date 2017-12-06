@@ -15,15 +15,23 @@ work:
   position: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
-  body: "I have served as an English department chair, been part of our school leadership/professional
+  body: |-
+    I have served as an English department chair, been part of our school leadership/professional
     development team and a system-wide gifted placement team. During the last three
     years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl
-    and Science Olympiad.\n\nI have used the Hour of Code curriculum to develop coding
+    and Science Olympiad.
+    
+    I have used the Hour of Code curriculum to develop coding
     lessons for my gifted students each year for the past 4 years. I have primarily
     been my school’s gifted specialist, teaching various courses and leading a number
-    of activities:\n\n* Enrichment & Technology, 6th-8th grades \n* Problem Solving
-    Rotation, 6th grade\n* English/Language Arts, 7th-8th grades\n* Yearbook, 7th-8th
-    grades\n* Reading, 6th grade\n* Creative Dramatics, 7th-8th grades"
+    of activities:
+    
+    * Enrichment & Technology, 6th-8th grades
+    * Problem Solving Rotation, 6th grade
+    * English/Language Arts, 7th-8th grades
+    * Yearbook, 7th-8th grades
+    * Reading, 6th grade
+    * Creative Dramatics, 7th-8th grades
 - company: Hewitt-Trussville
   position: Jr. High School, Teacher
   start_date: 1992-08-01 01:00:00 -05:00

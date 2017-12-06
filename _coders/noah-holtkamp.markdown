@@ -22,11 +22,11 @@ work:
   position: Project Manager
   start_date: 2015-03-01 00:00:00 -06:00
   end_date: 2016-08-01 00:00:00 -05:00
-  body: "* Prepare or implement budgets and strategic, operational, purchasing, or
-    maintenance plans. \n* Respond to customer, public, or media requests for information
-    about wellness programs or services. \n* Arrange for transportation or storage
-    of purchased products.\n* Maintain records of business transactions and product
-    inventories, reporting data to companies or government agencies as necessary."
+  body: |-
+    * Prepare or implement budgets and strategic, operational, purchasing, or maintenance plans
+    * Respond to customer, public, or media requests for information about wellness programs or services
+    * Arrange for transportation or storage of purchased products
+    * Maintain records of business transactions and product inventories, reporting data to companies or government agencies as necessary
 - company: Home At Last Inc.
   position: Program Administrator
   start_date: 2013-08-01 00:00:00 -05:00

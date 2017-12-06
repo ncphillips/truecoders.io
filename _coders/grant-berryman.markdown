@@ -62,11 +62,12 @@ work:
   position: Tech Manager
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
-  body: "* Designed, installed, maintained and ran a top-notch audio and lighting
-    system for 1000 capacity venue, also was Front of House engineer, Monitor engineer
-    \n* Trained, supervised, managed and scheduled six tech employees\n* Responsible
-    for on-site production and coordination of shows, stage managing\n* Worked with
-    national acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups"
+  body: |-
+    Designed, installed, maintained and ran a top-notch audio and lighting system for 1000 capacity venue, also was Front of House engineer, Monitor engineer:
+
+    * Trained, supervised, managed and scheduled six tech employees
+    * Responsible for on-site production and coordination of shows, stage managing
+    * Worked with national acts like The Derek Trucks Band, Blues Traveler, Silversun Pickups
 education:
 - institution: Middle Tennessee State University
   area: Bachelor of Science Degree in Recording Industry
@@ -88,7 +89,7 @@ education:
   end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL
-  body: "* Dean's list - Golden Key International Honor Society"
+  body: Dean's list - Golden Key International Honor Society
 references:
 - name: Cody Winton
   reference: Grant is highly intelligent and will not rest until he has accomplished

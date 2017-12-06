@@ -15,9 +15,10 @@ work:
   position: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
-  body: "* Meeting a time commitment in order to keep restaurant running smoothly
-    \n* Team based employee operations\n* Maintain alertness in full scope of the
-    restaurants needs"
+  body: |-
+    * Meeting a time commitment in order to keep restaurant running smoothly
+    * Team based employee operations
+    * Maintain alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
   position: Server
   start_date: 2016-07-01 00:00:00 -05:00
@@ -29,9 +30,11 @@ work:
   position: Server
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-11-01 00:00:00 -05:00
-  body: "* Teamwork focused on ensuring all customers are satisfied with their service
-    \n* At times maintaining two or more different parts of the restaurant \n* Constant
-    driving pace\n* Consistent flux of customers"
+  body: |-
+    * Teamwork focused on ensuring all customers are satisfied with their service
+    * At times maintaining two or more different parts of the restaurant
+    * Constant driving pace
+    * Consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
   position: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00

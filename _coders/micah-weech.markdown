@@ -15,14 +15,23 @@ work:
   position: Senior Pastor
   start_date: 2010-05-01 01:00:00 -05:00
   end_date: 
-  body: "Worked with:\n\n1. New Life SDA Church\n1. Mt. Zion SDA Church\n1. New Hope
-    SDA Church\n1. Maranatha SDA Church\n1. Oakwood University Church\n\nDuties include:\n\n*
-    Oversee the affairs of the local church or district.\n* Responsible for church
-    growth financially, spiritually and in membership.\n* Responsible for growing
-    the congregation membership, financial base and spiritual growth. \n* Renovated
-    both churches. \n* Trained and developed leaders on the local level. \n* Supported
-    the community thru various initiatives focused on improving the quality of life
-    in the areas surrounding the churches."
+  body: |-
+    Worked with:
+
+    1. New Life SDA Church
+    1. Mt. Zion SDA Church
+    1. New Hope SDA Church
+    1. Maranatha SDA Church
+    1. Oakwood University Church
+    
+    Duties include:
+    
+    * Oversee the affairs of the local church or district
+    * Responsible for church growth financially, spiritually and in membership
+    * Responsible for growing the congregation membership, financial base and spiritual growth
+    * Renovated both churches
+    * Trained and developed leaders on the local level
+    * Supported the community thru various initiatives focused on improving the quality of life in the areas surrounding the churches
 - company: Emmanuel Jr Academy
   position: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
@@ -35,7 +44,7 @@ work:
   position: Teaching Assistant
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
-  body: "* Steadicam Class"
+  body: Steadicam Class
 - company: Oakwood University Church
   position: Media Director/Assistant Youth Pastor
   start_date: 2008-08-01 01:00:00 -05:00

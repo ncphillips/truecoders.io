@@ -22,7 +22,7 @@ work:
   position: Store Manager
   start_date: 2014-10-01 00:00:00 -05:00
   end_date: 2015-06-01 00:00:00 -05:00
-  body: "* Managing and coordinating all aspects of the business and staff"
+  body: Managing and coordinating all aspects of the business and staff
 - company: Steak N' Shake
   position: Service Trainer
   start_date: 2014-05-01 00:00:00 -05:00

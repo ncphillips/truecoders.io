@@ -15,8 +15,9 @@ work:
   position: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
-  body: "* Ran ProPresenter and MainStage \n* Worked with wide range of multi-effects
-    boards"
+  body: |-
+    * Ran ProPresenter and MainStage
+    * Worked with wide range of multi-effects boards
 - company: Pelham Raquet Club
   position: Tennis Instructor
   start_date: 2015-12-01 00:00:00 -06:00
