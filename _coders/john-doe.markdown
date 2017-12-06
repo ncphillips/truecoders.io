@@ -18,7 +18,7 @@ work:
   start_date: 2017-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    Example description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
     * Example One
     * Example Two
@@ -28,7 +28,7 @@ work:
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-
-    Example description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
     * Example One
     * Example Two
@@ -36,7 +36,9 @@ work:
 education:
 - institution: Example High School
   area: High School Diploma
+  start_date: 2006-08-01 01:00:00 -05:00
   end_date: 2010-05-01 01:00:00 -05:00
+  gpa: 4
   location: Birmingham, AL
   courses:
   - Testing 1
