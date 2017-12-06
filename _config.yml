@@ -44,9 +44,12 @@ defaults:
     path: ''
     type: classes
   values:
+    company: TrueCoders
+    position: Developer
+    body: 
     course: 
     institution: TrueCoders
-    area: 
+    area: Graduate
     start_date: 
     end_date: 
     location: Birmingham, AL
