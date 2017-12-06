@@ -63,11 +63,11 @@ education:
   area: Bachelor of Science Degree
   end_date: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL
-  courses:
-  - College of Business
-  - Business Administration with a focus in Logistics
-  - Organized and lead the re-chartering initiative of Auburn University's chapter
-    of the Phi Kappa Psi Fraternity
+  body: |-
+    College of Business:
+    
+    * Business Administration with a focus in Logistics
+    * Organized and lead the re-chartering initiative of Auburn University's chapter of the Phi Kappa Psi Fraternity
 references:
 - name: Cody Winton
   reference: Joseph is anxious to succeed and will do what it takes to accomplish

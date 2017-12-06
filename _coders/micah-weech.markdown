@@ -49,14 +49,12 @@ education:
   area: Bachelor of Arts, Theology Pastoral/Evangelism
   end_date: 2013-11-01 00:00:00 -05:00
   location: Huntsville, AL
-  courses:
-  - Minor in Biblical Languages
+  body: Minor in Biblical Languages
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
   end_date: 
   location: Savannah, GA
-  courses:
-  - Pending thesis
+  body: Pending thesis
 references:
 - name: Cody Winton
   reference: Micah is an out-of-the-box thinker that provides a different perspective

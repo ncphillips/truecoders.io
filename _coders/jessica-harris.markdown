@@ -72,14 +72,12 @@ education:
   area: GED
   end_date: 2005-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - 
+  body: 
 - institution: Brown Mackie College
   area: Information Technology
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - Training in Information Technology
+  body: Training in Information Technology
 references:
 - name: Cody Winton
   reference: Jessica has amazed me with her ability to both learn and accomplish any

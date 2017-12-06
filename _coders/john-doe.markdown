@@ -40,10 +40,12 @@ education:
   end_date: 2010-05-01 01:00:00 -05:00
   gpa: 4
   location: Birmingham, AL
-  courses:
-  - Testing 1
-  - Testing 2
-  - Testing 3
+  body: |-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
+
+    * Example One
+    * Example Two
+    * Example Three
 references:
 - name: Cody Winton
   reference: John Doe has shown incredible skills and talent. I'd recommend John Doe
@@ -54,11 +56,11 @@ skills:
 - name: ANSI SQL
   level: 3.9
 - name: HTML, CSS, JS
-  level: 2.7
+  level: 2.4
 - name: Git
   level: 3.2
 - name: Diagnostics
-  level: 4.2
+  level: 4.7
 - name: ASP.NET
   level: 3.3
 - name: Soft Skills

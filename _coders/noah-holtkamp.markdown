@@ -40,16 +40,15 @@ education:
   area: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Vestavia Hills, AL
-  courses:
-  - 
+  body: 
 - institution: T. Colin Campbell Center For Nutrition Studies
   area: Plant Based Nutrition
   end_date: 2016-03-01 00:00:00 -06:00
   location: 
-  courses:
-  - 'Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.'
-  - Gauged role nutrition plays in chronic disease
-  - Learned psychological reasons we are drawn to foods that do not support health
+  body: |-
+    * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.
+    * Gauged role nutrition plays in chronic disease
+    * Learned psychological reasons we are drawn to foods that do not support health
 references:
 - name: Cody Winton
   reference: Noah pursues knowledge and asks questions until he understands what he

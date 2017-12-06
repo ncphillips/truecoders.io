@@ -73,24 +73,23 @@ education:
   end_date: 2006-05-01 01:00:00 -05:00
   gpa: 3.34
   location: Murfreesboro, TN
-  courses:
-  - 'Major: Production and Technology - Minor: Music Industry'
-  - 'Major GPA: 3.857 - Dean''s List - Audio Engineering Society Member'
-  - Internship with Grammy award winning engineer Dan Rudin
+  body: |-
+    * Major: Production and Technology - Minor: Music Industry
+    * Major GPA: 3.857 - Dean's List - Audio Engineering Society Member
+    * Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
   end_date: 2004-05-01 01:00:00 -05:00
   gpa: 3.3
   location: Atlanta, GA
-  courses:
-  - 
+  body: 
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
   end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL
-  courses:
-  - Dean's list - Golden Key International Honor Society
+  body: |-
+    * Dean's list - Golden Key International Honor Society
 references:
 - name: Cody Winton
   reference: Grant is highly intelligent and will not rest until he has accomplished

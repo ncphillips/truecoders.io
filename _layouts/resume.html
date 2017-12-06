@@ -168,17 +168,7 @@ layout: default
     </div>
 
     <div class="col-md-8">
-      {% if education.body or education.content %}
       {{ education.body | default: education.content | markdownify }}
-      {% elsif education.courses.first %}
-      <p>
-        <ul>
-          {% for course in education.courses %}
-          <li>{{ course }}</li>
-          {% endfor %}
-        </ul>
-      </p>
-      {% endif %}
     </div>
   </div>
 

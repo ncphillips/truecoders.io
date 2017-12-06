@@ -37,26 +37,22 @@ education:
   area: 
   end_date: 
   location: Birmingham, AL
-  courses:
-  - Dual Enrollment
+  body: Dual Enrollment
 - institution: Homeschool
   area: High School Diploma
   end_date: 
   location: 
-  courses:
-  - 
+  body: 
 - institution: Trenholm State
   area: 
   end_date: 2016-05-01 00:00:00 -05:00
   location: Montgomery, AL
-  courses:
-  - Dual Enrollment
+  body: Dual Enrollment
 - institution: Faulkner University
   area: 
   end_date: 2015-05-01 00:00:00 -05:00
   location: Montgomery, AL
-  courses:
-  - Dual Enrollment
+  body: Dual Enrollment
 references:
 - name: Cody Winton
   reference: Hollis brings a plethora of skills to the table and has a real knack

@@ -49,14 +49,12 @@ education:
   area: Political Science Major
   end_date: 2012-05-01 00:00:00 -05:00
   location: Auburn, AL
-  courses:
-  - 
+  body: 
 - institution: Jefferson State Community College
   area: Political Science Major
   end_date: 
   location: Birmingham, AL
-  courses:
-  - 
+  body: 
 references:
 - name: Martin Murphy
   reference: Willing to go the distance for the cause, his gaming background makes

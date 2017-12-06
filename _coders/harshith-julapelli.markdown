@@ -40,21 +40,21 @@ education:
   end_date: 2016-12-01 00:00:00 -06:00
   gpa: 3.6
   location: Warrensburg, MO
-  courses:
-  - Member of Internation Student Organization (ISO)
-  - Acted as a liaison between School officials and International Students
-  - Graduate Research Assistant
+  body: |-
+    * Member of Internation Student Organization (ISO)
+    * Acted as a liaison between School officials and International Students
+    * Graduate Research Assistant
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   end_date: 2015-04-01 00:00:00 -05:00
   gpa: 3.5
   location: Hyderabad, India
-  courses:
-  - Student Coordinator, Training and Placement Cell, SREC Warangal.
-  - Core committee member for conducting Sparkill 2015, a National level Youth Festival
-    at SR EngineeringCollege, Warangal, India
-  - Member of Computer Society of India (CSI)
-  - Joint Secretary, National Service Scheme (NSS)
+  body: |-
+    Core committee member for conducting Sparkill 2015, a National level Youth Festival at SR EngineeringCollege, Warangal, India:
+    
+    * Student Coordinator, Training and Placement Cell, SREC Warangal.
+    * Member of Computer Society of India (CSI)
+    * Joint Secretary, National Service Scheme (NSS)
 references:
 - name: Cody Winton
   reference: Harshith is a skilled individual with a real talent for quality. He has
