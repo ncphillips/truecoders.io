@@ -66,10 +66,13 @@ work:
 education:
 - institution: Auburn University at Montgomery
   area: Graphic Design
+  start_date: 
   end_date: 2017-05-01 00:00:00 -05:00
+  gpa: 
   location: Montgomery, AL
   body: |-
-    * Cum Laude
+    Graduated Cum Laude:
+
     * Phi Eta Sigma Honor Society
     * The National Society of Collegiate Scholars
     * Phi Kappa Phi Honor Society
@@ -100,7 +103,7 @@ skills:
 - name: Soft Skills
   level: 4.1
 - name: Attendance
-  level: 5.0
+  level: 5
 codewars_scores:
 - 91
 - 159
