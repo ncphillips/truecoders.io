@@ -78,8 +78,7 @@ defaults:
       end_date: 
       gpa: 
       location: 
-      courses:
-      - 
+      body: 
     references:
     - name: 
       reference: 
