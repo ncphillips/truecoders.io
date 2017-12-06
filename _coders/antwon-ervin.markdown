@@ -57,7 +57,8 @@ work:
   position: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
-  body: Outside sales, customer service, invoice customer, manage work flow, dispatch, windshield repair tech
+  body: Outside sales, customer service, invoice customer, manage work flow, dispatch,
+    windshield repair tech
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree

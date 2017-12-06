@@ -20,12 +20,12 @@ work:
     development team and a system-wide gifted placement team. During the last three
     years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl
     and Science Olympiad.
-    
+
     I have used the Hour of Code curriculum to develop coding
     lessons for my gifted students each year for the past 4 years. I have primarily
     been my school’s gifted specialist, teaching various courses and leading a number
     of activities:
-    
+
     * Enrichment & Technology, 6th-8th grades
     * Problem Solving Rotation, 6th grade
     * English/Language Arts, 7th-8th grades

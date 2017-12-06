@@ -23,9 +23,9 @@ work:
     1. New Hope SDA Church
     1. Maranatha SDA Church
     1. Oakwood University Church
-    
+
     Duties include:
-    
+
     * Oversee the affairs of the local church or district
     * Responsible for church growth financially, spiritually and in membership
     * Responsible for growing the congregation membership, financial base and spiritual growth
