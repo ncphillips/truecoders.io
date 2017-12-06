@@ -41,14 +41,18 @@ education:
   end_date: 1995-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
-  courses:
-  - Special Education (Gifted and Talented Certification)
+  body: |-
+    Special Education:
+
+    * Gifted and Talented Certification
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - Secondary Education (English and Economics Certification)
+  body: |-
+    Secondary Education:
+
+    * English and Economics Certification
 references:
 - name: Cody Winton
   reference: Darrel is anxious to learn and do well in his career as a programmer
