@@ -38,6 +38,7 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: page
   values:
     image: "/uploads/logo.png"
 - scope:
