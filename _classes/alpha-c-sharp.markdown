@@ -6,9 +6,9 @@ start_date: 2017-10-03 01:00:00 -05:00
 end_date: 2017-11-22 00:00:00 -06:00
 ---
 
-Alpha C# Description Summary would go here
+Focus on {{ page.course }}, including:
 
-* C# and ASP.NET
+* ASP.NET
 * Git
 * ANSI SQL and Relational Databases
 * HTML, CSS, JS
