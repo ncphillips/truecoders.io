@@ -47,12 +47,16 @@ work:
 education:
 - institution: Auburn University
   area: Political Science Major
+  start_date: 
   end_date: 2012-05-01 00:00:00 -05:00
+  gpa: 
   location: Auburn, AL
   body: 
 - institution: Jefferson State Community College
   area: Political Science Major
+  start_date: 
   end_date: 
+  gpa: 
   location: Birmingham, AL
   body: 
 references:

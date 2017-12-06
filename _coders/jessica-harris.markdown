@@ -70,12 +70,16 @@ work:
 education:
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
+  start_date: 
   end_date: 2005-05-01 01:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: 
 - institution: Brown Mackie College
   area: Information Technology
+  start_date: 
   end_date: 2015-10-01 00:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
 references:

@@ -28,7 +28,9 @@ work:
 education:
 - institution: Hope Christian High School
   area: High School Diploma
+  start_date: 
   end_date: 2017-05-01 00:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: |-
     Graduated with AAD:

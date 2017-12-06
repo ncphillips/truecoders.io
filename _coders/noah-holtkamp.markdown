@@ -38,12 +38,16 @@ work:
 education:
 - institution: Vestavia Hills High School
   area: High School Diploma
+  start_date: 
   end_date: 2013-05-01 00:00:00 -05:00
+  gpa: 
   location: Vestavia Hills, AL
   body: 
 - institution: T. Colin Campbell Center For Nutrition Studies
   area: Plant Based Nutrition
+  start_date: 
   end_date: 2016-03-01 00:00:00 -06:00
+  gpa: 
   location: 
   body: |-
     * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.

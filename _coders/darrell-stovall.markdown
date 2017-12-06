@@ -55,7 +55,9 @@ education:
     * Gifted and Talented Certification
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
+  start_date: 
   end_date: 1992-05-01 01:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: |-
     Secondary Education:

@@ -75,7 +75,9 @@ education:
     * Related Support Services
 - institution: Bessemer Technical College
   area: Architectural Design
+  start_date: 
   end_date: 2006-05-01 01:00:00 -05:00
+  gpa: 
   location: Bessemer, AL
   body: 
 references:

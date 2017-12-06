@@ -71,6 +71,7 @@ work:
 education:
 - institution: Middle Tennessee State University
   area: Bachelor of Science Degree in Recording Industry
+  start_date: 
   end_date: 2006-05-01 01:00:00 -05:00
   gpa: 3.34
   location: Murfreesboro, TN
@@ -80,12 +81,14 @@ education:
     * Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
+  start_date: 
   end_date: 2004-05-01 01:00:00 -05:00
   gpa: 3.3
   location: Atlanta, GA
   body: 
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
+  start_date: 
   end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL

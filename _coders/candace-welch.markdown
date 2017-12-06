@@ -78,7 +78,9 @@ education:
     * Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
   area: High School Diploma
+  start_date: 
   end_date: 2012-05-01 00:00:00 -05:00
+  gpa: 
   location: Montgomery, AL
   body: 
 references:

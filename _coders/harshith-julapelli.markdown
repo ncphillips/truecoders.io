@@ -37,6 +37,7 @@ work:
 education:
 - institution: University of Central Missouri
   area: Master of Computer Science
+  start_date: 
   end_date: 2016-12-01 00:00:00 -06:00
   gpa: 3.6
   location: Warrensburg, MO
@@ -46,6 +47,7 @@ education:
     * Graduate Research Assistant
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
+  start_date: 
   end_date: 2015-04-01 00:00:00 -05:00
   gpa: 3.5
   location: Hyderabad, India

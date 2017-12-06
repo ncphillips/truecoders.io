@@ -41,7 +41,9 @@ work:
 education:
 - institution: Christ Church School
   area: High School Diploma
+  start_date: 
   end_date: 2013-05-01 00:00:00 -05:00
+  gpa: 
   location: Odenville, AL
   body: 
 references:

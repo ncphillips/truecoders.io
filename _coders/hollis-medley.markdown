@@ -35,22 +35,30 @@ work:
 education:
 - institution: Lawson State
   area: 
+  start_date: 
   end_date: 
+  gpa: 
   location: Birmingham, AL
   body: Dual Enrollment
 - institution: Homeschool
   area: High School Diploma
+  start_date: 
   end_date: 
+  gpa: 
   location: 
   body: 
 - institution: Trenholm State
   area: 
+  start_date: 
   end_date: 2016-05-01 00:00:00 -05:00
+  gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
 - institution: Faulkner University
   area: 
+  start_date: 
   end_date: 2015-05-01 00:00:00 -05:00
+  gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
 references:

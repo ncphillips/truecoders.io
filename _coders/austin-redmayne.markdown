@@ -61,22 +61,30 @@ work:
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
+  start_date: 
   end_date: 
+  gpa: 
   location: Birmingham, AL
   body: 
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
+  start_date: 
   end_date: 2014-05-01 00:00:00 -05:00
+  gpa: 
   location: Florence, AL
   body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
+  start_date: 
   end_date: 2012-12-01 00:00:00 -06:00
+  gpa: 
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
+  start_date: 
   end_date: 2011-05-01 01:00:00 -05:00
+  gpa: 
   location: Homewood, AL
   body: 
 references:

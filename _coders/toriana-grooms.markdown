@@ -49,17 +49,23 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Criminal Justice
+  start_date: 
   end_date: 2016-12-01 00:00:00 -06:00
+  gpa: 
   location: Birmingham, AL
   body: 
 - institution: University of Alabama in Birmingham
   area: Early Childhood Education
+  start_date: 
   end_date: 2013-05-01 00:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: 
 - institution: Erwin High School
   area: High School Diploma
+  start_date: 
   end_date: 2008-05-01 01:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
   body: 
 references:

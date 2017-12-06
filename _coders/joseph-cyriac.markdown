@@ -61,7 +61,9 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
+  start_date: 
   end_date: 2004-05-01 01:00:00 -05:00
+  gpa: 
   location: Auburn, AL
   body: |-
     College of Business:

@@ -56,12 +56,16 @@ work:
 education:
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
+  start_date: 
   end_date: 2013-11-01 00:00:00 -05:00
+  gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
+  start_date: 
   end_date: 
+  gpa: 
   location: Savannah, GA
   body: Pending thesis
 references:
