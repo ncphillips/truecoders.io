@@ -96,7 +96,7 @@ layout: default
 
 
   <!-- Work Row -->
-  {% assign works = page.work | sort: 'start_date', 'last' %}
+  {% assign works = page.work | push: class | sort: 'start_date', 'last' %}
   {% assign works = works | sort: 'end_date', 'last' | reverse %}
   {% assign company = "" %}
 
@@ -106,10 +106,10 @@ layout: default
   
   {% unless work.company and work.position %} {% continue %} {% endunless %}
   
-  {% if work.end_date < site.time %}
-  {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
+  {% if work.end_date >= site.time or work.company == site.title %}
+  {% assign end_date = "Present" | upcase %}
   {% else %}
-  {% assign end_date = "Present" %}
+  {% assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase %}
   {% endif %}
 
   <div class="row">
@@ -124,7 +124,7 @@ layout: default
     </div>
 
     <div class="col-md-8">
-      {{ work.body | markdownify }}
+      {{ work.body | default: work.content | markdownify }}
     </div>
   </div>
 
@@ -168,18 +168,17 @@ layout: default
     </div>
 
     <div class="col-md-8">
-
+      {% if education.body or education.content %}
       {{ education.body | default: education.content | markdownify }}
-
+      {% elsif education.courses.first %}
       <p>
-        {% if education.courses.first %}
         <ul>
           {% for course in education.courses %}
           <li>{{ course }}</li>
           {% endfor %}
         </ul>
-        {% endif %}
       </p>
+      {% endif %}
     </div>
   </div>
 

@@ -60,26 +60,22 @@ education:
   area: Psychology
   end_date: 
   location: Birmingham, AL
-  courses:
-  - 
+  body: 
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
   end_date: 2014-05-01 00:00:00 -05:00
   location: Florence, AL
-  courses:
-  - 
+  body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
   end_date: 2012-12-01 00:00:00 -06:00
   location: Muscle​ ​Shoals,​ ​AL
-  courses:
-  - 
+  body: 
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
   end_date: 2011-05-01 01:00:00 -05:00
   location: Homewood, AL
-  courses:
-  - 
+  body: 
 references:
 - name: Cody Winton
   reference: Austin has shown himself anxious to learn and do well in his work. He

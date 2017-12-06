@@ -64,18 +64,17 @@ education:
   area: Associate's Degree
   end_date: 2015-05-01 00:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - Associate's Area
-  - Business
-  - Management
-  - Marketing
-  - Related Support Services
+  body: |-
+    * Associate's Area
+    * Business
+    * Management
+    * Marketing
+    * Related Support Services
 - institution: Bessemer Technical College
   area: Architectural Design
   end_date: 2006-05-01 01:00:00 -05:00
   location: Bessemer, AL
-  courses:
-  - 
+  body: 
 references:
 - name: Cody Winton
   reference: Antwon is an exceptional individual with a real knack for interaction

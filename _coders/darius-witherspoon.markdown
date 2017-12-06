@@ -33,14 +33,12 @@ education:
   area: 
   end_date: 2013-05-01 00:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - 
+  body: 
 - institution: Huffman High School
   area: High School Diploma
   end_date: 2008-05-01 01:00:00 -05:00
   location: Huffman, AL
-  courses:
-  - 
+  body: 
 references:
 - name: Cody Winton
   reference: Darius has both skill and drive to complete tasks with quality and accuracy.

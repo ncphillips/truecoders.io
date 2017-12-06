@@ -29,9 +29,9 @@ education:
   area: High School Diploma
   end_date: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
-  courses:
-  - Graduated with AAD
-  - Outstanding Athlete
+  body: |-
+    * Graduated with AAD
+    * Outstanding Athlete
 references:
 - name: Cody Winton
   reference: Connor is tenacious and competitive and has showed himself skilled in
