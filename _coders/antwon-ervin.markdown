@@ -16,49 +16,58 @@ work:
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Built a community calendar & engagement website
-    * Manage written & video content as well as social media channels
-    * Lead a team of writers and videographers
+    Built a community calendar & engagement website:
+
+    - Managing written & video content as well as social media channels
+    - Leading a team of writers and videographers
 - company: Chronicle Studio
   position: Service Consultant
   start_date: 2014-04-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
-    * Served as lead support for the project Automotive Leadership Technology
-    * Served as first contact for clients
-    * Outside sales
-    * Provided tech support
+    Outside sales and tech support:
+
+    - Served as first contact for clients
+    - Served as lead support for the project Automotive Leadership Technology
 - company: Five Star Painting
   position: Project Consultant
   start_date: 2013-09-01 00:00:00 -05:00
   end_date: 2017-07-01 00:00:00 -05:00
   body: |-
-    * Production management
-    * Business development
-    * Manage crew's workflow schedule
-    * Provide customer service
+    Production management and business development:
+
+    - Managed crew’s workflow schedule
+    - Provided customer service
 - company: Pittsburgh Glass Works, LLC
   position: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
-    * Pack auto glass and related products
-    * Deliver to customer's premises
-    * Document and keep record of information on pick ups and deliveries, automobile mileage, fuel costs and any problems encountered
+    Worked with customers:
+
+    - Packed auto glass and related products
+    - Delivered to customer’s premises
+    - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
   position: Digital Sales Manager
   start_date: 2010-02-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
   body: |-
-    * Manage website, maintain internet reputation
-    * Manage online inventory
-    * Manage Service inventory and sales
+    General sales management:
+
+    - Managed website and maintained internet reputation
+    - Managed online inventory
+    - Managed Service inventory and sales
 - company: Bada Ding Inc.
   position: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
-  body: Outside sales, customer service, invoice customer, manage work flow, dispatch,
-    windshield repair tech
+  body: |-
+    Outside sales and customer service:
+
+    - Invoiced customer
+    - Manage work flow
+    - Handled dispatch and windshield repair tech
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
@@ -66,13 +75,8 @@ education:
   end_date: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
-  body: |-
-    Focus on:
-
-    * Business
-    * Management
-    * Marketing
-    * Related Support Services
+  body: Focused on Business, Management, Marketing, and Related Support Services,
+    2014 - 2015
 - institution: Bessemer Technical College
   area: Architectural Design
   start_date: 
