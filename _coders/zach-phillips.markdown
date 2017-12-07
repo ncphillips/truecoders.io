@@ -19,9 +19,9 @@ work:
     Research, Purchase, and Sell Products on Amazon marketplace:
 
     - Provide customer support
-    - Created and updated Amazon product listings
-    - Imported order reports from Amazon into ledger providing relevant data
-    - Analyzed and managed shipping products to Amazon warehouses
+    - Create and update Amazon product listings
+    - Import order reports from Amazon into ledger providing relevant data
+    - Analyze and manage shipping products to Amazon warehouses
 - company: Christ Church
   position: Website Administration
   start_date: 2011-01-01 00:00:00 -06:00
