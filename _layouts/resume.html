@@ -2,7 +2,9 @@
 layout: default
 ---
 
+{% if page.class %}
 {% assign class = site.classes | where: "title", page.class | first %}
+{% endif %}
 
 <div class="container" style="padding:60px 16px;">
 
@@ -15,10 +17,9 @@ layout: default
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:144px; border-radius:50%">
       {% endif %}
       <h3>{{ page.title }}</h3>
-
-      <img src="{{ "uploads/logo-only.svg" | relative_url }}" alt="Logo" style="width:64px;">
       
       {% if page.class %}
+      <img src="{{ "uploads/logo-only.svg" | relative_url }}" alt="Logo" style="width:64px;">
       <strong>{{ page.class }} Graduate</strong>
       {% endif %}
 
@@ -90,12 +91,13 @@ layout: default
 
 
   <!-- Work Row -->
-  {% assign works = page.work | sort: 'start_date', 'last' %}
-  {% assign works = works | sort: 'end_date', 'last' | reverse %}
-  {% assign works = works | unshift: class %}
-  {% assign company = "" %}
-
   <h4>Work</h4>
+
+  {% assign works = page.work | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse %}
+  {% if class %}
+  {% assign works = works | unshift: class %}
+  {% endif %}
+  {% assign company = "" %}
 
   {% for work in works %}
   
@@ -130,11 +132,14 @@ layout: default
 
 
   <!-- Education Row -->
-
-  {% assign educations = page.education | push: class | sort: 'start_date', 'last' %}
-  {% assign educations = educations | sort: 'end_date', 'last' | reverse %}
-
   <h4>Education</h4>
+
+  {% assign educations = page.education %}
+  {% if class %}
+  {% assign educations = educations | push: class %}
+  {% endif %}
+
+  {% assign educations = educations | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse %}
 
   {% for education in educations %}
   
@@ -182,8 +187,10 @@ layout: default
   <!-- Skills Row -->
   <h4>Skills</h4>
 
+  {% if page.skills[0].name %}
   <div class="row">
     {% for skill in page.skills %}
+    {% unless skill.name %} {% continue %} {% endunless %}
     <div class="col-6 col-md-3 col-lg-2">
       <p>
         {{ skill.name }}
@@ -208,8 +215,9 @@ layout: default
     </div>
     {% endfor %}
   </div>
-
+  
   <br/>
+  {% endif %}
 
   <!-- References Row -->
   <h4>References</h4>
