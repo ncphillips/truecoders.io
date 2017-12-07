@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: ENFJ
 profiles:
   github: wcordari
-  linkedin: cordarius-witherspoon-97468794
+  linkedin: dariuswitherspoon
   codewars: wcordarius
   video: 245988222
 work:
