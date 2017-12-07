@@ -16,9 +16,10 @@ work:
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
-    * Liaison for North American Ventures
-    * Process shipments, managing customs, tariffs, and other requirements
+    Liaison for North American Ventures:
+
+    - Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
+    - Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
   position: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
@@ -26,18 +27,19 @@ work:
   body: |-
     As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
 
-    * Analyzing, Designing and Implementing Office Infrastructure
-    * Select and Implement Electronic Billing and Health Record program Practice Partner
-    * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
-    * HR services such as hiring and yearly employee review
+    - Analyzing, Designing and Implementing Office Infrastructure
+    - Select and Implement Electronic Billing and Health Record program Practice Partner
+    - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
+    - HR services such as hiring and yearly employee review
 - company: Song Eye Center Inc.
   position: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Analyzing, Designing and Implementing Office Infrastructure for several locations
-    * Select and Implement Electronic Billing and Health Record program Practice Partner
-    * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
+    Analyzing, Designing, and Implementing Office Infrastructure for several locations:
+
+    - Select and Implement Electronic Billing and Health Record program Practice Partner
+    - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 - company: Business Partnership
   position: Investment Property Manager
   start_date: 2005-01-01 00:00:00 -06:00
@@ -45,29 +47,29 @@ work:
   body: |-
     As a joint investor and property manager responsible for:
 
-    * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
-    * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
-    * Financing and accounting of project budgets to maintain workflow and to ensure profitability
+    - Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
+    - Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
+    - Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: Continental Airlines
   position: Customer Relations Representative
   start_date: 2007-01-01 00:00:00 -06:00
   end_date: 2008-12-01 00:00:00 -06:00
   body: |-
-    As a full - time employee working on behalf of the customer and company responsible for:
+    As a full-time employee working on behalf of the customer and company responsible for:
 
-    * Resolving conflicts in an equitable manner to ensure continued customer loyalty
-    * Managing cargo and ground logistics to ensure scheduled flight departure
-    * Coordinating airport security logistics with corresponding federal agencies
+    - Resolving conflicts in an equitable manner to ensure continued customer loyalty
+    - Managing cargo and ground logistics to ensure scheduled flight departure
+    - Coordinating airport security logistics with corresponding federal agencies
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
   end_date: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: |-
-    College of Business:
+    Business Administration with a focus in Logistics:
 
-    * Business Administration with a focus in Logistics
-    * Organized and lead the re-chartering initiative of Auburn University's chapter of the Phi Kappa Psi Fraternity
+    - College of Business
+    - Organized and lead the re-chartering initiative of Auburn University’s chapter of the Phi Kappa Psi Fraternity
 references:
 - name: Cody Winton
   reference: Joseph is anxious to succeed and will do what it takes to accomplish
