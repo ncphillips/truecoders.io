@@ -133,5 +133,5 @@ It is my goal to pursue a career as a software developer at your company. As a l
 - Problem solver
 - Conflict resolution mediation
 - Adobe suite
-- Film & Television production 
+- Film & Television production
 - Writer
