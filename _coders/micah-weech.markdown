@@ -19,26 +19,19 @@ work:
     Congregations served:
 
     1. New Life SDA Church
-
-       1. Planned and executed facility renovations.
-       2. Initiated and lead a culture shift within the congregation that increased weekly attendance.
-       3. Increased local giving from $7,500 monthly to $15,000 monthly.
-
+      - Planned and executed facility renovations.
+      - Initiated and lead a culture shift within the congregation that increased weekly attendance.
+      - Increased local giving from $7,500 monthly to $15,000 monthly.
     2. Mt. Zion SDA Church
     3. New Hope SDA Church
-
-       1. Promoted and lead a shift in the worship style in the congregation. That increased weekly attendance.
-       2. Increased local giving by 60%
-
+      - Promoted and lead a shift in the worship style in the congregation. That increased weekly attendance.
+      - Increased local giving by 60%
     4. Maranatha SDA Church
-
-       1. Planned and executed a facility overhaul debt free.
-       2. Lead the congregation in resolving historical conflicts.
-       3. Initiated and directed community summer programs.
-
+      - Planned and executed a facility overhaul debt free.
+      - Lead the congregation in resolving historical conflicts.
+      - Initiated and directed community summer programs.
     5. Oakwood University Church
-
-       1. Managed
+      - Managed
 
     Duties included:
 
