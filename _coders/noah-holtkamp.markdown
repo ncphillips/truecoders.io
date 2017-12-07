@@ -16,25 +16,28 @@ work:
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 
   body: |-
-    * Work as part of a project team to coordinate database development and determine project scope and limitations.
-    * Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health.
+    Work as part of a project team to coordinate database development and determine project scope and limitations:
+
+    - Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health
 - company: Nutrient High LLC
   position: Project Manager
   start_date: 2015-03-01 00:00:00 -06:00
   end_date: 2016-08-01 00:00:00 -05:00
   body: |-
-    * Prepare or implement budgets and strategic, operational, purchasing, or maintenance plans
-    * Respond to customer, public, or media requests for information about wellness programs or services
-    * Arrange for transportation or storage of purchased products
-    * Maintain records of business transactions and product inventories, reporting data to companies or government agencies as necessary
+    Prepared and implemented budgets as well as strategic, operational, purchasing, or maintenance plans:
+
+    - Responded to customer, public, or media requests for information about wellness programs or services
+    - Arranged for transportation or storage of purchased products
+    - Maintained records of business transactions and product inventories, reporting data to companies or government agencies as necessary
 - company: Home At Last Inc.
   position: Program Administrator
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 2016-01-01 00:00:00 -06:00
   body: |-
-    * Investigate complaints, disturbances and violations and resolve problems following management rules and regulations
-    * Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties
-    * Direct and coordinate the activities of staff and contract personnel and evaluate their performance
+    Managed and oversaw operations, maintenance, administration, and improvement of commercial, industrial, or residential properties:
+
+    - Investigated complaints, disturbances, and violations and resolved problems following management rules and regulations
+    - Directed and coordinated the activities of staff and contract personnel and evaluated their performance
 education:
 - institution: Vestavia Hills High School
   area: High School Diploma
@@ -50,9 +53,10 @@ education:
   gpa: 
   location: 
   body: |-
-    * Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.
-    * Gauged role nutrition plays in chronic disease
-    * Learned psychological reasons we are drawn to foods that do not support health
+    Gauged role nutrition plays in chronic disease:
+
+    - Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.
+    - Learned psychological reasons we are drawn to foods that do not support health
 references:
 - name: Cody Winton
   reference: Noah pursues knowledge and asks questions until he understands what he
@@ -62,7 +66,7 @@ skills:
 - name: C# and .NET
   level: 2.3
 - name: ANSI SQL
-  level: 3.0
+  level: 3
 - name: HTML, CSS, JS
   level: 3.1
 - name: Git
