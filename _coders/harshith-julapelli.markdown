@@ -16,13 +16,14 @@ work:
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-
-    * Work under the support and guidance of the senior professor
-    * Assist with collecting and analyzing qualitative data
-    * Reviewing and analyzing research, including meta - analysis
-    * Produce reports and assist with general analysis of data it relates
-    * Data collection, data entry, merge and manipulate collected information, database management, create and run queries from various databases
-    * Write the queries to get optimal results
-    * Writing reports on the data analyzed
+    Worked under the support and guidance of the senior professor:
+
+    - Assisted with collecting and analyzing qualitative data
+    - Reviewed and analyzed research, including meta - analysis
+    - Produced reports and assist with general analysis of data it relates
+    - Data collection, data entry, merged and manipulated collected information, database management, created and ran queries from various databases
+    - Wrote queries to get optimal results
+    - Wrote reports on the data analyzed
 - company: University of Central Missouri
   position: Emergency Mail Sender
   start_date: 2015-08-01 00:00:00 -05:00
@@ -42,9 +43,10 @@ education:
   gpa: 3.6
   location: Warrensburg, MO
   body: |-
-    * Member of Internation Student Organization (ISO)
-    * Acted as a liaison between School officials and International Students
-    * Graduate Research Assistant
+    Graduate Research Assistant:
+
+    - Member of Internation Student Organization (ISO)
+    - Acted as a liaison between School officials and International Students
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   start_date: 
