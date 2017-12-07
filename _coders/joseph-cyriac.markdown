@@ -11,26 +11,14 @@ profiles:
   codewars: cyriajo
   video: 245988251
 work:
-- company: Continental Airlines
-  position: Customer Relations Representative
-  start_date: 2007-01-01 00:00:00 -06:00
-  end_date: 2008-12-01 00:00:00 -06:00
+- company: HFP LLC
+  position: Customs and Sales Broker
+  start_date: 2015-01-01 00:00:00 -06:00
+  end_date: 
   body: |-
-    As a full - time employee working on behalf of the customer and company responsible for:
-
-    * Resolving conflicts in an equitable manner to ensure continued customer loyalty
-    * Managing cargo and ground logistics to ensure scheduled flight departure
-    * Coordinating airport security logistics with corresponding federal agencies
-- company: Business Partnership
-  position: Investment Property Manager
-  start_date: 2005-01-01 00:00:00 -06:00
-  end_date: 2010-12-01 00:00:00 -06:00
-  body: |-
-    As a joint investor and property manager responsible for:
-
-    * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
-    * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
-    * Financing and accounting of project budgets to maintain workflow and to ensure profitability
+    * Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
+    * Liaison for North American Ventures
+    * Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
   position: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
@@ -42,14 +30,6 @@ work:
     * Select and Implement Electronic Billing and Health Record program Practice Partner
     * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
     * HR services such as hiring and yearly employee review
-- company: HFP LLC
-  position: Customs and Sales Broker
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 
-  body: |-
-    * Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
-    * Liaison for North American Ventures
-    * Process shipments, managing customs, tariffs, and other requirements
 - company: Song Eye Center Inc.
   position: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
@@ -58,12 +38,30 @@ work:
     * Analyzing, Designing and Implementing Office Infrastructure for several locations
     * Select and Implement Electronic Billing and Health Record program Practice Partner
     * Assist with Quarterly Marketing and Advertising for Main and Satellite locations
+- company: Business Partnership
+  position: Investment Property Manager
+  start_date: 2005-01-01 00:00:00 -06:00
+  end_date: 2010-12-01 00:00:00 -06:00
+  body: |-
+    As a joint investor and property manager responsible for:
+
+    * Rehabilitating and Reselling over 20 properties while producing an average profit margin of 25% on investments
+    * Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
+    * Financing and accounting of project budgets to maintain workflow and to ensure profitability
+- company: Continental Airlines
+  position: Customer Relations Representative
+  start_date: 2007-01-01 00:00:00 -06:00
+  end_date: 2008-12-01 00:00:00 -06:00
+  body: |-
+    As a full - time employee working on behalf of the customer and company responsible for:
+
+    * Resolving conflicts in an equitable manner to ensure continued customer loyalty
+    * Managing cargo and ground logistics to ensure scheduled flight departure
+    * Coordinating airport security logistics with corresponding federal agencies
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
-  start_date: 
   end_date: 2004-05-01 01:00:00 -05:00
-  gpa: 
   location: Auburn, AL
   body: |-
     College of Business:
@@ -77,13 +75,13 @@ references:
     provide real value to a team. I recommend Joseph for a developer or QA position.
 skills:
 - name: C# and .NET
-  level: 3.0
+  level: 3
 - name: ANSI SQL
   level: 3.6
 - name: HTML, CSS, JS
   level: 3.6
 - name: Git
-  level: 4.0
+  level: 4
 - name: Diagnostics
   level: 3.9
 - name: ASP.NET
