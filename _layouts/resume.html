@@ -96,8 +96,9 @@ layout: default
 
 
   <!-- Work Row -->
-  {% assign works = page.work | push: class | sort: 'start_date', 'last' %}
+  {% assign works = page.work | sort: 'start_date', 'last' %}
   {% assign works = works | sort: 'end_date', 'last' | reverse %}
+  {% assign works = works | unshift: class %}
   {% assign company = "" %}
 
   <h4>Work</h4>
