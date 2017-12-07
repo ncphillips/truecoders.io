@@ -16,65 +16,69 @@ work:
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-03-01 00:00:00 -06:00
   body: |-
-    * Took customer's food and beverage orders.
-    * Delivered food and beverages to customers at address provided
-    * Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks.
-    * Cooked and sauced chicken wings and fries.
+    Handled all the requirements of a delivery driver:
+
+    - Took customer’s food and beverage orders
+    - Delivered food and beverages to customers at address provided
+    - Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks
+    - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
   position: Deli​ ​Sales​ ​Associate
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
   body: |-
-    * Prepared food for hot bar and wing trays.
-    * Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays.
-    * Sliced meat and cheese for party trays and individual orders.
-- company: Williams​ ​&​ ​Associates​
-  position: Administrative Assistant
-  start_date: 2009-06-01 01:00:00 -05:00
-  end_date: 2011-09-01 01:00:00 -05:00
-  body: |-
-    * Prepared documents for senior staff review.
-    * Supported and managed projects.
-    * Typed letters, memos, and other official business documents.
-    * Managed an exceptional filing system
-    * Answered and made calls regarding clients and contracts
+    Handled all the requirements of deli sales:
+
+    - Prepared food for hot bar and wing trays
+    - Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays
+    - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
   position: Surveyor
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
-    * Called lists of numbers searching for survey participants.
-    * Conducted surveys and filled in required information provided from various participants.
+    Conducted surveys and filled in required information provided from various participants:
+
+    - Called lists of numbers searching for survey participants
+- company: Williams​ ​&​ ​Associates​
+  position: Administrative Assistant
+  start_date: 2009-06-01 01:00:00 -05:00
+  end_date: 2011-09-01 01:00:00 -05:00
+  body: |-
+    Supported and managed projects:
+
+    - Prepared documents for senior staff review
+    - Typed letters, memos, and other official business documents
+    - Managed an exceptional filing system
+    - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
   position: Server
   start_date: 2009-04-01 01:00:00 -05:00
   end_date: 2010-02-01 00:00:00 -06:00
   body: |-
-    * Took and served customers food and beverage orders.
-    * Prepped and stocked utensils, condiments, ice, and garnishes for next shift.
+    Handled server requirements:
+
+    - Took and served customers food and beverage orders
+    - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
   position: Customer Service Representative
   start_date: 2008-03-01 00:00:00 -06:00
   end_date: 2008-06-01 01:00:00 -05:00
   body: |-
-    * Answered calls from Verizon Wireless customers regarding their wireless devices.
-    * Notated customers accounts upon resolving all cellular issues.
-    * Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about.
+    Answered calls from Verizon Wireless customers regarding their wireless devices:
+
+    - Notated customers accounts upon resolving all cellular issues
+    - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
   position: Administrative Assistant
   start_date: 2007-08-01 01:00:00 -05:00
   end_date: 2008-03-01 00:00:00 -06:00
   body: |-
-    * Typed letters, memos, and other official business documents.
-    * Gained knowledge of Microsoft Office and its components.
+    Handled administrative assistant requirements:
+
+    - Typed letters, memos, and other official business documents
+    - Gained knowledge of Microsoft Office and its components
 education:
-- institution: P.D.​ ​Jackson​ ​Olin​
-  area: GED
-  start_date: 
-  end_date: 2005-05-01 01:00:00 -05:00
-  gpa: 
-  location: Birmingham, AL
-  body: 
 - institution: Brown Mackie College
   area: Information Technology
   start_date: 
@@ -82,6 +86,13 @@ education:
   gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
+- institution: P.D.​ ​Jackson​ ​Olin​
+  area: GED
+  start_date: 
+  end_date: 2005-05-01 01:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: 
 references:
 - name: Cody Winton
   reference: Jessica has amazed me with her ability to both learn and accomplish any
