@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: INFP
 profiles:
   github: mweechzing
-  linkedin: micah-weech-b911a256
+  linkedin: micah-weech
   codewars: mweechzing
   video: 245988267
 work:
