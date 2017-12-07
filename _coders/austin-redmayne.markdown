@@ -16,48 +16,50 @@ work:
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
   body: |-
-    * Meeting a time commitment in order to keep restaurant running smoothly
-    * Team based employee operations
-    * Maintain alertness in full scope of the restaurants needs
+    Met time commitments in order to keep restaurant running smoothly:
+
+    - Handled team based employee operations
+    - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
   position: Server
   start_date: 2016-07-01 00:00:00 -05:00
   end_date: 2016-11-01 00:00:00 -05:00
   body: |-
-    * Adhering persistently to the changing pace and demand of the restaurant
-    * Communicating with customers to find out their specific needs
+    Adhered persistently to the changing pace and demand of the restaurant:
+
+    - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
   position: Server
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-11-01 00:00:00 -05:00
   body: |-
-    * Teamwork focused on ensuring all customers are satisfied with their service
-    * At times maintaining two or more different parts of the restaurant
-    * Constant driving pace
-    * Consistent flux of customers
+    Focused on teamwork to ensure all customers were satisfied with their service:
+
+    - Simultaneously maintained multiple parts of the restaurant
+    - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
   position: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00
   end_date: 2015-07-01 00:00:00 -05:00
   body: |-
-    * Setting up and maintaining a mobile store
-    * Helping customers decide what would be the best option for them
-    * Handling money using mobile pay options
+    Set up and maintained a mobile store:
+
+    - Helping customers decide what would be the best option for them
+    - Handling money using mobile pay options
+- company: Blue​ ​Coast​ ​Burrito
+  position: Store Employee
+  start_date: 2014-12-01 00:00:00 -06:00
+  end_date: 2015-03-01 00:00:00 -06:00
+  body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
   position: Cashier
   start_date: 2014-06-01 00:00:00 -05:00
   end_date: 2014-11-01 00:00:00 -05:00
   body: |-
-    * Assisting customers in locating products, at times helping them make a decision between multiple products
-    * Cleaning
-    * Operating a Cash Register
-- company: Blue​ ​Coast​ ​Burrito
-  position: Store Employee
-  start_date: 2014-12-01 00:00:00 -06:00
-  end_date: 2015-03-01 00:00:00 -06:00
-  body: |-
-    * Prepare and serve food
-    * Ensure the overall presentation of the restaurant
+    Assisted customers in locating products, at times helping them make a decision between multiple products:
+
+    - Cleaning
+    - Operating a Cash Register
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
