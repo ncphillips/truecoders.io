@@ -19,27 +19,28 @@ work:
     Worked with:
 
     1. New Life SDA Church
-    1. Mt. Zion SDA Church
-    1. New Hope SDA Church
-    1. Maranatha SDA Church
-    1. Oakwood University Church
+    2. Mt. Zion SDA Church
+    3. New Hope SDA Church
+    4. Maranatha SDA Church
+    5. Oakwood University Church
 
     Duties include:
 
-    * Oversee the affairs of the local church or district
-    * Responsible for church growth financially, spiritually and in membership
-    * Responsible for growing the congregation membership, financial base and spiritual growth
-    * Renovated both churches
-    * Trained and developed leaders on the local level
-    * Supported the community thru various initiatives focused on improving the quality of life in the areas surrounding the churches
-- company: Emmanuel Jr Academy
+    - Oversee the affairs of the local church or district
+    - Responsible for church growth financially, spiritually and in membership
+    - Renovated and maintain church facilities
+    - Trained and developed leaders on the local level
+    - Supported the community thru various initiatives focused on improving the quality of life in the areas surrounding the churches
+- company: Emmanuel Jr. Academy
   position: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-05-01 00:00:00 -05:00
   body: |-
-    * Taught k-10 as a substitute teacher.
-    * Computer class for grades 9&10
-    * PE class for grades 3-10
+    Handled the duties of a teacher:
+
+    - Taught k-10 as a substitute teacher
+    - Computer class for grades 9&10
+    - PE class for grades 3-10
 - company: Savannah College of Art and Design
   position: Teaching Assistant
   start_date: 2012-01-01 00:00:00 -06:00
@@ -50,17 +51,11 @@ work:
   start_date: 2008-08-01 01:00:00 -05:00
   end_date: 2010-07-01 01:00:00 -05:00
   body: |-
-    * Managed, recruited, and trained camera operators and sound engineers for church productions.
-    * Manage audio/visual equipment installation, maintenance and upgrades.
-    * Managed sale and distribution of content produced at Oakwood University Church.
+    Managed, recruited, and trained camera operators and sound engineers for church productions:
+
+    - Manage audio/visual equipment installation, maintenance and upgrades
+    - Managed sale and distribution of content produced at Oakwood University Church
 education:
-- institution: Oakwood University
-  area: Bachelor of Arts, Theology Pastoral/Evangelism
-  start_date: 
-  end_date: 2013-11-01 00:00:00 -05:00
-  gpa: 
-  location: Huntsville, AL
-  body: Minor in Biblical Languages
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
   start_date: 
@@ -68,6 +63,13 @@ education:
   gpa: 
   location: Savannah, GA
   body: Pending thesis
+- institution: Oakwood University
+  area: Bachelor of Arts, Theology Pastoral/Evangelism
+  start_date: 
+  end_date: 2013-11-01 00:00:00 -05:00
+  gpa: 
+  location: Huntsville, AL
+  body: Minor in Biblical Languages
 references:
 - name: Cody Winton
   reference: Micah is an out-of-the-box thinker that provides a different perspective
@@ -75,7 +77,7 @@ references:
     to provide value to a team. I'd recommend Micah for a database role.
 skills:
 - name: C# and .NET
-  level: 2.0
+  level: 2
 - name: ANSI SQL
   level: 2.9
 - name: HTML, CSS, JS
@@ -83,11 +85,11 @@ skills:
 - name: Git
   level: 2.9
 - name: Diagnostics
-  level: 2.0
+  level: 2
 - name: ASP.NET
   level: 2.6
 - name: Soft Skills
-  level: 2.0
+  level: 2
 - name: Attendance
   level: 1.1
 codewars_scores:
