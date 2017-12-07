@@ -15,33 +15,23 @@ work:
   position: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
-  body: |-
-    I have served as an English department chair, been part of our school leadership/professional
+  body: "I have served as an English department chair, been part of our school leadership/professional
     development team and a system-wide gifted placement team. During the last three
     years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl
-    and Science Olympiad.
-
-    I have used the Hour of Code curriculum to develop coding
+    and Science Olympiad.\n\nI have used the Hour of Code curriculum to develop coding
     lessons for my gifted students each year for the past 4 years. I have primarily
     been my school’s gifted specialist, teaching various courses and leading a number
-    of activities:
-
-    * Enrichment & Technology, 6th-8th grades
-    * Problem Solving Rotation, 6th grade
-    * English/Language Arts, 7th-8th grades
-    * Yearbook, 7th-8th grades
-    * Reading, 6th grade
-    * Creative Dramatics, 7th-8th grades
+    of activities:\n\n- Enrichment & Technology, 6th-8th grades \n- Problem Solving
+    Rotation, 6th grade\n- English/Language Arts, 7th-8th grades\n- Yearbook, 7th-8th
+    grades\n- Reading, 6th grade\n- Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
   position: Jr. High School, Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
-  body: |-
-    I served as an English department chair, sponsored National Jr. Honor Society, coached Scholars Bowl, and coached our high school’s soccer team.
-
-    * English/Language Arts, 8th-9th grades
-    * American History, 9th grade
-    * Language Arts elective, 8th grade
+  body: "I served as an English department chair, sponsored National Jr. Honor Society,
+    coached Scholars Bowl, and coached our high school’s soccer team. \n\n- English/Language
+    Arts, 8th-9th grades\n- American History, 9th grade\n- Language Arts elective,
+    8th grade"
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
@@ -97,7 +87,7 @@ codewars_scores:
 - 228
 ---
 
-Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference.
+Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference:
 
 * ​​Critical and creative thinking, problem solving
 * Excellent written and spoken communication, able to interpret upper-level concepts
