@@ -11,31 +11,30 @@ profiles:
   codewars: connor_davis98
   video: 245988218
 work:
+- company: Pelham Raquet Club
+  position: Tennis Instructor
+  start_date: 2015-12-01 00:00:00 -06:00
+  end_date: 
+  body: Work with, and instruct, a wide variety of people as well as coaching for
+    a teen league.
 - company: Garywood Assembly of God
   position: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
-    * Ran ProPresenter and MainStage
-    * Worked with wide range of multi-effects boards
-- company: Pelham Raquet Club
-  position: Tennis Instructor
-  start_date: 2015-12-01 00:00:00 -06:00
-  end_date: 
-  body: |-
-    * Worked with wide range of people groups/types
-    * Coach for teen league
+    Worked with a number of different media/audio tools:
+
+    - Ran ProPresenter and MainStage
+    - Handled a wide range of multi-effects boards
 education:
 - institution: Hope Christian High School
   area: High School Diploma
-  start_date: 
   end_date: 2017-05-01 00:00:00 -05:00
-  gpa: 
   location: Birmingham, AL
   body: |-
     Graduated with AAD:
 
-    * Outstanding Athlete
+    - Outstanding Athlete
 references:
 - name: Cody Winton
   reference: Connor is tenacious and competitive and has showed himself skilled in
