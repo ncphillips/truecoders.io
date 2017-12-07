@@ -35,7 +35,7 @@ work:
   position: Lifeguard
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-10-01 00:00:00 -05:00
-  body: 
+  body: Handled lifeguard requirements.
 education:
 - institution: Homeschool
   area: High School Diploma
