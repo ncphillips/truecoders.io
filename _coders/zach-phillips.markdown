@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: ISTJ
 profiles:
   github: zachstagrammer
-  linkedin: zach-phillips-087135152
+  linkedin: zachjphillips
   codewars: zachstagrammer
   video: 245988282
 work:
