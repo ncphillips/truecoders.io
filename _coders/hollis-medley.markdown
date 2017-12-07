@@ -11,35 +11,32 @@ profiles:
   codewars: hmedley
   video: 245988235
 work:
-- company: Petland
-  position: Kennel Technician
-  start_date: 2016-03-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
-  body: |-
-    * Cleaning up after dogs
-    * A little bit of trimming and bath
-    * Experienced in giving vaccinations
-- company: YMCA
-  position: Lifeguard
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2015-10-01 00:00:00 -05:00
-  body: 
 - company: Tractor Supply Co
   position: Cashier/Team Member
   start_date: 2017-04-01 00:00:00 -05:00
   end_date: 
   body: |-
-    * Sales
-    * Cashier
-    * Shelf stocker
+    Handled team requirements:
+
+    - Sales
+    - Cashier
+    - Shelf stocker
+- company: Petland
+  position: Kennel Technician
+  start_date: 2016-03-01 00:00:00 -06:00
+  end_date: 2017-01-01 00:00:00 -06:00
+  body: |-
+    Handled kennel requirements:
+
+    - Cleaning up after dogs
+    - A little bit of trimming and bath
+    - Experienced in giving vaccinations
+- company: YMCA
+  position: Lifeguard
+  start_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  body: 
 education:
-- institution: Lawson State
-  area: 
-  start_date: 
-  end_date: 
-  gpa: 
-  location: Birmingham, AL
-  body: Dual Enrollment
 - institution: Homeschool
   area: High School Diploma
   start_date: 
@@ -47,6 +44,13 @@ education:
   gpa: 
   location: 
   body: 
+- institution: Lawson State
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: Birmingham, AL
+  body: Dual Enrollment
 - institution: Trenholm State
   area: 
   start_date: 
@@ -70,7 +74,7 @@ skills:
 - name: C# and .NET
   level: 2.9
 - name: ANSI SQL
-  level: 3.0
+  level: 3
 - name: HTML, CSS, JS
   level: 3.6
 - name: Git
