@@ -16,18 +16,21 @@ work:
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
-    * Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer
-    * Mange route scheduling and equipment
-    * Maintain company vehicles under strict guidelines and maintenance schedules
+    Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer:
+
+    - Managed route scheduling and equipment
+    - Maintained company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
   position: Detailer
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
-    * Responsible for Employee scheduling on a weekly basis.
-    * Processed payroll and other HR functions as needed
-    * Managed sales and new customer recruitment dry-calls and solicitation
-    * Provided new employees a complete training package from customer standards to basic detailing and customer service skills.
+    Handled car detailing for customers:
+
+    - Responsible for Employee scheduling on a weekly basis
+    - Processed payroll and other HR functions as needed
+    - Managed sales and new customer recruitment dry-calls and solicitation
+    - Provided new employees a complete training package from customer standards to basic detailing and customer service skills
 education:
 - institution: Jefferson State Community College
   area: 
