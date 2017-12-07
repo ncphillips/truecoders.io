@@ -9,13 +9,7 @@ layout: default
 
   <!-- Image, Title, Content Row -->
   <div class="row">
-    <div class="col-1">
-      <a class="resume-action-button" href="{{ "coders" | relative_url }}" style="color:#212529; margin: 0px 10px;">
-        <i class="fa fa-chevron-left fa-lg"></i>
-      </a>
-    </div>
-
-    <div class="col-10" style="text-align:center;">
+    <div class="col-12" style="text-align:center;">
 
       {% if page.image %}
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:144px; border-radius:50%">
@@ -28,14 +22,6 @@ layout: default
       <strong>{{ page.class }} Graduate</strong>
       {% endif %}
 
-    </div>
-
-    <div class="col-1" style="text-align:end;">
-      <!--
-      <a class="resume-action-button" href="{{ "/resumes/" | append: page.slug | append: ".pdf" }}" target="_blank" style="color:#212529; margin: 0px 10px;">
-        <i class="fa fa-external-link fa-lg"></i>
-      </a>
-      -->
     </div>
   </div>
 
@@ -85,6 +71,14 @@ layout: default
           </a>
         </li>
         {% endif %}
+
+        <!-- Download Button
+        <li class="list-inline-item">
+          <a class="resume-action-button" href="{{ "/resumes/" | append: page.slug | append: ".pdf" }}" target="_blank" style="color:#212529; margin: 0px 10px;">
+            <i class="fa fa-external-link fa-lg"></i> Download
+          </a>
+        </li>
+        -->
       </ul>
     </div>
   </div>
