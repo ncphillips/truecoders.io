@@ -159,9 +159,14 @@ layout: default
         {% if education.location %}
         {{ education.location }}<br/>
         {% endif %}
-        {{ education.area | default: education.course }}{% if education.gpa %}
-        | GPA: {{ education.gpa | times: 1.0 }}
-        {% endif %}<br/>
+
+        {% if education.area or education.course %}
+        {{ education.area | default: education.course }}<br/>
+        {% endif %}
+
+        {% if education.gpa %}
+        GPA: {{ education.gpa | times: 1.0 }}<br/>
+        {% endif %}
 
         {% if education.start_date %}
         {{ education.start_date | date: "%b %Y" | upcase }} - 
