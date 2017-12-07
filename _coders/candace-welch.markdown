@@ -16,28 +16,39 @@ work:
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 
   body: |-
-    * Developed and maintained customized WordPress based websites.
-    * Completed web development training in order to prepare for transitioning into a primarily development role.
-    * Worked directly alongside of clients to break down project requirements and manage task creation.
-    * Applied custom Ul/UX concepts to generic templates in order to successfully satisfy customer requirements
-    * Created responsive design to ensure mobile compatibility for custom websites.
-    * Developed and designed branding, packaging, & animations for various projects.
+    Completed web development training in order to prepare for transitioning into a primarily development role:
+
+    - Develop and maintain customized WordPress based websites
+    - Work directly alongside of clients to break down project requirements and manage task creation
+    - Apply custom Ul/UX concepts to generic templates in order to successfully satisfy customer requirements
+    - Create responsive design to ensure mobile compatibility for custom websites
+    - Develop and design branding, packaging, & animations for projects
 - company: Costco Wholesale
   position: Produce Merchandiser
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2017-02-01 00:00:00 -06:00
   body: |-
-    * Designed floor layout for produce department to maximize product turnover.
-    * Reported inventory errors to management to quickly correct stocking issues and avoid runaway over/under stocking.
-    * Ensured accurate records of inbound shipments.
-    * Maintained business to business relationships with local restaurants in order to promote Costco community involvement.
+    Maintained business to business relationships with local restaurants in order to promote Costco community involvement:
+
+    - Designed floor layout for produce department to maximize product turnover
+    - Reported inventory errors to management to quickly correct stocking issues and avoid runaway over/under stocking
+    - Ensured accurate records of inbound shipments
 - company: RSVP Magazine
   position: Graphic Design Intern
   start_date: 2016-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
-  body: 'Several ads were completed for the July/August 2016 edition of RSVP. In addition
-    to designing two event flyers: the “RSViP Riverboat Cruise” and the Release Party
-    for the July/August Edition.'
+  body: |-
+    Completed several ads for the July/August 2016 edition of RSVP, in addition to designing two event flyers:
+
+    - RSViP Riverboat Cruise
+    - Release Party for the July/August Edition
+- company: Wetumpka Area Chamber of Commerce
+  position: Graphic Design Intern
+  start_date: 2016-06-01 00:00:00 -05:00
+  end_date: 2016-07-01 00:00:00 -05:00
+  body: During the internship, I was allowed the opportunity to designing a new Billboard
+    concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
+    for the Chamber to use for a "Shop Local" campaign.
 - company: Gumptionneers
   position: Graphic Design Intern
   start_date: 2016-06-01 00:00:00 -05:00
@@ -46,23 +57,17 @@ work:
     weeks. During this time, projects were completed to improve different aspects
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
-- company: Wetumpka Area Chamber of Commerce
-  position: Graphic Design Intern
-  start_date: 2016-06-01 00:00:00 -05:00
-  end_date: 2016-07-01 00:00:00 -05:00
-  body: During the internship, I was allowed the opportunity to designing a new Billboard
-    concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
-    for the Chamber to use for a "Shop Local" campaign.
 - company: Square Root Interactive
   position: Account Coordinator
   start_date: 2014-08-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
-    * Handled customer relationships between twelve total past and current accounts.
-    * Created project scheduling, milestone completion, and project outlook reports to accurately determine the health of the project.
-    * Managed bug fix distribution for seven person team to improve team efficiency.
-    * Provided team with detailed bug reports to lower time between breaks and fixes.
-    * Ensured product quality by testing features in multiple environments.
+    Handled customer relationships between twelve total past and current accounts:
+
+    - Created project scheduling, milestone completion, and project outlook reports to accurately determine the health of the project
+    - Managed bug fix distribution for seven person team to improve team efficiency
+    - Provided team with detailed bug reports to lower time between breaks and fixes
+    - Ensured product quality by testing features in multiple environments
 education:
 - institution: Auburn University at Montgomery
   area: Graphic Design
@@ -71,11 +76,12 @@ education:
   gpa: 
   location: Montgomery, AL
   body: |-
-    Graduated Cum Laude:
+    Activities and Societies:
 
-    * Phi Eta Sigma Honor Society
-    * The National Society of Collegiate Scholars
-    * Phi Kappa Phi Honor Society
+    - Cum Laude
+    - Phi Eta Sigma Honor Society
+    - The National Society of Collegiate Scholars
+    - Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
   area: High School Diploma
   start_date: 
