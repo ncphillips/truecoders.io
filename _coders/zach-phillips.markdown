@@ -13,30 +13,32 @@ profiles:
 work:
 - company: Market Cove LLC
   position: Owner
-  start_date: 2015-01-01 00:00:00 -06:00
+  start_date: 2015-05-01 00:00:00 -05:00
   end_date: 
   body: |-
-    Research, Purchase, and Sell Products on Amazon marketplace:
+    Owned and Operated E-commerce Business:
 
-    - Provide customer support
-    - Create and update Amazon product listings
-    - Import order reports from Amazon into ledger providing relevant data
-    - Analyze and manage shipping products to Amazon warehouses
+    - Research, Purchase, and Sell Products on Amazon Marketplace
+    - Provided customer support
+    - Created and updated Amazon product listings
+    - Imported order reports from Amazon into Excel spreadsheets for analysis
+    - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
   position: Website Administration
-  start_date: 2011-01-01 00:00:00 -06:00
+  start_date: 2012-04-01 00:00:00 -05:00
   end_date: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
   position: Tech Support
-  start_date: 2015-01-01 00:00:00 -06:00
+  start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2017-09-29 00:00:00 -05:00
   body: |-
-    Provided technical support for Mac systems, printers, and E-commerce website:
+    Tech Support and Shipping Manager:
 
+    - Provided technical support for Mac systems, printers, and E-commerce website
     - Maintained E-commerce website, providing updates and creating listings for new products
     - Created and updated Amazon and Ebay product listings
-    - Imported order reports from Amazon into ledger providing relevant data
+    - Imported order reports from Amazon into Excel spreadsheets for analysis
     - Analyzed and managed shipping products to Amazon warehouses
 education:
 - institution: Christ Church School
