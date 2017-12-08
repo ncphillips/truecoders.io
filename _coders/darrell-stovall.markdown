@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: INTJ
 profiles:
   github: darrellstovall
-  linkedin: darrell-stovall-222857151
+  linkedin: darrellstovall
   codewars: darrellstovall
   video: 245988227
 work:
@@ -15,6 +15,7 @@ work:
   position: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
+  location: 
   body: "I have served as an English department chair, been part of our school leadership/professional
     development team and a system-wide gifted placement team. During the last three
     years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl
@@ -53,12 +54,6 @@ education:
     Secondary Education:
 
     * English and Economics Certification
-references:
-- name: Cody Winton
-  reference: Darrel is anxious to learn and do well in his career as a programmer
-    and possesses a real ability to both learn and teach others what he knows. His
-    work ethic and ability to grasp complex problems make him a real asset to any
-    team. I'd recommend Darrel for a programming position.
 skills:
 - name: C# and .NET
   level: 3.3
@@ -76,6 +71,12 @@ skills:
   level: 4.7
 - name: Attendance
   level: 5
+references:
+- name: Cody Winton
+  reference: Darrel is anxious to learn and do well in his career as a programmer
+    and possesses a real ability to both learn and teach others what he knows. His
+    work ethic and ability to grasp complex problems make him a real asset to any
+    team. I'd recommend Darrel for a programming position.
 codewars_scores:
 - 39
 - 49
