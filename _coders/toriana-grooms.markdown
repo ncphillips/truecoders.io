@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: ESTJ
 profiles:
   github: torigrooms
-  linkedin: toriana-grooms-506853151
+  linkedin: toriana-grooms
   codewars: torigrooms
   video: 245988278
 work:
