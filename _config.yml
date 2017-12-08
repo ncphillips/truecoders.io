@@ -80,14 +80,12 @@ defaults:
       gpa: 
       location: 
       body: 
-    references:
-    - name: 
-      reference: 
     skills:
     - name: 
       level: 0
-    codewars_scores:
-    - 0
+    references:
+    - name: 
+      reference: 
 - scope:
     path: ''
     type: courses
