@@ -33,7 +33,7 @@ work:
     Ross Enterprise.
 - company: Personal Front-End Projects
   position: Owner
-  start_date: 2001-01-01 00:00:00 -06:00
+  start_date: 2017-04-01 00:00:00 -05:00
   end_date: 
   location: Birmingham, AL
   body: |-
