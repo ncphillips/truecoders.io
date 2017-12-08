@@ -12,7 +12,7 @@ work:
   position: Software Engineer
   start_date: 2004-11-01 00:00:00 -06:00
   end_date: 2016-04-01 00:00:00 -05:00
-  location: "\x11Birmingham, AL"
+  location: Birmingham, AL
   body: |-
     A Fortune 500 company that distributes health care systems, medical supplies, and pharmaceutical products with more than 65,000 employees and $190 Billion in annual revenue:
 
@@ -49,6 +49,47 @@ education:
   start_date: 1981-08-01 01:00:00 -05:00
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
+skills:
+- name: Soft Skills
+  level: 4
+- name: C# and .NET
+  level: 1
+- name: ANSI SQL
+  level: 3
+- name: HTML, CSS, JS
+  level: 3
+- name: SVN and Git
+  level: 2
+- name: Diagnostics
+  level: 3
+- name: ASP.NET MVC
+  level: 1
+- name: Apache Ant
+  level: 3
+- name: Java
+  level: 3
+- name: XSLT
+  level: 2
+- name: Micro-Focus COBOL(Server Express)
+  level: 5
+- name: S/36 COBOL
+  level: 5
+- name: RPG II
+  level: 5
+- name: Korn/Bash Shell Scripting
+  level: 4
+- name: Jenkins CI
+  level: 3
+- name: Apache Tomcat
+  level: 4
+- name: Linux(Red Hat, Ubuntu), Windows, AIX
+  level: 3
+- name: Eclipse
+  level: 4
+- name: Net Beans
+  level: 4
+- name: 'SSH/Telnet Client: PuTTY'
+  level: 3
 ---
 
 Software Engineer/Programmer Analyst with over 10 years of experience in Software Development, Support and Maintenance with the ability to design, develop and implement all aspects of a complex project. Seeking an employment opportunity in website development or software development. Interested in:
