@@ -56,7 +56,7 @@ skills:
   level: 3
 - name: HTML, CSS, JS
   level: 3
-- name: SVN andGit
+- name: SVN, Git
   level: 2
 - name: Apache Ant
   level: 3
@@ -64,19 +64,15 @@ skills:
   level: 3
 - name: XSLT
   level: 2
-- name: Korn/Bash Shell Scripting
+- name: Korn/Bash Shell
   level: 4
-- name: Jenkins CI
-  level: 3
 - name: Apache Tomcat
   level: 4
-- name: Linux(Red Hat, Ubuntu), Windows, AIX
-  level: 3
-- name: IDE’s-Eclipse & Net Beans
+- name: Eclipse, Net Beans
   level: 4
-- name: 'SSH/Telnet Client: PuTTY'
+- name: SSH, PuTTY
   level: 3
-- name: Micro-Focus COBOL
+- name: COBOL
   level: 5
 ---
 
