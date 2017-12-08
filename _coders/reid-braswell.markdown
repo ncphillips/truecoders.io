@@ -29,6 +29,18 @@ work:
   body: Developed and maintained applications for the steel industry using Gembase
     that accessed an Oracle database. Gembase is a database and runtime engine from
     Ross Enterprise.
+- company: Personal Front-End Projects
+  position: Owner
+  start_date: 2001-01-01 00:00:00 -06:00
+  end_date: 
+  location: Birmingham, AL
+  body: |-
+    Front-End development on several projects involving HTML, CSS, JavaScript, jQuery, and Bootstrap:
+
+    - [Tribute Page](https://codepen.io/heptode/full/yXPGLj/)
+    - [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
+    - [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
+    - [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
 ---
 
 Software Engineer/Programmer Analyst with over 10 years of experience in Software Development, Support and Maintenance with the ability to design, develop and implement all aspects of a complex project. Seeking an employment opportunity in website development or software development. Interested in:
