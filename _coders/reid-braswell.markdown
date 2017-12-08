@@ -16,10 +16,10 @@ work:
   body: |-
     Front-End development on several projects involving HTML, CSS, JavaScript, jQuery, and Bootstrap:
 
-    - [Tribute Page](https://codepen.io/heptode/full/yXPGLj/)
-    - [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
-    - [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
-    - [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
+    * [Tribute Page](https://codepen.io/heptode/full/yXPGLj/)
+    * [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
+    * [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
+    * [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
 - company: McKesson Pharmacy Systems
   position: Software Engineer
   start_date: 2004-11-01 00:00:00 -06:00
