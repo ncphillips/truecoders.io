@@ -58,6 +58,15 @@ defaults:
   values:
     layout: resume
     image: 
+    email: 
+    phone: 
+    website: 
+    location:
+      address: 
+      postalCode: 
+      city: 
+      countryCode: US
+      region: 
     class: 
     personality_type: 
     profiles:
