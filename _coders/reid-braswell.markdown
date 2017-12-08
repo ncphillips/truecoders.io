@@ -51,31 +51,19 @@ education:
   location: Birmingham, AL
 skills:
 - name: Soft Skills
-  level: 4
-- name: C# and .NET
-  level: 1
+  level: 3
 - name: ANSI SQL
   level: 3
 - name: HTML, CSS, JS
   level: 3
-- name: SVN and Git
+- name: SVN andGit
   level: 2
-- name: Diagnostics
-  level: 3
-- name: ASP.NET MVC
-  level: 1
 - name: Apache Ant
   level: 3
 - name: Java
   level: 3
 - name: XSLT
   level: 2
-- name: Micro-Focus COBOL(Server Express)
-  level: 5
-- name: S/36 COBOL
-  level: 5
-- name: RPG II
-  level: 5
 - name: Korn/Bash Shell Scripting
   level: 4
 - name: Jenkins CI
@@ -84,12 +72,12 @@ skills:
   level: 4
 - name: Linux(Red Hat, Ubuntu), Windows, AIX
   level: 3
-- name: Eclipse
-  level: 4
-- name: Net Beans
+- name: IDE’s-Eclipse & Net Beans
   level: 4
 - name: 'SSH/Telnet Client: PuTTY'
   level: 3
+- name: Micro-Focus COBOL
+  level: 5
 ---
 
 Software Engineer/Programmer Analyst with over 10 years of experience in Software Development, Support and Maintenance with the ability to design, develop and implement all aspects of a complex project. Seeking an employment opportunity in website development or software development. Interested in:
