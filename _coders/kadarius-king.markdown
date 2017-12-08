@@ -11,6 +11,16 @@ profiles:
   codewars: KaDarius
   video: 245988254
 work:
+- company: BBVA Compass
+  position: Financial Sales Consultant
+  start_date: 2016-12-01 00:00:00 -06:00
+  end_date: 2017-10-01 00:00:00 -05:00
+  body: |-
+    Handled the duties of a financial sales consultant:
+
+    - Manage and implement new and revised policies centered around Outreach and Workplace business growth
+    - Prepare credit and financial information to streamline loan processing for mortgage, installment, and CRA loans in accordance with internal and federal policies and procedures
+    - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: PNC Bank
   position: Financial Sales Consultant
   start_date: 2014-01-01 00:00:00 -06:00
