@@ -7,7 +7,7 @@ class: Alpha C#
 personality_type: ESTJ
 profiles:
   github: HoltkampN
-  linkedin: noah-holtkamp-1003b9100
+  linkedin: noah-holtkamp
   codewars: HoltkampN
   video: 245988271
 work:
