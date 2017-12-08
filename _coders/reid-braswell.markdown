@@ -2,6 +2,7 @@
 title: Reid Braswell
 date: 2017-12-07 13:31:00 -06:00
 position: 17
+personality_type: ISTJ
 profiles:
   github: reidbraswell1
   linkedin: reid-braswell
@@ -10,7 +11,6 @@ work:
   position: Software Engineer
   start_date: 2004-11-01 00:00:00 -06:00
   end_date: 2016-04-01 00:00:00 -05:00
-  location: "\x11Birmingham, AL"
   body: |-
     A Fortune 500 company that distributes health care systems, medical supplies, and pharmaceutical products with more than 65,000 employees and $190 Billion in annual revenue:
 
@@ -21,6 +21,7 @@ work:
     - Developed and maintained Bash or Korn shell scripts required by COBOL applications and Java build jobs that ran on a LINUX / AIX operating system.
     - Maintained several Jenkins CI build jobs for both COBOL and Java web-based applications.
     - Maintained SSL certificates.
+  location: "\x11Birmingham, AL"
 - company: Birmingham Steel
   position: Software Developer
   start_date: 2001-01-01 00:00:00 -06:00
