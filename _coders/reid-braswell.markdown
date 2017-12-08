@@ -41,6 +41,12 @@ work:
     - [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
     - [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
     - [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
+education:
+- institution: University of Alabama Birmingham
+  area: Bachelor of Science in Computer Science
+  start_date: 1981-08-01 01:00:00 -05:00
+  end_date: 1992-05-01 01:00:00 -05:00
+  location: Birmingham, AL
 ---
 
 Software Engineer/Programmer Analyst with over 10 years of experience in Software Development, Support and Maintenance with the ability to design, develop and implement all aspects of a complex project. Seeking an employment opportunity in website development or software development. Interested in:
