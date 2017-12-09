@@ -10,6 +10,7 @@ subtitle: Thorough training in all things Java
 image: "/uploads/java-logo.jpg"
 price: "$10,000"
 subjects:
+- Java
 - Source Control
 - Utilities
 - Testing

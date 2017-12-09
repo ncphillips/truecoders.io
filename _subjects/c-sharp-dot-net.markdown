@@ -1,5 +1,5 @@
 ---
-title: C# and ASP.NET MVC
+title: C# and .NET
 date: 2017-09-12 01:29:00 -05:00
 position: 0
 ---

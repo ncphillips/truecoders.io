@@ -12,7 +12,8 @@ start_date: 2018-01-02 07:00:00 -06:00
 weeks_length: 8
 price: "$10,000"
 subjects:
-- C# and ASP.NET MVC
+- C# and .NET
+- ASP.NET MVC
 - Source Control
 - Utilities
 - Testing
