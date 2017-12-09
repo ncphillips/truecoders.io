@@ -3,7 +3,7 @@ title: Course Failure
 date: 2017-09-22 16:42:00 -05:00
 categories:
 - courses
-position: 11
+position: 10
 display_title: Can I fail the course?
 ---
 
