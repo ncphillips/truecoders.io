@@ -3,7 +3,7 @@ title: Course Experience
 date: 2017-09-22 16:37:00 -05:00
 categories:
 - courses
-position: 6
+position: 5
 display_title: Do I need programing experience to take this course?
 ---
 
