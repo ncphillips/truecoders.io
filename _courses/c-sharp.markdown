@@ -11,6 +11,7 @@ image: "/uploads/c-sharp-logo.jpg"
 start_date: 2018-01-02 07:00:00 -06:00
 weeks_length: 8
 price: "$10,000"
+page: courses
 subjects:
 - C# and .NET
 - ASP.NET MVC
