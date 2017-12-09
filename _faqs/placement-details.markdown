@@ -3,7 +3,7 @@ title: Placement Details
 date: 2017-09-22 16:35:00 -05:00
 categories:
 - placement
-position: 5
+position: 15
 display_title: How does placement work after the course?
 ---
 
