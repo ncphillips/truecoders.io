@@ -3,7 +3,7 @@ title: Cost Scholarship
 date: 2017-09-22 16:43:00 -05:00
 categories:
 - cost
-position: 15
+position: 14
 display_title: What is included with the scholarship?
 ---
 
