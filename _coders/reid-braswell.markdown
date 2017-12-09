@@ -56,10 +56,12 @@ skills:
   level: 3
 - name: HTML, CSS, JS
   level: 3
-- name: SVN, Git
+- name: jQuery, Bootstrap
+  level: 3
+- name: SVN,Git
   level: 2
 - name: Apache Ant
-  level: 3
+  level: 2
 - name: Java
   level: 3
 - name: XSLT
@@ -72,7 +74,7 @@ skills:
   level: 4
 - name: SSH, PuTTY
   level: 3
-- name: COBOL
+- name: RPGII, COBOL
   level: 5
 ---
 
