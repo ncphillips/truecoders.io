@@ -224,13 +224,14 @@ company:
     unit: "#1015"
     city: Birmingham
     state: AL
-    zip: '35203'
+    zip: 35203
 description: |-
   Be Mentored. Be Connected.
 
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 google_analytics:
   tracking_id: UA-104643272-1
+remote_theme: truecodersio/truecodersio_jekyll_theme
 social:
   name: TrueCoders
   links:
@@ -258,4 +259,3 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
-remote_theme: truecodersio/truecodersio_jekyll_theme
