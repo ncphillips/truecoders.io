@@ -120,6 +120,11 @@ defaults:
       url: 
 - scope:
     path: ''
+    type: faqs
+  values:
+    display_title: 
+- scope:
+    path: ''
     type: page_sections
   values:
     display_title: 
