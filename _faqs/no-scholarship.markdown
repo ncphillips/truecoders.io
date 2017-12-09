@@ -2,7 +2,7 @@
 title: Courses No Scholarship
 date: 2017-09-22 16:41:00 -05:00
 categories:
-- courses
+- cost
 position: 14
 display_title: What happens if I don't get the scholarship?
 ---
