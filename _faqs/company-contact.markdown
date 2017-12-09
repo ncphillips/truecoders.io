@@ -7,3 +7,4 @@ position: 3
 display_title: How do I get in touch with you?
 ---
 
+We'd love to hear from you. To get in touch with us, head over to our [contact page](/contact).

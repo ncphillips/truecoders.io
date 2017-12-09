@@ -9,7 +9,7 @@ display_title: Can I fail the course?
 
 It is in the best interest of TrueCoders to make sure you graduate the course with flying colors. However, there are several ways you can fail the course:
 
-1. Not showing up to class or missing several class days
-1. Misconduct of any kind
-1. Failing course assignments too many weeks in a row
-1. Not doing assignments the instructors assign to you
+* Consisten lack of attendance and/or punctuality
+* Misconduct or law breaking of any kind
+* Consistently failing course material and assignments
+* Disregard or disrespect for instructors

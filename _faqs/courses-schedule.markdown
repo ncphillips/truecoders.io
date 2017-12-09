@@ -7,4 +7,4 @@ position: 6
 display_title: What is the schedule of your courses?
 ---
 
-Our courses will tend to go from 8am-2pm Monday through Friday at TrueCoders HQ located in downtown Birmingham, AL. Check out our [Courses](/courses) page for more details.
+Most of our courses will tend to go from 8am-2pm Monday through Friday at TrueCoders HQ located in downtown Birmingham, AL. Check out our [Courses](/courses) page for individual course details.

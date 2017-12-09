@@ -7,4 +7,4 @@ position: 2
 display_title: Are you Accredited?
 ---
 
-Currently, we are not an accredited institution.
+Currently, we are not an accredited institution, but this is something we would certainly consider securing in future.

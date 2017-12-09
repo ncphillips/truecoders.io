@@ -7,4 +7,4 @@ position: 4
 display_title: How much does a course cost?
 ---
 
-The normal cost is $10,000, but you can apply for a scholarship.
+The normal cost for attending a TrueCoders course is $10,000. However, for almost every course, we do have a small number of scholarships available. Head over to our [courses page](/courses) to get more information.

@@ -7,4 +7,4 @@ position: 10
 display_title: Do I ever have to pay back the scholarship?
 ---
 
-You are not required to pay back the scholarship if you complete the scholarship obligations following the end of the course.
+You are not required to pay back the scholarship if you complete all youyr scholastic obligations following the end of the course.

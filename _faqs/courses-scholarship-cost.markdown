@@ -7,4 +7,4 @@ position: 9
 display_title: Is there any course cost if I get the scholarship?
 ---
 
-If you receive an scholarship and meet your scholarship obligations, there is no cost to you for the course.
+If you receive a scholarship and meet all of your scholastic obligations, there is no cost to you for the course.

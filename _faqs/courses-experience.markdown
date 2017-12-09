@@ -7,4 +7,4 @@ position: 7
 display_title: Do I need programing experience to take this course?
 ---
 
-We don't require students attending our courses to have programing experience before joining but we do require you to take a special test that we have designed to assess if the course is right for you.
+We don't require students attending our courses to have programing experience before joining, but we do require you to take an aptitude that we have designed to assess if the course is right for you.
