@@ -258,3 +258,4 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
+remote_theme: truecodersio/truecoders.io_theme
