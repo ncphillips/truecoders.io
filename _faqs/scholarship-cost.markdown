@@ -3,7 +3,7 @@ title: Cost Scholarship
 date: 2017-09-22 16:39:00 -05:00
 categories:
 - cost
-position: 7
+position: 12
 display_title: Is there any course cost if I get the scholarship?
 ---
 
