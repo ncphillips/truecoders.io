@@ -1,5 +1,5 @@
 ---
-title: Scholarship Payback
+title: Cost Scholarship Payback
 date: 2017-09-22 16:39:00 -05:00
 categories:
 - cost

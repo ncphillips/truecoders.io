@@ -1,5 +1,5 @@
 ---
-title: No Scholarship
+title: Cost No Scholarship
 date: 2017-09-22 16:41:00 -05:00
 categories:
 - cost
