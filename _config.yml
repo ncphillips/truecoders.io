@@ -48,10 +48,15 @@ defaults:
     course: 
     start_date: 
     end_date: 
+    price: 
+    has_scholarship: true
     location: Birmingham, AL
     institution: TrueCoders
     company: TrueCoders
     position: Developer
+    call_to_action:
+      title: 
+      url: 
 - scope:
     path: ''
     type: coders
