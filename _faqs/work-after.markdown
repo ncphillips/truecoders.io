@@ -1,5 +1,5 @@
 ---
-title: Courses Work After
+title: Work After Course
 date: 2017-09-22 16:41:00 -05:00
 categories:
 - placement

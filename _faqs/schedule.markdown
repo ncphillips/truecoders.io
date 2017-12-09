@@ -1,5 +1,5 @@
 ---
-title: Courses Schedule
+title: Course Schedule
 date: 2017-09-22 16:36:00 -05:00
 categories:
 - courses

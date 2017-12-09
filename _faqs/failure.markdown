@@ -1,5 +1,5 @@
 ---
-title: Courses Failure
+title: Course Failure
 date: 2017-09-22 16:42:00 -05:00
 categories:
 - courses

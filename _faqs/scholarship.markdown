@@ -1,5 +1,5 @@
 ---
-title: Courses Scholarship
+title: Scholarship
 date: 2017-09-22 16:43:00 -05:00
 categories:
 - cost

@@ -1,5 +1,5 @@
 ---
-title: Courses Scholarship Cost
+title: Scholarship Cost
 date: 2017-09-22 16:39:00 -05:00
 categories:
 - cost

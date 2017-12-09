@@ -1,5 +1,5 @@
 ---
-title: Courses Placement
+title: Placement
 date: 2017-09-22 16:35:00 -05:00
 categories:
 - placement

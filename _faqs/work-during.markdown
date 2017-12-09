@@ -1,5 +1,5 @@
 ---
-title: Courses Work During
+title: Work During Course
 date: 2017-09-22 16:40:00 -05:00
 categories:
 - courses
