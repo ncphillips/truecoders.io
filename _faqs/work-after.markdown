@@ -3,7 +3,7 @@ title: Placement Work After
 date: 2017-09-22 16:41:00 -05:00
 categories:
 - placement
-position: 13
+position: 12
 display_title: Do I get to work for TrueCoders after the course is done?
 ---
 

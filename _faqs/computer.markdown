@@ -3,7 +3,7 @@ title: Courses Computer
 date: 2017-09-22 16:40:00 -05:00
 categories:
 - courses
-position: 11
+position: 10
 display_title: Do you provide a computer to your students?
 ---
 
