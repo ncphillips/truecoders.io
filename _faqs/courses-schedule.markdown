@@ -3,7 +3,7 @@ title: Courses Schedule
 date: 2017-09-22 16:36:00 -05:00
 categories:
 - courses
-position: 5
+position: 6
 display_title: What is the schedule of your courses?
 ---
 

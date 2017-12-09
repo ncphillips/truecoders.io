@@ -3,7 +3,7 @@ title: Courses Scholarship Payback
 date: 2017-09-22 16:39:00 -05:00
 categories:
 - courses
-position: 9
+position: 10
 display_title: Do I ever have to pay back the scholarship?
 ---
 

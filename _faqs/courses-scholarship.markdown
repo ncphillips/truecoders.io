@@ -3,7 +3,7 @@ title: Courses Scholarship
 date: 2017-09-22 16:43:00 -05:00
 categories:
 - courses
-position: 15
+position: 16
 display_title: What is included with the scholarship?
 ---
 

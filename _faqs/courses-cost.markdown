@@ -3,7 +3,7 @@ title: Courses Cost
 date: 2017-09-22 16:34:00 -05:00
 categories:
 - courses
-position: 3
+position: 4
 display_title: How much does a course cost?
 ---
 
