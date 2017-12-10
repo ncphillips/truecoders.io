@@ -8,7 +8,7 @@ collections:
   coders:
     title: Coders
     output: true
-    references_limit: 1
+    referencesLimit: 1
   courses:
     title: Courses
     output: true
