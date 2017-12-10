@@ -4,8 +4,8 @@ date: 2017-11-14 02:03:00 -06:00
 position: 13
 image: "/uploads/micah-weech.jpg"
 class: Alpha C#
-mbti: INFP
 profiles:
+  mbti: INFP
   github: mweechzing
   linkedin: micah-weech
   codewars: mweechzing

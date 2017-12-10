@@ -72,8 +72,8 @@ defaults:
       countryCode: US
       region: 
     class: 
-    mbti: 
     profiles:
+      mbti: 
       github: 
       linkedin: 
       codewars: 

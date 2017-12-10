@@ -4,8 +4,8 @@ date: 2017-11-14 02:03:00 -06:00
 position: 10
 image: "/uploads/jessica-harris.jpg"
 class: Alpha C#
-mbti: ESTJ
 profiles:
+  mbti: ESTJ
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620

@@ -4,8 +4,8 @@ date: 2017-11-14 02:03:00 -06:00
 position: 15
 image: "/uploads/toriana-grooms.jpg"
 class: Alpha C#
-mbti: ESTJ
 profiles:
+  mbti: ESTJ
   github: torigrooms
   linkedin: toriana-grooms
   codewars: torigrooms

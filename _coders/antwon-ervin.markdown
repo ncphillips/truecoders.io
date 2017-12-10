@@ -4,8 +4,8 @@ date: 2017-11-14 01:53:00 -06:00
 position: 1
 image: "/uploads/antwon-ervin.jpg"
 class: Alpha C#
-mbti: ENFP
 profiles:
+  mbti: ENFP
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin

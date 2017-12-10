@@ -6,8 +6,8 @@ tags:
 position: 0
 image: "/uploads/john-doe.jpg"
 class: Alpha C#
-mbti: ESTJ
 profiles:
+  mbti: ESTJ
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
