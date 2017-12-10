@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Out There Creative
   jobTitle: Graphic Designer & Developer
-  startDate: 2017-06-01 00:00:00 -05:00
-  endDate: 
+  start_date: 2017-06-01 00:00:00 -05:00
+  end_date: 
   body: |-
     Completed web development training in order to prepare for transitioning into a primarily development role:
 
@@ -25,8 +25,8 @@ work:
     - Develop and design branding, packaging, & animations for projects
 - company: Costco Wholesale
   jobTitle: Produce Merchandiser
-  startDate: 2015-04-01 00:00:00 -05:00
-  endDate: 2017-02-01 00:00:00 -06:00
+  start_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2017-02-01 00:00:00 -06:00
   body: |-
     Maintained business to business relationships with local restaurants in order to promote Costco community involvement:
 
@@ -35,8 +35,8 @@ work:
     - Ensured accurate records of inbound shipments
 - company: RSVP Magazine
   jobTitle: Graphic Design Intern
-  startDate: 2016-05-01 00:00:00 -05:00
-  endDate: 2016-09-01 00:00:00 -05:00
+  start_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2016-09-01 00:00:00 -05:00
   body: |-
     Completed several ads for the July/August 2016 edition of RSVP, in addition to designing two event flyers:
 
@@ -44,23 +44,23 @@ work:
     - Release Party for the July/August Edition
 - company: Wetumpka Area Chamber of Commerce
   jobTitle: Graphic Design Intern
-  startDate: 2016-06-01 00:00:00 -05:00
-  endDate: 2016-07-01 00:00:00 -05:00
+  start_date: 2016-06-01 00:00:00 -05:00
+  end_date: 2016-07-01 00:00:00 -05:00
   body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
 - company: Gumptionneers
   jobTitle: Graphic Design Intern
-  startDate: 2016-06-01 00:00:00 -05:00
-  endDate: 2016-07-01 00:00:00 -05:00
+  start_date: 2016-06-01 00:00:00 -05:00
+  end_date: 2016-07-01 00:00:00 -05:00
   body: A summer program of 3 students, which was started in 2015 and last 6 to 8
     weeks. During this time, projects were completed to improve different aspects
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
 - company: Square Root Interactive
   jobTitle: Account Coordinator
-  startDate: 2014-08-01 00:00:00 -05:00
-  endDate: 2015-04-01 00:00:00 -05:00
+  start_date: 2014-08-01 00:00:00 -05:00
+  end_date: 2015-04-01 00:00:00 -05:00
   body: |-
     Handled customer relationships between twelve total past and current accounts:
 
@@ -71,8 +71,8 @@ work:
 education:
 - institution: Auburn University at Montgomery
   area: Graphic Design
-  startDate: 
-  endDate: 2017-05-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2017-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL
   body: |-
@@ -84,8 +84,8 @@ education:
     - Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
   area: High School Diploma
-  startDate: 
-  endDate: 2012-05-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2012-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL
   body: 

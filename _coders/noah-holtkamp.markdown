@@ -13,16 +13,16 @@ profiles:
 work:
 - company: NutritionFacts.org
   jobTitle: MD Volunteer Article Retriever
-  startDate: 2016-12-01 00:00:00 -06:00
-  endDate: 
+  start_date: 2016-12-01 00:00:00 -06:00
+  end_date: 
   body: |-
     Work as part of a project team to coordinate database development and determine project scope and limitations:
 
     - Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health
 - company: Nutrient High LLC
   jobTitle: Project Manager
-  startDate: 2015-03-01 00:00:00 -06:00
-  endDate: 2016-08-01 00:00:00 -05:00
+  start_date: 2015-03-01 00:00:00 -06:00
+  end_date: 2016-08-01 00:00:00 -05:00
   body: |-
     Prepared and implemented budgets as well as strategic, operational, purchasing, or maintenance plans:
 
@@ -31,8 +31,8 @@ work:
     - Maintained records of business transactions and product inventories, reporting data to companies or government agencies as necessary
 - company: Home At Last Inc.
   jobTitle: Program Administrator
-  startDate: 2013-08-01 00:00:00 -05:00
-  endDate: 2016-01-01 00:00:00 -06:00
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 2016-01-01 00:00:00 -06:00
   body: |-
     Managed and oversaw operations, maintenance, administration, and improvement of commercial, industrial, or residential properties:
 
@@ -41,15 +41,15 @@ work:
 education:
 - institution: Vestavia Hills High School
   area: High School Diploma
-  startDate: 
-  endDate: 2013-05-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2013-05-01 00:00:00 -05:00
   gpa: 
   location: Vestavia Hills, AL
   body: 
 - institution: T. Colin Campbell Center For Nutrition Studies
   area: Plant Based Nutrition
-  startDate: 
-  endDate: 2016-03-01 00:00:00 -06:00
+  start_date: 
+  end_date: 2016-03-01 00:00:00 -06:00
   gpa: 
   location: 
   body: |-

@@ -13,8 +13,8 @@ profiles:
 work:
 - company: South Central Conference of Seventh Day Adventists
   jobTitle: Senior Pastor
-  startDate: 2008-05-01 01:00:00 -05:00
-  endDate: 
+  start_date: 2008-05-01 01:00:00 -05:00
+  end_date: 
   body: |-
     Congregations served:
 
@@ -42,8 +42,8 @@ work:
     - Supported the community thru various initiatives focused on improving the quality of life
 - company: Emmanuel Jr. Academy
   jobTitle: Teacher
-  startDate: 2015-08-01 00:00:00 -05:00
-  endDate: 2016-05-01 00:00:00 -05:00
+  start_date: 2015-08-01 00:00:00 -05:00
+  end_date: 2016-05-01 00:00:00 -05:00
   body: |-
     Grade levels taught:
 
@@ -52,8 +52,8 @@ work:
     - PE class for grades 3-10
 - company: Savannah College of Art and Design
   jobTitle: Teaching Assistant
-  startDate: 2012-01-01 00:00:00 -06:00
-  endDate: 2012-12-01 00:00:00 -06:00
+  start_date: 2012-01-01 00:00:00 -06:00
+  end_date: 2012-12-01 00:00:00 -06:00
   body: |-
     Trained in use of the Steadicam camera support system:
 
@@ -62,8 +62,8 @@ work:
     - Physical practice and emphasis on proper footwork
 - company: Oakwood University Church
   jobTitle: Media Director/Assistant Youth Pastor
-  startDate: 2008-08-01 01:00:00 -05:00
-  endDate: 2010-07-01 01:00:00 -05:00
+  start_date: 2008-08-01 01:00:00 -05:00
+  end_date: 2010-07-01 01:00:00 -05:00
   body: "Developed sales strategy and Lead youth events:\n\n- Managed audio/visual
     $500,000 system install. \n- Managed sale and distribution of content produced
     at Oakwood University Church for world wide distribution.\n- Managed, recruited,
@@ -73,15 +73,15 @@ work:
 education:
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
-  startDate: 
-  endDate: 
+  start_date: 
+  end_date: 
   gpa: 
   location: Savannah, GA
   body: Pending thesis
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
-  startDate: 
-  endDate: 2013-11-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2013-11-01 00:00:00 -05:00
   gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages

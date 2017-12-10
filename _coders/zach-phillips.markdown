@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Market Cove LLC
   jobTitle: Owner
-  startDate: 2015-05-01 00:00:00 -05:00
-  endDate: 
+  start_date: 2015-05-01 00:00:00 -05:00
+  end_date: 
   body: |-
     Owned and Operated E-commerce Business:
 
@@ -25,13 +25,13 @@ work:
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
   jobTitle: Website Administration
-  startDate: 2012-04-01 00:00:00 -05:00
-  endDate: 
+  start_date: 2012-04-01 00:00:00 -05:00
+  end_date: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
   jobTitle: Tech Support
-  startDate: 2015-04-01 00:00:00 -05:00
-  endDate: 2017-09-29 00:00:00 -05:00
+  start_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2017-09-29 00:00:00 -05:00
   body: |-
     Tech Support and Shipping Manager:
 
@@ -43,7 +43,7 @@ work:
 education:
 - institution: Christ Church School
   area: High School Diploma
-  endDate: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
 references:
 - name: Cody Winton

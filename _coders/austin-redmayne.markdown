@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Baumhowers
   jobTitle: Server
-  startDate: 2016-12-01 00:00:00 -06:00
-  endDate: 2017-11-01 00:00:00 -05:00
+  start_date: 2016-12-01 00:00:00 -06:00
+  end_date: 2017-11-01 00:00:00 -05:00
   body: |-
     Met time commitments in order to keep restaurant running smoothly:
 
@@ -22,16 +22,16 @@ work:
     - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
   jobTitle: Server
-  startDate: 2016-07-01 00:00:00 -05:00
-  endDate: 2016-11-01 00:00:00 -05:00
+  start_date: 2016-07-01 00:00:00 -05:00
+  end_date: 2016-11-01 00:00:00 -05:00
   body: |-
     Adhered persistently to the changing pace and demand of the restaurant:
 
     - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
   jobTitle: Server
-  startDate: 2015-04-01 00:00:00 -05:00
-  endDate: 2015-11-01 00:00:00 -05:00
+  start_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2015-11-01 00:00:00 -05:00
   body: |-
     Focused on teamwork to ensure all customers were satisfied with their service:
 
@@ -39,8 +39,8 @@ work:
     - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
   jobTitle: Sales Representative
-  startDate: 2014-07-01 00:00:00 -05:00
-  endDate: 2015-07-01 00:00:00 -05:00
+  start_date: 2014-07-01 00:00:00 -05:00
+  end_date: 2015-07-01 00:00:00 -05:00
   body: |-
     Set up and maintained a mobile store:
 
@@ -48,13 +48,13 @@ work:
     - Handling money using mobile pay options
 - company: Blue​ ​Coast​ ​Burrito
   jobTitle: Store Employee
-  startDate: 2014-12-01 00:00:00 -06:00
-  endDate: 2015-03-01 00:00:00 -06:00
+  start_date: 2014-12-01 00:00:00 -06:00
+  end_date: 2015-03-01 00:00:00 -06:00
   body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
   jobTitle: Cashier
-  startDate: 2014-06-01 00:00:00 -05:00
-  endDate: 2014-11-01 00:00:00 -05:00
+  start_date: 2014-06-01 00:00:00 -05:00
+  end_date: 2014-11-01 00:00:00 -05:00
   body: |-
     Assisted customers in locating products, at times helping them make a decision between multiple products:
 
@@ -63,29 +63,29 @@ work:
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
-  startDate: 
-  endDate: 
+  start_date: 
+  end_date: 
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
-  startDate: 
-  endDate: 2014-05-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2014-05-01 00:00:00 -05:00
   gpa: 
   location: Florence, AL
   body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
-  startDate: 
-  endDate: 2012-12-01 00:00:00 -06:00
+  start_date: 
+  end_date: 2012-12-01 00:00:00 -06:00
   gpa: 
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
-  startDate: 
-  endDate: 2011-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2011-05-01 01:00:00 -05:00
   gpa: 
   location: Homewood, AL
   body: 

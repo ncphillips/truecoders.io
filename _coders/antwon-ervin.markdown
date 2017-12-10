@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Discover Birmingham
   jobTitle: Founder
-  startDate: 2013-01-01 00:00:00 -06:00
-  endDate: 
+  start_date: 2013-01-01 00:00:00 -06:00
+  end_date: 
   body: |-
     Built a community calendar & engagement website:
 
@@ -22,8 +22,8 @@ work:
     - Leading a team of writers and videographers
 - company: Chronicle Studio
   jobTitle: Service Consultant
-  startDate: 2014-04-01 00:00:00 -05:00
-  endDate: 2015-04-01 00:00:00 -05:00
+  start_date: 2014-04-01 00:00:00 -05:00
+  end_date: 2015-04-01 00:00:00 -05:00
   body: |-
     Outside sales and tech support:
 
@@ -31,8 +31,8 @@ work:
     - Served as lead support for the project Automotive Leadership Technology
 - company: Five Star Painting
   jobTitle: Project Consultant
-  startDate: 2013-09-01 00:00:00 -05:00
-  endDate: 2017-07-01 00:00:00 -05:00
+  start_date: 2013-09-01 00:00:00 -05:00
+  end_date: 2017-07-01 00:00:00 -05:00
   body: |-
     Production management and business development:
 
@@ -40,8 +40,8 @@ work:
     - Provided customer service
 - company: Pittsburgh Glass Works, LLC
   jobTitle: Account Representative
-  startDate: 2012-12-01 00:00:00 -06:00
-  endDate: 2013-08-01 00:00:00 -05:00
+  start_date: 2012-12-01 00:00:00 -06:00
+  end_date: 2013-08-01 00:00:00 -05:00
   body: |-
     Worked with customers:
 
@@ -50,8 +50,8 @@ work:
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
   jobTitle: Digital Sales Manager
-  startDate: 2010-02-01 00:00:00 -06:00
-  endDate: 2012-11-01 00:00:00 -05:00
+  start_date: 2010-02-01 00:00:00 -06:00
+  end_date: 2012-11-01 00:00:00 -05:00
   body: |-
     General sales management:
 
@@ -60,8 +60,8 @@ work:
     - Managed Service inventory and sales
 - company: Bada Ding Inc.
   jobTitle: Sales Mgr / Repair Tech
-  startDate: 2007-06-01 01:00:00 -05:00
-  endDate: 2010-01-01 00:00:00 -06:00
+  start_date: 2007-06-01 01:00:00 -05:00
+  end_date: 2010-01-01 00:00:00 -06:00
   body: |-
     Outside sales and customer service:
 
@@ -71,16 +71,16 @@ work:
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
-  startDate: 
-  endDate: 2015-05-01 00:00:00 -05:00
+  start_date: 
+  end_date: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Focused on Business, Management, Marketing, and Related Support Services,
     2014 - 2015
 - institution: Bessemer Technical College
   area: Architectural Design
-  startDate: 
-  endDate: 2006-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2006-05-01 01:00:00 -05:00
   gpa: 
   location: Bessemer, AL
   body: 

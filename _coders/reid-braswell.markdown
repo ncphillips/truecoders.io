@@ -10,8 +10,8 @@ profiles:
 work:
 - company: Personal Front-End Projects
   jobTitle: Owner
-  startDate: 2017-04-01 00:00:00 -05:00
-  endDate: 
+  start_date: 2017-04-01 00:00:00 -05:00
+  end_date: 
   location: Birmingham, AL
   body: |-
     Front-End development on several projects involving HTML, CSS, JavaScript, jQuery, and Bootstrap:
@@ -22,8 +22,8 @@ work:
     * [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
 - company: McKesson Pharmacy Systems
   jobTitle: Software Engineer
-  startDate: 2004-11-01 00:00:00 -06:00
-  endDate: 2016-04-01 00:00:00 -05:00
+  start_date: 2004-11-01 00:00:00 -06:00
+  end_date: 2016-04-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
     A Fortune 500 company that distributes health care systems, medical supplies, and pharmaceutical products with more than 65,000 employees and $190 Billion in annual revenue:
@@ -37,8 +37,8 @@ work:
     - Maintained SSL certificates.
 - company: Birmingham Steel
   jobTitle: Software Developer
-  startDate: 2001-01-01 00:00:00 -06:00
-  endDate: 2003-12-01 00:00:00 -06:00
+  start_date: 2001-01-01 00:00:00 -06:00
+  end_date: 2003-12-01 00:00:00 -06:00
   location: Birmingham, AL
   body: Developed and maintained applications for the steel industry using Gembase
     that accessed an Oracle database. Gembase is a database and runtime engine from
@@ -46,8 +46,8 @@ work:
 education:
 - institution: University of Alabama Birmingham
   area: Bachelor of Science in Computer Science
-  startDate: 1981-08-01 01:00:00 -05:00
-  endDate: 1992-05-01 01:00:00 -05:00
+  start_date: 1981-08-01 01:00:00 -05:00
+  end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
 skills:
 - name: Soft Skills

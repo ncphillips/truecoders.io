@@ -9,7 +9,7 @@ hero:
   color: "#690081"
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
-startDate: 2018-01-02 07:00:00 -06:00
+start_date: 2018-01-02 07:00:00 -06:00
 weeksLength: 8
 price: "$10,000"
 subjects:
@@ -31,7 +31,7 @@ callToAction:
 
 This course covers the {{ page.title }} stack.
 The next {{ page.weeksLength }} week course starts on
-{{ page.startDate | date: "%A, %B %e" }}.
+{{ page.start_date | date: "%A, %B %e" }}.
 
 # Schedule
 

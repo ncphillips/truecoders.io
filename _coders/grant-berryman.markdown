@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Tech-Ease
   jobTitle: Apple Consultant / Lead Tech
-  startDate: 2016-09-01 00:00:00 -05:00
-  endDate: 
+  start_date: 2016-09-01 00:00:00 -05:00
+  end_date: 
   body: |-
     Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise for finding the best technical solution for their needs:
 
@@ -22,8 +22,8 @@ work:
     - Lead both group workshops and training sessions
 - company: Twist Technology LLC
   jobTitle: Service Department Head / Programmer
-  startDate: 2013-05-01 00:00:00 -05:00
-  endDate: 2016-09-01 00:00:00 -05:00
+  start_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2016-09-01 00:00:00 -05:00
   body: |-
     Built and maintained customer networks and access points:
 
@@ -33,8 +33,8 @@ work:
     - Educated and trained customers on products
 - company: Apple Retail
   jobTitle: Genius / Certified Mac Technician
-  startDate: 2012-01-01 00:00:00 -06:00
-  endDate: 2013-05-01 00:00:00 -05:00
+  start_date: 2012-01-01 00:00:00 -06:00
+  end_date: 2013-05-01 00:00:00 -05:00
   body: |-
     Provided hands on technical support and repairs for all Apple hardware and software:
 
@@ -44,8 +44,8 @@ work:
     - Managed time to keep customer appointments on time in fast paced environment
 - company: Apple Retail
   jobTitle: Family Room Specialist
-  startDate: 2010-09-01 01:00:00 -05:00
-  endDate: 2012-01-01 00:00:00 -06:00
+  start_date: 2010-09-01 01:00:00 -05:00
+  end_date: 2012-01-01 00:00:00 -06:00
   body: |-
     Performed troubleshooting and resolved hardware and software issues on Apple mobile devices, transferred data from old customer computers to new Apple computer:
 
@@ -55,8 +55,8 @@ work:
     - Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
   jobTitle: Specialist
-  startDate: 2010-03-01 00:00:00 -06:00
-  endDate: 2010-09-01 01:00:00 -05:00
+  start_date: 2010-03-01 00:00:00 -06:00
+  end_date: 2010-09-01 01:00:00 -05:00
   body: |-
     Helped customers through dialogue find the right solution for their needs:
 
@@ -65,8 +65,8 @@ work:
     - Taught group workshops on Apple products and services
 - company: Buster's Billiards and Backroom
   jobTitle: Tech Manager
-  startDate: 2009-06-01 01:00:00 -05:00
-  endDate: 2010-01-01 00:00:00 -06:00
+  start_date: 2009-06-01 01:00:00 -05:00
+  end_date: 2010-01-01 00:00:00 -06:00
   body: |-
     Designed, installed, maintained and ran a top-notch audio and lighting system for 1000 capacity venue, also was Front of House engineer, Monitor engineer:
 
@@ -76,8 +76,8 @@ work:
 education:
 - institution: Middle Tennessee State University
   area: Bachelor of Science Degree in Recording Industry
-  startDate: 
-  endDate: 2006-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2006-05-01 01:00:00 -05:00
   gpa: 3.34
   location: Murfreesboro, TN
   body: "Majored Production and Technology with a Minor in Music Industry:\n\n- Major
@@ -85,15 +85,15 @@ education:
     Grammy award winning engineer Dan Rudin"
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
-  startDate: 
-  endDate: 2004-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2004-05-01 01:00:00 -05:00
   gpa: 3.3
   location: Atlanta, GA
   body: 
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
-  startDate: 
-  endDate: 2002-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL
   body: Dean's list - Golden Key International Honor Society

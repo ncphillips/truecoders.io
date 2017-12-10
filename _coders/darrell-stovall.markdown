@@ -13,8 +13,8 @@ profiles:
 work:
 - company: Hewitt-Trussville
   jobTitle: Middle School, Teacher
-  startDate: 2003-08-01 01:00:00 -05:00
-  endDate: 2017-05-01 00:00:00 -05:00
+  start_date: 2003-08-01 01:00:00 -05:00
+  end_date: 2017-05-01 00:00:00 -05:00
   location: 
   body: "I have served as an English department chair, been part of our school leadership/professional
     development team and a system-wide gifted placement team. During the last three
@@ -27,8 +27,8 @@ work:
     grades\n- Reading, 6th grade\n- Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
   jobTitle: Jr. High School, Teacher
-  startDate: 1992-08-01 01:00:00 -05:00
-  endDate: 2003-05-01 01:00:00 -05:00
+  start_date: 1992-08-01 01:00:00 -05:00
+  end_date: 2003-05-01 01:00:00 -05:00
   body: "I served as an English department chair, sponsored National Jr. Honor Society,
     coached Scholars Bowl, and coached our high school’s soccer team. \n\n- English/Language
     Arts, 8th-9th grades\n- American History, 9th grade\n- Language Arts elective,
@@ -36,8 +36,8 @@ work:
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
-  startDate: 
-  endDate: 1995-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 1995-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: |-
@@ -46,8 +46,8 @@ education:
     * Gifted and Talented Certification
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
-  startDate: 
-  endDate: 1992-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 1992-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: |-
