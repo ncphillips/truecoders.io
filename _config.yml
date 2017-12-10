@@ -134,7 +134,7 @@ defaults:
     subsections:
     - title: 
       subtitle: 
-      fa_icon: 
+      faIcon: 
       body: 
 - scope:
     path: ''
