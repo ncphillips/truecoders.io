@@ -47,7 +47,7 @@ defaults:
     startDate: 
     endDate: 
     price: 
-    has_scholarship: true
+    hasScholarship: true
     location: Birmingham, AL
     institution: TrueCoders
     company: TrueCoders
@@ -109,7 +109,7 @@ defaults:
     image: 
     startDate: 
     weeks_length: 0
-    has_scholarship: true
+    hasScholarship: true
     price: 
     subjects:
     - 
