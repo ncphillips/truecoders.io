@@ -5,7 +5,7 @@ position: 1
 is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-2.jpg"
-display_title: Why TrueCoders Exists
+displayTitle: Why TrueCoders Exists
 subtitle: Our aim is to bridge the gap of tech talent in our community with TrueCoders
 call_to_action:
   title: Find Out More

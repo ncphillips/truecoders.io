@@ -2,7 +2,7 @@
 title: Dev Team
 date: 2017-11-11 13:18:00 -06:00
 position: 3
-display_title: Our Team
+displayTitle: Our Team
 call_to_action:
   title: Engage a Team
   url: "#hire-form"

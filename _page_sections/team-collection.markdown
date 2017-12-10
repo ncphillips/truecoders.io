@@ -2,7 +2,7 @@
 title: Team Collection
 date: 2017-11-10 17:13:00 -06:00
 position: 5
-display_title: Our Team
+displayTitle: Our Team
 sub_collection: teammates
 call_to_action:
   title: More About Us

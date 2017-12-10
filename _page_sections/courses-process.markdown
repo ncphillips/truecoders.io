@@ -2,7 +2,7 @@
 title: Courses Process
 date: 2017-11-10 17:19:00 -06:00
 position: 1
-display_title: Our Process
+displayTitle: Our Process
 subsections:
 - title: Training
   subtitle: 

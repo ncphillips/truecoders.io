@@ -120,12 +120,12 @@ defaults:
     path: ''
     type: faqs
   values:
-    display_title: 
+    displayTitle: 
 - scope:
     path: ''
     type: pageSections
   values:
-    display_title: 
+    displayTitle: 
     sub_collection: 
     limit: 3
     call_to_action:
@@ -160,7 +160,7 @@ defaults:
     is_footer: false
     hero_color: "#4b4948"
     hero_image: 
-    display_title: 
+    displayTitle: 
     subtitle: 
     call_to_action:
       title: 

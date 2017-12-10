@@ -5,7 +5,7 @@ position: 2
 is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-7.jpg"
-display_title: Our Courses
+displayTitle: Our Courses
 subtitle: The things we do and the stacks we love
 call_to_action:
   title: Find Out More

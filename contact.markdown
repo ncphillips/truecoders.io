@@ -5,7 +5,7 @@ position: 6
 is_nav: true
 is_footer: true
 hero_image: "/uploads/hero-image-4.jpg"
-display_title: Contact Us
+displayTitle: Contact Us
 subtitle: Here's how you get in touch with us
 ---
 
