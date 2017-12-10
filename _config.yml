@@ -231,7 +231,7 @@ description: |-
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 google_analytics:
   tracking_id: UA-104643272-1
-remote_theme: truecodersio/truecodersio-jekyll-theme@v1.0.0
+remote_theme: truecodersio/truecodersio-jekyll-theme@v0.8.0
 social:
   name: TrueCoders
   links:
