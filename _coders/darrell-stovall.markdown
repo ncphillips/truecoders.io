@@ -12,7 +12,7 @@ profiles:
   video: 245988227
 work:
 - company: Hewitt-Trussville
-  position: Middle School, Teacher
+  jobTitle: Middle School, Teacher
   startDate: 2003-08-01 01:00:00 -05:00
   endDate: 2017-05-01 00:00:00 -05:00
   location: 
@@ -26,7 +26,7 @@ work:
     Rotation, 6th grade\n- English/Language Arts, 7th-8th grades\n- Yearbook, 7th-8th
     grades\n- Reading, 6th grade\n- Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
-  position: Jr. High School, Teacher
+  jobTitle: Jr. High School, Teacher
   startDate: 1992-08-01 01:00:00 -05:00
   endDate: 2003-05-01 01:00:00 -05:00
   body: "I served as an English department chair, sponsored National Jr. Honor Society,
@@ -77,7 +77,7 @@ references:
     and possesses a real ability to both learn and teach others what he knows. His
     work ethic and ability to grasp complex problems make him a real asset to any
     team. I'd recommend Darrel for a programming position.
-codewars_scores:
+codewarsScores:
 - 39
 - 49
 - 51

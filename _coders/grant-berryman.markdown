@@ -12,7 +12,7 @@ profiles:
   video: 245987532
 work:
 - company: Tech-Ease
-  position: Apple Consultant / Lead Tech
+  jobTitle: Apple Consultant / Lead Tech
   startDate: 2016-09-01 00:00:00 -05:00
   endDate: 
   body: |-
@@ -21,7 +21,7 @@ work:
     - Troubleshoot, resolve and repair all hardware and software issues on all Apple products
     - Lead both group workshops and training sessions
 - company: Twist Technology LLC
-  position: Service Department Head / Programmer
+  jobTitle: Service Department Head / Programmer
   startDate: 2013-05-01 00:00:00 -05:00
   endDate: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -32,7 +32,7 @@ work:
     - Programmed automation systems, terminated cables, and field engineered solutions
     - Educated and trained customers on products
 - company: Apple Retail
-  position: Genius / Certified Mac Technician
+  jobTitle: Genius / Certified Mac Technician
   startDate: 2012-01-01 00:00:00 -06:00
   endDate: 2013-05-01 00:00:00 -05:00
   body: |-
@@ -43,7 +43,7 @@ work:
     - Communicated complex technical ideas to all ages and experience levels
     - Managed time to keep customer appointments on time in fast paced environment
 - company: Apple Retail
-  position: Family Room Specialist
+  jobTitle: Family Room Specialist
   startDate: 2010-09-01 01:00:00 -05:00
   endDate: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -54,7 +54,7 @@ work:
     - Taught personal training sessions on Apple hardware and software
     - Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
-  position: Specialist
+  jobTitle: Specialist
   startDate: 2010-03-01 00:00:00 -06:00
   endDate: 2010-09-01 01:00:00 -05:00
   body: |-
@@ -64,7 +64,7 @@ work:
     - Assisted customers with new device setup and product education
     - Taught group workshops on Apple products and services
 - company: Buster's Billiards and Backroom
-  position: Tech Manager
+  jobTitle: Tech Manager
   startDate: 2009-06-01 01:00:00 -05:00
   endDate: 2010-01-01 00:00:00 -06:00
   body: |-
@@ -119,7 +119,7 @@ skills:
   level: 3.8
 - name: Attendance
   level: 5
-codewars_scores:
+codewarsScores:
 - 54
 - 90
 - 148

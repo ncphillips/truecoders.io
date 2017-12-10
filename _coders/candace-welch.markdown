@@ -12,7 +12,7 @@ profiles:
   video: 245987521
 work:
 - company: Out There Creative
-  position: Graphic Designer & Developer
+  jobTitle: Graphic Designer & Developer
   startDate: 2017-06-01 00:00:00 -05:00
   endDate: 
   body: |-
@@ -24,7 +24,7 @@ work:
     - Create responsive design to ensure mobile compatibility for custom websites
     - Develop and design branding, packaging, & animations for projects
 - company: Costco Wholesale
-  position: Produce Merchandiser
+  jobTitle: Produce Merchandiser
   startDate: 2015-04-01 00:00:00 -05:00
   endDate: 2017-02-01 00:00:00 -06:00
   body: |-
@@ -34,7 +34,7 @@ work:
     - Reported inventory errors to management to quickly correct stocking issues and avoid runaway over/under stocking
     - Ensured accurate records of inbound shipments
 - company: RSVP Magazine
-  position: Graphic Design Intern
+  jobTitle: Graphic Design Intern
   startDate: 2016-05-01 00:00:00 -05:00
   endDate: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -43,14 +43,14 @@ work:
     - RSViP Riverboat Cruise
     - Release Party for the July/August Edition
 - company: Wetumpka Area Chamber of Commerce
-  position: Graphic Design Intern
+  jobTitle: Graphic Design Intern
   startDate: 2016-06-01 00:00:00 -05:00
   endDate: 2016-07-01 00:00:00 -05:00
   body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
 - company: Gumptionneers
-  position: Graphic Design Intern
+  jobTitle: Graphic Design Intern
   startDate: 2016-06-01 00:00:00 -05:00
   endDate: 2016-07-01 00:00:00 -05:00
   body: A summer program of 3 students, which was started in 2015 and last 6 to 8
@@ -58,7 +58,7 @@ work:
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
 - company: Square Root Interactive
-  position: Account Coordinator
+  jobTitle: Account Coordinator
   startDate: 2014-08-01 00:00:00 -05:00
   endDate: 2015-04-01 00:00:00 -05:00
   body: |-
@@ -112,7 +112,7 @@ skills:
   level: 4.1
 - name: Attendance
   level: 5
-codewars_scores:
+codewarsScores:
 - 91
 - 159
 - 178

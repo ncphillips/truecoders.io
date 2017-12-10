@@ -9,7 +9,7 @@ profiles:
   linkedin: reid-braswell
 work:
 - company: Personal Front-End Projects
-  position: Owner
+  jobTitle: Owner
   startDate: 2017-04-01 00:00:00 -05:00
   endDate: 
   location: Birmingham, AL
@@ -21,7 +21,7 @@ work:
     * [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
     * [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
 - company: McKesson Pharmacy Systems
-  position: Software Engineer
+  jobTitle: Software Engineer
   startDate: 2004-11-01 00:00:00 -06:00
   endDate: 2016-04-01 00:00:00 -05:00
   location: Birmingham, AL
@@ -36,7 +36,7 @@ work:
     - Maintained Jenkins CI build jobs.
     - Maintained SSL certificates.
 - company: Birmingham Steel
-  position: Software Developer
+  jobTitle: Software Developer
   startDate: 2001-01-01 00:00:00 -06:00
   endDate: 2003-12-01 00:00:00 -06:00
   location: Birmingham, AL

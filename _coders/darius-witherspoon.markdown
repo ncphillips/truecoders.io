@@ -12,7 +12,7 @@ profiles:
   video: 245988222
 work:
 - company: FedEx Ground
-  position: Driver
+  jobTitle: Driver
   startDate: 2016-01-01 00:00:00 -06:00
   endDate: 2017-10-01 00:00:00 -05:00
   body: |-
@@ -21,7 +21,7 @@ work:
     - Managed route scheduling and equipment
     - Maintained company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
-  position: Detailer
+  jobTitle: Detailer
   startDate: 2010-03-01 00:00:00 -06:00
   endDate: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -74,7 +74,7 @@ skills:
   level: 4.2
 - name: Attendance
   level: 4.6
-codewars_scores:
+codewarsScores:
 - 6
 - 13
 - 45

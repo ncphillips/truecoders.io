@@ -12,7 +12,7 @@ profiles:
   video: 245988235
 work:
 - company: Tractor Supply Co
-  position: Cashier/Team Member
+  jobTitle: Cashier/Team Member
   startDate: 2017-04-01 00:00:00 -05:00
   endDate: 
   body: |-
@@ -22,7 +22,7 @@ work:
     - Cashier
     - Shelf stocker
 - company: Petland
-  position: Kennel Technician
+  jobTitle: Kennel Technician
   startDate: 2016-03-01 00:00:00 -06:00
   endDate: 2017-01-01 00:00:00 -06:00
   body: |-
@@ -32,7 +32,7 @@ work:
     - A little bit of trimming and bath
     - Experienced in giving vaccinations
 - company: YMCA
-  position: Lifeguard
+  jobTitle: Lifeguard
   startDate: 2015-04-01 00:00:00 -05:00
   endDate: 2015-10-01 00:00:00 -05:00
   body: Handled lifeguard requirements.
@@ -87,7 +87,7 @@ skills:
   level: 4.3
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 51
 - 67
 - 69

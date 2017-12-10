@@ -12,7 +12,7 @@ profiles:
   video: 245988239
 work:
 - company: Pizza​ ​Hut
-  position: Delivery​ ​Driver
+  jobTitle: Delivery​ ​Driver
   startDate: 2015-08-01 00:00:00 -05:00
   endDate: 2016-03-01 00:00:00 -06:00
   body: |-
@@ -23,7 +23,7 @@ work:
     - Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks
     - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
-  position: Deli​ ​Sales​ ​Associate
+  jobTitle: Deli​ ​Sales​ ​Associate
   startDate: 2012-12-01 00:00:00 -06:00
   endDate: 2012-12-31 00:00:00 -06:00
   body: |-
@@ -33,7 +33,7 @@ work:
     - Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays
     - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
-  position: Surveyor
+  jobTitle: Surveyor
   startDate: 2010-09-01 01:00:00 -05:00
   endDate: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -41,7 +41,7 @@ work:
 
     - Called lists of numbers searching for survey participants
 - company: Williams​ ​&​ ​Associates​
-  position: Administrative Assistant
+  jobTitle: Administrative Assistant
   startDate: 2009-06-01 01:00:00 -05:00
   endDate: 2011-09-01 01:00:00 -05:00
   body: |-
@@ -52,7 +52,7 @@ work:
     - Managed an exceptional filing system
     - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
-  position: Server
+  jobTitle: Server
   startDate: 2009-04-01 01:00:00 -05:00
   endDate: 2010-02-01 00:00:00 -06:00
   body: |-
@@ -61,7 +61,7 @@ work:
     - Took and served customers food and beverage orders
     - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
-  position: Customer Service Representative
+  jobTitle: Customer Service Representative
   startDate: 2008-03-01 00:00:00 -06:00
   endDate: 2008-06-01 01:00:00 -05:00
   body: |-
@@ -70,7 +70,7 @@ work:
     - Notated customers accounts upon resolving all cellular issues
     - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
-  position: Administrative Assistant
+  jobTitle: Administrative Assistant
   startDate: 2007-08-01 01:00:00 -05:00
   endDate: 2008-03-01 00:00:00 -06:00
   body: |-
@@ -115,7 +115,7 @@ skills:
   level: 3.8
 - name: Attendance
   level: 2.5
-codewars_scores:
+codewarsScores:
 - 49
 - 127
 - 151

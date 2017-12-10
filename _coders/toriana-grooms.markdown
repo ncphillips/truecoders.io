@@ -12,7 +12,7 @@ profiles:
   video: 245988278
 work:
 - company: Cricket Wireless
-  position: Assistant Manager
+  jobTitle: Assistant Manager
   startDate: 2017-06-01 00:00:00 -05:00
   endDate: 2017-09-30 00:00:00 -05:00
   body: |-
@@ -21,7 +21,7 @@ work:
     - Sold wireless phones and accessories
     - Marketed products and services to consumers
 - company: Steak N' Shake
-  position: Service Trainer
+  jobTitle: Service Trainer
   startDate: 2014-05-01 00:00:00 -05:00
   endDate: 2016-08-01 00:00:00 -05:00
   body: |-
@@ -30,12 +30,12 @@ work:
     - Trained new servers according to company regulations and policies
     - Provided superior service and a quality experience to the guest
 - company: Insomnia Cookies
-  position: Store Manager
+  jobTitle: Store Manager
   startDate: 2014-10-01 00:00:00 -05:00
   endDate: 2015-06-01 00:00:00 -05:00
   body: Managed and coordinated all aspects of the business and staff
 - company: RadioShack
-  position: Wireless Consultant
+  jobTitle: Wireless Consultant
   startDate: 2012-10-01 00:00:00 -05:00
   endDate: 2013-10-01 00:00:00 -05:00
   body: |-
@@ -45,7 +45,7 @@ work:
     - Sold attachments
     - Monitored goals daily
 - company: Children's Hospital of Birmingham
-  position: Sterile Processing Technician
+  jobTitle: Sterile Processing Technician
   startDate: 2012-04-01 00:00:00 -05:00
   endDate: 2012-09-01 00:00:00 -05:00
   body: |-
@@ -98,7 +98,7 @@ skills:
   level: 3.7
 - name: Attendance
   level: 1.4
-codewars_scores:
+codewarsScores:
 - 50
 - 60
 - 60

@@ -12,7 +12,7 @@ profiles:
   video: 245987515
 work:
 - company: Discover Birmingham
-  position: Founder
+  jobTitle: Founder
   startDate: 2013-01-01 00:00:00 -06:00
   endDate: 
   body: |-
@@ -21,7 +21,7 @@ work:
     - Managing written & video content as well as social media channels
     - Leading a team of writers and videographers
 - company: Chronicle Studio
-  position: Service Consultant
+  jobTitle: Service Consultant
   startDate: 2014-04-01 00:00:00 -05:00
   endDate: 2015-04-01 00:00:00 -05:00
   body: |-
@@ -30,7 +30,7 @@ work:
     - Served as first contact for clients
     - Served as lead support for the project Automotive Leadership Technology
 - company: Five Star Painting
-  position: Project Consultant
+  jobTitle: Project Consultant
   startDate: 2013-09-01 00:00:00 -05:00
   endDate: 2017-07-01 00:00:00 -05:00
   body: |-
@@ -39,7 +39,7 @@ work:
     - Managed crew’s workflow schedule
     - Provided customer service
 - company: Pittsburgh Glass Works, LLC
-  position: Account Representative
+  jobTitle: Account Representative
   startDate: 2012-12-01 00:00:00 -06:00
   endDate: 2013-08-01 00:00:00 -05:00
   body: |-
@@ -49,7 +49,7 @@ work:
     - Delivered to customer’s premises
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
-  position: Digital Sales Manager
+  jobTitle: Digital Sales Manager
   startDate: 2010-02-01 00:00:00 -06:00
   endDate: 2012-11-01 00:00:00 -05:00
   body: |-
@@ -59,7 +59,7 @@ work:
     - Managed online inventory
     - Managed Service inventory and sales
 - company: Bada Ding Inc.
-  position: Sales Mgr / Repair Tech
+  jobTitle: Sales Mgr / Repair Tech
   startDate: 2007-06-01 01:00:00 -05:00
   endDate: 2010-01-01 00:00:00 -06:00
   body: |-
@@ -111,7 +111,7 @@ skills:
   level: 4.8
 - name: Attendance
   level: 2.8
-codewars_scores:
+codewarsScores:
 - 4
 - 4
 - 18

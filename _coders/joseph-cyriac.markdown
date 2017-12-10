@@ -12,7 +12,7 @@ profiles:
   video: 245988251
 work:
 - company: HFP LLC
-  position: Customs and Sales Broker
+  jobTitle: Customs and Sales Broker
   startDate: 2015-01-01 00:00:00 -06:00
   endDate: 
   body: |-
@@ -21,7 +21,7 @@ work:
     - Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
     - Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
-  position: Senior Manager and IT Analyst
+  jobTitle: Senior Manager and IT Analyst
   startDate: 2003-01-01 00:00:00 -06:00
   endDate: 
   body: |-
@@ -32,7 +32,7 @@ work:
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
     - HR services such as hiring and yearly employee review
 - company: Song Eye Center Inc.
-  position: Assistant Manager and IT Analyst
+  jobTitle: Assistant Manager and IT Analyst
   startDate: 1997-01-01 00:00:00 -06:00
   endDate: 
   body: |-
@@ -41,7 +41,7 @@ work:
     - Select and Implement Electronic Billing and Health Record program Practice Partner
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 - company: Business Partnership
-  position: Investment Property Manager
+  jobTitle: Investment Property Manager
   startDate: 2005-01-01 00:00:00 -06:00
   endDate: 2010-12-01 00:00:00 -06:00
   body: |-
@@ -51,7 +51,7 @@ work:
     - Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     - Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: Continental Airlines
-  position: Customer Relations Representative
+  jobTitle: Customer Relations Representative
   startDate: 2007-01-01 00:00:00 -06:00
   endDate: 2008-12-01 00:00:00 -06:00
   body: |-
@@ -92,7 +92,7 @@ skills:
   level: 4.5
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 40
 - 58
 - 64

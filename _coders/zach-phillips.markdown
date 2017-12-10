@@ -12,7 +12,7 @@ profiles:
   video: 245988282
 work:
 - company: Market Cove LLC
-  position: Owner
+  jobTitle: Owner
   startDate: 2015-05-01 00:00:00 -05:00
   endDate: 
   body: |-
@@ -24,12 +24,12 @@ work:
     - Imported order reports from Amazon into Excel spreadsheets for analysis
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
-  position: Website Administration
+  jobTitle: Website Administration
   startDate: 2012-04-01 00:00:00 -05:00
   endDate: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
-  position: Tech Support
+  jobTitle: Tech Support
   startDate: 2015-04-01 00:00:00 -05:00
   endDate: 2017-09-29 00:00:00 -05:00
   body: |-
@@ -67,7 +67,7 @@ skills:
   level: 4.3
 - name: Attendance
   level: 5
-codewars_scores:
+codewarsScores:
 - 44
 - 62
 - 76

@@ -12,13 +12,13 @@ profiles:
   video: 245988218
 work:
 - company: Pelham Raquet Club
-  position: Tennis Instructor
+  jobTitle: Tennis Instructor
   startDate: 2015-12-01 00:00:00 -06:00
   endDate: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
-  position: Media/Audio Department
+  jobTitle: Media/Audio Department
   startDate: 2015-01-01 00:00:00 -06:00
   endDate: 2017-01-01 00:00:00 -06:00
   body: |-
@@ -62,7 +62,7 @@ skills:
   level: 4.6
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 46
 - 81
 - 91

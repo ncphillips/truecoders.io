@@ -12,7 +12,7 @@ profiles:
   video: 245987519
 work:
 - company: Baumhowers
-  position: Server
+  jobTitle: Server
   startDate: 2016-12-01 00:00:00 -06:00
   endDate: 2017-11-01 00:00:00 -05:00
   body: |-
@@ -21,7 +21,7 @@ work:
     - Handled team based employee operations
     - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
-  position: Server
+  jobTitle: Server
   startDate: 2016-07-01 00:00:00 -05:00
   endDate: 2016-11-01 00:00:00 -05:00
   body: |-
@@ -29,7 +29,7 @@ work:
 
     - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
-  position: Server
+  jobTitle: Server
   startDate: 2015-04-01 00:00:00 -05:00
   endDate: 2015-11-01 00:00:00 -05:00
   body: |-
@@ -38,7 +38,7 @@ work:
     - Simultaneously maintained multiple parts of the restaurant
     - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
-  position: Sales Representative
+  jobTitle: Sales Representative
   startDate: 2014-07-01 00:00:00 -05:00
   endDate: 2015-07-01 00:00:00 -05:00
   body: |-
@@ -47,12 +47,12 @@ work:
     - Helping customers decide what would be the best option for them
     - Handling money using mobile pay options
 - company: Blue​ ​Coast​ ​Burrito
-  position: Store Employee
+  jobTitle: Store Employee
   startDate: 2014-12-01 00:00:00 -06:00
   endDate: 2015-03-01 00:00:00 -06:00
   body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
-  position: Cashier
+  jobTitle: Cashier
   startDate: 2014-06-01 00:00:00 -05:00
   endDate: 2014-11-01 00:00:00 -05:00
   body: |-
@@ -111,7 +111,7 @@ skills:
   level: 3.5
 - name: Attendance
   level: 3.2
-codewars_scores:
+codewarsScores:
 - 16
 - 18
 - 18

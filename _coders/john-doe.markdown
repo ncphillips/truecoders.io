@@ -14,7 +14,7 @@ profiles:
   video: 234034039
 work:
 - company: Company LLC
-  position: Job Title
+  jobTitle: Job Title
   startDate: 2017-01-01 00:00:00 -06:00
   endDate: 
   body: |-
@@ -24,7 +24,7 @@ work:
     * Example Two
     * Example Three
 - company: Example Inc.
-  position: Job Title
+  jobTitle: Job Title
   startDate: 2016-01-01 00:00:00 -06:00
   endDate: 2016-12-01 00:00:00 -06:00
   body: |-
@@ -67,7 +67,7 @@ skills:
   level: 4.1
 - name: Attendance
   level: 4
-codewars_scores:
+codewarsScores:
 - 10
 - 33
 - 48

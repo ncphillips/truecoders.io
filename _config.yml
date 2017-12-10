@@ -51,7 +51,7 @@ defaults:
     location: Birmingham, AL
     institution: TrueCoders
     company: TrueCoders
-    position: Developer
+    jobTitle: Developer
     callToAction:
       title: 
       url: 
@@ -79,7 +79,7 @@ defaults:
       video: 
     work:
     - company: 
-      position: 
+      jobTitle: 
       startDate: 
       endDate: 
       location: 

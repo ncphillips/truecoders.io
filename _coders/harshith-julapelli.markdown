@@ -12,7 +12,7 @@ profiles:
   video: 245988232
 work:
 - company: University of Central Missouri
-  position: Graduate Research Assistant
+  jobTitle: Graduate Research Assistant
   startDate: 2016-01-01 00:00:00 -06:00
   endDate: 2016-12-01 00:00:00 -06:00
   body: |-
@@ -25,7 +25,7 @@ work:
     - Wrote queries to get optimal results
     - Wrote reports on the data analyzed
 - company: University of Central Missouri
-  position: Emergency Mail Sender
+  jobTitle: Emergency Mail Sender
   startDate: 2015-08-01 00:00:00 -05:00
   endDate: 2015-12-01 00:00:00 -06:00
   body: Emergency mail sender is an android application targeted for many users who
@@ -83,7 +83,7 @@ skills:
   level: 3.7
 - name: Attendance
   level: 4.3
-codewars_scores:
+codewarsScores:
 - 44
 - 137
 - 165
