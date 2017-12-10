@@ -18,10 +18,9 @@ collections:
   mbtis:
     title: MBTIs
     output: false
-  page_sections:
-    title: Page_Sections
+  pageSections:
+    title: PageSections
     output: false
-    display_title: Page Sections
   posts:
     title: Posts
     output: true
@@ -124,7 +123,7 @@ defaults:
     display_title: 
 - scope:
     path: ''
-    type: page_sections
+    type: pageSections
   values:
     display_title: 
     sub_collection: 
@@ -199,14 +198,14 @@ defaults:
     type: pages
   values:
     layout: hire
-    page_sections:
+    pageSections:
     - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    page_sections:
+    pageSections:
     - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"
