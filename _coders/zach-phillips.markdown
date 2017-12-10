@@ -13,7 +13,7 @@ profiles:
 work:
 - company: Market Cove LLC
   position: Owner
-  start_date: 2015-05-01 00:00:00 -05:00
+  startDate: 2015-05-01 00:00:00 -05:00
   end_date: 
   body: |-
     Owned and Operated E-commerce Business:
@@ -25,12 +25,12 @@ work:
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
   position: Website Administration
-  start_date: 2012-04-01 00:00:00 -05:00
+  startDate: 2012-04-01 00:00:00 -05:00
   end_date: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
   position: Tech Support
-  start_date: 2015-04-01 00:00:00 -05:00
+  startDate: 2015-04-01 00:00:00 -05:00
   end_date: 2017-09-29 00:00:00 -05:00
   body: |-
     Tech Support and Shipping Manager:

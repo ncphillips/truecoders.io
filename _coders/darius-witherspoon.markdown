@@ -13,7 +13,7 @@ profiles:
 work:
 - company: FedEx Ground
   position: Driver
-  start_date: 2016-01-01 00:00:00 -06:00
+  startDate: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
     Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer:
@@ -22,7 +22,7 @@ work:
     - Maintained company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
   position: Detailer
-  start_date: 2010-03-01 00:00:00 -06:00
+  startDate: 2010-03-01 00:00:00 -06:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
     Handled car detailing for customers:
@@ -34,14 +34,14 @@ work:
 education:
 - institution: Jefferson State Community College
   area: 
-  start_date: 
+  startDate: 
   end_date: 2013-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: Huffman High School
   area: High School Diploma
-  start_date: 
+  startDate: 
   end_date: 2008-05-01 01:00:00 -05:00
   gpa: 
   location: Huffman, AL

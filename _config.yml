@@ -44,7 +44,7 @@ defaults:
     type: classes
   values:
     course: 
-    start_date: 
+    startDate: 
     end_date: 
     price: 
     has_scholarship: true
@@ -80,14 +80,14 @@ defaults:
     work:
     - company: 
       position: 
-      start_date: 
+      startDate: 
       end_date: 
       location: 
       body: 
     education:
     - institution: 
       area: 
-      start_date: 
+      startDate: 
       end_date: 
       gpa: 
       location: 
@@ -107,7 +107,7 @@ defaults:
     hero_image: 
     subtitle: 
     image: 
-    start_date: 
+    startDate: 
     weeks_length: 0
     has_scholarship: true
     price: 

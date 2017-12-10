@@ -13,7 +13,7 @@ profiles:
 work:
 - company: BBVA Compass
   position: Financial Sales Consultant
-  start_date: 2016-12-01 00:00:00 -06:00
+  startDate: 2016-12-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
     Handled the duties of a financial sales consultant:
@@ -23,7 +23,7 @@ work:
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: PNC Bank
   position: Financial Sales Consultant
-  start_date: 2014-01-01 00:00:00 -06:00
+  startDate: 2014-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
     Provide personal financial counseling, assist with lending services, and building relationships with prospects and existing clients to sustain high satisfaction and retention scores:
@@ -35,7 +35,7 @@ work:
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: Best Buy
   position: Sales Lead
-  start_date: 2012-02-01 00:00:00 -06:00
+  startDate: 2012-02-01 00:00:00 -06:00
   end_date: 2013-03-01 00:00:00 -06:00
   body: |-
     Provided clients with the right mobile plan to fit their personal and/or family needs:
@@ -44,7 +44,7 @@ work:
     - Conducted cross-functional team training around cross selling store cards with every purchase
 - company: Best Buy
   position: Digital Imaging Lead
-  start_date: 2008-01-01 00:00:00 -06:00
+  startDate: 2008-01-01 00:00:00 -06:00
   end_date: 2012-02-01 00:00:00 -06:00
   body: |-
     Utilized versatility to work in several departments, including technical support:
@@ -55,14 +55,14 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Political Science Major
-  start_date: 
+  startDate: 
   end_date: 
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: Auburn University
   area: Political Science Major
-  start_date: 
+  startDate: 
   end_date: 2012-05-01 00:00:00 -05:00
   gpa: 
   location: Auburn, AL

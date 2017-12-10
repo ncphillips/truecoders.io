@@ -13,7 +13,7 @@ profiles:
 work:
 - company: Tractor Supply Co
   position: Cashier/Team Member
-  start_date: 2017-04-01 00:00:00 -05:00
+  startDate: 2017-04-01 00:00:00 -05:00
   end_date: 
   body: |-
     Handled team requirements:
@@ -23,7 +23,7 @@ work:
     - Shelf stocker
 - company: Petland
   position: Kennel Technician
-  start_date: 2016-03-01 00:00:00 -06:00
+  startDate: 2016-03-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
     Handled kennel requirements:
@@ -33,34 +33,34 @@ work:
     - Experienced in giving vaccinations
 - company: YMCA
   position: Lifeguard
-  start_date: 2015-04-01 00:00:00 -05:00
+  startDate: 2015-04-01 00:00:00 -05:00
   end_date: 2015-10-01 00:00:00 -05:00
   body: Handled lifeguard requirements.
 education:
 - institution: Homeschool
   area: High School Diploma
-  start_date: 
+  startDate: 
   end_date: 
   gpa: 
   location: 
   body: 
 - institution: Lawson State
   area: 
-  start_date: 
+  startDate: 
   end_date: 
   gpa: 
   location: Birmingham, AL
   body: Dual Enrollment
 - institution: Trenholm State
   area: 
-  start_date: 
+  startDate: 
   end_date: 2016-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
 - institution: Faulkner University
   area: 
-  start_date: 
+  startDate: 
   end_date: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL

@@ -13,7 +13,7 @@ profiles:
 work:
 - company: Pizza​ ​Hut
   position: Delivery​ ​Driver
-  start_date: 2015-08-01 00:00:00 -05:00
+  startDate: 2015-08-01 00:00:00 -05:00
   end_date: 2016-03-01 00:00:00 -06:00
   body: |-
     Handled all the requirements of a delivery driver:
@@ -24,7 +24,7 @@ work:
     - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
   position: Deli​ ​Sales​ ​Associate
-  start_date: 2012-12-01 00:00:00 -06:00
+  startDate: 2012-12-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
   body: |-
     Handled all the requirements of deli sales:
@@ -34,7 +34,7 @@ work:
     - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
   position: Surveyor
-  start_date: 2010-09-01 01:00:00 -05:00
+  startDate: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
     Conducted surveys and filled in required information provided from various participants:
@@ -42,7 +42,7 @@ work:
     - Called lists of numbers searching for survey participants
 - company: Williams​ ​&​ ​Associates​
   position: Administrative Assistant
-  start_date: 2009-06-01 01:00:00 -05:00
+  startDate: 2009-06-01 01:00:00 -05:00
   end_date: 2011-09-01 01:00:00 -05:00
   body: |-
     Supported and managed projects:
@@ -53,7 +53,7 @@ work:
     - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
   position: Server
-  start_date: 2009-04-01 01:00:00 -05:00
+  startDate: 2009-04-01 01:00:00 -05:00
   end_date: 2010-02-01 00:00:00 -06:00
   body: |-
     Handled server requirements:
@@ -62,7 +62,7 @@ work:
     - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
   position: Customer Service Representative
-  start_date: 2008-03-01 00:00:00 -06:00
+  startDate: 2008-03-01 00:00:00 -06:00
   end_date: 2008-06-01 01:00:00 -05:00
   body: |-
     Answered calls from Verizon Wireless customers regarding their wireless devices:
@@ -71,7 +71,7 @@ work:
     - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
   position: Administrative Assistant
-  start_date: 2007-08-01 01:00:00 -05:00
+  startDate: 2007-08-01 01:00:00 -05:00
   end_date: 2008-03-01 00:00:00 -06:00
   body: |-
     Handled administrative assistant requirements:
@@ -81,14 +81,14 @@ work:
 education:
 - institution: Brown Mackie College
   area: Information Technology
-  start_date: 
+  startDate: 
   end_date: 2015-10-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
-  start_date: 
+  startDate: 
   end_date: 2005-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL

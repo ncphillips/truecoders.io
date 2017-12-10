@@ -13,13 +13,13 @@ profiles:
 work:
 - company: Pelham Raquet Club
   position: Tennis Instructor
-  start_date: 2015-12-01 00:00:00 -06:00
+  startDate: 2015-12-01 00:00:00 -06:00
   end_date: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
   position: Media/Audio Department
-  start_date: 2015-01-01 00:00:00 -06:00
+  startDate: 2015-01-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
     Worked with a number of different media/audio tools:
