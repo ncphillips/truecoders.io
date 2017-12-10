@@ -108,7 +108,7 @@ defaults:
     subtitle: 
     image: 
     startDate: 
-    weeks_length: 0
+    weeksLength: 0
     hasScholarship: true
     price: 
     subjects:
@@ -126,7 +126,7 @@ defaults:
     type: pageSections
   values:
     displayTitle: 
-    sub_collection: 
+    subCollection: 
     limit: 3
     callToAction:
       title: 

@@ -3,7 +3,7 @@ title: Team Collection
 date: 2017-11-10 17:13:00 -06:00
 position: 5
 displayTitle: Our Team
-sub_collection: teammates
+subCollection: teammates
 callToAction:
   title: More About Us
   url: "/about"
