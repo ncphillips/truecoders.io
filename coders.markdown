@@ -2,7 +2,8 @@
 title: Coders
 date: 2017-09-12 02:39:00 -05:00
 position: 3
-heroImage: "/uploads/hero-image-10.jpg"
+hero:
+  image: "/uploads/hero-image-10.jpg"
 displayTitle: Our Coders
 subtitle: The people that make us amazing
 callToAction:

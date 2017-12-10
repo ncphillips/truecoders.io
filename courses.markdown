@@ -4,7 +4,8 @@ date: 2017-09-12 02:39:00 -05:00
 position: 2
 isNav: true
 isFooter: true
-heroImage: "/uploads/hero-image-7.jpg"
+hero:
+  image: "/uploads/hero-image-7.jpg"
 displayTitle: Our Courses
 subtitle: The things we do and the stacks we love
 callToAction:

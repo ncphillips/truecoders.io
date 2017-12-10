@@ -103,8 +103,9 @@ defaults:
     type: courses
   values:
     layout: course
-    heroColor: "#4b4948"
-    heroImage: 
+    hero:
+      color: "#4b4948"
+      image: 
     subtitle: 
     image: 
     startDate: 
@@ -158,8 +159,9 @@ defaults:
     layout: page
     isNav: false
     isFooter: false
-    heroColor: "#4b4948"
-    heroImage: 
+    hero:
+      color: "#4b4948"
+      image: 
     displayTitle: 
     subtitle: 
     callToAction:
@@ -229,7 +231,7 @@ description: |-
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 googleAnalytics:
   trackingId: UA-104643272-1
-remote_theme: truecodersio/truecodersio-jekyll-theme@v0.9.0
+remote_theme: truecodersio/truecodersio-jekyll-theme
 social:
   name: TrueCoders
   links:

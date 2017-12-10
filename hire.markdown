@@ -4,7 +4,8 @@ date: 2017-11-10 10:00:00 -06:00
 position: 7
 isNav: true
 isFooter: true
-heroImage: "/uploads/hero-image-9.jpg"
+hero:
+  image: "/uploads/hero-image-9.jpg"
 displayTitle: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 pageSections:

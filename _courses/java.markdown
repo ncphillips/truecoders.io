@@ -5,7 +5,8 @@ tags:
 - java
 - oracle
 position: 1
-heroColor: "#ea2d2f"
+hero:
+  color: "#ea2d2f"
 subtitle: Thorough training in all things Java
 image: "/uploads/java-logo.jpg"
 price: "$10,000"
