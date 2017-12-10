@@ -4,17 +4,17 @@ date: 2017-11-14 02:04:00 -06:00
 position: 16
 image: "/uploads/zach-phillips.jpg"
 class: Alpha C#
-personality_type: ISTJ
 profiles:
+  mbti: ISTJ
   github: zachstagrammer
   linkedin: zachjphillips
   codewars: zachstagrammer
   video: 245988282
 work:
 - company: Market Cove LLC
-  position: Owner
-  start_date: 2015-05-01 00:00:00 -05:00
-  end_date: 
+  jobTitle: Owner
+  startDate: 2015-05-01 00:00:00 -05:00
+  endDate: 
   body: |-
     Owned and Operated E-commerce Business:
 
@@ -24,14 +24,14 @@ work:
     - Imported order reports from Amazon into Excel spreadsheets for analysis
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
-  position: Website Administration
-  start_date: 2012-04-01 00:00:00 -05:00
-  end_date: 
+  jobTitle: Website Administration
+  startDate: 2012-04-01 00:00:00 -05:00
+  endDate: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
-  position: Tech Support
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2017-09-29 00:00:00 -05:00
+  jobTitle: Tech Support
+  startDate: 2015-04-01 00:00:00 -05:00
+  endDate: 2017-09-29 00:00:00 -05:00
   body: |-
     Tech Support and Shipping Manager:
 
@@ -43,7 +43,7 @@ work:
 education:
 - institution: Christ Church School
   area: High School Diploma
-  end_date: 2013-05-01 00:00:00 -05:00
+  endDate: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
 references:
 - name: Cody Winton
@@ -67,7 +67,7 @@ skills:
   level: 4.3
 - name: Attendance
   level: 5
-codewars_scores:
+codewarsScores:
 - 44
 - 62
 - 76

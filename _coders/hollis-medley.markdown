@@ -4,17 +4,17 @@ date: 2017-11-14 02:02:00 -06:00
 position: 9
 image: "/uploads/hollis-medley.jpg"
 class: Alpha C#
-personality_type: ESTJ
 profiles:
+  mbti: ESTJ
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
   video: 245988235
 work:
 - company: Tractor Supply Co
-  position: Cashier/Team Member
-  start_date: 2017-04-01 00:00:00 -05:00
-  end_date: 
+  jobTitle: Cashier/Team Member
+  startDate: 2017-04-01 00:00:00 -05:00
+  endDate: 
   body: |-
     Handled team requirements:
 
@@ -22,9 +22,9 @@ work:
     - Cashier
     - Shelf stocker
 - company: Petland
-  position: Kennel Technician
-  start_date: 2016-03-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  jobTitle: Kennel Technician
+  startDate: 2016-03-01 00:00:00 -06:00
+  endDate: 2017-01-01 00:00:00 -06:00
   body: |-
     Handled kennel requirements:
 
@@ -32,36 +32,36 @@ work:
     - A little bit of trimming and bath
     - Experienced in giving vaccinations
 - company: YMCA
-  position: Lifeguard
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2015-10-01 00:00:00 -05:00
+  jobTitle: Lifeguard
+  startDate: 2015-04-01 00:00:00 -05:00
+  endDate: 2015-10-01 00:00:00 -05:00
   body: Handled lifeguard requirements.
 education:
 - institution: Homeschool
   area: High School Diploma
-  start_date: 
-  end_date: 
+  startDate: 
+  endDate: 
   gpa: 
   location: 
   body: 
 - institution: Lawson State
   area: 
-  start_date: 
-  end_date: 
+  startDate: 
+  endDate: 
   gpa: 
   location: Birmingham, AL
   body: Dual Enrollment
 - institution: Trenholm State
   area: 
-  start_date: 
-  end_date: 2016-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2016-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
 - institution: Faulkner University
   area: 
-  start_date: 
-  end_date: 2015-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
@@ -87,7 +87,7 @@ skills:
   level: 4.3
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 51
 - 67
 - 69

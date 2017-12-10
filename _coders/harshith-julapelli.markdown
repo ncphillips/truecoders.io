@@ -4,17 +4,17 @@ date: 2017-11-14 02:02:00 -06:00
 position: 8
 image: "/uploads/harshith-julapelli.jpg"
 class: Alpha C#
-personality_type: ESTJ
 profiles:
+  mbti: ESTJ
   github: Harshithj88
   linkedin: hjulapelli
   codewars: Harshithj
   video: 245988232
 work:
 - company: University of Central Missouri
-  position: Graduate Research Assistant
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  jobTitle: Graduate Research Assistant
+  startDate: 2016-01-01 00:00:00 -06:00
+  endDate: 2016-12-01 00:00:00 -06:00
   body: |-
     Worked under the support and guidance of the senior professor:
 
@@ -25,9 +25,9 @@ work:
     - Wrote queries to get optimal results
     - Wrote reports on the data analyzed
 - company: University of Central Missouri
-  position: Emergency Mail Sender
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2015-12-01 00:00:00 -06:00
+  jobTitle: Emergency Mail Sender
+  startDate: 2015-08-01 00:00:00 -05:00
+  endDate: 2015-12-01 00:00:00 -06:00
   body: Emergency mail sender is an android application targeted for many users who
     cannot access their mobiles for long duration of time. EMS sends the missed calls
     and message details to the user specified email id. Few times by not attempting
@@ -38,8 +38,8 @@ work:
 education:
 - institution: University of Central Missouri
   area: Master of Computer Science
-  start_date: 
-  end_date: 2016-12-01 00:00:00 -06:00
+  startDate: 
+  endDate: 2016-12-01 00:00:00 -06:00
   gpa: 3.6
   location: Warrensburg, MO
   body: |-
@@ -49,8 +49,8 @@ education:
     - Acted as a liaison between School officials and International Students
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
-  start_date: 
-  end_date: 2015-04-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2015-04-01 00:00:00 -05:00
   gpa: 3.5
   location: Hyderabad, India
   body: |-
@@ -83,7 +83,7 @@ skills:
   level: 3.7
 - name: Attendance
   level: 4.3
-codewars_scores:
+codewarsScores:
 - 44
 - 137
 - 165

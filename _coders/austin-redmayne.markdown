@@ -4,57 +4,57 @@ date: 2017-11-14 02:01:00 -06:00
 position: 2
 image: "/uploads/austin-redmayne.jpg"
 class: Alpha C#
-personality_type: INFJ
 profiles:
+  mbti: INFJ
   github: austinrickmayne
   linkedin: austin-redmayne-2271a0151
   codewars: austinrickmayne
   video: 245987519
 work:
 - company: Baumhowers
-  position: Server
-  start_date: 2016-12-01 00:00:00 -06:00
-  end_date: 2017-11-01 00:00:00 -05:00
+  jobTitle: Server
+  startDate: 2016-12-01 00:00:00 -06:00
+  endDate: 2017-11-01 00:00:00 -05:00
   body: |-
     Met time commitments in order to keep restaurant running smoothly:
 
     - Handled team based employee operations
     - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
-  position: Server
-  start_date: 2016-07-01 00:00:00 -05:00
-  end_date: 2016-11-01 00:00:00 -05:00
+  jobTitle: Server
+  startDate: 2016-07-01 00:00:00 -05:00
+  endDate: 2016-11-01 00:00:00 -05:00
   body: |-
     Adhered persistently to the changing pace and demand of the restaurant:
 
     - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
-  position: Server
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2015-11-01 00:00:00 -05:00
+  jobTitle: Server
+  startDate: 2015-04-01 00:00:00 -05:00
+  endDate: 2015-11-01 00:00:00 -05:00
   body: |-
     Focused on teamwork to ensure all customers were satisfied with their service:
 
     - Simultaneously maintained multiple parts of the restaurant
     - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
-  position: Sales Representative
-  start_date: 2014-07-01 00:00:00 -05:00
-  end_date: 2015-07-01 00:00:00 -05:00
+  jobTitle: Sales Representative
+  startDate: 2014-07-01 00:00:00 -05:00
+  endDate: 2015-07-01 00:00:00 -05:00
   body: |-
     Set up and maintained a mobile store:
 
     - Helping customers decide what would be the best option for them
     - Handling money using mobile pay options
 - company: Blue​ ​Coast​ ​Burrito
-  position: Store Employee
-  start_date: 2014-12-01 00:00:00 -06:00
-  end_date: 2015-03-01 00:00:00 -06:00
+  jobTitle: Store Employee
+  startDate: 2014-12-01 00:00:00 -06:00
+  endDate: 2015-03-01 00:00:00 -06:00
   body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
-  position: Cashier
-  start_date: 2014-06-01 00:00:00 -05:00
-  end_date: 2014-11-01 00:00:00 -05:00
+  jobTitle: Cashier
+  startDate: 2014-06-01 00:00:00 -05:00
+  endDate: 2014-11-01 00:00:00 -05:00
   body: |-
     Assisted customers in locating products, at times helping them make a decision between multiple products:
 
@@ -63,29 +63,29 @@ work:
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
-  start_date: 
-  end_date: 
+  startDate: 
+  endDate: 
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
-  start_date: 
-  end_date: 2014-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2014-05-01 00:00:00 -05:00
   gpa: 
   location: Florence, AL
   body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
-  start_date: 
-  end_date: 2012-12-01 00:00:00 -06:00
+  startDate: 
+  endDate: 2012-12-01 00:00:00 -06:00
   gpa: 
   location: Muscle​ ​Shoals,​ ​AL
   body: 
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
-  start_date: 
-  end_date: 2011-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 2011-05-01 01:00:00 -05:00
   gpa: 
   location: Homewood, AL
   body: 
@@ -111,7 +111,7 @@ skills:
   level: 3.5
 - name: Attendance
   level: 3.2
-codewars_scores:
+codewarsScores:
 - 16
 - 18
 - 18

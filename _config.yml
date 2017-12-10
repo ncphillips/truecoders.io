@@ -8,21 +8,19 @@ collections:
   coders:
     title: Coders
     output: true
-    references_limit: 1
+    referencesLimit: 1
   courses:
     title: Courses
     output: true
   faqs:
     title: FAQs
     output: false
-  page_sections:
-    title: Page_Sections
+  mbtis:
+    title: MBTIs
     output: false
-    display_title: Page Sections
-  personality_types:
-    title: Personality_Types
+  pageSections:
+    title: PageSections
     output: false
-    display_title: Personality Type
   posts:
     title: Posts
     output: true
@@ -46,15 +44,15 @@ defaults:
     type: classes
   values:
     course: 
-    start_date: 
-    end_date: 
+    startDate: 
+    endDate: 
     price: 
-    has_scholarship: true
+    hasScholarship: true
     location: Birmingham, AL
     institution: TrueCoders
     company: TrueCoders
-    position: Developer
-    call_to_action:
+    jobTitle: Developer
+    callToAction:
       title: 
       url: 
 - scope:
@@ -73,24 +71,24 @@ defaults:
       countryCode: US
       region: 
     class: 
-    personality_type: 
     profiles:
+      mbti: 
       github: 
       linkedin: 
       codewars: 
       video: 
     work:
     - company: 
-      position: 
-      start_date: 
-      end_date: 
+      jobTitle: 
+      startDate: 
+      endDate: 
       location: 
       body: 
     education:
     - institution: 
       area: 
-      start_date: 
-      end_date: 
+      startDate: 
+      endDate: 
       gpa: 
       location: 
       body: 
@@ -105,38 +103,38 @@ defaults:
     type: courses
   values:
     layout: course
-    hero_color: "#4b4948"
-    hero_image: 
+    heroColor: "#4b4948"
+    heroImage: 
     subtitle: 
     image: 
-    start_date: 
-    weeks_length: 0
-    has_scholarship: true
+    startDate: 
+    weeksLength: 0
+    hasScholarship: true
     price: 
     subjects:
     - 
-    call_to_action:
+    callToAction:
       title: 
       url: 
 - scope:
     path: ''
     type: faqs
   values:
-    display_title: 
+    displayTitle: 
 - scope:
     path: ''
-    type: page_sections
+    type: pageSections
   values:
-    display_title: 
-    sub_collection: 
+    displayTitle: 
+    subCollection: 
     limit: 3
-    call_to_action:
+    callToAction:
       title: 
       url: 
     subsections:
     - title: 
       subtitle: 
-      fa_icon: 
+      faIcon: 
       body: 
 - scope:
     path: ''
@@ -150,21 +148,21 @@ defaults:
   values:
     layout: page
     subtitle: 
-    is_board_member: false
-    is_teacher: false
+    isBoardMember: false
+    isTeacher: false
     image: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    is_nav: false
-    is_footer: false
-    hero_color: "#4b4948"
-    hero_image: 
-    display_title: 
+    isNav: false
+    isFooter: false
+    heroColor: "#4b4948"
+    heroImage: 
+    displayTitle: 
     subtitle: 
-    call_to_action:
+    callToAction:
       title: 
       url: 
 - scope:
@@ -200,14 +198,14 @@ defaults:
     type: pages
   values:
     layout: hire
-    page_sections:
+    pageSections:
     - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    page_sections:
+    pageSections:
     - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"
@@ -217,7 +215,7 @@ author:
   twitter: truecodersio
 company:
   email: contact@truecoders.io
-  full_name: TrueCoders LLC
+  fullName: TrueCoders LLC
   phone: 12055308496
   address:
     street: 205 20th Street N
@@ -229,9 +227,9 @@ description: |-
   Be Mentored. Be Connected.
 
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-google_analytics:
-  tracking_id: UA-104643272-1
-remote_theme: truecodersio/truecodersio-jekyll-theme@v0.8.0
+googleAnalytics:
+  trackingId: UA-104643272-1
+remote_theme: truecodersio/truecodersio-jekyll-theme@v0.9.0
 social:
   name: TrueCoders
   links:

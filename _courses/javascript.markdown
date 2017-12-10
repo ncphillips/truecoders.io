@@ -7,7 +7,7 @@ tags:
 - nodejs
 - node.js
 position: 2
-hero_color: "#EEDA4E"
+heroColor: "#EEDA4E"
 subtitle: Thorough training in all things JavaScript
 image: "/uploads/javascript-logo.jpg"
 subjects:
@@ -20,7 +20,7 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
+callToAction:
   title: Find Out More
   url: "/contact"
 ---

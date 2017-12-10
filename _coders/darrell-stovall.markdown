@@ -4,17 +4,17 @@ date: 2017-11-14 02:02:00 -06:00
 position: 6
 image: "/uploads/darrell-stovall.jpg"
 class: Alpha C#
-personality_type: INTJ
 profiles:
+  mbti: INTJ
   github: darrellstovall
   linkedin: darrellstovall
   codewars: darrellstovall
   video: 245988227
 work:
 - company: Hewitt-Trussville
-  position: Middle School, Teacher
-  start_date: 2003-08-01 01:00:00 -05:00
-  end_date: 2017-05-01 00:00:00 -05:00
+  jobTitle: Middle School, Teacher
+  startDate: 2003-08-01 01:00:00 -05:00
+  endDate: 2017-05-01 00:00:00 -05:00
   location: 
   body: "I have served as an English department chair, been part of our school leadership/professional
     development team and a system-wide gifted placement team. During the last three
@@ -26,9 +26,9 @@ work:
     Rotation, 6th grade\n- English/Language Arts, 7th-8th grades\n- Yearbook, 7th-8th
     grades\n- Reading, 6th grade\n- Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
-  position: Jr. High School, Teacher
-  start_date: 1992-08-01 01:00:00 -05:00
-  end_date: 2003-05-01 01:00:00 -05:00
+  jobTitle: Jr. High School, Teacher
+  startDate: 1992-08-01 01:00:00 -05:00
+  endDate: 2003-05-01 01:00:00 -05:00
   body: "I served as an English department chair, sponsored National Jr. Honor Society,
     coached Scholars Bowl, and coached our high school’s soccer team. \n\n- English/Language
     Arts, 8th-9th grades\n- American History, 9th grade\n- Language Arts elective,
@@ -36,8 +36,8 @@ work:
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
-  start_date: 
-  end_date: 1995-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 1995-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: |-
@@ -46,8 +46,8 @@ education:
     * Gifted and Talented Certification
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
-  start_date: 
-  end_date: 1992-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 1992-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: |-
@@ -77,7 +77,7 @@ references:
     and possesses a real ability to both learn and teach others what he knows. His
     work ethic and ability to grasp complex problems make him a real asset to any
     team. I'd recommend Darrel for a programming position.
-codewars_scores:
+codewarsScores:
 - 39
 - 49
 - 51

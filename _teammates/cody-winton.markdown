@@ -8,8 +8,8 @@ tags:
 position: 0
 image: "/uploads/cody-winton.jpg"
 subtitle: President & Technology Officer
-is_board_member: true
-is_teacher: true
+isBoardMember: true
+isTeacher: true
 ---
 
 Cody is a senior developer with years of experience in Swift, JavaScript, Node.js, and many other dev stacks

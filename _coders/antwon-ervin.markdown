@@ -4,44 +4,44 @@ date: 2017-11-14 01:53:00 -06:00
 position: 1
 image: "/uploads/antwon-ervin.jpg"
 class: Alpha C#
-personality_type: ENFP
 profiles:
+  mbti: ENFP
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
   video: 245987515
 work:
 - company: Discover Birmingham
-  position: Founder
-  start_date: 2013-01-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Founder
+  startDate: 2013-01-01 00:00:00 -06:00
+  endDate: 
   body: |-
     Built a community calendar & engagement website:
 
     - Managing written & video content as well as social media channels
     - Leading a team of writers and videographers
 - company: Chronicle Studio
-  position: Service Consultant
-  start_date: 2014-04-01 00:00:00 -05:00
-  end_date: 2015-04-01 00:00:00 -05:00
+  jobTitle: Service Consultant
+  startDate: 2014-04-01 00:00:00 -05:00
+  endDate: 2015-04-01 00:00:00 -05:00
   body: |-
     Outside sales and tech support:
 
     - Served as first contact for clients
     - Served as lead support for the project Automotive Leadership Technology
 - company: Five Star Painting
-  position: Project Consultant
-  start_date: 2013-09-01 00:00:00 -05:00
-  end_date: 2017-07-01 00:00:00 -05:00
+  jobTitle: Project Consultant
+  startDate: 2013-09-01 00:00:00 -05:00
+  endDate: 2017-07-01 00:00:00 -05:00
   body: |-
     Production management and business development:
 
     - Managed crew’s workflow schedule
     - Provided customer service
 - company: Pittsburgh Glass Works, LLC
-  position: Account Representative
-  start_date: 2012-12-01 00:00:00 -06:00
-  end_date: 2013-08-01 00:00:00 -05:00
+  jobTitle: Account Representative
+  startDate: 2012-12-01 00:00:00 -06:00
+  endDate: 2013-08-01 00:00:00 -05:00
   body: |-
     Worked with customers:
 
@@ -49,9 +49,9 @@ work:
     - Delivered to customer’s premises
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
-  position: Digital Sales Manager
-  start_date: 2010-02-01 00:00:00 -06:00
-  end_date: 2012-11-01 00:00:00 -05:00
+  jobTitle: Digital Sales Manager
+  startDate: 2010-02-01 00:00:00 -06:00
+  endDate: 2012-11-01 00:00:00 -05:00
   body: |-
     General sales management:
 
@@ -59,9 +59,9 @@ work:
     - Managed online inventory
     - Managed Service inventory and sales
 - company: Bada Ding Inc.
-  position: Sales Mgr / Repair Tech
-  start_date: 2007-06-01 01:00:00 -05:00
-  end_date: 2010-01-01 00:00:00 -06:00
+  jobTitle: Sales Mgr / Repair Tech
+  startDate: 2007-06-01 01:00:00 -05:00
+  endDate: 2010-01-01 00:00:00 -06:00
   body: |-
     Outside sales and customer service:
 
@@ -71,16 +71,16 @@ work:
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
-  start_date: 
-  end_date: 2015-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Focused on Business, Management, Marketing, and Related Support Services,
     2014 - 2015
 - institution: Bessemer Technical College
   area: Architectural Design
-  start_date: 
-  end_date: 2006-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 2006-05-01 01:00:00 -05:00
   gpa: 
   location: Bessemer, AL
   body: 
@@ -111,7 +111,7 @@ skills:
   level: 4.8
 - name: Attendance
   level: 2.8
-codewars_scores:
+codewarsScores:
 - 4
 - 4
 - 18

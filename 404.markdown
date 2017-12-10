@@ -3,10 +3,10 @@ title: '404'
 date: 2017-08-23 22:00:00 -05:00
 permalink: 404.html
 position: 8
-hero_image: "/uploads/hero-image-6.jpg"
-display_title: Whoops
+heroImage: "/uploads/hero-image-6.jpg"
+displayTitle: Whoops
 subtitle: Looks like we got a 404
-call_to_action:
+callToAction:
   title: Contact Us
   url: "/contact"
 ---

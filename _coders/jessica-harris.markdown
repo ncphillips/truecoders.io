@@ -4,17 +4,17 @@ date: 2017-11-14 02:03:00 -06:00
 position: 10
 image: "/uploads/jessica-harris.jpg"
 class: Alpha C#
-personality_type: ESTJ
 profiles:
+  mbti: ESTJ
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
   video: 245988239
 work:
 - company: Pizza​ ​Hut
-  position: Delivery​ ​Driver
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-03-01 00:00:00 -06:00
+  jobTitle: Delivery​ ​Driver
+  startDate: 2015-08-01 00:00:00 -05:00
+  endDate: 2016-03-01 00:00:00 -06:00
   body: |-
     Handled all the requirements of a delivery driver:
 
@@ -23,9 +23,9 @@ work:
     - Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks
     - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
-  position: Deli​ ​Sales​ ​Associate
-  start_date: 2012-12-01 00:00:00 -06:00
-  end_date: 2012-12-31 00:00:00 -06:00
+  jobTitle: Deli​ ​Sales​ ​Associate
+  startDate: 2012-12-01 00:00:00 -06:00
+  endDate: 2012-12-31 00:00:00 -06:00
   body: |-
     Handled all the requirements of deli sales:
 
@@ -33,17 +33,17 @@ work:
     - Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays
     - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
-  position: Surveyor
-  start_date: 2010-09-01 01:00:00 -05:00
-  end_date: 2012-01-01 00:00:00 -06:00
+  jobTitle: Surveyor
+  startDate: 2010-09-01 01:00:00 -05:00
+  endDate: 2012-01-01 00:00:00 -06:00
   body: |-
     Conducted surveys and filled in required information provided from various participants:
 
     - Called lists of numbers searching for survey participants
 - company: Williams​ ​&​ ​Associates​
-  position: Administrative Assistant
-  start_date: 2009-06-01 01:00:00 -05:00
-  end_date: 2011-09-01 01:00:00 -05:00
+  jobTitle: Administrative Assistant
+  startDate: 2009-06-01 01:00:00 -05:00
+  endDate: 2011-09-01 01:00:00 -05:00
   body: |-
     Supported and managed projects:
 
@@ -52,27 +52,27 @@ work:
     - Managed an exceptional filing system
     - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
-  position: Server
-  start_date: 2009-04-01 01:00:00 -05:00
-  end_date: 2010-02-01 00:00:00 -06:00
+  jobTitle: Server
+  startDate: 2009-04-01 01:00:00 -05:00
+  endDate: 2010-02-01 00:00:00 -06:00
   body: |-
     Handled server requirements:
 
     - Took and served customers food and beverage orders
     - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
-  position: Customer Service Representative
-  start_date: 2008-03-01 00:00:00 -06:00
-  end_date: 2008-06-01 01:00:00 -05:00
+  jobTitle: Customer Service Representative
+  startDate: 2008-03-01 00:00:00 -06:00
+  endDate: 2008-06-01 01:00:00 -05:00
   body: |-
     Answered calls from Verizon Wireless customers regarding their wireless devices:
 
     - Notated customers accounts upon resolving all cellular issues
     - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
-  position: Administrative Assistant
-  start_date: 2007-08-01 01:00:00 -05:00
-  end_date: 2008-03-01 00:00:00 -06:00
+  jobTitle: Administrative Assistant
+  startDate: 2007-08-01 01:00:00 -05:00
+  endDate: 2008-03-01 00:00:00 -06:00
   body: |-
     Handled administrative assistant requirements:
 
@@ -81,15 +81,15 @@ work:
 education:
 - institution: Brown Mackie College
   area: Information Technology
-  start_date: 
-  end_date: 2015-10-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2015-10-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
-  start_date: 
-  end_date: 2005-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 2005-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: 
@@ -115,7 +115,7 @@ skills:
   level: 3.8
 - name: Attendance
   level: 2.5
-codewars_scores:
+codewarsScores:
 - 49
 - 127
 - 151

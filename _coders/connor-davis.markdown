@@ -4,23 +4,23 @@ date: 2017-11-14 02:01:00 -06:00
 position: 4
 image: "/uploads/connor-davis.jpg"
 class: Alpha C#
-personality_type: ENFP
 profiles:
+  mbti: ENFP
   github: connordavis98
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98
   video: 245988218
 work:
 - company: Pelham Raquet Club
-  position: Tennis Instructor
-  start_date: 2015-12-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Tennis Instructor
+  startDate: 2015-12-01 00:00:00 -06:00
+  endDate: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
-  position: Media/Audio Department
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  jobTitle: Media/Audio Department
+  startDate: 2015-01-01 00:00:00 -06:00
+  endDate: 2017-01-01 00:00:00 -06:00
   body: |-
     Worked with a number of different media/audio tools:
 
@@ -29,7 +29,7 @@ work:
 education:
 - institution: Hope Christian High School
   area: High School Diploma
-  end_date: 2017-05-01 00:00:00 -05:00
+  endDate: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
     Graduated with AAD:
@@ -62,7 +62,7 @@ skills:
   level: 4.6
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 46
 - 81
 - 91

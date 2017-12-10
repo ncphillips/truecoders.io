@@ -4,17 +4,17 @@ date: 2017-11-14 02:03:00 -06:00
 position: 13
 image: "/uploads/micah-weech.jpg"
 class: Alpha C#
-personality_type: INFP
 profiles:
+  mbti: INFP
   github: mweechzing
   linkedin: micah-weech
   codewars: mweechzing
   video: 245988267
 work:
 - company: South Central Conference of Seventh Day Adventists
-  position: Senior Pastor
-  start_date: 2008-05-01 01:00:00 -05:00
-  end_date: 
+  jobTitle: Senior Pastor
+  startDate: 2008-05-01 01:00:00 -05:00
+  endDate: 
   body: |-
     Congregations served:
 
@@ -41,9 +41,9 @@ work:
     - Trained and developed leaders on the local level
     - Supported the community thru various initiatives focused on improving the quality of life
 - company: Emmanuel Jr. Academy
-  position: Teacher
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-05-01 00:00:00 -05:00
+  jobTitle: Teacher
+  startDate: 2015-08-01 00:00:00 -05:00
+  endDate: 2016-05-01 00:00:00 -05:00
   body: |-
     Grade levels taught:
 
@@ -51,9 +51,9 @@ work:
     - Computer class for grades 9&10
     - PE class for grades 3-10
 - company: Savannah College of Art and Design
-  position: Teaching Assistant
-  start_date: 2012-01-01 00:00:00 -06:00
-  end_date: 2012-12-01 00:00:00 -06:00
+  jobTitle: Teaching Assistant
+  startDate: 2012-01-01 00:00:00 -06:00
+  endDate: 2012-12-01 00:00:00 -06:00
   body: |-
     Trained in use of the Steadicam camera support system:
 
@@ -61,9 +61,9 @@ work:
     - Balancing and safe operation of equipment
     - Physical practice and emphasis on proper footwork
 - company: Oakwood University Church
-  position: Media Director/Assistant Youth Pastor
-  start_date: 2008-08-01 01:00:00 -05:00
-  end_date: 2010-07-01 01:00:00 -05:00
+  jobTitle: Media Director/Assistant Youth Pastor
+  startDate: 2008-08-01 01:00:00 -05:00
+  endDate: 2010-07-01 01:00:00 -05:00
   body: "Developed sales strategy and Lead youth events:\n\n- Managed audio/visual
     $500,000 system install. \n- Managed sale and distribution of content produced
     at Oakwood University Church for world wide distribution.\n- Managed, recruited,
@@ -73,15 +73,15 @@ work:
 education:
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
-  start_date: 
-  end_date: 
+  startDate: 
+  endDate: 
   gpa: 
   location: Savannah, GA
   body: Pending thesis
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
-  start_date: 
-  end_date: 2013-11-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2013-11-01 00:00:00 -05:00
   gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages
@@ -107,7 +107,7 @@ skills:
   level: 2
 - name: Attendance
   level: 1.1
-codewars_scores:
+codewarsScores:
 - 10
 - 16
 - 45

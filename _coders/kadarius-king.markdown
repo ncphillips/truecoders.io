@@ -4,17 +4,17 @@ date: 2017-11-14 02:03:00 -06:00
 position: 12
 image: "/uploads/kadarius-king.jpg"
 class: Alpha C#
-personality_type: INFP
 profiles:
+  mbti: INFP
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
   video: 245988254
 work:
 - company: BBVA Compass
-  position: Financial Sales Consultant
-  start_date: 2016-12-01 00:00:00 -06:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  jobTitle: Financial Sales Consultant
+  startDate: 2016-12-01 00:00:00 -06:00
+  endDate: 2017-10-01 00:00:00 -05:00
   body: |-
     Handled the duties of a financial sales consultant:
 
@@ -22,9 +22,9 @@ work:
     - Prepare credit and financial information to streamline loan processing for mortgage, installment, and CRA loans in accordance with internal and federal policies and procedures
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: PNC Bank
-  position: Financial Sales Consultant
-  start_date: 2014-01-01 00:00:00 -06:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  jobTitle: Financial Sales Consultant
+  startDate: 2014-01-01 00:00:00 -06:00
+  endDate: 2017-10-01 00:00:00 -05:00
   body: |-
     Provide personal financial counseling, assist with lending services, and building relationships with prospects and existing clients to sustain high satisfaction and retention scores:
 
@@ -34,18 +34,18 @@ work:
     - Prepare credit and financial information to streamline loan processing for mortgage, installment, and CRA loans in accordance with internal and federal policies and procedures
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: Best Buy
-  position: Sales Lead
-  start_date: 2012-02-01 00:00:00 -06:00
-  end_date: 2013-03-01 00:00:00 -06:00
+  jobTitle: Sales Lead
+  startDate: 2012-02-01 00:00:00 -06:00
+  endDate: 2013-03-01 00:00:00 -06:00
   body: |-
     Provided clients with the right mobile plan to fit their personal and/or family needs:
 
     - Managed P&L, new product roll-out, and ad-set roll out
     - Conducted cross-functional team training around cross selling store cards with every purchase
 - company: Best Buy
-  position: Digital Imaging Lead
-  start_date: 2008-01-01 00:00:00 -06:00
-  end_date: 2012-02-01 00:00:00 -06:00
+  jobTitle: Digital Imaging Lead
+  startDate: 2008-01-01 00:00:00 -06:00
+  endDate: 2012-02-01 00:00:00 -06:00
   body: |-
     Utilized versatility to work in several departments, including technical support:
 
@@ -55,15 +55,15 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Political Science Major
-  start_date: 
-  end_date: 
+  startDate: 
+  endDate: 
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: Auburn University
   area: Political Science Major
-  start_date: 
-  end_date: 2012-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2012-05-01 00:00:00 -05:00
   gpa: 
   location: Auburn, AL
   body: 
@@ -93,7 +93,7 @@ skills:
   level: 4.4
 - name: Attendance
   level: 1.7
-codewars_scores:
+codewarsScores:
 - 9
 - 11
 - 45

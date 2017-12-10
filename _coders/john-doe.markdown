@@ -6,17 +6,17 @@ tags:
 position: 0
 image: "/uploads/john-doe.jpg"
 class: Alpha C#
-personality_type: ESTJ
 profiles:
+  mbti: ESTJ
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
   video: 234034039
 work:
 - company: Company LLC
-  position: Job Title
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Job Title
+  startDate: 2017-01-01 00:00:00 -06:00
+  endDate: 
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -24,9 +24,9 @@ work:
     * Example Two
     * Example Three
 - company: Example Inc.
-  position: Job Title
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  jobTitle: Job Title
+  startDate: 2016-01-01 00:00:00 -06:00
+  endDate: 2016-12-01 00:00:00 -06:00
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -36,8 +36,8 @@ work:
 education:
 - institution: Example High School
   area: High School Diploma
-  start_date: 
-  end_date: 2010-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 2010-05-01 01:00:00 -05:00
   gpa: 4
   location: Birmingham, AL
   body: |-
@@ -67,7 +67,7 @@ skills:
   level: 4.1
 - name: Attendance
   level: 4
-codewars_scores:
+codewarsScores:
 - 10
 - 33
 - 48

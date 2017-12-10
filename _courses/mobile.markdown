@@ -9,7 +9,7 @@ tags:
 - java
 - kotlin
 position: 3
-hero_color: "#7BC087"
+heroColor: "#7BC087"
 subtitle: Thorough training in all things Mobile Development
 image: "/uploads/mobile-logo.png"
 subjects:
@@ -22,7 +22,7 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
+callToAction:
   title: Find Out More
   url: "/contact"
 ---

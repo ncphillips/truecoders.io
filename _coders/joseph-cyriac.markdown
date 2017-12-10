@@ -4,26 +4,26 @@ date: 2017-11-14 02:03:00 -06:00
 position: 11
 image: "/uploads/joseph-cyriac.jpg"
 class: Alpha C#
-personality_type: ENTJ
 profiles:
+  mbti: ENTJ
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo
   video: 245988251
 work:
 - company: HFP LLC
-  position: Customs and Sales Broker
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Customs and Sales Broker
+  startDate: 2015-01-01 00:00:00 -06:00
+  endDate: 
   body: |-
     Liaison for North American Ventures:
 
     - Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
     - Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
-  position: Senior Manager and IT Analyst
-  start_date: 2003-01-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Senior Manager and IT Analyst
+  startDate: 2003-01-01 00:00:00 -06:00
+  endDate: 
   body: |-
     As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
 
@@ -32,18 +32,18 @@ work:
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
     - HR services such as hiring and yearly employee review
 - company: Song Eye Center Inc.
-  position: Assistant Manager and IT Analyst
-  start_date: 1997-01-01 00:00:00 -06:00
-  end_date: 
+  jobTitle: Assistant Manager and IT Analyst
+  startDate: 1997-01-01 00:00:00 -06:00
+  endDate: 
   body: |-
     Analyzing, Designing, and Implementing Office Infrastructure for several locations:
 
     - Select and Implement Electronic Billing and Health Record program Practice Partner
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 - company: Business Partnership
-  position: Investment Property Manager
-  start_date: 2005-01-01 00:00:00 -06:00
-  end_date: 2010-12-01 00:00:00 -06:00
+  jobTitle: Investment Property Manager
+  startDate: 2005-01-01 00:00:00 -06:00
+  endDate: 2010-12-01 00:00:00 -06:00
   body: |-
     As a joint investor and property manager responsible for:
 
@@ -51,9 +51,9 @@ work:
     - Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     - Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: Continental Airlines
-  position: Customer Relations Representative
-  start_date: 2007-01-01 00:00:00 -06:00
-  end_date: 2008-12-01 00:00:00 -06:00
+  jobTitle: Customer Relations Representative
+  startDate: 2007-01-01 00:00:00 -06:00
+  endDate: 2008-12-01 00:00:00 -06:00
   body: |-
     As a full-time employee working on behalf of the customer and company responsible for:
 
@@ -63,7 +63,7 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
-  end_date: 2004-05-01 01:00:00 -05:00
+  endDate: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: |-
     Business Administration with a focus in Logistics:
@@ -92,7 +92,7 @@ skills:
   level: 4.5
 - name: Attendance
   level: 4.7
-codewars_scores:
+codewarsScores:
 - 40
 - 58
 - 64

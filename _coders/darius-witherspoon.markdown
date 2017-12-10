@@ -4,26 +4,26 @@ date: 2017-11-14 02:05:00 -06:00
 position: 5
 image: "/uploads/darius-witherspoon.jpg"
 class: Alpha C#
-personality_type: ENFJ
 profiles:
+  mbti: ENFJ
   github: wcordari
   linkedin: dariuswitherspoon
   codewars: wcordarius
   video: 245988222
 work:
 - company: FedEx Ground
-  position: Driver
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  jobTitle: Driver
+  startDate: 2016-01-01 00:00:00 -06:00
+  endDate: 2017-10-01 00:00:00 -05:00
   body: |-
     Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer:
 
     - Managed route scheduling and equipment
     - Maintained company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
-  position: Detailer
-  start_date: 2010-03-01 00:00:00 -06:00
-  end_date: 2016-09-01 00:00:00 -05:00
+  jobTitle: Detailer
+  startDate: 2010-03-01 00:00:00 -06:00
+  endDate: 2016-09-01 00:00:00 -05:00
   body: |-
     Handled car detailing for customers:
 
@@ -34,15 +34,15 @@ work:
 education:
 - institution: Jefferson State Community College
   area: 
-  start_date: 
-  end_date: 2013-05-01 00:00:00 -05:00
+  startDate: 
+  endDate: 2013-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: Huffman High School
   area: High School Diploma
-  start_date: 
-  end_date: 2008-05-01 01:00:00 -05:00
+  startDate: 
+  endDate: 2008-05-01 01:00:00 -05:00
   gpa: 
   location: Huffman, AL
   body: 
@@ -74,7 +74,7 @@ skills:
   level: 4.2
 - name: Attendance
   level: 4.6
-codewars_scores:
+codewarsScores:
 - 6
 - 13
 - 45
