@@ -148,8 +148,8 @@ defaults:
   values:
     layout: page
     subtitle: 
-    is_board_member: false
-    is_teacher: false
+    isBoardMember: false
+    isTeacher: false
     image: 
 - scope:
     path: ''
