@@ -14,7 +14,7 @@ work:
 - company: Discover Birmingham
   position: Founder
   startDate: 2013-01-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: |-
     Built a community calendar & engagement website:
 
@@ -23,7 +23,7 @@ work:
 - company: Chronicle Studio
   position: Service Consultant
   startDate: 2014-04-01 00:00:00 -05:00
-  end_date: 2015-04-01 00:00:00 -05:00
+  endDate: 2015-04-01 00:00:00 -05:00
   body: |-
     Outside sales and tech support:
 
@@ -32,7 +32,7 @@ work:
 - company: Five Star Painting
   position: Project Consultant
   startDate: 2013-09-01 00:00:00 -05:00
-  end_date: 2017-07-01 00:00:00 -05:00
+  endDate: 2017-07-01 00:00:00 -05:00
   body: |-
     Production management and business development:
 
@@ -41,7 +41,7 @@ work:
 - company: Pittsburgh Glass Works, LLC
   position: Account Representative
   startDate: 2012-12-01 00:00:00 -06:00
-  end_date: 2013-08-01 00:00:00 -05:00
+  endDate: 2013-08-01 00:00:00 -05:00
   body: |-
     Worked with customers:
 
@@ -51,7 +51,7 @@ work:
 - company: Anthony Underwood Automotive
   position: Digital Sales Manager
   startDate: 2010-02-01 00:00:00 -06:00
-  end_date: 2012-11-01 00:00:00 -05:00
+  endDate: 2012-11-01 00:00:00 -05:00
   body: |-
     General sales management:
 
@@ -61,7 +61,7 @@ work:
 - company: Bada Ding Inc.
   position: Sales Mgr / Repair Tech
   startDate: 2007-06-01 01:00:00 -05:00
-  end_date: 2010-01-01 00:00:00 -06:00
+  endDate: 2010-01-01 00:00:00 -06:00
   body: |-
     Outside sales and customer service:
 
@@ -72,7 +72,7 @@ education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
   startDate: 
-  end_date: 2015-05-01 00:00:00 -05:00
+  endDate: 2015-05-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Focused on Business, Management, Marketing, and Related Support Services,
@@ -80,7 +80,7 @@ education:
 - institution: Bessemer Technical College
   area: Architectural Design
   startDate: 
-  end_date: 2006-05-01 01:00:00 -05:00
+  endDate: 2006-05-01 01:00:00 -05:00
   gpa: 
   location: Bessemer, AL
   body: 

@@ -16,7 +16,7 @@ work:
 - company: Company LLC
   position: Job Title
   startDate: 2017-01-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -26,7 +26,7 @@ work:
 - company: Example Inc.
   position: Job Title
   startDate: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  endDate: 2016-12-01 00:00:00 -06:00
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -37,7 +37,7 @@ education:
 - institution: Example High School
   area: High School Diploma
   startDate: 
-  end_date: 2010-05-01 01:00:00 -05:00
+  endDate: 2010-05-01 01:00:00 -05:00
   gpa: 4
   location: Birmingham, AL
   body: |-

@@ -14,13 +14,13 @@ work:
 - company: Pelham Raquet Club
   position: Tennis Instructor
   startDate: 2015-12-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
   position: Media/Audio Department
   startDate: 2015-01-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  endDate: 2017-01-01 00:00:00 -06:00
   body: |-
     Worked with a number of different media/audio tools:
 
@@ -29,7 +29,7 @@ work:
 education:
 - institution: Hope Christian High School
   area: High School Diploma
-  end_date: 2017-05-01 00:00:00 -05:00
+  endDate: 2017-05-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
     Graduated with AAD:

@@ -14,7 +14,7 @@ work:
 - company: South Central Conference of Seventh Day Adventists
   position: Senior Pastor
   startDate: 2008-05-01 01:00:00 -05:00
-  end_date: 
+  endDate: 
   body: |-
     Congregations served:
 
@@ -43,7 +43,7 @@ work:
 - company: Emmanuel Jr. Academy
   position: Teacher
   startDate: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-05-01 00:00:00 -05:00
+  endDate: 2016-05-01 00:00:00 -05:00
   body: |-
     Grade levels taught:
 
@@ -53,7 +53,7 @@ work:
 - company: Savannah College of Art and Design
   position: Teaching Assistant
   startDate: 2012-01-01 00:00:00 -06:00
-  end_date: 2012-12-01 00:00:00 -06:00
+  endDate: 2012-12-01 00:00:00 -06:00
   body: |-
     Trained in use of the Steadicam camera support system:
 
@@ -63,7 +63,7 @@ work:
 - company: Oakwood University Church
   position: Media Director/Assistant Youth Pastor
   startDate: 2008-08-01 01:00:00 -05:00
-  end_date: 2010-07-01 01:00:00 -05:00
+  endDate: 2010-07-01 01:00:00 -05:00
   body: "Developed sales strategy and Lead youth events:\n\n- Managed audio/visual
     $500,000 system install. \n- Managed sale and distribution of content produced
     at Oakwood University Church for world wide distribution.\n- Managed, recruited,
@@ -74,14 +74,14 @@ education:
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
   startDate: 
-  end_date: 
+  endDate: 
   gpa: 
   location: Savannah, GA
   body: Pending thesis
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
   startDate: 
-  end_date: 2013-11-01 00:00:00 -05:00
+  endDate: 2013-11-01 00:00:00 -05:00
   gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages

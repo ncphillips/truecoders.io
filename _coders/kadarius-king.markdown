@@ -14,7 +14,7 @@ work:
 - company: BBVA Compass
   position: Financial Sales Consultant
   startDate: 2016-12-01 00:00:00 -06:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  endDate: 2017-10-01 00:00:00 -05:00
   body: |-
     Handled the duties of a financial sales consultant:
 
@@ -24,7 +24,7 @@ work:
 - company: PNC Bank
   position: Financial Sales Consultant
   startDate: 2014-01-01 00:00:00 -06:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  endDate: 2017-10-01 00:00:00 -05:00
   body: |-
     Provide personal financial counseling, assist with lending services, and building relationships with prospects and existing clients to sustain high satisfaction and retention scores:
 
@@ -36,7 +36,7 @@ work:
 - company: Best Buy
   position: Sales Lead
   startDate: 2012-02-01 00:00:00 -06:00
-  end_date: 2013-03-01 00:00:00 -06:00
+  endDate: 2013-03-01 00:00:00 -06:00
   body: |-
     Provided clients with the right mobile plan to fit their personal and/or family needs:
 
@@ -45,7 +45,7 @@ work:
 - company: Best Buy
   position: Digital Imaging Lead
   startDate: 2008-01-01 00:00:00 -06:00
-  end_date: 2012-02-01 00:00:00 -06:00
+  endDate: 2012-02-01 00:00:00 -06:00
   body: |-
     Utilized versatility to work in several departments, including technical support:
 
@@ -56,14 +56,14 @@ education:
 - institution: Jefferson State Community College
   area: Political Science Major
   startDate: 
-  end_date: 
+  endDate: 
   gpa: 
   location: Birmingham, AL
   body: 
 - institution: Auburn University
   area: Political Science Major
   startDate: 
-  end_date: 2012-05-01 00:00:00 -05:00
+  endDate: 2012-05-01 00:00:00 -05:00
   gpa: 
   location: Auburn, AL
   body: 

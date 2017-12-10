@@ -45,7 +45,7 @@ defaults:
   values:
     course: 
     startDate: 
-    end_date: 
+    endDate: 
     price: 
     has_scholarship: true
     location: Birmingham, AL
@@ -81,14 +81,14 @@ defaults:
     - company: 
       position: 
       startDate: 
-      end_date: 
+      endDate: 
       location: 
       body: 
     education:
     - institution: 
       area: 
       startDate: 
-      end_date: 
+      endDate: 
       gpa: 
       location: 
       body: 

@@ -14,7 +14,7 @@ work:
 - company: Pizza​ ​Hut
   position: Delivery​ ​Driver
   startDate: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-03-01 00:00:00 -06:00
+  endDate: 2016-03-01 00:00:00 -06:00
   body: |-
     Handled all the requirements of a delivery driver:
 
@@ -25,7 +25,7 @@ work:
 - company: Wal-Mart
   position: Deli​ ​Sales​ ​Associate
   startDate: 2012-12-01 00:00:00 -06:00
-  end_date: 2012-12-31 00:00:00 -06:00
+  endDate: 2012-12-31 00:00:00 -06:00
   body: |-
     Handled all the requirements of deli sales:
 
@@ -35,7 +35,7 @@ work:
 - company: TDM​ ​Research​
   position: Surveyor
   startDate: 2010-09-01 01:00:00 -05:00
-  end_date: 2012-01-01 00:00:00 -06:00
+  endDate: 2012-01-01 00:00:00 -06:00
   body: |-
     Conducted surveys and filled in required information provided from various participants:
 
@@ -43,7 +43,7 @@ work:
 - company: Williams​ ​&​ ​Associates​
   position: Administrative Assistant
   startDate: 2009-06-01 01:00:00 -05:00
-  end_date: 2011-09-01 01:00:00 -05:00
+  endDate: 2011-09-01 01:00:00 -05:00
   body: |-
     Supported and managed projects:
 
@@ -54,7 +54,7 @@ work:
 - company: IHOP​ ​Restaurants​
   position: Server
   startDate: 2009-04-01 01:00:00 -05:00
-  end_date: 2010-02-01 00:00:00 -06:00
+  endDate: 2010-02-01 00:00:00 -06:00
   body: |-
     Handled server requirements:
 
@@ -63,7 +63,7 @@ work:
 - company: SITEL,​ ​Inc.​
   position: Customer Service Representative
   startDate: 2008-03-01 00:00:00 -06:00
-  end_date: 2008-06-01 01:00:00 -05:00
+  endDate: 2008-06-01 01:00:00 -05:00
   body: |-
     Answered calls from Verizon Wireless customers regarding their wireless devices:
 
@@ -72,7 +72,7 @@ work:
 - company: Results​ ​Construction​
   position: Administrative Assistant
   startDate: 2007-08-01 01:00:00 -05:00
-  end_date: 2008-03-01 00:00:00 -06:00
+  endDate: 2008-03-01 00:00:00 -06:00
   body: |-
     Handled administrative assistant requirements:
 
@@ -82,14 +82,14 @@ education:
 - institution: Brown Mackie College
   area: Information Technology
   startDate: 
-  end_date: 2015-10-01 00:00:00 -05:00
+  endDate: 2015-10-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
   startDate: 
-  end_date: 2005-05-01 01:00:00 -05:00
+  endDate: 2005-05-01 01:00:00 -05:00
   gpa: 
   location: Birmingham, AL
   body: 

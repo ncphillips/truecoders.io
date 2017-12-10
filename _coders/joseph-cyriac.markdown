@@ -14,7 +14,7 @@ work:
 - company: HFP LLC
   position: Customs and Sales Broker
   startDate: 2015-01-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: |-
     Liaison for North American Ventures:
 
@@ -23,7 +23,7 @@ work:
 - company: West Alabama Internal Medicine LLC
   position: Senior Manager and IT Analyst
   startDate: 2003-01-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: |-
     As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
 
@@ -34,7 +34,7 @@ work:
 - company: Song Eye Center Inc.
   position: Assistant Manager and IT Analyst
   startDate: 1997-01-01 00:00:00 -06:00
-  end_date: 
+  endDate: 
   body: |-
     Analyzing, Designing, and Implementing Office Infrastructure for several locations:
 
@@ -43,7 +43,7 @@ work:
 - company: Business Partnership
   position: Investment Property Manager
   startDate: 2005-01-01 00:00:00 -06:00
-  end_date: 2010-12-01 00:00:00 -06:00
+  endDate: 2010-12-01 00:00:00 -06:00
   body: |-
     As a joint investor and property manager responsible for:
 
@@ -53,7 +53,7 @@ work:
 - company: Continental Airlines
   position: Customer Relations Representative
   startDate: 2007-01-01 00:00:00 -06:00
-  end_date: 2008-12-01 00:00:00 -06:00
+  endDate: 2008-12-01 00:00:00 -06:00
   body: |-
     As a full-time employee working on behalf of the customer and company responsible for:
 
@@ -63,7 +63,7 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
-  end_date: 2004-05-01 01:00:00 -05:00
+  endDate: 2004-05-01 01:00:00 -05:00
   location: Auburn, AL
   body: |-
     Business Administration with a focus in Logistics:

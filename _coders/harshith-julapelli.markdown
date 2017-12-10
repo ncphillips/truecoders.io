@@ -14,7 +14,7 @@ work:
 - company: University of Central Missouri
   position: Graduate Research Assistant
   startDate: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  endDate: 2016-12-01 00:00:00 -06:00
   body: |-
     Worked under the support and guidance of the senior professor:
 
@@ -27,7 +27,7 @@ work:
 - company: University of Central Missouri
   position: Emergency Mail Sender
   startDate: 2015-08-01 00:00:00 -05:00
-  end_date: 2015-12-01 00:00:00 -06:00
+  endDate: 2015-12-01 00:00:00 -06:00
   body: Emergency mail sender is an android application targeted for many users who
     cannot access their mobiles for long duration of time. EMS sends the missed calls
     and message details to the user specified email id. Few times by not attempting
@@ -39,7 +39,7 @@ education:
 - institution: University of Central Missouri
   area: Master of Computer Science
   startDate: 
-  end_date: 2016-12-01 00:00:00 -06:00
+  endDate: 2016-12-01 00:00:00 -06:00
   gpa: 3.6
   location: Warrensburg, MO
   body: |-
@@ -50,7 +50,7 @@ education:
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   startDate: 
-  end_date: 2015-04-01 00:00:00 -05:00
+  endDate: 2015-04-01 00:00:00 -05:00
   gpa: 3.5
   location: Hyderabad, India
   body: |-
