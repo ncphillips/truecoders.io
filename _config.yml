@@ -156,8 +156,8 @@ defaults:
     type: pages
   values:
     layout: page
-    is_nav: false
-    is_footer: false
+    isNav: false
+    isFooter: false
     heroColor: "#4b4948"
     heroImage: 
     displayTitle: 
