@@ -52,7 +52,7 @@ defaults:
     institution: TrueCoders
     company: TrueCoders
     position: Developer
-    call_to_action:
+    callToAction:
       title: 
       url: 
 - scope:
@@ -113,7 +113,7 @@ defaults:
     price: 
     subjects:
     - 
-    call_to_action:
+    callToAction:
       title: 
       url: 
 - scope:
@@ -128,7 +128,7 @@ defaults:
     displayTitle: 
     sub_collection: 
     limit: 3
-    call_to_action:
+    callToAction:
       title: 
       url: 
     subsections:
@@ -162,7 +162,7 @@ defaults:
     hero_image: 
     displayTitle: 
     subtitle: 
-    call_to_action:
+    callToAction:
       title: 
       url: 
 - scope:

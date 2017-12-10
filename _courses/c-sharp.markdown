@@ -23,7 +23,7 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
+callToAction:
   title: Take the Aptitude Test
   url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---

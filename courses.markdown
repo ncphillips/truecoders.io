@@ -7,7 +7,7 @@ is_footer: true
 hero_image: "/uploads/hero-image-7.jpg"
 displayTitle: Our Courses
 subtitle: The things we do and the stacks we love
-call_to_action:
+callToAction:
   title: Find Out More
   url: "/contact"
 ---

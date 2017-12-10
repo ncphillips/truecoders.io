@@ -5,7 +5,7 @@ position: 3
 hero_image: "/uploads/hero-image-10.jpg"
 displayTitle: Our Coders
 subtitle: The people that make us amazing
-call_to_action:
+callToAction:
   title: Hire TrueCoders
   url: "/hire"
 ---

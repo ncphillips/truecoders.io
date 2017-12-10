@@ -6,7 +6,7 @@ is_footer: true
 hero_image: "/uploads/hero-image-3.jpg"
 displayTitle: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
-call_to_action:
+callToAction:
   title: Watch Intro
   url: https://player.vimeo.com/video/234034039
 pageSections:

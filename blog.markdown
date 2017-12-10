@@ -6,7 +6,7 @@ is_footer: true
 hero_image: "/uploads/hero-image-5.jpg"
 displayTitle: Our Blog
 subtitle: Find out what we think about stuff
-call_to_action:
+callToAction:
   title: View Our Medium Blog
   url: https://medium.com/@truecodersio
 ---
