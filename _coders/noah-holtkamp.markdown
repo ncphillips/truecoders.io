@@ -4,7 +4,7 @@ date: 2017-11-14 02:03:00 -06:00
 position: 14
 image: "/uploads/noah-holtkamp.jpg"
 class: Alpha C#
-personality_type: ESTJ
+mbti: ESTJ
 profiles:
   github: HoltkampN
   linkedin: noah-holtkamp

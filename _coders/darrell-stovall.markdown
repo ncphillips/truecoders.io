@@ -4,7 +4,7 @@ date: 2017-11-14 02:02:00 -06:00
 position: 6
 image: "/uploads/darrell-stovall.jpg"
 class: Alpha C#
-personality_type: INTJ
+mbti: INTJ
 profiles:
   github: darrellstovall
   linkedin: darrellstovall

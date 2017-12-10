@@ -4,7 +4,7 @@ date: 2017-11-14 02:02:00 -06:00
 position: 7
 image: "/uploads/grant-berryman.jpg"
 class: Alpha C#
-personality_type: INTJ
+mbti: INTJ
 profiles:
   github: 2unes
   linkedin: grantberryman

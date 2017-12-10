@@ -15,14 +15,13 @@ collections:
   faqs:
     title: FAQs
     output: false
+  mbtis:
+    title: MBTIs
+    output: false
   page_sections:
     title: Page_Sections
     output: false
     display_title: Page Sections
-  personality_types:
-    title: Personality_Types
-    output: false
-    display_title: Personality Type
   posts:
     title: Posts
     output: true
@@ -73,7 +72,7 @@ defaults:
       countryCode: US
       region: 
     class: 
-    personality_type: 
+    mbti: 
     profiles:
       github: 
       linkedin: 

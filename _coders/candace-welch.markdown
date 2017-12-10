@@ -4,7 +4,7 @@ date: 2017-11-14 02:05:00 -06:00
 position: 3
 image: "/uploads/candace-welch.jpg"
 class: Alpha C#
-personality_type: INFJ
+mbti: INFJ
 profiles:
   github: candacejwelch
   linkedin: candacewelch

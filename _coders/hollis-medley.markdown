@@ -4,7 +4,7 @@ date: 2017-11-14 02:02:00 -06:00
 position: 9
 image: "/uploads/hollis-medley.jpg"
 class: Alpha C#
-personality_type: ESTJ
+mbti: ESTJ
 profiles:
   github: hmedley
   linkedin: hollis-medley-8a6169152
