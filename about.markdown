@@ -4,7 +4,7 @@ date: 2017-09-04 10:00:00 -05:00
 position: 1
 is_nav: true
 is_footer: true
-hero_image: "/uploads/hero-image-2.jpg"
+heroImage: "/uploads/hero-image-2.jpg"
 displayTitle: Why TrueCoders Exists
 subtitle: Our aim is to bridge the gap of tech talent in our community with TrueCoders
 callToAction:

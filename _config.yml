@@ -103,8 +103,8 @@ defaults:
     type: courses
   values:
     layout: course
-    hero_color: "#4b4948"
-    hero_image: 
+    heroColor: "#4b4948"
+    heroImage: 
     subtitle: 
     image: 
     startDate: 
@@ -158,8 +158,8 @@ defaults:
     layout: page
     is_nav: false
     is_footer: false
-    hero_color: "#4b4948"
-    hero_image: 
+    heroColor: "#4b4948"
+    heroImage: 
     displayTitle: 
     subtitle: 
     callToAction:

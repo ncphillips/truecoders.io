@@ -5,7 +5,7 @@ tags:
 - c#
 - ".net"
 position: 0
-hero_color: "#690081"
+heroColor: "#690081"
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
 startDate: 2018-01-02 07:00:00 -06:00

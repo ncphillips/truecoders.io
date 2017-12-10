@@ -4,7 +4,7 @@ date: 2017-09-03 15:00:00 -05:00
 position: 4
 is_nav: true
 is_footer: true
-hero_image: "/uploads/hero-image-1.jpg"
+heroImage: "/uploads/hero-image-1.jpg"
 subtitle: All of your questions answered in one place
 callToAction:
   title: Ask a Question
