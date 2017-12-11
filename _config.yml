@@ -106,7 +106,7 @@ defaults:
     start_date: 
     weeksLength: 0
     hasScholarship: true
-    price: 
+    price: "$10,000"
     subjects:
     - 
     callToAction:
