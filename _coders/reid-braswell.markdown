@@ -57,7 +57,7 @@ skills:
   level: 3
 - name: jQuery, Bootstrap
   level: 3
-- name: SVN,Git
+- name: SVN, Git
   level: 2
 - name: Apache Ant
   level: 2
