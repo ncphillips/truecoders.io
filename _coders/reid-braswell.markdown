@@ -30,10 +30,9 @@ work:
 
     - Maintained and developed a JAVA e-prescribing web application that enabled pharmacies to send and receive electronic prescriptions through the Sure Scripts network.  All messages were base-64 encoded EDIFACT wrapped in XML sent via a secure SSL connection.
     - Maintained and developed COBOL back end applications responsible for parsing, formatting and displaying the EDIFACT e-prescribing message.
-    - Served as lead developer responsible for providing support, maintenance of PIHOST  a Java application that facilitated the digital signing and archiving of controlled substance e-prescribing prescription information into a MYSQL database via JPA.
+    - Lead developer responsible for providing support, maintenance of PIHOST  a Java application that facilitated the digital signing and archiving of controlled substance e-prescribing prescription information into a MYSQL database via JPA.
     - Developed an XSL style sheet to for translation of EDIFACT to XML and XML to EDIFACT.
     - Developed and maintained Bash or Korn shell scripts.
-    - Maintained Jenkins CI build jobs.
     - Maintained SSL certificates.
 - company: Birmingham Steel
   jobTitle: Software Developer
@@ -46,7 +45,7 @@ work:
 education:
 - institution: University of Alabama Birmingham
   area: Bachelor of Science in Computer Science
-  start_date: 1981-08-01 01:00:00 -05:00
+  start_date: 1985-08-01 01:00:00 -05:00
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
 skills:
