@@ -94,17 +94,17 @@ skills:
 - name: C# and .NET
   level: 2.8
 - name: ANSI SQL
-  level: 2.8
+  level: 2.9
 - name: HTML, CSS, JS
-  level: 2.4
+  level: 2.9
 - name: Git
   level: 3.5
 - name: Diagnostics
   level: 3
 - name: ASP.NET
-  level: 3.3
+  level: 3.2
 - name: Soft Skills
-  level: 2
+  level: 3.5
 - name: Attendance
   level: 1.1
 codewarsScores:
