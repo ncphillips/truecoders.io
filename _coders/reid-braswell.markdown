@@ -51,8 +51,6 @@ education:
 skills:
 - name: Java
   level: 3
-- name: Soft Skills
-  level: 3
 - name: ANSI SQL
   level: 3
 - name: HTML, CSS, JS
