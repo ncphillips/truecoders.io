@@ -7,7 +7,7 @@ class: Alpha C#
 profiles:
   mbti: INFJ
   github: austinrickmayne
-  linkedin: austin-redmayne-2271a0151
+  linkedin: austinredmayne
   codewars: austinrickmayne
   video: 245987519
 work:
@@ -15,6 +15,7 @@ work:
   jobTitle: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
+  location: 
   body: |-
     Met time commitments in order to keep restaurant running smoothly:
 
@@ -89,11 +90,6 @@ education:
   gpa: 
   location: Homewood, AL
   body: 
-references:
-- name: Cody Winton
-  reference: Austin has shown himself anxious to learn and do well in his work. He
-    is motivated to succeed and his tenacity and work ethic would make him an excellent
-    addition to a team.
 skills:
 - name: C# and .NET
   level: 2.8
@@ -111,6 +107,11 @@ skills:
   level: 3.5
 - name: Attendance
   level: 3.2
+references:
+- name: Cody Winton
+  reference: Austin has shown himself anxious to learn and do well in his work. He
+    is motivated to succeed and his tenacity and work ethic would make him an excellent
+    addition to a team.
 codewarsScores:
 - 16
 - 18
