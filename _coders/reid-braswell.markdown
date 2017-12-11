@@ -49,6 +49,8 @@ education:
   end_date: 1992-05-01 01:00:00 -05:00
   location: Birmingham, AL
 skills:
+- name: Java
+  level: 3
 - name: Soft Skills
   level: 3
 - name: ANSI SQL
@@ -61,8 +63,6 @@ skills:
   level: 2
 - name: Apache Ant
   level: 2
-- name: Java
-  level: 3
 - name: XSLT
   level: 2
 - name: Korn/Bash Shell
