@@ -54,7 +54,7 @@ skills:
 - name: Attendance
   level: 4.7
 - name: Technical Sales
-  level: 4
+  level: 4.0
 references:
 - name: Cody Winton
   reference: Connor is tenacious and competitive and has showed himself skilled in

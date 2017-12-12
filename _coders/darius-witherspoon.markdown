@@ -65,7 +65,7 @@ skills:
 - name: Attendance
   level: 4.6
 - name: Technical Sales
-  level: 4
+  level: 4.0
 references:
 - name: Cody Winton
   reference: Darius has both skill and drive to complete tasks with quality and accuracy.
