@@ -28,6 +28,12 @@ work:
   end_date: 2015-10-01 00:00:00 -05:00
   location: Hueytown, Alabama
   body: 
+education:
+- institution: The University of Alabama
+  area: Bachelor of Science in Electrical and Computer Engineering
+  end_date: 2011-12-01 00:00:00 -06:00
+  gpa: 3.2
+  location: Tuscaloosa, AL
 ---
 
 Strong Software Background: Functional and technical experience across multiple software platforms with a focus on data driven analysis and reporting outcomes (SQL, Visual Basic, and Crystal Reports)
