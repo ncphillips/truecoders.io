@@ -107,6 +107,8 @@ skills:
   level: 3.5
 - name: Attendance
   level: 3.2
+- name: Technical Sales
+  level: 2.7
 references:
 - name: Cody Winton
   reference: Austin has shown himself anxious to learn and do well in his work. He
