@@ -78,7 +78,7 @@ skills:
 - name: Soft Skills
   level: 3.8
 - name: Attendance
-  level: 1.8
+  level: 2.8
 - name: Technical Sales
   level: 4.0
 codewarsScores:
