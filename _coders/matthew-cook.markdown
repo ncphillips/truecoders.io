@@ -22,6 +22,12 @@ work:
     - Software Development in Visual Basic: While programming in VB.net, responsible for the building, testing, and debugging of multiple services, programs, and reports of the company’s jail information system
     - Introduced to more Programming languages: There were some projects I had to write in C#, JavaScript, and HTML5 to go along with Visual Basic
     - Also Used Source Control
+- company: Fred’s Stores
+  jobTitle: Stocker
+  start_date: 2000-08-01 01:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  location: Hueytown, Alabama
+  body: 
 ---
 
 Strong Software Background: Functional and technical experience across multiple software platforms with a focus on data driven analysis and reporting outcomes (SQL, Visual Basic, and Crystal Reports)
