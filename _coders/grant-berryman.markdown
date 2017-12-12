@@ -9,12 +9,12 @@ profiles:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
-  video: 245987532
 work:
 - company: Tech-Ease
   jobTitle: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
+  location: 
   body: |-
     Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise for finding the best technical solution for their needs:
 
@@ -97,11 +97,6 @@ education:
   gpa: 3.198
   location: Auburn, AL
   body: Dean's list - Golden Key International Honor Society
-references:
-- name: Cody Winton
-  reference: Grant is highly intelligent and will not rest until he has accomplished
-    the task at hand. He's a self learner with an ability to tackle any problem given
-    him. I'd highly recommend him for a developer position.
 skills:
 - name: C# and .NET
   level: 3.6
@@ -119,6 +114,11 @@ skills:
   level: 3.8
 - name: Attendance
   level: 5
+references:
+- name: Cody Winton
+  reference: Grant is highly intelligent and will not rest until he has accomplished
+    the task at hand. He's a self learner with an ability to tackle any problem given
+    him. I'd highly recommend him for a developer position.
 codewarsScores:
 - 54
 - 90
