@@ -15,6 +15,7 @@ work:
   jobTitle: Founder
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
+  location: 
   body: |-
     Built a community calendar & engagement website:
 
@@ -84,16 +85,6 @@ education:
   gpa: 
   location: Bessemer, AL
   body: 
-references:
-- name: Cody Winton
-  reference: Antwon is an exceptional individual with a real knack for interaction
-    and explanation. He works well with others, bringing insight and perspective to
-    problems. I highly recommend Antwon for a DBA or Project Management role.
-- name: Martin Murphy
-  reference: I highly recommend Antwon for a DBA position.  He's a tenacity with problems
-    and cool demeanor will make for an excellent addition to any team.  With natural
-    communication skills and emotional intelligence he can bridge the gap between
-    the end user and the business requirements.
 skills:
 - name: C# and .NET
   level: 2.6
@@ -111,6 +102,18 @@ skills:
   level: 4.8
 - name: Attendance
   level: 2.8
+- name: Technical Sales
+  level: 4.8
+references:
+- name: Cody Winton
+  reference: Antwon is an exceptional individual with a real knack for interaction
+    and explanation. He works well with others, bringing insight and perspective to
+    problems. I highly recommend Antwon for a DBA or Project Management role.
+- name: Martin Murphy
+  reference: I highly recommend Antwon for a DBA position.  He's a tenacity with problems
+    and cool demeanor will make for an excellent addition to any team.  With natural
+    communication skills and emotional intelligence he can bridge the gap between
+    the end user and the business requirements.
 codewarsScores:
 - 4
 - 4
