@@ -105,8 +105,6 @@ skills:
   level: 4.2
 - name: Soft Skills
   level: 4.1
-- name: Attendance
-  level: 5
 - name: Technical Sales
   level: 2.8
 references:

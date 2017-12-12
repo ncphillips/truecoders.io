@@ -85,8 +85,6 @@ skills:
   level: 3.1
 - name: Soft Skills
   level: 4.3
-- name: Attendance
-  level: 4.8
 codewarsScores:
 - 51
 - 67
