@@ -1,6 +1,7 @@
 ---
 title: Matthew Cook
 date: 2017-12-11 17:30:00 -06:00
+position: 18
 image: "/uploads/matthew-cook.jpg"
 work:
 - company: Blackcreek Integrated Systems
