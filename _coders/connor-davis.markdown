@@ -15,6 +15,7 @@ work:
   jobTitle: Tennis Instructor
   start_date: 2015-12-01 00:00:00 -06:00
   end_date: 
+  location: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
@@ -35,16 +36,6 @@ education:
     Graduated with AAD:
 
     - Outstanding Athlete
-references:
-- name: Cody Winton
-  reference: Connor is tenacious and competitive and has showed himself skilled in
-    both individual and team work. He is a self learner and will not rest until his
-    work is accomplished. I'd recommend Connor for a developer position.
-- name: Martin Murphy
-  reference: Connor's competitive nature has driven him to be one of the more accomplished
-    coders in our class. Preparation and consistency are valuable traits. You could
-    set your watch by Connor and he will put in the time and effort needed to achieve
-    the goal. In a competitive environment he will be a consistently high performer.
 skills:
 - name: C# and .NET
   level: 3.5
@@ -63,7 +54,17 @@ skills:
 - name: Attendance
   level: 4.7
 - name: Technical Sales
-  level: 4.0
+  level: 4
+references:
+- name: Cody Winton
+  reference: Connor is tenacious and competitive and has showed himself skilled in
+    both individual and team work. He is a self learner and will not rest until his
+    work is accomplished. I'd recommend Connor for a developer position.
+- name: Martin Murphy
+  reference: Connor's competitive nature has driven him to be one of the more accomplished
+    coders in our class. Preparation and consistency are valuable traits. You could
+    set your watch by Connor and he will put in the time and effort needed to achieve
+    the goal. In a competitive environment he will be a consistently high performer.
 codewarsScores:
 - 46
 - 81

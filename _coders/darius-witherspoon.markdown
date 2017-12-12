@@ -15,6 +15,7 @@ work:
   jobTitle: Driver
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
+  location: 
   body: |-
     Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer:
 
@@ -46,17 +47,6 @@ education:
   gpa: 
   location: Huffman, AL
   body: 
-references:
-- name: Cody Winton
-  reference: Darius has both skill and drive to complete tasks with quality and accuracy.
-    His knowledge of the technical and his exceptional soft skills make him a great
-    addition to a team. I'd recommend Darius for a developer or quality assurance
-    role.
-- name: Martin Murphy
-  reference: Darius is a perpetual learner able to digest complex problems quickly
-    and put them into use. Great interpersonal skills I believe he'll be a valuable
-    asset to any team and produce the best results from those around him. Diagnostics
-    are his strong suit and I look forward to seeing what he can do in the wild.
 skills:
 - name: C# and .NET
   level: 2.4
@@ -75,7 +65,18 @@ skills:
 - name: Attendance
   level: 4.6
 - name: Technical Sales
-  level: 4.0
+  level: 4
+references:
+- name: Cody Winton
+  reference: Darius has both skill and drive to complete tasks with quality and accuracy.
+    His knowledge of the technical and his exceptional soft skills make him a great
+    addition to a team. I'd recommend Darius for a developer or quality assurance
+    role.
+- name: Martin Murphy
+  reference: Darius is a perpetual learner able to digest complex problems quickly
+    and put them into use. Great interpersonal skills I believe he'll be a valuable
+    asset to any team and produce the best results from those around him. Diagnostics
+    are his strong suit and I look forward to seeing what he can do in the wild.
 codewarsScores:
 - 6
 - 13
