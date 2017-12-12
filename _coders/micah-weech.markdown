@@ -65,7 +65,7 @@ work:
   start_date: 2008-08-01 01:00:00 -05:00
   end_date: 2010-07-01 01:00:00 -05:00
   body: "Developed sales strategy and Lead youth events:\n\n- Managed audio/visual
-    $500,000 system install. \n- Managed sale and distribution of content produced
+    $500,000 system install.\n- Managed sale and distribution of content produced
     at Oakwood University Church for world wide distribution.\n- Managed, recruited,
     and trained camera operators and sound engineers.\n- Produced weekly church productions.\n-
     Produced Oakwood Aeolian (choir) concerts.\n- Organized youth worship services
@@ -107,6 +107,8 @@ skills:
   level: 3.5
 - name: Attendance
   level: 1.1
+- name: Technical Sales
+  level: 4.4
 codewarsScores:
 - 10
 - 16

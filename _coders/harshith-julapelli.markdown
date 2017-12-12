@@ -83,6 +83,8 @@ skills:
   level: 3.7
 - name: Attendance
   level: 4.3
+- name: Technical Sales
+  level: 3.0
 codewarsScores:
 - 44
 - 137

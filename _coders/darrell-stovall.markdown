@@ -71,6 +71,8 @@ skills:
   level: 4.7
 - name: Attendance
   level: 5
+- name: Technical Sales
+  level: 3.5
 references:
 - name: Cody Winton
   reference: Darrel is anxious to learn and do well in his career as a programmer
