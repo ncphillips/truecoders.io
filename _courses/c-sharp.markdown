@@ -9,7 +9,7 @@ hero:
   color: "#690081"
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
-start_date: 2018-01-02 07:00:00 -06:00
+start_date: 2018-01-15 08:00:00 -06:00
 weeksLength: 8
 price: "$10,000"
 subjects:
