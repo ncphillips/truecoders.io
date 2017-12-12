@@ -15,6 +15,7 @@ work:
   jobTitle: Graphic Designer & Developer
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 
+  location: 
   body: |-
     Completed web development training in order to prepare for transitioning into a primarily development role:
 
@@ -89,12 +90,6 @@ education:
   gpa: 
   location: Montgomery, AL
   body: 
-references:
-- name: Cody Winton
-  reference: Candace has exceeded expectations, seeking excellence in her work and
-    advancing her own knowledge base whenever possible. Her attention to detail and
-    the quality of her work make her an exceptional fit for any team. I'd strongly
-    recommend Candace for a developer position.
 skills:
 - name: C# and .NET
   level: 3.6
@@ -112,6 +107,14 @@ skills:
   level: 4.1
 - name: Attendance
   level: 5
+- name: Technical Sales
+  level: 2.8
+references:
+- name: Cody Winton
+  reference: Candace has exceeded expectations, seeking excellence in her work and
+    advancing her own knowledge base whenever possible. Her attention to detail and
+    the quality of her work make her an exceptional fit for any team. I'd strongly
+    recommend Candace for a developer position.
 codewarsScores:
 - 91
 - 159
