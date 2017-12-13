@@ -31,7 +31,12 @@ More details coming soon.
 {% unless page.start_date %}
 <p>More details about this course coming soon</p>
 {% else %}
-{% include counters/course-start-date-counter.html start_date=page.start_date %}
+
+{% capture counter_js %}
+{% include counters/course-start-date-counter.js start_date=page.start_date %}
+{% endcapture %}
+
+<script>{{ counter_js }}</script>
 {% endunless %}
 
 {% if page.call_to_action.url %}
