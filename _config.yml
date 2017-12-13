@@ -222,8 +222,6 @@ company:
 author:
   name: TrueCoders
   twitter: truecodersio
-google_analytics:
-  tracking_id: UA-104643272-1
 image: "/uploads/logo.png"
 logo: "/uploads/logo.png"
 social:
