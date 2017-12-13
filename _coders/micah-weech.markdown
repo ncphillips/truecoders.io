@@ -95,7 +95,7 @@ references:
     to provide value to a team. I'd recommend Micah for a database role.
 skills:
 - name: C# and .NET
-  level: 2.8
+  level: 2.7
 - name: ANSI SQL
   level: 2.9
 - name: HTML, CSS, JS
