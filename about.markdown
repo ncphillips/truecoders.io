@@ -6,18 +6,18 @@ is_nav: true
 is_footer: true
 hero:
   image: "/uploads/hero-image-2.jpg"
-display_title: Why TrueCoders Exists
-subtitle: Our aim is to bridge the gap of tech talent in our community with TrueCoders
+display_title: Our Story
+subtitle: We are more than just a bootcamp
 call_to_action:
   title: Find Out More
   url: "/contact"
 ---
 
-# We're TrueCoders
+# We Are TrueCoders
 
 ## Our Mission
 
-We believe smart passionate people should always be engaged doing what they love to do and driving local innovation for our community. Our mission is to educate, elevate, and supply smart passionate people with authentic coding skills to ensure they're capable of solving real-world programming problems.
+We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 
 We are not:
 

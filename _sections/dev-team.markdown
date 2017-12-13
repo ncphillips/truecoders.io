@@ -10,7 +10,7 @@ subsections:
 - title: Developers
   subtitle: 
   fa_icon: fa-terminal
-  body: At the core of our company is development. We're constantly training the right
+  body: At the core of our company is development. We are constantly training the right
     people to meet your development needs.
 - title: QAs and PMs
   subtitle: 
@@ -24,4 +24,4 @@ subsections:
     of experience in every aspect of the software lifecycle.
 ---
 
-We're all about team work. From small to large projects, we ensure that the right individual is working on every step.
+We are all about team work. From small to large projects, we ensure that the right individual is working on every step.

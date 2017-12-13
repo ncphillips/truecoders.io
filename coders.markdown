@@ -11,6 +11,6 @@ call_to_action:
   url: "/hire"
 ---
 
-# We're TrueCoders
+# We Are TrueCoders
 
 These individuals are all TrueCoders graduates. They've been trained and tested. They've been challenged and vetted. Now, they're ready to work on your projects.x
