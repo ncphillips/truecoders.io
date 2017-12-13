@@ -235,10 +235,8 @@ social:
   - https://github.com/truecodersio
 twitter:
   username: truecodersio
-safe: true
 sass:
   style: compressed
-strict_front_matter: true
 style: "/assets/css/main.css"
 url: http://truecoders.io
 baseurl: 
@@ -252,3 +250,5 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
+safe: true
+strict_front_matter: true
