@@ -205,11 +205,10 @@ defaults:
     layout: index
     sections:
     - 
-logo: "/uploads/logo.png"
-image: "/uploads/logo.png"
-author:
-  name: TrueCoders
-  twitter: truecodersio
+description: |-
+  Be Mentored. Be Connected.
+
+  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 company:
   email: contact@truecoders.io
   full_name: TrueCoders LLC
@@ -220,12 +219,13 @@ company:
     postal_code: 35203
     country_code: US
     region: AL
-description: |-
-  Be Mentored. Be Connected.
-
-  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
+author:
+  name: TrueCoders
+  twitter: truecodersio
 google_analytics:
   tracking_id: UA-104643272-1
+image: "/uploads/logo.png"
+logo: "/uploads/logo.png"
 social:
   name: TrueCoders
   links:
