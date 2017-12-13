@@ -1,4 +1,4 @@
-<script>
+
 
   Chart.defaults.global.defaultFontFamily = 'Montserrat';
 
@@ -36,4 +36,3 @@
       }
     });
   }
-</script>
