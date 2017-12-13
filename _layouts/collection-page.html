@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign items = site[page.collection] | sort: 'position' %}
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+<h2>Our {{ collection.title }}</h2>
+
+<div class="row item-row">
+  
+  {% for item in items %}
+
+  {% if item.tags contains "example" %} {% continue %} {% endif %}
+
+  <div class="col-md-4 item-col">
+
+    {% if collection.output and item.image %}
+    <a href={{ item.url }}>
+      <img src={{ item.image }} alt="{{ item.title }}" class="item-image">
+    </a>
+    {% elsif item.image %}
+    <img src={{ item.image }} alt="{{ item.title }}" class="item-image">
+    {% elsif item.faIcon %}
+    <i class="fa {{ item.faIcon }} fa-5x item-icon"></i>
+    {% endif %}
+
+    <h3 class="item-title">{{ item.title }}</h3>
+    <h5 class="item-subtitle">{{ item.subtitle }}</h5>
+
+    {{ item.excerpt | default: item.content | truncate: 120 | markdownify }}
+
+  </div>
+  {% endfor %}
+
+</div>

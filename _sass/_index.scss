@@ -1,0 +1,70 @@
+.page-section {
+    text-align: center;
+    padding: 80px 16px 80px 16px;
+}
+
+.index-container {
+    .col-lg-4 {
+        padding: 0 16px;
+    }
+}
+
+.sub-section-row {
+    margin-top: 32px;
+}
+
+.subsection-image {
+    border-radius: 50%;
+    max-width: 40%;
+    margin-bottom: 20px;
+}
+
+.subsection-icon {
+    color: $blue;
+}
+
+.section-button {
+    margin-top: 40px;
+}
+
+.section-cta {
+    margin-top: 20px;
+}
+
+#hero-video {
+    color: $white;
+    font-size: 2.5em;
+    text-decoration: none;
+}
+
+// The only rule that matters
+#video-background {
+    // making the video fullscreen
+    bottom: 0;
+    height: auto;
+    min-height: 100vh;
+    min-width: 100vw;
+    position: fixed;
+    right: 0;
+    width: auto;
+    z-index: -100;
+}
+
+// Responsive Updates
+
+@media screen and (max-width: 414px) {
+    #video-background {
+        visibility: hidden;
+    }
+
+    #hero {
+        background-color: $blue;
+    }
+
+    .display-1,
+    .display-2,
+    .display-3 {
+        font-size: 35px !important;
+        line-height: 1.5 !important;
+    }
+}

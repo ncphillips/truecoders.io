@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign faqs = site.faqs | sort: 'position' %}
+
+{% assign faqCategories = "" | split:"|" %}
+{% for faq in faqs %}
+    {% for cat in faq.categories %}
+        {% assign faqCategories = faqCategories | push: cat | uniq %}
+    {% endfor %}
+{% endfor %}
+
+{% assign sections = "Table of Contents|FAQs" | split:"|" %}
+{% for section in sections %}
+
+    <h2>{{ section }}</h2>
+
+    {% for category in faqCategories %}
+        {% assign expression = "faq.categories contains 'category'" | replace: "category", category %}
+        {% assign categoryFAQs = faqs | where_exp: "faq", expression %}
+
+        {% case section %}
+        {% when 'Table of Contents' %}
+            <strong>{{ category | capitalize }}</strong>
+            <ul>
+                {% for faq in categoryFAQs %}
+                    <li><a href="#{{ faq.slug }}">{{ faq.displayTitle | default: faq.title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <h3>{{ category | capitalize }} Questions</h3>
+            {% for faq in categoryFAQs %}
+                <strong id="{{ faq.slug }}">{{ faq.displayTitle | default: faq.title }}</strong>
+                {{ faq.content | markdownify }}
+            {% endfor %}
+        {% endcase %}
+    {% endfor %}
+{% endfor %}
