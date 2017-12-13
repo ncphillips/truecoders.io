@@ -236,19 +236,16 @@ social:
   - https://github.com/truecodersio
 twitter:
   username: truecodersio
+safe: true
 sass:
   style: compressed
+strict_front_matter: true
 style: "/assets/css/main.css"
 baseurl: 
-exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
-markdown: kramdown
+kramdown:
+  show_warnings: true
+liquid:
+  error_mode: strict
 permalink: pretty
 plugins:
 - jekyll-feed
