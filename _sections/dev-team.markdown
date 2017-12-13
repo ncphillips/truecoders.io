@@ -10,8 +10,8 @@ subsections:
 - title: Developers
   subtitle: 
   fa_icon: fa-terminal
-  body: At the core of our company is development. We are constantly training the right
-    people to meet your development needs.
+  body: At the core of our company is development. We are constantly training the
+    right people to meet your development needs.
 - title: QAs and PMs
   subtitle: 
   fa_icon: fa-cogs
