@@ -18,12 +18,12 @@ collections:
   mbtis:
     title: MBTIs
     output: false
-  sections:
-    title: Sections
-    output: false
   posts:
     title: Posts
     output: true
+  sections:
+    title: Sections
+    output: false
   subjects:
     title: Subjects
     output: false
