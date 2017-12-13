@@ -205,7 +205,6 @@ defaults:
     layout: index
     sections:
     - 
-url: http://truecoders.io
 logo: "/uploads/logo.png"
 image: "/uploads/logo.png"
 author:
@@ -241,6 +240,7 @@ sass:
   style: compressed
 strict_front_matter: true
 style: "/assets/css/main.css"
+url: http://truecoders.io
 baseurl: 
 kramdown:
   show_warnings: true
