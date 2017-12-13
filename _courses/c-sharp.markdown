@@ -10,7 +10,7 @@ hero:
 subtitle: Thorough training in all things C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
 start_date: 2018-01-15 08:00:00 -06:00
-weeksLength: 8
+weeks_length: 8
 price: "$10,000"
 subjects:
 - C# and .NET
@@ -24,13 +24,13 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-callToAction:
+call_to_action:
   title: Take the Aptitude Test
   url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---
 
 This course covers the {{ page.title }} stack.
-The next {{ page.weeksLength }} week course starts on
+The next {{ page.weeks_length }} week course starts on
 {{ page.start_date | date: "%A, %B %e" }}.
 
 # Schedule

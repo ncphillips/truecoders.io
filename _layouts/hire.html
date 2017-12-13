@@ -6,9 +6,9 @@ layout: default
 
 <div class="container-fluid page-container index-container">
 
-  {% capture backgroundColor %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
-  <div id="hire-form" class="row justify-content-center" style="background-color:{{ backgroundColor }}; padding: 40px 40px;">
+  <div id="hire-form" class="row justify-content-center" style="background-color:{{ background_color }}; padding: 40px 40px;">
 
     <div class="col-lg-4">
       {{content}}
@@ -22,15 +22,15 @@ layout: default
     </div>
   </div>
 
-  {% for title in page.pageSections %}
-  {% assign section = site.pageSections | where: "title", title | first %}
+  {% for title in page.sections %}
+  {% assign section = site.sections | where: "title", title | first %}
   
-  {% capture backgroundColor %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
-  {% include section.html backgroundColor=backgroundColor section=section %}
+  {% include section.html background_color=background_color section=section %}
 
   {% if forloop.last == true %}
-  {% capture mailBg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
   {% endif %}
 
   {% endfor %}

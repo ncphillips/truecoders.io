@@ -2,11 +2,11 @@
 title: Contact
 date: 2017-09-11 11:00:00 -05:00
 position: 6
-isNav: true
-isFooter: true
+is_nav: true
+is_footer: true
 hero:
   image: "/uploads/hero-image-4.jpg"
-displayTitle: Contact Us
+display_title: Contact Us
 subtitle: Here's how you get in touch with us
 ---
 

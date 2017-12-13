@@ -101,7 +101,7 @@ layout: default
 
   {% for work in works %}
   
-  {% unless work.company and work.jobTitle %} {% continue %} {% endunless %}
+  {% unless work.company and work.job_title %} {% continue %} {% endunless %}
   
   {% if work.end_date >= site.time or work.company == site.title %}
   {% assign end_date = "Present" | upcase %}
@@ -115,7 +115,7 @@ layout: default
         {% if company != work.company %}
         <strong>{{ work.company }}</strong><br/>
         {% endif %}
-        {{ work.jobTitle }}<br/>
+        {{ work.job_title }}<br/>
         {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
       </p>
     </div>
@@ -212,19 +212,19 @@ layout: default
   {% if page.references[0].reference %}
   {% assign references = page.references | sort: 'name' | reverse %}
   {% assign collection = site.collections | where: 'label', 'coders' | first %}
-  {% for reference in references limit: collection.referencesLimit %}
+  {% for reference in references limit: collection.references_limit %}
 
   <p>
 
     {% assign teammate = site.teammates | where: "title", reference.name | first %}
 
     {% if teammate %}
-      {% assign jobTitle = teammate.subtitle %}
-      {% assign company = site.company.fullName %}
+      {% assign job_title = teammate.subtitle %}
+      {% assign company = site.company.full_name %}
     {% endif %}
 
     {{'“' | append: reference.reference | append: '”'}}<br/>
-    <strong>- {{ reference.name }}</strong> | {% if jobTitle and company %}{{ jobTitle }} at {{ company }}{% endif %}
+    <strong>- {{ reference.name }}</strong> | {% if job_title and company %}{{ job_title }} at {{ company }}{% endif %}
   </p>
 
   {% endfor %}
@@ -245,7 +245,7 @@ layout: default
     </div>
     {% endif %}
 
-    {% if page.codewarsScores[1] > 0 %}
+    {% if page.codewars_scores[1] > 0 %}
     <div class="col-xl-5" style="text-align:center;">
       <h4>Codewars Score</h4>
       <canvas id="codewars-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
@@ -264,4 +264,4 @@ layout: default
 {% include skills/skills-bar-chart.html skills=page.skills %}
 
 <!-- Javascript Codewars Chart -->
-{% include scores/codewars-scores-chart.html scores=page.codewarsScores %}
+{% include scores/codewars-scores-chart.html scores=page.codewars_scores %}

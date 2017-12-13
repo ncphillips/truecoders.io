@@ -8,7 +8,7 @@ collections:
   coders:
     title: Coders
     output: true
-    referencesLimit: 1
+    references_limit: 1
   courses:
     title: Courses
     output: true
@@ -18,8 +18,8 @@ collections:
   mbtis:
     title: MBTIs
     output: false
-  pageSections:
-    title: PageSections
+  sections:
+    title: Sections
     output: false
   posts:
     title: Posts
@@ -42,12 +42,12 @@ defaults:
     start_date: 
     end_date: 
     price: 
-    hasScholarship: true
+    has_scholarship: true
     location: Birmingham, AL
     institution: TrueCoders
     company: TrueCoders
-    jobTitle: Developer
-    callToAction:
+    job_title: Developer
+    call_to_action:
       title: 
       url: 
 - scope:
@@ -61,9 +61,9 @@ defaults:
     website: 
     location:
       address: 
-      postalCode: 
+      postal_code: 
       city: 
-      countryCode: US
+      country_code: US
       region: 
     class: 
     profiles:
@@ -74,7 +74,7 @@ defaults:
       video: 
     work:
     - company: 
-      jobTitle: 
+      job_title: 
       start_date: 
       end_date: 
       location: 
@@ -104,33 +104,33 @@ defaults:
     subtitle: 
     image: 
     start_date: 
-    weeksLength: 0
-    hasScholarship: true
+    weeks_length: 0
+    has_scholarship: true
     price: "$10,000"
     subjects:
     - 
-    callToAction:
+    call_to_action:
       title: 
       url: 
 - scope:
     path: ''
     type: faqs
   values:
-    displayTitle: 
+    display_title: 
 - scope:
     path: ''
-    type: pageSections
+    type: sections
   values:
-    displayTitle: 
-    subCollection: 
+    display_title: 
+    sub_collection: 
     limit: 3
-    callToAction:
+    call_to_action:
       title: 
       url: 
     subsections:
     - title: 
       subtitle: 
-      faIcon: 
+      fa_icon: 
       body: 
 - scope:
     path: ''
@@ -144,22 +144,22 @@ defaults:
   values:
     layout: page
     subtitle: 
-    isBoardMember: false
-    isTeacher: false
+    is_board_member: false
+    is_teacher: false
     image: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    isNav: false
-    isFooter: false
+    is_nav: false
+    is_footer: false
     hero:
       color: "#4b4948"
       image: 
-    displayTitle: 
+    display_title: 
     subtitle: 
-    callToAction:
+    call_to_action:
       title: 
       url: 
 - scope:
@@ -195,14 +195,14 @@ defaults:
     type: pages
   values:
     layout: hire
-    pageSections:
+    sections:
     - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    pageSections:
+    sections:
     - 
 url: http://truecoders.io
 logo: "/uploads/logo.png"
@@ -212,20 +212,20 @@ author:
   twitter: truecodersio
 company:
   email: contact@truecoders.io
-  fullName: TrueCoders LLC
+  full_name: TrueCoders LLC
   phone: 12055308496
   location:
     address: '205 20th Street N #1015'
     city: Birmingham
-    postalCode: 35203
-    countryCode: US
+    postal_code: 35203
+    country_code: US
     region: AL
 description: |-
   Be Mentored. Be Connected.
 
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-googleAnalytics:
-  trackingId: UA-104643272-1
+google_analytics:
+  tracking_id: UA-104643272-1
 social:
   name: TrueCoders
   links:

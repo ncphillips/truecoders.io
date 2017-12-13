@@ -5,7 +5,7 @@ position: 18
 image: "/uploads/matthew-cook.jpg"
 work:
 - company: Blackcreek Integrated Systems
-  jobTitle: Software Developer
+  job_title: Software Developer
   start_date: 2015-10-01 00:00:00 -05:00
   end_date: 2017-08-01 00:00:00 -05:00
   location: Irondale, AL
@@ -23,7 +23,7 @@ work:
     - Introduced to more Programming languages: There were some projects I had to write in C#, JavaScript, and HTML5 to go along with Visual Basic
     - Also Used Source Control
 - company: Fred’s Stores
-  jobTitle: Stocker
+  job_title: Stocker
   start_date: 2000-08-01 01:00:00 -05:00
   end_date: 2015-10-01 00:00:00 -05:00
   location: Hueytown, Alabama

@@ -23,7 +23,7 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-callToAction:
+call_to_action:
   title: Find Out More
   url: "/contact"
 ---

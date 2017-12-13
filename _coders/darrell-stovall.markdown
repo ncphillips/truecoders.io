@@ -12,7 +12,7 @@ profiles:
   video: 245988227
 work:
 - company: Hewitt-Trussville
-  jobTitle: Middle School, Teacher
+  job_title: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
   location: 
@@ -22,11 +22,11 @@ work:
     and Science Olympiad.\n\nI have used the Hour of Code curriculum to develop coding
     lessons for my gifted students each year for the past 4 years. I have primarily
     been my school’s gifted specialist, teaching various courses and leading a number
-    of activities:\n\n- Enrichment & Technology, 6th-8th grades \n- Problem Solving
+    of activities:\n\n- Enrichment & Technology, 6th-8th grades\n- Problem Solving
     Rotation, 6th grade\n- English/Language Arts, 7th-8th grades\n- Yearbook, 7th-8th
     grades\n- Reading, 6th grade\n- Creative Dramatics, 7th-8th grades"
 - company: Hewitt-Trussville
-  jobTitle: Jr. High School, Teacher
+  job_title: Jr. High School, Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: "I served as an English department chair, sponsored National Jr. Honor Society,
@@ -77,7 +77,7 @@ references:
     and possesses a real ability to both learn and teach others what he knows. His
     work ethic and ability to grasp complex problems make him a real asset to any
     team. I'd recommend Darrel for a programming position.
-codewarsScores:
+codewars_scores:
 - 39
 - 49
 - 51

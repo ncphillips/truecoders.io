@@ -14,7 +14,7 @@ profiles:
   video: 234034039
 work:
 - company: Company LLC
-  jobTitle: Job Title
+  job_title: Job Title
   start_date: 2017-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -24,7 +24,7 @@ work:
     * Example Two
     * Example Three
 - company: Example Inc.
-  jobTitle: Job Title
+  job_title: Job Title
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   body: |-
@@ -67,7 +67,7 @@ skills:
   level: 4.1
 - name: Technical Sales
   level: 3.0
-codewarsScores:
+codewars_scores:
 - 10
 - 33
 - 48

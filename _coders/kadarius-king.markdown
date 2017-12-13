@@ -12,7 +12,7 @@ profiles:
   video: 245988254
 work:
 - company: BBVA Compass
-  jobTitle: Financial Sales Consultant
+  job_title: Financial Sales Consultant
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
@@ -22,7 +22,7 @@ work:
     - Prepare credit and financial information to streamline loan processing for mortgage, installment, and CRA loans in accordance with internal and federal policies and procedures
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: PNC Bank
-  jobTitle: Financial Sales Consultant
+  job_title: Financial Sales Consultant
   start_date: 2014-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   body: |-
@@ -34,7 +34,7 @@ work:
     - Prepare credit and financial information to streamline loan processing for mortgage, installment, and CRA loans in accordance with internal and federal policies and procedures
     - Educate Teller team to develop confidence in sales opportunities and provide development in reaching their own personal growth goals
 - company: Best Buy
-  jobTitle: Sales Lead
+  job_title: Sales Lead
   start_date: 2012-02-01 00:00:00 -06:00
   end_date: 2013-03-01 00:00:00 -06:00
   body: |-
@@ -43,7 +43,7 @@ work:
     - Managed P&L, new product roll-out, and ad-set roll out
     - Conducted cross-functional team training around cross selling store cards with every purchase
 - company: Best Buy
-  jobTitle: Digital Imaging Lead
+  job_title: Digital Imaging Lead
   start_date: 2008-01-01 00:00:00 -06:00
   end_date: 2012-02-01 00:00:00 -06:00
   body: |-
@@ -93,7 +93,7 @@ skills:
   level: 4.4
 - name: Technical Sales
   level: 4.4
-codewarsScores:
+codewars_scores:
 - 9
 - 11
 - 45

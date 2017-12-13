@@ -4,7 +4,7 @@ date: 2017-09-22 16:32:00 -05:00
 categories:
 - company
 position: 1
-displayTitle: What is TrueCoders about?
+display_title: What is TrueCoders about?
 ---
 
 We believe that smart, passionate people should always be engaged, doing what they love to do.

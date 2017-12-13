@@ -12,14 +12,14 @@ profiles:
   video: 245988218
 work:
 - company: Pelham Raquet Club
-  jobTitle: Tennis Instructor
+  job_title: Tennis Instructor
   start_date: 2015-12-01 00:00:00 -06:00
   end_date: 
   location: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
-  jobTitle: Media/Audio Department
+  job_title: Media/Audio Department
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
@@ -63,7 +63,7 @@ references:
     coders in our class. Preparation and consistency are valuable traits. You could
     set your watch by Connor and he will put in the time and effort needed to achieve
     the goal. In a competitive environment he will be a consistently high performer.
-codewarsScores:
+codewars_scores:
 - 46
 - 81
 - 91

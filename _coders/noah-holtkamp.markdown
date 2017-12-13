@@ -12,7 +12,7 @@ profiles:
   video: 245988271
 work:
 - company: NutritionFacts.org
-  jobTitle: MD Volunteer Article Retriever
+  job_title: MD Volunteer Article Retriever
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -20,7 +20,7 @@ work:
 
     - Consult with fellow volunteers to determine nutritional needs and diet restrictions for optimal health
 - company: Nutrient High LLC
-  jobTitle: Project Manager
+  job_title: Project Manager
   start_date: 2015-03-01 00:00:00 -06:00
   end_date: 2016-08-01 00:00:00 -05:00
   body: |-
@@ -30,7 +30,7 @@ work:
     - Arranged for transportation or storage of purchased products
     - Maintained records of business transactions and product inventories, reporting data to companies or government agencies as necessary
 - company: Home At Last Inc.
-  jobTitle: Program Administrator
+  job_title: Program Administrator
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 2016-01-01 00:00:00 -06:00
   body: |-
@@ -79,7 +79,7 @@ skills:
   level: 3.8
 - name: Technical Sales
   level: 4.0
-codewarsScores:
+codewars_scores:
 - 10
 - 44
 - 48

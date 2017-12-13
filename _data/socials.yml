@@ -1,18 +1,18 @@
 - title: Facebook
   url: http://facebook.com/truecodersio
-  faIcon: fa-facebook
+  fa_icon: fa-facebook
 - title: Twitter
   url: http://twitter.com/truecodersio
-  faIcon: fa-twitter
+  fa_icon: fa-twitter
 - title: Instagram
   url: http://instagram.com/truecodersio
-  faIcon: fa-instagram
+  fa_icon: fa-instagram
 - title: GitHub
   url: https://github.com/truecodersio
-  faIcon: fa-github
+  fa_icon: fa-github
 - title: LinkedIn
   url: https://www.linkedin.com/company/truecodersio
-  faIcon: fa-linkedin
+  fa_icon: fa-linkedin
 - title: Angel List
   url: https://angel.co/truecodersio
-  faIcon: fa-angellist
+  fa_icon: fa-angellist

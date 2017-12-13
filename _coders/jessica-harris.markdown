@@ -12,7 +12,7 @@ profiles:
   video: 245988239
 work:
 - company: Pizza​ ​Hut
-  jobTitle: Delivery​ ​Driver
+  job_title: Delivery​ ​Driver
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-03-01 00:00:00 -06:00
   body: |-
@@ -23,7 +23,7 @@ work:
     - Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks
     - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
-  jobTitle: Deli​ ​Sales​ ​Associate
+  job_title: Deli​ ​Sales​ ​Associate
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2012-12-31 00:00:00 -06:00
   body: |-
@@ -33,7 +33,7 @@ work:
     - Made and packaged sandwiches, salads, and pinwheels for cold bar and sandwich trays
     - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
-  jobTitle: Surveyor
+  job_title: Surveyor
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -41,7 +41,7 @@ work:
 
     - Called lists of numbers searching for survey participants
 - company: Williams​ ​&​ ​Associates​
-  jobTitle: Administrative Assistant
+  job_title: Administrative Assistant
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2011-09-01 01:00:00 -05:00
   body: |-
@@ -52,7 +52,7 @@ work:
     - Managed an exceptional filing system
     - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
-  jobTitle: Server
+  job_title: Server
   start_date: 2009-04-01 01:00:00 -05:00
   end_date: 2010-02-01 00:00:00 -06:00
   body: |-
@@ -61,7 +61,7 @@ work:
     - Took and served customers food and beverage orders
     - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
-  jobTitle: Customer Service Representative
+  job_title: Customer Service Representative
   start_date: 2008-03-01 00:00:00 -06:00
   end_date: 2008-06-01 01:00:00 -05:00
   body: |-
@@ -70,7 +70,7 @@ work:
     - Notated customers accounts upon resolving all cellular issues
     - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
-  jobTitle: Administrative Assistant
+  job_title: Administrative Assistant
   start_date: 2007-08-01 01:00:00 -05:00
   end_date: 2008-03-01 00:00:00 -06:00
   body: |-
@@ -115,7 +115,7 @@ skills:
   level: 3.8
 - name: Technical Sales
   level: 3.0
-codewarsScores:
+codewars_scores:
 - 49
 - 127
 - 151
