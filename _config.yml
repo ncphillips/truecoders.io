@@ -55,6 +55,7 @@ defaults:
     type: coders
   values:
     layout: resume
+    style: "/assets/css/resume.css"
     image: 
     email: 
     phone: 
@@ -237,6 +238,7 @@ twitter:
   username: truecodersio
 sass:
   style: compressed
+style: "/assets/css/main.css"
 baseurl: 
 exclude:
 - Gemfile
