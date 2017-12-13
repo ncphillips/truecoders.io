@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i');
 
+$fa-font-path: "../fonts";
 
 $font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
@@ -23,17 +25,12 @@ $display2-weight: $font-weight-bolder;
 $display3-weight: $font-weight-bolder;
 $display4-weight: $font-weight-bolder;
 
+$font-size-base: 1.1rem;
+$display1-size: 5rem;
+
 $headings-line-height: 2;
 $line-height-base: 1.9;
 $body-color: #343a40;
 
 $blue: #0093c9;
 $brand-gray: #8a8a8d;
-$black-alpha: rgba(#000000, .5);
-
-$grid-gutter-width: 0;
-
-$font-size-base: 1.1rem;
-$display1-size: 5rem;
-
-$fa-font-path: "../fonts";
