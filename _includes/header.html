@@ -1,0 +1,65 @@
+{% if page.hero.image %}
+  {% assign headerStyle = "background:url(" | append: page.hero.image | append: ");" %}
+  {% assign heroStyle = "background-color: rgba(0, 0, 0, 0.5);" %}
+{% else %}
+  {% assign headerStyle = "background-color:" | append: page.hero.color %}
+  {% assign heroStyle = "" %}
+{% endif %}
+
+<div class="container-fluid">
+  <header style="{{ headerStyle }}">
+
+    <div class="page-hero" style="{{ heroStyle }}">
+      
+      <nav class="navbar navbar-expand-md navbar-light">
+        <a class="navbar-brand" href="/">
+          <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo">
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            {% assign pages = site.pages | where:"isNav",true | sort: 'position' %}
+            {% for page in pages %}
+
+            {% unless forloop.last == true %}
+            <li class="nav-item">
+              <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
+            </li>
+            {% else %}
+            <li class="nav-item nav-call-to-action">
+              <a class="nav-link active" style="color:white" href={{ page.url | escape }}>{{ page.title }}</a>
+            </li>
+            {% endunless %}
+            
+            {% endfor %}
+            
+          </ul>
+        </div>
+      </nav>
+
+      <div class="row page-hero-copy">
+        <div class="col">
+          <h1 class="display-1">{{ page.displayTitle | default: page.title }}</h1>
+
+          {% if page.subtitle %}
+          <h2 id="hero-subtitle" class="page-hero-subtitle">{{ page.subtitle }}</h2>
+          {% endif %}
+
+          {% if page.url == "/" %}
+          <div class="play-icon">
+            <a href={{ page.callToAction.url }} class="video-player" role="button" aria-pressed="true">
+              <i class="fa fa-play-circle fa-lg"></i> {{ page.callToAction.title }}
+            </a>
+          </div>
+          {% endif %}
+
+        </div>
+      </div>
+    
+    </div>
+
+  </header>
+</div>

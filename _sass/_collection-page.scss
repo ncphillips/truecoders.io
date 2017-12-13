@@ -1,0 +1,18 @@
+.item-row {
+    text-align: center;
+
+    .item-col {
+        padding: 0 16px 40px;
+
+        .item-subtitle {
+            line-height: 1em;
+            padding-bottom: 16px;
+        }
+
+        img {
+            border-radius: 50%;
+            max-width: 40%;
+            margin-bottom: 30px;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div class="container-fluid page-container">
+  
+  <div class="page-content">
+    
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        {{ content }}
+      </div>
+    </div>
+  
+    {% if page.callToAction.url %}
+
+      {% if page.callToAction.url contains 'http' %}
+        {% assign linkTarget = "_blank" %}
+      {% else %}
+        {% assign linkTarget = "_self" %}
+      {% endif %}
+    
+      <div class="row justify-content-center">
+        <div class="col call-to-action-col">
+          <a href={{ page.callToAction.url }} target={{ linkTarget }} class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
+            {{ page.callToAction.title }}
+          </a>
+        </div>
+      </div>
+  
+    {% endif %}
+  
+  </div>
+  
+</div>
+
+{% include footer.html %}

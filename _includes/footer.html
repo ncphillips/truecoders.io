@@ -1,0 +1,31 @@
+<div class="container-fluid">
+  <footer class="footer sticky-bottom">
+
+    <ul class="list-inline">
+      {% assign pages = site.pages | where:"isFooter", true | sort: 'position' %}
+      {% for page in pages %}
+      <li class="list-inline-item">
+        <a href={{ page.url | escape }}>{{ page.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul class="list-inline">
+      {% assign pages = site.pages | where:"isFooter", true | sort: 'position' %}
+      {% for social in site.data.socials %}
+      <li class="list-inline-item">
+        <a href={{ social.url | escape }} target="_blank">
+          <i class="fa {{ social.faIcon }} fa-lg"></i>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div class="row justify-content-center copyright">
+      <div class="col">
+        <p>Copyright {{ "©" }} {{ site.time | date: "%Y" }} {{ site.company.fullName }}</p>
+      </div>
+    </div>
+
+  </footer>
+</div>

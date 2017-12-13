@@ -1,0 +1,60 @@
+header {
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+
+  .page-hero {
+    text-align: center;
+    color: $white;
+    min-height: 70vh;
+    padding: 0px 0 80px 0;
+    
+    nav {
+      background-color: $white;
+      opacity: 1;
+      
+      .navbar-brand {
+        img {
+          height: 80px;
+        }
+      }
+      
+      .navbar-collapse {
+        background-color: $white;
+      }
+      
+      .nav-item {
+        margin: 0 8px;
+        padding: 0;
+      }
+  
+      .nav-call-to-action {
+        background-color: $blue;
+        margin-right: 16px;
+        border-radius: $border-radius;
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+    }
+    
+    .page-hero-copy {
+      margin: 80px 0;
+      padding: 0 16px 0 16px;
+      
+      .page-hero-subtitle {
+        margin: 0 0 60px;
+        line-height: 1em;
+      }
+    }
+  }
+
+  .play-icon {
+    
+    a {
+      font-size: 1.5em;
+      font-weight: $font-weight-normal;
+      color: $white;
+      text-decoration: none;
+    }
+  }
+}
