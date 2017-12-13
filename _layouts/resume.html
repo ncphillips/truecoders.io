@@ -225,8 +225,7 @@ layout: default
   
   {% if page.references[0].reference %}
   {% assign references = page.references | sort: 'name' | reverse %}
-  {% assign collection = site.collections | where: 'label', 'coders' | first %}
-  {% for reference in references limit: collection.references_limit %}
+  {% for reference in references limit: 1 %}
 
   <p>
 
