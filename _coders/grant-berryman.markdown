@@ -81,7 +81,7 @@ education:
   gpa: 3.34
   location: Murfreesboro, TN
   body: "Majored Production and Technology with a Minor in Music Industry:\n\n- Major
-    GPA: 3.857 - Dean’s List - Audio Engineering Society Member \n- Internship with
+    GPA: 3.857 - Dean’s List - Audio Engineering Society Member\n- Internship with
     Grammy award winning engineer Dan Rudin"
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
