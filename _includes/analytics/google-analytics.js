@@ -10,5 +10,5 @@
   m.parentNode.insertBefore(a, m)
 })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-ga('create', '{{ tracking_id }}', 'auto');
+ga('create', '{{ include.tracking_id }}', 'auto');
 ga('send', 'pageview');
