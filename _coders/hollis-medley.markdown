@@ -12,7 +12,7 @@ profiles:
   video: 245988235
 work:
 - company: Tractor Supply Co
-  jobTitle: Cashier/Team Member
+  job_title: Cashier/Team Member
   start_date: 2017-04-01 00:00:00 -05:00
   end_date: 
   body: |-
@@ -22,7 +22,7 @@ work:
     - Cashier
     - Shelf stocker
 - company: Petland
-  jobTitle: Kennel Technician
+  job_title: Kennel Technician
   start_date: 2016-03-01 00:00:00 -06:00
   end_date: 2017-01-01 00:00:00 -06:00
   body: |-
@@ -32,7 +32,7 @@ work:
     - A little bit of trimming and bath
     - Experienced in giving vaccinations
 - company: YMCA
-  jobTitle: Lifeguard
+  job_title: Lifeguard
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-10-01 00:00:00 -05:00
   body: Handled lifeguard requirements.
@@ -85,7 +85,7 @@ skills:
   level: 3.1
 - name: Soft Skills
   level: 4.3
-codewarsScores:
+codewars_scores:
 - 51
 - 67
 - 69

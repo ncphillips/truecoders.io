@@ -1,7 +1,7 @@
-<div class="row justify-content-center page-section" style="background-color:{{ include.backgroundColor }};">
+<div class="row justify-content-center page-section" style="background-color:{{ include.background_color }};">
     <div class="col-10">
 
-        <h1>{{ include.section.displayTitle | default: include.section.title }}</h1>
+        <h1>{{ include.section.display_title | default: include.section.title }}</h1>
 
         <div class="row justify-content-center">
             <div class="col-lg-4">
@@ -9,9 +9,9 @@
             </div>
         </div>
 
-        {% if include.section.subCollection %}
-        {% assign subsections = site[include.section.subCollection] | sort: 'position' %}
-        {% assign collection = site.collections | where: "label", include.section.subCollection | first %}
+        {% if include.section.sub_collection %}
+        {% assign subsections = site[include.section.sub_collection] | sort: 'position' %}
+        {% assign collection = site.collections | where: "label", include.section.sub_collection | first %}
         {% elsif include.section.subsections %}
         {% assign subsections = include.section.subsections %}
         {% endif %}
@@ -29,11 +29,11 @@
                 </a>
                 {% elsif subsection.image %}
                 <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
-                {% elsif subsection.faIcon %}
-                <i class="fa {{ subsection.faIcon }} fa-5x subsection-icon"></i>
+                {% elsif subsection.fa_icon %}
+                <i class="fa {{ subsection.fa_icon }} fa-5x subsection-icon"></i>
                 {% endif %}
                 
-                <h4>{{ subsection.displayTitle | default: subsection.title }}</h4>
+                <h4>{{ subsection.display_title | default: subsection.title }}</h4>
                 <h6>{{ subsection.subtitle }}</h6>
 
                 {{ subsection.excerpt | default: subsection.body | markdownify }}
@@ -45,9 +45,9 @@
 
         {% endif %}
         
-        {% if include.section.callToAction.url %}
-        <a href={{ include.section.callToAction.url }} class="btn btn-primary btn-lg section-cta" role="button" aria-pressed="true">
-            {{ include.section.callToAction.title }}
+        {% if include.section.call_to_action.url %}
+        <a href={{ include.section.call_to_action.url }} class="btn btn-primary btn-lg section-cta" role="button" aria-pressed="true">
+            {{ include.section.call_to_action.title }}
         </a>
         {% endif %}
 

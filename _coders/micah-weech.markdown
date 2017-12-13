@@ -12,7 +12,7 @@ profiles:
   video: 245988267
 work:
 - company: South Central Conference of Seventh Day Adventists
-  jobTitle: Senior Pastor
+  job_title: Senior Pastor
   start_date: 2008-05-01 01:00:00 -05:00
   end_date: 
   body: |-
@@ -41,7 +41,7 @@ work:
     - Trained and developed leaders on the local level
     - Supported the community thru various initiatives focused on improving the quality of life
 - company: Emmanuel Jr. Academy
-  jobTitle: Teacher
+  job_title: Teacher
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-05-01 00:00:00 -05:00
   body: |-
@@ -51,7 +51,7 @@ work:
     - Computer class for grades 9&10
     - PE class for grades 3-10
 - company: Savannah College of Art and Design
-  jobTitle: Teaching Assistant
+  job_title: Teaching Assistant
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2012-12-01 00:00:00 -06:00
   body: |-
@@ -61,7 +61,7 @@ work:
     - Balancing and safe operation of equipment
     - Physical practice and emphasis on proper footwork
 - company: Oakwood University Church
-  jobTitle: Media Director/Assistant Youth Pastor
+  job_title: Media Director/Assistant Youth Pastor
   start_date: 2008-08-01 01:00:00 -05:00
   end_date: 2010-07-01 01:00:00 -05:00
   body: |-
@@ -110,7 +110,7 @@ skills:
   level: 3.5
 - name: Technical Sales
   level: 4.4
-codewarsScores:
+codewars_scores:
 - 10
 - 16
 - 45

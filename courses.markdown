@@ -2,13 +2,13 @@
 title: Courses
 date: 2017-09-12 02:39:00 -05:00
 position: 2
-isNav: true
-isFooter: true
+is_nav: true
+is_footer: true
 hero:
   image: "/uploads/hero-image-7.jpg"
-displayTitle: Our Courses
+display_title: Our Courses
 subtitle: The things we do and the stacks we love
-callToAction:
+call_to_action:
   title: Find Out More
   url: "/contact"
 ---

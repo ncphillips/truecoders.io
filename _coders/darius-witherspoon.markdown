@@ -12,7 +12,7 @@ profiles:
   video: 245988222
 work:
 - company: FedEx Ground
-  jobTitle: Driver
+  job_title: Driver
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
   location: 
@@ -22,7 +22,7 @@ work:
     - Managed route scheduling and equipment
     - Maintained company vehicles under strict guidelines and maintenance schedules
 - company: Bada Ding, Inc.
-  jobTitle: Detailer
+  job_title: Detailer
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -75,7 +75,7 @@ references:
     and put them into use. Great interpersonal skills I believe he'll be a valuable
     asset to any team and produce the best results from those around him. Diagnostics
     are his strong suit and I look forward to seeing what he can do in the wild.
-codewarsScores:
+codewars_scores:
 - 6
 - 13
 - 45

@@ -12,7 +12,7 @@ profiles:
   video: 245988251
 work:
 - company: HFP LLC
-  jobTitle: Customs and Sales Broker
+  job_title: Customs and Sales Broker
   start_date: 2015-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -21,7 +21,7 @@ work:
     - Negotiate Prices, Purchase and Export construction materials from companies such as Georgia Pacific
     - Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
-  jobTitle: Senior Manager and IT Analyst
+  job_title: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -32,7 +32,7 @@ work:
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
     - HR services such as hiring and yearly employee review
 - company: Song Eye Center Inc.
-  jobTitle: Assistant Manager and IT Analyst
+  job_title: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
   end_date: 
   body: |-
@@ -41,7 +41,7 @@ work:
     - Select and Implement Electronic Billing and Health Record program Practice Partner
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 - company: Business Partnership
-  jobTitle: Investment Property Manager
+  job_title: Investment Property Manager
   start_date: 2005-01-01 00:00:00 -06:00
   end_date: 2010-12-01 00:00:00 -06:00
   body: |-
@@ -51,7 +51,7 @@ work:
     - Providing project coordination for contractors and hired workers to ensure construction and sale deadlines
     - Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: Continental Airlines
-  jobTitle: Customer Relations Representative
+  job_title: Customer Relations Representative
   start_date: 2007-01-01 00:00:00 -06:00
   end_date: 2008-12-01 00:00:00 -06:00
   body: |-
@@ -92,7 +92,7 @@ skills:
   level: 4.5
 - name: Technical Sales
   level: 4.5
-codewarsScores:
+codewars_scores:
 - 40
 - 58
 - 64

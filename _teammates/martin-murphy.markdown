@@ -7,8 +7,8 @@ tags:
 - sql
 position: 2
 subtitle: Co-Founder & Investor
-isBoardMember: true
-isTeacher: true
+is_board_member: true
+is_teacher: true
 image: "/uploads/martin-murphy.jpg"
 ---
 

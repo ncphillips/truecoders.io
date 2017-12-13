@@ -4,9 +4,9 @@ date: 2017-09-12 02:39:00 -05:00
 position: 3
 hero:
   image: "/uploads/hero-image-10.jpg"
-displayTitle: Our Coders
+display_title: Our Coders
 subtitle: The people that make us amazing
-callToAction:
+call_to_action:
   title: Hire TrueCoders
   url: "/hire"
 ---

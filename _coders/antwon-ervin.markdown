@@ -12,7 +12,7 @@ profiles:
   video: 245987515
 work:
 - company: Discover Birmingham
-  jobTitle: Founder
+  job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
   end_date: 
   location: 
@@ -22,7 +22,7 @@ work:
     - Managing written & video content as well as social media channels
     - Leading a team of writers and videographers
 - company: Chronicle Studio
-  jobTitle: Service Consultant
+  job_title: Service Consultant
   start_date: 2014-04-01 00:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   body: |-
@@ -31,7 +31,7 @@ work:
     - Served as first contact for clients
     - Served as lead support for the project Automotive Leadership Technology
 - company: Five Star Painting
-  jobTitle: Project Consultant
+  job_title: Project Consultant
   start_date: 2013-09-01 00:00:00 -05:00
   end_date: 2017-07-01 00:00:00 -05:00
   body: |-
@@ -40,7 +40,7 @@ work:
     - Managed crew’s workflow schedule
     - Provided customer service
 - company: Pittsburgh Glass Works, LLC
-  jobTitle: Account Representative
+  job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
   end_date: 2013-08-01 00:00:00 -05:00
   body: |-
@@ -50,7 +50,7 @@ work:
     - Delivered to customer’s premises
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
-  jobTitle: Digital Sales Manager
+  job_title: Digital Sales Manager
   start_date: 2010-02-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
   body: |-
@@ -60,7 +60,7 @@ work:
     - Managed online inventory
     - Managed Service inventory and sales
 - company: Bada Ding Inc.
-  jobTitle: Sales Mgr / Repair Tech
+  job_title: Sales Mgr / Repair Tech
   start_date: 2007-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: |-
@@ -112,7 +112,7 @@ references:
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
-codewarsScores:
+codewars_scores:
 - 4
 - 4
 - 18

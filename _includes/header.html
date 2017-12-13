@@ -1,15 +1,15 @@
 {% if page.hero.image %}
-  {% assign headerStyle = "background:url(" | append: page.hero.image | append: ");" %}
-  {% assign heroStyle = "background-color: rgba(0, 0, 0, 0.5);" %}
+  {% assign header_style = "background:url(" | append: page.hero.image | append: ");" %}
+  {% assign hero_style = "background-color: rgba(0, 0, 0, 0.5);" %}
 {% else %}
-  {% assign headerStyle = "background-color:" | append: page.hero.color %}
-  {% assign heroStyle = "" %}
+  {% assign header_style = "background-color:" | append: page.hero.color %}
+  {% assign hero_style = "" %}
 {% endif %}
 
 <div class="container-fluid">
-  <header style="{{ headerStyle }}">
+  <header style="{{ header_style }}">
 
-    <div class="page-hero" style="{{ heroStyle }}">
+    <div class="page-hero" style="{{ hero_style }}">
       
       <nav class="navbar navbar-expand-md navbar-light">
         <a class="navbar-brand" href="/">
@@ -21,7 +21,7 @@
       
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
-            {% assign pages = site.pages | where:"isNav",true | sort: 'position' %}
+            {% assign pages = site.pages | where:"is_nav",true | sort: 'position' %}
             {% for page in pages %}
 
             {% unless forloop.last == true %}
@@ -42,7 +42,7 @@
 
       <div class="row page-hero-copy">
         <div class="col">
-          <h1 class="display-1">{{ page.displayTitle | default: page.title }}</h1>
+          <h1 class="display-1">{{ page.display_title | default: page.title }}</h1>
 
           {% if page.subtitle %}
           <h2 id="hero-subtitle" class="page-hero-subtitle">{{ page.subtitle }}</h2>
@@ -50,8 +50,8 @@
 
           {% if page.url == "/" %}
           <div class="play-icon">
-            <a href={{ page.callToAction.url }} class="video-player" role="button" aria-pressed="true">
-              <i class="fa fa-play-circle fa-lg"></i> {{ page.callToAction.title }}
+            <a href={{ page.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
+              <i class="fa fa-play-circle fa-lg"></i> {{ page.call_to_action.title }}
             </a>
           </div>
           {% endif %}

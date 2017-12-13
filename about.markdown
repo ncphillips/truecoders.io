@@ -2,13 +2,13 @@
 title: About
 date: 2017-09-04 10:00:00 -05:00
 position: 1
-isNav: true
-isFooter: true
+is_nav: true
+is_footer: true
 hero:
   image: "/uploads/hero-image-2.jpg"
-displayTitle: Why TrueCoders Exists
+display_title: Why TrueCoders Exists
 subtitle: Our aim is to bridge the gap of tech talent in our community with TrueCoders
-callToAction:
+call_to_action:
   title: Find Out More
   url: "/contact"
 ---

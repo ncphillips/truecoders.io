@@ -2,7 +2,7 @@
   <footer class="footer sticky-bottom">
 
     <ul class="list-inline">
-      {% assign pages = site.pages | where:"isFooter", true | sort: 'position' %}
+      {% assign pages = site.pages | where:"is_footer", true | sort: 'position' %}
       {% for page in pages %}
       <li class="list-inline-item">
         <a href={{ page.url | escape }}>{{ page.title }}</a>
@@ -11,11 +11,11 @@
     </ul>
 
     <ul class="list-inline">
-      {% assign pages = site.pages | where:"isFooter", true | sort: 'position' %}
+      {% assign pages = site.pages | where:"is_footer", true | sort: 'position' %}
       {% for social in site.data.socials %}
       <li class="list-inline-item">
         <a href={{ social.url | escape }} target="_blank">
-          <i class="fa {{ social.faIcon }} fa-lg"></i>
+          <i class="fa {{ social.fa_icon }} fa-lg"></i>
         </a>
       </li>
       {% endfor %}
@@ -23,7 +23,7 @@
 
     <div class="row justify-content-center copyright">
       <div class="col">
-        <p>Copyright {{ "©" }} {{ site.time | date: "%Y" }} {{ site.company.fullName }}</p>
+        <p>Copyright {{ "©" }} {{ site.time | date: "%Y" }} {{ site.company.full_name }}</p>
       </div>
     </div>
 

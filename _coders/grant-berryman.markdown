@@ -11,7 +11,7 @@ profiles:
   codewars: 2unes
 work:
 - company: Tech-Ease
-  jobTitle: Apple Consultant / Lead Tech
+  job_title: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00
   end_date: 
   location: 
@@ -21,7 +21,7 @@ work:
     - Troubleshoot, resolve and repair all hardware and software issues on all Apple products
     - Lead both group workshops and training sessions
 - company: Twist Technology LLC
-  jobTitle: Service Department Head / Programmer
+  job_title: Service Department Head / Programmer
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
@@ -32,7 +32,7 @@ work:
     - Programmed automation systems, terminated cables, and field engineered solutions
     - Educated and trained customers on products
 - company: Apple Retail
-  jobTitle: Genius / Certified Mac Technician
+  job_title: Genius / Certified Mac Technician
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2013-05-01 00:00:00 -05:00
   body: |-
@@ -43,7 +43,7 @@ work:
     - Communicated complex technical ideas to all ages and experience levels
     - Managed time to keep customer appointments on time in fast paced environment
 - company: Apple Retail
-  jobTitle: Family Room Specialist
+  job_title: Family Room Specialist
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
@@ -54,7 +54,7 @@ work:
     - Taught personal training sessions on Apple hardware and software
     - Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
-  jobTitle: Specialist
+  job_title: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
   end_date: 2010-09-01 01:00:00 -05:00
   body: |-
@@ -64,7 +64,7 @@ work:
     - Assisted customers with new device setup and product education
     - Taught group workshops on Apple products and services
 - company: Buster's Billiards and Backroom
-  jobTitle: Tech Manager
+  job_title: Tech Manager
   start_date: 2009-06-01 01:00:00 -05:00
   end_date: 2010-01-01 00:00:00 -06:00
   body: |-
@@ -119,7 +119,7 @@ references:
   reference: Grant is highly intelligent and will not rest until he has accomplished
     the task at hand. He's a self learner with an ability to tackle any problem given
     him. I'd highly recommend him for a developer position.
-codewarsScores:
+codewars_scores:
 - 54
 - 90
 - 148

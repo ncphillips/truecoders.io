@@ -12,7 +12,7 @@ profiles:
   video: 245988282
 work:
 - company: Market Cove LLC
-  jobTitle: Owner
+  job_title: Owner
   start_date: 2015-05-01 00:00:00 -05:00
   end_date: 
   body: |-
@@ -24,12 +24,12 @@ work:
     - Imported order reports from Amazon into Excel spreadsheets for analysis
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
-  jobTitle: Website Administration
+  job_title: Website Administration
   start_date: 2012-04-01 00:00:00 -05:00
   end_date: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
-  jobTitle: Tech Support
+  job_title: Tech Support
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2017-09-29 00:00:00 -05:00
   body: |-
@@ -67,7 +67,7 @@ skills:
   level: 4.3
 - name: Technical Sales
   level: 3.0
-codewarsScores:
+codewars_scores:
 - 44
 - 62
 - 76

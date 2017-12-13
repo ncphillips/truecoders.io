@@ -12,7 +12,7 @@ profiles:
   video: 245987519
 work:
 - company: Baumhowers
-  jobTitle: Server
+  job_title: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
   location: 
@@ -22,7 +22,7 @@ work:
     - Handled team based employee operations
     - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
-  jobTitle: Server
+  job_title: Server
   start_date: 2016-07-01 00:00:00 -05:00
   end_date: 2016-11-01 00:00:00 -05:00
   body: |-
@@ -30,7 +30,7 @@ work:
 
     - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
-  jobTitle: Server
+  job_title: Server
   start_date: 2015-04-01 00:00:00 -05:00
   end_date: 2015-11-01 00:00:00 -05:00
   body: |-
@@ -39,7 +39,7 @@ work:
     - Simultaneously maintained multiple parts of the restaurant
     - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
-  jobTitle: Sales Representative
+  job_title: Sales Representative
   start_date: 2014-07-01 00:00:00 -05:00
   end_date: 2015-07-01 00:00:00 -05:00
   body: |-
@@ -48,12 +48,12 @@ work:
     - Helping customers decide what would be the best option for them
     - Handling money using mobile pay options
 - company: Blue​ ​Coast​ ​Burrito
-  jobTitle: Store Employee
+  job_title: Store Employee
   start_date: 2014-12-01 00:00:00 -06:00
   end_date: 2015-03-01 00:00:00 -06:00
   body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
-  jobTitle: Cashier
+  job_title: Cashier
   start_date: 2014-06-01 00:00:00 -05:00
   end_date: 2014-11-01 00:00:00 -05:00
   body: |-
@@ -112,7 +112,7 @@ references:
   reference: Austin has shown himself anxious to learn and do well in his work. He
     is motivated to succeed and his tenacity and work ethic would make him an excellent
     addition to a team.
-codewarsScores:
+codewars_scores:
 - 16
 - 18
 - 18

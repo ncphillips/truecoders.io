@@ -6,20 +6,20 @@ layout: default
 
 <div class="container-fluid page-container index-container">
 
-  {% for title in page.pageSections %}
-  {% assign section = site.pageSections | where: "title", title | first %}
+  {% for title in page.sections %}
+  {% assign section = site.sections | where: "title", title | first %}
   
-  {% capture backgroundColor %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
 
-  {% include section.html backgroundColor=backgroundColor section=section %}
+  {% include section.html background_color=background_color section=section %}
 
   {% if forloop.last == true %}
-  {% capture backgroundColor %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
   {% endif %}
 
   {% endfor %}
 
-  <div class="row justify-content-center page-section" style="background-color:{{ backgroundColor }}">
+  <div class="row justify-content-center page-section" style="background-color:{{ background_color }}">
     <div class="col-12">
       <h1>Keep Me Updated</h1>
       {% include forms/email-signup.html %}
