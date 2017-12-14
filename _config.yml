@@ -52,15 +52,6 @@ defaults:
   values:
     layout: resume
     image: 
-    email: 
-    phone: 
-    website: 
-    location:
-      address: 
-      postal_code: 
-      city: 
-      country_code: US
-      region: 
     class: 
     profiles:
       mbti: 
