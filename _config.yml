@@ -169,6 +169,12 @@ defaults:
     layout: collection-page
     collection: courses
 - scope:
+    path: companies.markdown
+    type: pages
+  values:
+    layout: collection-page
+    collection: companies
+- scope:
     path: coders.markdown
     type: pages
   values:
