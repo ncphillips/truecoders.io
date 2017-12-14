@@ -9,7 +9,7 @@ profiles:
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo
-  video: 245988251
+  vimeo_resume: 245988251
 work:
 - company: HFP LLC
   job_title: Customs and Sales Broker
@@ -92,15 +92,6 @@ skills:
   level: 4.5
 - name: Technical Sales
   level: 4.5
-codewars_scores:
-- 40
-- 58
-- 64
-- 66
-- 72
-- 76
-- 166
-- 233
 ---
 
 Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office personnel, company infrastructure and develop efficiency systems in support of business goals and initiatives. Detail oriented and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.

@@ -1,0 +1,50 @@
+@import 'variables';
+
+@import 'bootstrap/bootstrap';
+@import 'font-awesome/font-awesome';
+
+@import 'resume-print';
+
+.nav-call-to-action {
+    color: $white;
+    background-color: $blue;
+    margin-right: 16px;
+    border-radius: $border-radius;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.play-icon {
+    margin-top: 40px;
+    text-align: center;
+    font-size: $font-size-base + 0.5;
+
+    a {
+        color: white;
+    }
+}
+
+.jumbotron {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 60vh;
+}
+
+@include media-breakpoint-down(xs) {
+    .display-1 {
+        font-size: $display1-size - 4;
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .display-1 {
+        font-size: $display1-size - 3;
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .display-1 {
+        font-size: $display1-size - 2;
+    }
+}

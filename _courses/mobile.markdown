@@ -11,7 +11,7 @@ tags:
 position: 3
 hero:
   color: "#7BC087"
-subtitle: Thorough training in all things Mobile Development
+subtitle: Thorough Mobile Development training
 image: "/uploads/mobile-logo.png"
 subjects:
 - Testing

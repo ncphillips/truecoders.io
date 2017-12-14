@@ -9,7 +9,7 @@ profiles:
   github: darrellstovall
   linkedin: darrellstovall
   codewars: darrellstovall
-  video: 245988227
+  vimeo_resume: 245988227
 work:
 - company: Hewitt-Trussville
   job_title: Middle School, Teacher
@@ -32,7 +32,7 @@ work:
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: "I served as an English department chair, sponsored National Jr. Honor Society,
-    coached Scholars Bowl, and coached our high school’s soccer team. \n\n- English/Language
+    coached Scholars Bowl, and coached our high school’s soccer team.\n\n- English/Language
     Arts, 8th-9th grades\n- American History, 9th grade\n- Language Arts elective,
     8th grade"
 education:
@@ -79,15 +79,6 @@ references:
     and possesses a real ability to both learn and teach others what he knows. His
     work ethic and ability to grasp complex problems make him a real asset to any
     team. I'd recommend Darrel for a programming position.
-codewars_scores:
-- 39
-- 49
-- 51
-- 73
-- 81
-- 91
-- 135
-- 228
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference:

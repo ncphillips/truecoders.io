@@ -8,7 +8,6 @@ collections:
   coders:
     title: Coders
     output: true
-    references_limit: 1
   courses:
     title: Courses
     output: true
@@ -55,7 +54,6 @@ defaults:
     type: coders
   values:
     layout: resume
-    style: "/assets/css/resume.css"
     image: 
     email: 
     phone: 
@@ -72,7 +70,7 @@ defaults:
       github: 
       linkedin: 
       codewars: 
-      video: 
+      vimeo_resume: 
     work:
     - company: 
       job_title: 
@@ -235,7 +233,9 @@ twitter:
   username: truecodersio
 sass:
   style: compressed
-style: "/assets/css/main.css"
+style:
+  color: "#0093c9"
+  css: "/assets/css/main.css"
 url: http://truecoders.io
 baseurl: 
 kramdown:

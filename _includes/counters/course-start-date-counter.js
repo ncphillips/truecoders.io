@@ -20,13 +20,13 @@ var x = setInterval(function () {
   // Output the result in an element with id="hero-subtitle"
   var heroSubtitle = document.getElementById("hero-subtitle");
   heroSubtitle.style.opacity = 0;
-  var existing = heroSubtitle.innerHTML.split("<br><br>")[0];
+  var existing = heroSubtitle.innerHTML.split("<br")[0];
 
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
   } else {
-    existing += "<br><br>This course starts in " + days + " days and " + hours + " hours";
+    existing += "<br>This course starts in " + days + " days and " + hours + " hours";
   }
 
   heroSubtitle.innerHTML = existing;

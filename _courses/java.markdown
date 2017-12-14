@@ -7,7 +7,7 @@ tags:
 position: 1
 hero:
   color: "#ea2d2f"
-subtitle: Thorough training in all things Java
+subtitle: Thorough training in Java
 image: "/uploads/java-logo.jpg"
 price: "$10,000"
 subjects:

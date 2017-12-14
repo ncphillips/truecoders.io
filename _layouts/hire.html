@@ -3,38 +3,35 @@ layout: default
 ---
 
 {% include header.html %}
+{% include hero.html %}
 
-<div class="container-fluid page-container index-container">
+<div class="container">
 
-  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-
-  <div id="hire-form" class="row justify-content-center" style="background-color:{{ background_color }}; padding: 40px 40px;">
-
-    <div class="col-lg-4">
+  <div id="hire-form" class="row">
+    <div class="col-lg-6">
       {{content}}
     </div>
-
-    <div class="col-lg-1"></div>
-
-    <div class="col-lg-4">
+    
+    <div class="col-lg-6">
       <h1>Contact Us</h1>
+      <p>Give us a call:
+        <a href="tel:{{ site.company.phone }}">
+          {% assign phone = site.company.phone | split: '' %}
+          ({{ phone[1] | append: phone[2] | append: phone[3] }}) {{ phone[4] | append: phone[5] | append: phone[6] }}-{{ phone[7] | append: phone[8] | append: phone[9] | append: phone[10] }}
+        </a>
+      </p>
+      <p>Or send us a message:</p>
       {% include forms/sales-form.html %}
     </div>
   </div>
-
-  {% for title in page.sections %}
-  {% assign section = site.sections | where: "title", title | first %}
-  
-  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-
-  {% include section.html background_color=background_color section=section %}
-
-  {% if forloop.last == true %}
-  {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-  {% endif %}
-
-  {% endfor %}
-
 </div>
+
+{% for title in page.sections %}
+
+{% assign section = site.sections | where: "title", title | first %}
+{% capture background_color %}{% cycle '#fafafa', '#fff' %}{% endcapture %}
+{% include section.html background_color=background_color section=section %}
+
+{% endfor %}
 
 {% include footer.html %}

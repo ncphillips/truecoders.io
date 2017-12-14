@@ -9,7 +9,7 @@ profiles:
   github: mweechzing
   linkedin: micah-weech
   codewars: mweechzing
-  video: 245988267
+  vimeo_resume: 245988267
 work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
@@ -110,15 +110,6 @@ skills:
   level: 3.5
 - name: Technical Sales
   level: 4.4
-codewars_scores:
-- 10
-- 16
-- 45
-- 49
-- 51
-- 113
-- 118
-- 129
 ---
 
 It is my goal to pursue a career as a software developer at your company. As a leader and self-starter I would love the opportunity to adopt your company's work culture and work to advance the company's mission and profitability. Please review the attached resume and contact me if you have any questions.

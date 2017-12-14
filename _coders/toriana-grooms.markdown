@@ -9,7 +9,7 @@ profiles:
   github: torigrooms
   linkedin: toriana-grooms
   codewars: torigrooms
-  video: 245988278
+  vimeo_resume: 245988278
 work:
 - company: Cricket Wireless
   job_title: Assistant Manager
@@ -98,15 +98,6 @@ skills:
   level: 3.7
 - name: Technical Sales
   level: 3.7
-codewars_scores:
-- 50
-- 60
-- 60
-- 60
-- 70
-- 159
-- 233
-- 372
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization:

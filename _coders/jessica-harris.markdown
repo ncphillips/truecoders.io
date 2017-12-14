@@ -9,7 +9,7 @@ profiles:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
-  video: 245988239
+  vimeo_resume: 245988239
 work:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver
@@ -115,15 +115,6 @@ skills:
   level: 3.8
 - name: Technical Sales
   level: 3.0
-codewars_scores:
-- 49
-- 127
-- 151
-- 193
-- 221
-- 314
-- 442
-- 519
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I've been a self-taught hobbyist developer for most of my life. I've attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I've now decided to make it a Full-Time career.

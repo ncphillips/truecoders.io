@@ -9,7 +9,7 @@ profiles:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
-  video: 245988235
+  vimeo_resume: 245988235
 work:
 - company: Tractor Supply Co
   job_title: Cashier/Team Member
@@ -85,15 +85,6 @@ skills:
   level: 3.1
 - name: Soft Skills
   level: 4.3
-codewars_scores:
-- 51
-- 67
-- 69
-- 81
-- 81
-- 83
-- 91
-- 93
 ---
 
 Experienced in C#, Visual Basic, Python, and Web Languages (HTML, CSS, JS)

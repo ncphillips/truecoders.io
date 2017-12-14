@@ -9,7 +9,7 @@ profiles:
   github: wcordari
   linkedin: dariuswitherspoon
   codewars: wcordarius
-  video: 245988222
+  vimeo_resume: 245988222
 work:
 - company: FedEx Ground
   job_title: Driver
@@ -75,15 +75,6 @@ references:
     and put them into use. Great interpersonal skills I believe he'll be a valuable
     asset to any team and produce the best results from those around him. Diagnostics
     are his strong suit and I look forward to seeing what he can do in the wild.
-codewars_scores:
-- 6
-- 13
-- 45
-- 47
-- 67
-- 91
-- 142
-- 154
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company's performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

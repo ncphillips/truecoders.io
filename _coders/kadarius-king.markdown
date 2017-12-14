@@ -9,7 +9,7 @@ profiles:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
-  video: 245988254
+  vimeo_resume: 245988254
 work:
 - company: BBVA Compass
   job_title: Financial Sales Consultant
@@ -93,15 +93,6 @@ skills:
   level: 4.4
 - name: Technical Sales
   level: 4.4
-codewars_scores:
-- 9
-- 11
-- 45
-- 45
-- 75
-- 161
-- 170
-- 250
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.
