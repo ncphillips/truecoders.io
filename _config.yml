@@ -151,8 +151,9 @@ defaults:
     layout: page
     display_title: 
     subtitle: 
-    is_nav: false
-    is_footer: false
+    menus:
+      is_nav: false
+      is_footer: false
     hero:
       color: "#4b4948"
       image: 

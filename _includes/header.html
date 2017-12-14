@@ -10,7 +10,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
 
-        {% assign pages = site.pages | where:"is_nav",true | sort: 'position' %}
+        {% assign pages = site.pages | where_exp:"page", "page.menus.is_nav == true" | sort: 'position' %}
         {% for page in pages %}
   
         {% unless forloop.last == true %}

@@ -4,8 +4,9 @@ date: 2017-09-12 02:39:00 -05:00
 position: 2
 display_title: Our Courses
 subtitle: The things we do and the stacks we love
-is_nav: true
-is_footer: true
+menus:
+  is_nav: true
+  is_footer: true
 hero:
   image: "/uploads/hero-image-7.jpg"
 call_to_action:

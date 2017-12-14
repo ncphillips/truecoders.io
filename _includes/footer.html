@@ -1,7 +1,7 @@
 <footer class="footer sticky-bottom" style="background-color:{{ site.style.color }}; padding: 80px 0; text-align:center;">
   <div class="container" style="color:white;">
     <ul class="list-inline">
-      {% assign pages = site.pages | where:"is_footer", true | sort: 'position' %}
+      {% assign pages = site.pages | where_exp:"page", "page.menus.is_footer == true" | sort: 'position' %}
       {% for page in pages %}
       <li class="list-inline-item">
         <a href={{ page.url | escape }} style="color:white;">{{ page.title }}</a>
@@ -10,7 +10,6 @@
     </ul>
 
     <ul class="list-inline">
-      {% assign pages = site.pages | where:"is_footer", true | sort: 'position' %}
       {% for social in site.data.socials %}
       <li class="list-inline-item">
         <a href={{ social.url | escape }} target="_blank" style="color:white;">

@@ -4,7 +4,8 @@ date: 2017-08-23 22:00:00 -05:00
 position: 5
 display_title: Our Blog
 subtitle: Find out what we think about stuff
-is_footer: true
+menus:
+  is_footer: true
 hero:
   image: "/uploads/hero-image-5.jpg"
 call_to_action:
