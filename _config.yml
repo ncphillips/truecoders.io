@@ -85,6 +85,11 @@ defaults:
       reference: 
 - scope:
     path: ''
+    type: companies
+  values:
+    layout: page
+- scope:
+    path: ''
     type: courses
   values:
     layout: course
