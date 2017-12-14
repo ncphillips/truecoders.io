@@ -235,9 +235,6 @@ twitter:
   username: truecodersio
 sass:
   style: compressed
-style:
-  color: "#0093c9"
-  css: "/assets/css/main.css"
 url: http://truecoders.io
 baseurl: 
 kramdown:

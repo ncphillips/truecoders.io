@@ -1,4 +1,4 @@
-<footer class="footer sticky-bottom" style="background-color:{{ site.style.color }}; padding: 80px 0; text-align:center;">
+<footer class="footer sticky-bottom" style="background-color:{{ site.data.style.color }}; padding: 80px 0; text-align:center;">
   <div class="container" style="color:white;">
     <ul class="list-inline">
       {% assign pages = site.pages | where_exp:"page", "page.menus.is_footer == true" | sort: 'position' %}
