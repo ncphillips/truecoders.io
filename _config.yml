@@ -193,15 +193,11 @@ defaults:
     type: pages
   values:
     layout: hire
-    sections:
-    - 
 - scope:
     path: index.markdown
     type: pages
   values:
     layout: index
-    sections:
-    - 
 description: |-
   Be Mentored. Be Connected.
 
