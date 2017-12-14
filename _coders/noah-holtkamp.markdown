@@ -9,7 +9,7 @@ profiles:
   github: HoltkampN
   linkedin: noah-holtkamp
   codewars: HoltkampN
-  video: 245988271
+  vimeo_resume: 245988271
 work:
 - company: NutritionFacts.org
   job_title: MD Volunteer Article Retriever

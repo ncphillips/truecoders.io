@@ -9,7 +9,7 @@ profiles:
   github: darrellstovall
   linkedin: darrellstovall
   codewars: darrellstovall
-  video: 245988227
+  vimeo_resume: 245988227
 work:
 - company: Hewitt-Trussville
   job_title: Middle School, Teacher

@@ -9,7 +9,7 @@ profiles:
   github: KaDarius
   linkedin: kadarius-king
   codewars: KaDarius
-  video: 245988254
+  vimeo_resume: 245988254
 work:
 - company: BBVA Compass
   job_title: Financial Sales Consultant

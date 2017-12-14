@@ -9,7 +9,7 @@ profiles:
   github: jrharris620
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
-  video: 245988239
+  vimeo_resume: 245988239
 work:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver

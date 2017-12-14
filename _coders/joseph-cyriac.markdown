@@ -9,7 +9,7 @@ profiles:
   github: cyriajo
   linkedin: cyriajo
   codewars: cyriajo
-  video: 245988251
+  vimeo_resume: 245988251
 work:
 - company: HFP LLC
   job_title: Customs and Sales Broker

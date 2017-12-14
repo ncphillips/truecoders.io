@@ -9,7 +9,7 @@ profiles:
   github: antwonervin
   linkedin: antwonervin
   codewars: aervin
-  video: 245987515
+  vimeo_resume: 245987515
 work:
 - company: Discover Birmingham
   job_title: Founder

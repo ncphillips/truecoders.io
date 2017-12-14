@@ -9,7 +9,7 @@ profiles:
   github: wcordari
   linkedin: dariuswitherspoon
   codewars: wcordarius
-  video: 245988222
+  vimeo_resume: 245988222
 work:
 - company: FedEx Ground
   job_title: Driver

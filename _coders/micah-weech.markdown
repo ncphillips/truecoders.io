@@ -9,7 +9,7 @@ profiles:
   github: mweechzing
   linkedin: micah-weech
   codewars: mweechzing
-  video: 245988267
+  vimeo_resume: 245988267
 work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor

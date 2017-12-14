@@ -11,7 +11,7 @@ profiles:
   github: truecodersio
   linkedin: truecodersio
   codewars: truecodersio
-  video: 234034039
+  vimeo_resume: 234034039
 work:
 - company: Company LLC
   job_title: Job Title

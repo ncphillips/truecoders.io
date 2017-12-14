@@ -9,7 +9,7 @@ profiles:
   github: hmedley
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
-  video: 245988235
+  vimeo_resume: 245988235
 work:
 - company: Tractor Supply Co
   job_title: Cashier/Team Member

@@ -9,7 +9,7 @@ profiles:
   github: austinrickmayne
   linkedin: austinredmayne
   codewars: austinrickmayne
-  video: 245987519
+  vimeo_resume: 245987519
 work:
 - company: Baumhowers
   job_title: Server

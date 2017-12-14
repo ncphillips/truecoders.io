@@ -9,7 +9,7 @@ profiles:
   github: zachstagrammer
   linkedin: zachjphillips
   codewars: zachstagrammer
-  video: 245988282
+  vimeo_resume: 245988282
 work:
 - company: Market Cove LLC
   job_title: Owner
