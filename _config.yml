@@ -8,6 +8,9 @@ collections:
   coders:
     title: Coders
     output: true
+  companies:
+    title: Companies
+    output: true
   courses:
     title: Courses
     output: true
