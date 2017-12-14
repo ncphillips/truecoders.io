@@ -1,4 +1,4 @@
-@import 'global-variables';
+@import 'variables';
 
 @import 'bootstrap/bootstrap';
 @import 'font-awesome/font-awesome';
@@ -18,5 +18,5 @@
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    min-height: 50vh;
+    min-height: 60vh;
 }
