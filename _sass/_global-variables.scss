@@ -31,5 +31,22 @@ $headings-line-height: 2;
 $line-height-base: 1.9;
 $body-color: #343a40;
 
+$link-hover-decoration: none;
+
 $blue: #0093c9;
 $brand-gray: #8a8a8d;
+
+$grid-breakpoints: (
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1440px
+);
+
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1408px
+);

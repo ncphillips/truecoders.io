@@ -2,3 +2,21 @@
 
 @import 'bootstrap/bootstrap';
 @import 'font-awesome/font-awesome';
+
+@import 'resume-print';
+
+.nav-call-to-action {
+    color: $white;
+    background-color: $blue;
+    margin-right: 16px;
+    border-radius: $border-radius;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.jumbotron {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    min-height: 50vh;
+}
