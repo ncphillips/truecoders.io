@@ -66,16 +66,11 @@ defaults:
       region: 
     class: 
     profiles:
-    - network: MBTI
-      username: 
-    - network: GitHub
-      username: 
-    - network: LinkedIn
-      username: 
-    - network: Codewars
-      username: 
-    - network: Vimeo Resume
-      username: 
+      mbti: 
+      github: 
+      linkedin: 
+      codewars: 
+      video: 
     work:
     - company: 
       job_title: 
