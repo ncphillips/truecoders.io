@@ -14,9 +14,6 @@ collections:
   faqs:
     title: FAQs
     output: false
-  mbtis:
-    title: MBTIs
-    output: false
   posts:
     title: Posts
     output: true
