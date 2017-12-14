@@ -13,7 +13,6 @@ layout: default
   </div>
 
   {% if page.call_to_action.url %}
-
   {% if page.call_to_action.url contains 'http' %}
     {% assign link_target = "_blank" %}
   {% else %}
@@ -28,6 +27,21 @@ layout: default
     </div>
   </div>
 
+  {% endif %}
+
+  {% if page.sections.first %}
+  {% for title in page.sections %}
+  {% assign section = site.sections | where: "title", title | first %}
+  
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  
+  {% include section.html background_color=background_color section=section %}
+  
+  {% if forloop.last == true %}
+  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% endif %}
+  
+  {% endfor %}
   {% endif %}
 </div>
 

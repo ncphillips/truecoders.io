@@ -155,6 +155,8 @@ defaults:
       image: 
     display_title: 
     subtitle: 
+    sections:
+    - 
     call_to_action:
       title: 
       url: 
