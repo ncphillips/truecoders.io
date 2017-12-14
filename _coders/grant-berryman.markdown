@@ -25,9 +25,9 @@ work:
   start_date: 2013-05-01 00:00:00 -05:00
   end_date: 2016-09-01 00:00:00 -05:00
   body: |-
-    Built and maintained customer networks and access points:
+    Diagnosed and resolved issues with client A/V, lighting and smart home systems, while giving customers a second to none experience
 
-    - Diagnosed and resolved issues with client systems, while giving customers a second to none experience
+    - Built and maintained customer networks and access points
     - Coordinated with Project Manager to effectively manage staff
     - Programmed automation systems, terminated cables, and field engineered solutions
     - Educated and trained customers on products
@@ -47,7 +47,7 @@ work:
   start_date: 2010-09-01 01:00:00 -05:00
   end_date: 2012-01-01 00:00:00 -06:00
   body: |-
-    Performed troubleshooting and resolved hardware and software issues on Apple mobile devices, transferred data from old customer computers to new Apple computer:
+    Performed troubleshooting and resolved hardware and software issues on Apple mobile devices, transferred data from old customer computers to new Apple computers:
 
     - Apple small device certified
     - Repaired and rebuilt customer relationships, while managing time effectively
@@ -115,7 +115,9 @@ skills:
 - name: Soft Skills
   level: 3.8
 - name: Technical Sales
-  level: 2.5
+  level: 3.3
+- name: Customer Service
+  level: 4.5
 references:
 - name: Cody Winton
   reference: Grant is highly intelligent and will not rest until he has accomplished
