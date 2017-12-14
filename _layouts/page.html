@@ -2,38 +2,33 @@
 layout: default
 ---
 
-{% include header-old.html %}
+{% include header.html %}
+{% include hero.html %}
 
-<div class="container-fluid page-container">
-  
-  <div class="page-content">
-    
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        {{ content }}
-      </div>
+<div class="container" style="padding: 40px 0 80px;">
+  <div class="row">
+    <div class="col">
+      {{ content }}
     </div>
-  
-    {% if page.call_to_action.url %}
-
-      {% if page.call_to_action.url contains 'http' %}
-        {% assign link_target = "_blank" %}
-      {% else %}
-        {% assign link_target = "_self" %}
-      {% endif %}
-    
-      <div class="row justify-content-center">
-        <div class="col call-to-action-col">
-          <a href="{{ page.call_to_action.url }}" target="{{ link_target }}" class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
-            {{ page.call_to_action.title }}
-          </a>
-        </div>
-      </div>
-  
-    {% endif %}
-  
   </div>
-  
+
+  {% if page.call_to_action.url %}
+
+  {% if page.call_to_action.url contains 'http' %}
+    {% assign link_target = "_blank" %}
+  {% else %}
+    {% assign link_target = "_self" %}
+  {% endif %}
+
+  <div class="row justify-content-center" style="padding-top: 80px; text-align:center;">
+    <div class="col">
+      <a href="{{ page.call_to_action.url }}" target="{{ link_target }}" class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
+        {{ page.call_to_action.title }}
+      </a>
+    </div>
+  </div>
+
+  {% endif %}
 </div>
 
 {% include footer.html %}
