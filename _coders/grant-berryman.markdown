@@ -119,15 +119,6 @@ references:
   reference: Grant is highly intelligent and will not rest until he has accomplished
     the task at hand. He's a self learner with an ability to tackle any problem given
     him. I'd highly recommend him for a developer position.
-codewars_scores:
-- 54
-- 90
-- 148
-- 156
-- 162
-- 248
-- 263
-- 371
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.

@@ -112,15 +112,6 @@ references:
     and cool demeanor will make for an excellent addition to any team.  With natural
     communication skills and emotional intelligence he can bridge the gap between
     the end user and the business requirements.
-codewars_scores:
-- 4
-- 4
-- 18
-- 18
-- 70
-- 70
-- 73
-- 73
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.

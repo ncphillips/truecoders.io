@@ -63,15 +63,6 @@ references:
     coders in our class. Preparation and consistency are valuable traits. You could
     set your watch by Connor and he will put in the time and effort needed to achieve
     the goal. In a competitive environment he will be a consistently high performer.
-codewars_scores:
-- 46
-- 81
-- 91
-- 171
-- 171
-- 171
-- 179
-- 183
 ---
 
 I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media as a DJ. Lastly, I have experience with landscaping.

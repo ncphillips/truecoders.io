@@ -79,15 +79,6 @@ skills:
   level: 3.8
 - name: Technical Sales
   level: 4.0
-codewars_scores:
-- 10
-- 44
-- 48
-- 48
-- 70
-- 114
-- 117
-- 117
 ---
 
 I am an enthusiastic TrueCoders Developer completing fundamental coursework in C#, SQL, .NET, and Git. I'm currently seeking to apply my passion for learning to a position with a quality employer.

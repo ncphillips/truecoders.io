@@ -113,15 +113,6 @@ references:
     advancing her own knowledge base whenever possible. Her attention to detail and
     the quality of her work make her an exceptional fit for any team. I'd strongly
     recommend Candace for a developer position.
-codewars_scores:
-- 91
-- 159
-- 178
-- 186
-- 186
-- 286
-- 286
-- 286
 ---
 
 My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. I am a Graphic Designer with a knack for development. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.
