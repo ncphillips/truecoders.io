@@ -19,24 +19,7 @@
         <div class="row justify-content-center">
 
             {% for subsection in subsections limit:include.section.limit %}
-            <div class="col-lg-4" style="text-align:center;">
-
-                {% if collection.output and subsection.image %}
-                <a href={{ subsection.url }}>
-                    <img src={{ subsection.image }} alt="{{ subsection.title }}" style="border-radius:50%; max-width:40%;">
-                </a>
-                {% elsif subsection.image %}
-                <img src={{ subsection.image }} alt="{{ subsection.title }}" style="border-radius:50%; max-width:40%;">
-                {% elsif subsection.fa_icon %}
-                <i class="fa {{ subsection.fa_icon }} fa-5x" style="color:{{ site.style.color }};"></i>
-                {% endif %}
-
-                <h4>{{ subsection.display_title | default: subsection.title }}</h4>
-                <h6>{{ subsection.subtitle }}</h6>
-
-                {{ subsection.excerpt | default: subsection.body | markdownify }}
-            
-            </div>
+            {% include subsection-col.html collection=collection subsection=subsection %}
             {% endfor %}
 
         </div>

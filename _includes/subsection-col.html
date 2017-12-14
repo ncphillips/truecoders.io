@@ -1,0 +1,18 @@
+<div class="col-lg-4" style="text-align:center;">
+    
+    {% if include.collection.output and include.subsection.image %}
+    <a href={{ include.subsection.url }}>
+        <img src={{ include.subsection.image }} alt="{{ include.subsection.title }}" style="border-radius:50%; max-width:40%;">
+    </a>
+    {% elsif include.subsection.image %}
+    <img src={{ include.subsection.image }} alt="{{ include.subsection.title }}" style="border-radius:50%; max-width:40%;">
+    {% elsif include.subsection.fa_icon %}
+    <i class="fa {{ include.subsection.fa_icon }} fa-5x" style="color:{{ site.style.color }};"></i>
+    {% endif %}
+
+    <h4>{{ include.subsection.display_title | default: include.subsection.title }}</h4>
+    <h6>{{ include.subsection.subtitle }}</h6>
+
+    {{ include.subsection.excerpt | default: include.subsection.body | markdownify }}
+
+</div>
