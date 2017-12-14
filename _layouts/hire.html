@@ -7,8 +7,6 @@ layout: default
 
 <div class="container">
 
-  {% capture background_color %} {% cycle '#fafafa', '#fff' %} {% endcapture %}
-
   <div id="hire-form" class="row">
     <div class="col-lg-6">
       {{content}}
@@ -26,20 +24,14 @@ layout: default
       {% include forms/sales-form.html %}
     </div>
   </div>
-
-  {% for title in page.sections %}
-  {% assign section = site.sections | where: "title", title | first %}
-  
-  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-
-  {% include section.html background_color=background_color section=section %}
-
-  {% if forloop.last == true %}
-  {% capture mail_bg %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-  {% endif %}
-
-  {% endfor %}
-
 </div>
+
+{% for title in page.sections %}
+
+{% assign section = site.sections | where: "title", title | first %}
+{% capture background_color %}{% cycle '#fafafa', '#fff' %}{% endcapture %}
+{% include section.html background_color=background_color section=section %}
+
+{% endfor %}
 
 {% include footer.html %}

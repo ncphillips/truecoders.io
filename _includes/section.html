@@ -1,10 +1,9 @@
-<div class="row justify-content-center page-section" style="background-color:{{ include.background_color }};">
-    <div class="col-10">
-
-        <h1>{{ include.section.display_title | default: include.section.title }}</h1>
+<section style="background-color:{{ include.background_color }}; padding: 80px 0;">
+    <div class="container">
 
         <div class="row justify-content-center">
-            <div class="col-lg-4">
+            <div class="col-4" style="text-align:center; padding-bottom: 16px;">
+                <h1>{{ include.section.display_title | default: include.section.title }}</h1>
                 {{ include.section.content | markdownify }}
             </div>
         </div>
@@ -15,24 +14,23 @@
         {% elsif include.section.subsections %}
         {% assign subsections = include.section.subsections %}
         {% endif %}
-        
-        {% if subsections %}
 
-        <div class="row justify-content-center sub-section-row">
+        {% if subsections %}
+        <div class="row justify-content-center">
 
             {% for subsection in subsections limit:include.section.limit %}
-            <div class="col-lg-4 sub-section">
+            <div class="col-lg-4" style="text-align:center;">
 
                 {% if collection.output and subsection.image %}
                 <a href={{ subsection.url }}>
-                    <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
+                    <img src={{ subsection.image }} alt="{{ subsection.title }}">
                 </a>
                 {% elsif subsection.image %}
-                <img src={{ subsection.image }} alt="{{ subsection.title }}" class="subsection-image">
+                <img src={{ subsection.image }} alt="{{ subsection.title }}">
                 {% elsif subsection.fa_icon %}
-                <i class="fa {{ subsection.fa_icon }} fa-5x subsection-icon"></i>
+                <i class="fa {{ subsection.fa_icon }} fa-5x" style="color:{{ site.style.color }};"></i>
                 {% endif %}
-                
+
                 <h4>{{ subsection.display_title | default: subsection.title }}</h4>
                 <h6>{{ subsection.subtitle }}</h6>
 
@@ -42,14 +40,15 @@
             {% endfor %}
 
         </div>
-
         {% endif %}
         
         {% if include.section.call_to_action.url %}
-        <a href={{ include.section.call_to_action.url }} class="btn btn-primary btn-lg section-cta" role="button" aria-pressed="true">
-            {{ include.section.call_to_action.title }}
-        </a>
+        <div style="text-align:center; padding-top: 16px;">
+            <a href={{ include.section.call_to_action.url }} class="btn btn-primary btn-lg" role="button" aria-pressed="true">
+                {{ include.section.call_to_action.title }}
+            </a>
+        </div>
         {% endif %}
-
+    
     </div>
-</div>
+</section>
