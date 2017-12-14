@@ -9,7 +9,7 @@ tags:
 position: 2
 hero:
   color: "#EEDA4E"
-subtitle: Thorough training in all things JavaScript
+subtitle: Thorough training in JavaScript
 image: "/uploads/javascript-logo.jpg"
 subjects:
 - Testing
