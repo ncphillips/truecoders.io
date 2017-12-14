@@ -118,6 +118,7 @@ defaults:
     type: sections
   values:
     display_title: 
+    subtitle: 
     sub_collection: 
     limit: 3
     call_to_action:
@@ -148,13 +149,13 @@ defaults:
     type: pages
   values:
     layout: page
+    display_title: 
+    subtitle: 
     is_nav: false
     is_footer: false
     hero:
       color: "#4b4948"
       image: 
-    display_title: 
-    subtitle: 
     sections:
     - 
     call_to_action:
