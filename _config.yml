@@ -155,7 +155,7 @@ defaults:
       is_nav: false
       is_footer: false
     hero:
-      color: "#4b4948"
+      color: "#0093c9"
       image: 
     sections:
     - 
