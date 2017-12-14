@@ -31,10 +31,12 @@ work:
   job_title: Jr. High School, Teacher
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
-  body: "I served as an English department chair, sponsored National Jr. Honor Society,
-    coached Scholars Bowl, and coached our high school’s soccer team.\n\n- English/Language
-    Arts, 8th-9th grades\n- American History, 9th grade\n- Language Arts elective,
-    8th grade"
+  body: |-
+    I served as an English department chair, sponsored National Jr. Honor Society, coached Scholars Bowl, and coached our high school’s soccer team.
+
+    - English/Language Arts, 8th-9th grades
+    - American History, 9th grade
+    - Language Arts elective, 8th grade
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
