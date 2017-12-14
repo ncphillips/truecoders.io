@@ -2,11 +2,11 @@
 title: FAQs
 date: 2017-09-03 15:00:00 -05:00
 position: 4
+subtitle: All of your questions answered in one place
 is_nav: true
 is_footer: true
 hero:
   image: "/uploads/hero-image-1.jpg"
-subtitle: All of your questions answered in one place
 call_to_action:
   title: Ask a Question
   url: "/contact"
