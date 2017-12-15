@@ -36,7 +36,7 @@ education:
   area: Bachelor of Science in Electrical and Computer Engineering
   start_date: 2004-08-01 01:00:00 -05:00
   end_date: 2011-12-01 00:00:00 -06:00
-  gpa: 3.2
+  gpa: 2.3
   location: Tuscaloosa, AL
   body: |-
     Pursued Bachelor of Science:
