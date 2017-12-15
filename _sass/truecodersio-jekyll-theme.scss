@@ -31,6 +31,13 @@
     min-height: 60vh;
 }
 
+.no-link-decoration {
+    a:link, a:visited, a:hover, a:active {
+        text-decoration: none;
+        color: $body-color;
+    }
+}
+
 @include media-breakpoint-up(xl) {
     .resume-container {
         max-width: 1140px;
