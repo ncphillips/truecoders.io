@@ -85,11 +85,6 @@ defaults:
       reference: 
 - scope:
     path: ''
-    type: employers
-  values:
-    layout: page
-- scope:
-    path: ''
     type: courses
   values:
     layout: course
@@ -107,6 +102,15 @@ defaults:
     call_to_action:
       title: 
       url: 
+- scope:
+    path: ''
+    type: employers
+  values:
+    layout: page
+    display_title: 
+    subtitle: 
+    image: 
+    website: 
 - scope:
     path: ''
     type: faqs
