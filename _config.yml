@@ -8,8 +8,8 @@ collections:
   coders:
     title: Coders
     output: true
-  companies:
-    title: Companies
+  employers:
+    title: Employers
     output: true
   courses:
     title: Courses
@@ -85,7 +85,7 @@ defaults:
       reference: 
 - scope:
     path: ''
-    type: companies
+    type: employers
   values:
     layout: page
 - scope:
@@ -174,11 +174,11 @@ defaults:
     layout: collection-page
     collection: courses
 - scope:
-    path: companies.markdown
+    path: employers.markdown
     type: pages
   values:
     layout: collection-page
-    collection: companies
+    collection: employers
 - scope:
     path: coders.markdown
     type: pages
