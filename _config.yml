@@ -8,11 +8,11 @@ collections:
   coders:
     title: Coders
     output: true
-  employers:
-    title: Employers
-    output: true
   courses:
     title: Courses
+    output: true
+  employers:
+    title: Employers
     output: true
   faqs:
     title: FAQs
