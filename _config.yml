@@ -54,6 +54,7 @@ defaults:
     type: coders
   values:
     layout: resume
+    subtitle: 
     image: 
     class: 
     profiles:
