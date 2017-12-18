@@ -47,9 +47,9 @@ defaults:
     company: TrueCoders
     job_title: Developer
     call_to_action:
-      title: 
+      title: Aptitude Test
       url: 
-      body: 
+      body: If you're interested in this course, please take the our aptitude test.
 - scope:
     path: ''
     type: coders
@@ -102,9 +102,9 @@ defaults:
     subjects:
     - 
     call_to_action:
-      title: 
+      title: Aptitude Test
       url: 
-      body: 
+      body: If you're interested in this course, please take the our aptitude test.
 - scope:
     path: ''
     type: employers
