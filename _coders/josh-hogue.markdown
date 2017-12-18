@@ -1,7 +1,7 @@
 ---
 title: Josh Hogue
 date: 2017-12-15 17:54:00 -06:00
-position: 12
+position: 13
 subtitle: Web Software Engineer
 image: "/uploads/josh-hogue.jpg"
 profiles:
