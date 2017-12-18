@@ -25,7 +25,6 @@ subjects:
 - Architecture
 - Communication
 call_to_action:
-  title: Take the Aptitude Test
   url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---
 
