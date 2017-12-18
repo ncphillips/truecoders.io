@@ -9,14 +9,23 @@
         </div>
 
         {% if include.section.sub_collection %}
-        {% assign subsections = site[include.section.sub_collection] | sort: 'position' %}
-        {% assign collection = site.collections | where: "label", include.section.sub_collection | first %}
+            {% assign subsections = site[include.section.sub_collection] | sort: 'position' %}
+            {% assign collection = site.collections | where: "label", include.section.sub_collection | first %}
         {% elsif include.section.subsections %}
-        {% assign subsections = include.section.subsections %}
+            {% assign subsections = include.section.subsections %}
         {% endif %}
 
         {% if subsections %}
-        <div class="row justify-content-center">
+
+        {% assign subsections_length = subsections | size %}
+
+        {% if subsections_length < 3 %}
+            {% assign row_class = "row justify-content-center" %}
+        {% else %}
+            {% assign row_class = "row" %}
+        {% endif %}
+
+        <div class="{{ row_class }}">
 
             {% for subsection in subsections limit:include.section.limit %}
             {% include subsection-col.html collection=collection subsection=subsection %}

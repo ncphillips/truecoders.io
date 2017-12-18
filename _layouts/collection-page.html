@@ -9,7 +9,15 @@ layout: page
 
 <h2>Our {{ collection.title }}</h2>
 
-<div class="row justify-content-center">
+{% assign items_length = items | size %}
+
+{% if items_length < 3 %}
+    {% assign row_class = "row justify-content-center" %}
+{% else %}
+    {% assign row_class = "row" %}
+{% endif %}
+
+<div class="{{ row_class }}">
   
   {% for item in items %}
 
