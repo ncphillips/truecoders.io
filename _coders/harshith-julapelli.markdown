@@ -68,7 +68,7 @@ skills:
 - name: HTML, CSS, JS
   level: 4.1
 - name: Java
-  level: 3
+  level: 3.8
 - name: Git
   level: 3.9
 - name: Diagnostics
@@ -78,7 +78,7 @@ skills:
 - name: Soft Skills
   level: 3.7
 - name: Technical Sales
-  level: 3
+  level: 3.0
 references:
 - name: Cody Winton
   reference: Harshith is a skilled individual with a real talent for quality. He has
