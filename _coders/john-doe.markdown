@@ -3,7 +3,7 @@ title: John Doe
 date: 2017-11-18 15:17:00 -06:00
 tags:
 - example
-position: 0
+position: 1
 image: "/uploads/john-doe.jpg"
 class: Alpha C#
 profiles:
