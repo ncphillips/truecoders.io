@@ -5,5 +5,8 @@ position: 8
 subtitle: Employers that trust TrueCoders
 hero:
   image: "/uploads/hero-image-8.jpg"
+call_to_action:
+  title: Hire Us
+  url: "/hire"
 ---
 
