@@ -4,6 +4,7 @@ date: 2017-12-11 17:30:00 -06:00
 position: 14
 image: "/uploads/matthew-cook.jpg"
 profiles:
+  mbti: INFJ
   github: cookMatthew176
   linkedin: matthew-cook-61b04787
 work:
@@ -61,7 +62,7 @@ skills:
 - name: JavaScript
   level: 3
 - name: Visual Basic
-  level: 4
+  level: 4.25
 - name: C++
   level: 3.5
 ---
