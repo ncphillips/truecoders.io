@@ -72,7 +72,7 @@ skills:
 - name: HTML, CSS, JS
   level: 4.1
 - name: Java
-  level: 3.0
+  level: 3.8
 - name: Git
   level: 3.9
 - name: Diagnostics
