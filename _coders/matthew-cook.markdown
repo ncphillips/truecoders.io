@@ -65,6 +65,22 @@ skills:
   level: 4.25
 - name: C++
   level: 3.5
+- name: COBOL
+  level: 3
+- name: JAVA
+  level: 3.3
+- name: MATLAB
+  level: 2.5
+- name: CSS
+  level: 3.5
+- name: HTML
+  level: 3.5
+- name: Power Systems
+  level: 3
+- name: Control Systems
+  level: 3.75
+- name: SQL
+  level: 4.5
 ---
 
 Strong Software Background: Functional and technical experience across multiple software platforms with a focus on data driven analysis and reporting outcomes (SQL, Visual Basic, and Crystal Reports).
