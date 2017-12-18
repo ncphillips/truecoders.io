@@ -1,7 +1,7 @@
 ---
 title: Darius Witherspoon
 date: 2017-11-14 02:05:00 -06:00
-position: 6
+position: 5
 image: "/uploads/darius-witherspoon.jpg"
 class: Alpha C#
 profiles:
