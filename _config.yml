@@ -108,7 +108,6 @@ defaults:
     type: employers
   values:
     layout: page
-    display_title: 
     subtitle: 
     image: 
     website: 

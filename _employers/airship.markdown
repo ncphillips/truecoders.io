@@ -1,8 +1,7 @@
 ---
-title: Airship
+title: Airship LLC
 date: 2017-12-14 17:00:00 -06:00
 position: 0
-display_title: Airship LLC
 subtitle: Take your product to new heights
 image: "/uploads/airship-logo.jpg"
 website: https://teamairship.com
