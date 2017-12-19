@@ -213,6 +213,11 @@ defaults:
     type: pages
   values:
     layout: index
+    hero:
+      call_to_action:
+        title: 
+        url: 
+        body: 
 description: |-
   Be Mentored. Be Connected.
 
