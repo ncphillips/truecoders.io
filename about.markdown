@@ -12,6 +12,7 @@ hero:
 call_to_action:
   title: Find Out More
   url: "/contact"
+  body: Want to know more about us?
 ---
 
 # We Are TrueCoders
