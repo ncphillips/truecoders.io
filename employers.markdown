@@ -8,5 +8,6 @@ hero:
 call_to_action:
   title: Hire Us
   url: "/hire"
+  body: Interested in hiring TrueCoders?
 ---
 
