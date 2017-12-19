@@ -7,8 +7,9 @@ subtitle: The people that make us amazing
 hero:
   image: "/uploads/hero-image-10.jpg"
 call_to_action:
-  title: Hire TrueCoders
+  title: Hire Us
   url: "/hire"
+  body: Interested in hiring a TrueCoder?
 ---
 
 # We Are TrueCoders
