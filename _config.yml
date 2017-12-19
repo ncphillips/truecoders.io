@@ -217,7 +217,6 @@ defaults:
       call_to_action:
         title: 
         url: 
-        body: 
 description: |-
   Be Mentored. Be Connected.
 
