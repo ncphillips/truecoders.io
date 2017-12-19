@@ -129,7 +129,6 @@ defaults:
     call_to_action:
       title: 
       url: 
-      body: 
     subsections:
     - title: 
       subtitle: 
