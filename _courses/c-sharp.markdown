@@ -28,11 +28,9 @@ call_to_action:
   url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---
 
-# {{ page.title }}
-
 This course covers the {{ page.title }} stack.
 The next {{ page.weeks_length }} week course starts on
-{{ page.start_date | date: "%A, %B %e" }}.
+{{ page.start_date | date: "%B %e" }}.
 
 ## Schedule
 

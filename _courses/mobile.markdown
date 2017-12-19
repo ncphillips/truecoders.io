@@ -28,4 +28,4 @@ call_to_action:
   url: "/contact"
 ---
 
-This course will cover both iOS and Android {{ page.title }}.
+This course will cover both iOS and Android {{ page.title }}. More details to come.
