@@ -10,8 +10,9 @@ menus:
 hero:
   image: "/uploads/hero-image-7.jpg"
 call_to_action:
-  title: Find Out More
-  url: "/contact"
+  title: Apply for a Course
+  url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
+  body: We have applications open for upcoming courses.
 ---
 
 # We Are TrueCoders
