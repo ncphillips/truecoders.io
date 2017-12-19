@@ -13,6 +13,16 @@ layout: default
   </div>
 
   {% if page.call_to_action.url %}
+
+  {% if page.call_to_action.body %}
+  <div class="row">
+    <div class="col">
+      <h2>{{ page.call_to_action.title }}</h2>
+      {{ page.call_to_action.body | markdownify }}
+    </div>
+  </div>
+  {% endif %}
+
   {% if page.call_to_action.url contains 'http' %}
     {% assign link_target = "_blank" %}
   {% else %}

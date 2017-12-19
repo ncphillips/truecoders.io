@@ -28,11 +28,13 @@ call_to_action:
   url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---
 
+# {{ page.title }}
+
 This course covers the {{ page.title }} stack.
 The next {{ page.weeks_length }} week course starts on
 {{ page.start_date | date: "%A, %B %e" }}.
 
-# Schedule
+## Schedule
 
 The schedule for this course is Monday through Friday from 8am until 2pm. Here's how a normal course day will look:
 

@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-<h1> Course Subjects </h1>
+<h2> Course Subjects </h2>
 
 {% for subject_title in page.subjects %}
 {% assign subject = site.subjects | where: "title", subject_title | first %}
@@ -13,7 +13,7 @@ layout: page
 {% endfor %}
 
 {% if page.price %}
-<h1>Pricing</h1>
+<h2>Pricing</h2>
 
 {% capture pricing_info %}
 Our {{ page.title }} course costs {{ page.price }}.
@@ -38,8 +38,3 @@ More details coming soon.
 
 <script>{{ counter_js }}</script>
 {% endunless %}
-
-{% if page.call_to_action.url %}
-<h1> Aptitude Test </h1>
-<p> If you're interested in this course, please take the our aptitude test. </p>
-{% endif %}
