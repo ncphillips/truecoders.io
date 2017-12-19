@@ -8,13 +8,16 @@ menus:
   is_footer: true
 hero:
   image: "/uploads/hero-image-3.jpg"
-call_to_action:
-  title: Watch Intro
-  url: https://player.vimeo.com/video/234034039
+  call_to_action:
+    title: Watch Intro
+    url: https://player.vimeo.com/video/234034039
 sections:
 - Courses Collection
 - Courses Process
 - Team Collection
+call_to_action:
+  title: Watch Intro
+  url: https://player.vimeo.com/video/234034039
 redirect_from:
 - "/home/"
 ---
