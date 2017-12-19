@@ -13,10 +13,10 @@
     <h3 id="hero-subtitle" style="text-align:center; color:white;">{{ page.subtitle }}</h3>
     {% endif %}
 
-    {% if page.url == "/" %}
+    {% if page.hero.call_to_action.url %}
     <div class="play-icon">
-      <a href={{ page.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
-        <i class="fa fa-play-circle fa-lg"></i> {{ page.call_to_action.title }}
+      <a href={{ page.hero.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
+        <i class="fa fa-play-circle fa-lg"></i> {{ page.hero.call_to_action.title }}
       </a>
     </div>
     {% endif %}
