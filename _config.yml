@@ -26,8 +26,8 @@ collections:
   subjects:
     title: Subjects
     output: false
-  teammates:
-    title: Teammates
+  team:
+    title: Team
     output: false
   uploads:
     title: Uploads
@@ -142,7 +142,7 @@ defaults:
     permalink: "/blog/:title/"
 - scope:
     path: ''
-    type: teammates
+    type: team
   values:
     layout: page
     subtitle: 
@@ -173,7 +173,7 @@ defaults:
     type: pages
   values:
     layout: collection-page
-    collection: teammates
+    collection: team
 - scope:
     path: courses.markdown
     type: pages

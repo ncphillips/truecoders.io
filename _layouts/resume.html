@@ -231,7 +231,7 @@ layout: default
 
   <p>
 
-    {% assign teammate = site.teammates | where: "title", reference.name | first %}
+    {% assign teammate = site.team | where: "title", reference.name | first %}
 
     {% if teammate %}
       {% assign job_title = teammate.subtitle %}
