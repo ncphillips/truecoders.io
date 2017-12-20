@@ -1,3 +1,9 @@
+color: "#0093c9"
+css: "/assets/css/main.css"
+logo: "uploads/logo-only.svg"
+mailchimp:
+  action: "//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af"
+socials:
 - title: Facebook
   url: http://facebook.com/truecodersio
   fa_icon: fa-facebook

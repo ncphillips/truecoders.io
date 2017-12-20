@@ -13,6 +13,8 @@ sections:
 - Dev Team
 - Dev Process
 - Hire Cost
+redirect_from:
+- "/hire-us/"
 ---
 
 # Hiring TrueCoders

@@ -233,6 +233,7 @@ company:
 author:
   name: TrueCoders
   twitter: truecodersio
+google_tracking_id: UA-104643272-1
 image: "/uploads/logo.png"
 logo: "/uploads/logo.png"
 social:
@@ -258,5 +259,6 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
+remote_theme: truecodersio/truecodersio-jekyll-theme
 safe: true
 strict_front_matter: true
