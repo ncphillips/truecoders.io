@@ -53,9 +53,19 @@ work:
     modules.
 education:
 - institution: University of Alabama
-  area: Master of Science
+  area: Master of Science in Engineering
+  start_date: 
+  end_date: 2010-05-01 01:00:00 -05:00
+  gpa: 
   location: Huntsville, AL
-  body: Computer Engineering
+  body: Focus on Computer Engineering
+- institution: University of Alabama
+  area: Bachelor Science in Engineering
+  start_date: 
+  end_date: 2007-05-01 01:00:00 -05:00
+  gpa: 
+  location: Huntsville, AL
+  body: Summa Cum Laude, with focus on Computer Engineering
 ---
 
 Software/systems engineer specializing in front-end and back-end web technologies.
