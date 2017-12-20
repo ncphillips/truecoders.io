@@ -14,12 +14,13 @@ work:
   end_date: 
   location: Birmingham, AL
   body: |-
-    Front-End development on several projects involving HTML, CSS, JavaScript, jQuery, and Bootstrap:
+    Front-End development on several projects involving Java, HTML, CSS, JavaScript, jQuery, and Bootstrap:
 
     * [Tribute Page](https://codepen.io/heptode/full/yXPGLj/)
     * [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
     * [Wikapedia Viewer](https://codepen.io/heptode/full/pwKJor/)
     * [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
+    * [Transaction Entry & Display Servlet](https://github.com/reidbraswell1/WebApplication2)
 - company: McKesson Pharmacy Systems
   job_title: Software Engineer
   start_date: 2004-11-01 00:00:00 -06:00
