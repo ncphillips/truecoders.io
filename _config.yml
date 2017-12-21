@@ -255,6 +255,6 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
-remote_theme: truecodersio/truecodersio-jekyll-theme@v0.9.4
+remote_theme: truecodersio/truecodersio-jekyll-theme@v0.9.5
 safe: true
 strict_front_matter: true
