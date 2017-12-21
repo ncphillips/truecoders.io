@@ -49,7 +49,10 @@ defaults:
     call_to_action:
       title: Aptitude Test
       url: 
-      body: If you're interested in this course, please take the our aptitude test.
+      body: |-
+        Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship.
+
+        If you're interested in this course, please take the our aptitude test.
 - scope:
     path: ''
     type: coders
