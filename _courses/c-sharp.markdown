@@ -9,9 +9,6 @@ hero:
   color: "#690081"
 subtitle: Thorough training in C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
-start_date: 2018-01-15 08:00:00 -06:00
-weeks_length: 8
-price: "$10,000"
 subjects:
 - C# and .NET
 - ASP.NET MVC
@@ -24,15 +21,9 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
-  url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
 ---
 
 This course covers the {{ page.title }} stack.
-The next {{ page.weeks_length }} week course starts on
-{{ page.start_date | date: "%B %e" }}.
-
-## Schedule
 
 The schedule for this course is Monday through Friday from 8am until 2pm. Here's how a normal course day will look:
 

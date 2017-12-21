@@ -23,9 +23,6 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
-  title: Find Out More
-  url: "/contact"
 ---
 
-This course will cover both iOS and Android {{ page.title }}. More details to come.
+This course will cover the {{ page.title }} stack.

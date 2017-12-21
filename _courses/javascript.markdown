@@ -21,9 +21,6 @@ subjects:
 - Diagnostics
 - Architecture
 - Communication
-call_to_action:
-  title: Find Out More
-  url: "/contact"
 ---
 
-This course will cover the {{ page.title }} stack. More details to come.
+This course will cover the {{ page.title }} stack.

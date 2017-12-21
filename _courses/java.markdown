@@ -9,7 +9,6 @@ hero:
   color: "#ea2d2f"
 subtitle: Thorough training in Java
 image: "/uploads/java-logo.jpg"
-price: "$10,000"
 subjects:
 - Java
 - Source Control
@@ -23,4 +22,4 @@ subjects:
 - Communication
 ---
 
-This course will cover the {{ page.title }} stack. More details to come.
+This course will cover the {{ page.title }} stack.
