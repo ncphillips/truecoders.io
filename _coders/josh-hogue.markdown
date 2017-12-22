@@ -66,6 +66,27 @@ education:
   gpa: 
   location: Huntsville, AL
   body: Summa Cum Laude, with focus on Computer Engineering
+skills:
+- name: PHP
+  level: 4.8
+- name: MySQL/MariaDB
+  level: 4.8
+- name: Apache/Server Management
+  level: 4.8
+- name: HTML/JavaScript
+  level: 5
+- name: CSS/Bootstrap
+  level: 5
+- name: ASP.NET
+  level: 4.5
+- name: Wordpress
+  level: 4
+- name: Angular
+  level: 4
+- name: Amazon Web Services
+  level: 4
+- name: Azure Cloud Services
+  level: 4
 ---
 
 Software/systems engineer specializing in front-end and back-end web technologies, including:
