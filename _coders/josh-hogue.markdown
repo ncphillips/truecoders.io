@@ -68,4 +68,8 @@ education:
   body: Summa Cum Laude, with focus on Computer Engineering
 ---
 
-Software/systems engineer specializing in front-end and back-end web technologies.
+Software/systems engineer specializing in front-end and back-end web technologies, including:
+
+* Cloud Services: Amazon Web Services (EC2, ECS, S3, RDS, and Cloudfront), Azure Cloud Services(VMs, cloud storage, Cosmos DB, Visual Studio Team Services, CDNs, Application Insights), Digital Ocean (VMs, Load Balancers, Object Storage).
+* Server-side Development: PHP, ASP.Net, Node.js, Apache, Nginx, IIS Server, MySQL, PostgreSQL, SQL Server.
+* Front-end Development: Angular, JQuery, HTML5, CSS3, Bootstrap.
