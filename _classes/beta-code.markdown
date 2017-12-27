@@ -1,5 +1,5 @@
 ---
-title: Beta C#
+title: Beta Code
 date: 2017-12-08 23:50:00 -06:00
 position: 1
 course: C# and .NET
