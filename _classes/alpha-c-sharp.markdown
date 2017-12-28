@@ -9,6 +9,7 @@ end_date: 2017-11-22 00:00:00 -06:00
 
 Focus on {{ page.course }}, including:
 
+* {{ page.course }} Fundamentals
 * JavaScript and ASP.NET MVC
 * ANSI SQL and Relational Databases
 * Source Control using Git
