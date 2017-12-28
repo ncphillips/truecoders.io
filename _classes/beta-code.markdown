@@ -12,6 +12,6 @@ call_to_action:
 Focus on {{ page.course }}, including:
 
 * {{ page.course }} Fundamentals
-* JavaScript and ASP.NET MVC
+* HTML, CSS, and JavaScript
 * ANSI SQL and Relational Databases
 * Source Control using Git
