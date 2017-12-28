@@ -8,7 +8,7 @@ tags:
 position: 4
 hero:
   color: "#690081"
-subtitle: Thorough training in C# and .NET
+subtitle: Thorough training in C# and Java
 image: "/uploads/c-sharp-logo.jpg"
 subjects:
 - C# and .NET
