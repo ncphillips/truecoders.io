@@ -7,6 +7,7 @@ profiles:
   mbti: ISTJ
   github: reidbraswell1
   linkedin: reid-braswell
+  codewars: codewarsoplate
 work:
 - company: Personal Front-End Projects
   job_title: Owner
