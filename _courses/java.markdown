@@ -22,4 +22,4 @@ subjects:
 - Communication
 ---
 
-This course will cover the {{ page.title }} stack.
+This course will cover the {{ page.title }} stacks.

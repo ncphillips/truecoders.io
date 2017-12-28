@@ -1,16 +1,18 @@
 ---
-title: C# and .NET
+title: C# and Java
 date: 2017-08-23 15:04:00 -05:00
 tags:
 - c#
 - ".net"
-position: 0
+- java
+position: 4
 hero:
   color: "#690081"
 subtitle: Thorough training in C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
 subjects:
 - C# and .NET
+- Java
 - ASP.NET MVC
 - Source Control
 - Utilities
