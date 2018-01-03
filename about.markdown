@@ -21,7 +21,7 @@ call_to_action:
 
 We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart and passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
 
-At TrueCoders, we're focused on practical, placeable knowledge. Our course curriculum is run through a very simple test: Does it help our students with placement. It's why our first course focused on C# and .NET, and why we've added support for Java. It's why we focus on real world exercises, reinforcing use of source control, making pull requests, and handling merge conflicts. We don't just teach what we love; we teach what works.
+At TrueCoders, we are focused on practical, placeable knowledge. Our course curriculum is run through a very simple test: Does it help our students with placement. It's why our first course focused on C# and .NET, and why we've added support for Java. It's why we focus on real world exercises, reinforcing use of source control, making pull requests, and handling merge conflicts. We don't just teach what we love; we teach what works.
 
 Our team is dedicated to ensuring TrueCoders:
 
