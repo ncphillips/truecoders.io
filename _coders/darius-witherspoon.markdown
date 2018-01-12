@@ -50,6 +50,8 @@ education:
 skills:
 - name: C# and .NET
   level: 2.4
+  -name: Java
+  level: 3.0
 - name: ANSI SQL
   level: 3.6
 - name: HTML, CSS, JS
