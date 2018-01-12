@@ -86,9 +86,10 @@ education:
   location: Bessemer, AL
   body: 
 skills:
+- name: C# and .NET
+  level: 3.0
 - name: Java
-  level: 2.6
-  Level: 3.0
+  level: 3.0
 - name: ANSI SQL
   level: 3.1
 - name: HTML, CSS, JS
