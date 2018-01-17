@@ -11,7 +11,7 @@ hero:
   image: "/uploads/hero-image-7.jpg"
 call_to_action:
   title: Apply for a Course
-  url: https://goo.gl/forms/A62VX1BLsJqZOyKh2
+  url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
   body: We have applications open for upcoming courses.
 ---
 

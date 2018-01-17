@@ -11,6 +11,7 @@ subtitle: Thorough training in C# and .NET
 image: "/uploads/c-sharp-logo.jpg"
 subjects:
 - C# and .NET
+- Java
 - ASP.NET MVC
 - Source Control
 - Utilities

@@ -11,6 +11,7 @@ subtitle: Thorough training in Java
 image: "/uploads/java-logo.jpg"
 subjects:
 - Java
+- C# and .NET
 - Source Control
 - Utilities
 - Testing
