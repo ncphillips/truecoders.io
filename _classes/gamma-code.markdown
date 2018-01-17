@@ -3,8 +3,9 @@ title: Gamma Code
 date: 2018-01-17 10:00:00 -06:00
 position: 2
 course: C# and .NET
-start_date: 2018-04-02 01:08:00 -05:00
-end_date: 2018-05-09 01:00:00 -05:00
+start_date: 2018-04-02 08:00:00 -05:00
+end_date: 2018-05-25 14:00:00 -05:00
+price: "$7,500"
 call_to_action:
   url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
 ---
