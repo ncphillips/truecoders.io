@@ -41,6 +41,18 @@ work:
     - Follow product setup & packaging instructions
     - Package product according to provided instructions
     - Inspect overall quality of product
+- company: 1 Million Cups
+  job_title: Organizer
+  start_date: 2016-12-01 00:00:00 -06:00
+  end_date: 2018-01-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    Facilitate a weekly program designed to educate, engage, and connect entrepreneurs with their communities:
+
+    - First line of interaction for startup owners looking to present their business ideas
+    - Assist with any audio/visual needs
+    - Educate presenters on the 1 Million Cups format
+    - Make coffee
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
