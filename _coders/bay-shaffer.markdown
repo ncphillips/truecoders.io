@@ -30,6 +30,17 @@ work:
     - Vet companies that match specified criteria
     - Prime founders on regulations and requirements
     - Consult on forms, terms, profiles, perks, strategy
+- company: Marathon Staffing
+  job_title: Inspector Packer
+  start_date: 2017-07-01 00:00:00 -05:00
+  end_date: 2018-01-12 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    Inspect parts for quality assurance and pack into boxes accordingly:
+
+    - Follow product setup & packaging instructions
+    - Package product according to provided instructions
+    - Inspect overall quality of product
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
