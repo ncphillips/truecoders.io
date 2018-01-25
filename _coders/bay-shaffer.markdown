@@ -7,6 +7,17 @@ profiles:
   github: bayshaffer
   linkedin: bayshaffer
   codewars: bayshaffer
+work:
+- company: Topgolf
+  job_title: Associate
+  start_date: 2017-01-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    Host guests in the hitting bays:
+
+    - Assist guests in understanding and enjoying the game safely
+    - Ensure the bays are clean and ready
+    - Engage with guests and ensure they are well cared for at all times
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
