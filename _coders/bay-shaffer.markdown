@@ -66,6 +66,18 @@ work:
     - Vendor Coordination
     - Interviewing
     - Community Outreach
+- company: Alabama Outdoors
+  job_title: Specialist
+  start_date: 2015-05-01 00:00:00 -05:00
+  end_date: 2016-09-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Assisted with various eConmerce activities:
+
+    - Content creation
+    - Photoshop editing
+    - Logistic Support
+    - Customer Service
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
