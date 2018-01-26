@@ -1,7 +1,7 @@
 ---
 title: KaDarius King
 date: 2017-11-14 02:03:00 -06:00
-position: 17
+position: 18
 image: "/uploads/kadarius-king.jpg"
 class: Alpha C#
 profiles:
