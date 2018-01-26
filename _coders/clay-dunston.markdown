@@ -26,12 +26,14 @@ work:
   body: |-
     - Maintained and augmented customer memberships & pertaining information
     - Organized and kept track of current and new stock
-- company: 
-  job_title: 
-  start_date: 
-  end_date: 
-  location: 
-  body: 
+- company: Vulcan Steel Products
+  job_title: Accounts Receivable
+  start_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-08-01 00:00:00 -05:00
+  location: Pelham, AL
+  body: |-
+    - Monitored customer account balances
+    - Worked with customers in the collection of past due accounts
 ---
 
   - Who I am as a person, how I’ve gotten to where I am.
