@@ -43,6 +43,21 @@ work:
     - Helped to setup and maintain customer accounts and subscriptions
     - Assisted customers in finding and purchasing merchandise
     - Assembled and supervised sales booths at conventions & movie premieres
+education:
+- institution: Covalence
+  area: Web Development
+  start_date: 2017-02-01 00:00:00 -06:00
+  end_date: 2017-05-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: 
+- institution: Jefferson State Community College
+  area: General Studies
+  start_date: 2016-01-01 00:00:00 -06:00
+  end_date: 2016-08-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: 
 ---
 
   - Who I am as a person, how I’ve gotten to where I am.
