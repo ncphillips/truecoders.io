@@ -90,6 +90,17 @@ work:
     - Lobby Display App by Spruce
     - Bottle & Bone
     - Alabama Outdoors
+education:
+- institution: freeCodeCamp
+  area: Front End Development Certification
+  start_date: 2016-06-01 00:00:00 -05:00
+  body: |-
+    Focus on JavaScript, including:
+
+    - HTML5 and CSS
+    - Responsive Design with Bootstrap
+    - jQuery
+    - Basic Algorithm Scripting
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
