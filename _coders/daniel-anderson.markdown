@@ -11,3 +11,9 @@ profiles:
   codewars: danderson0851
 ---
 
+Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
+
+- Bilingual (English and Spanish)
+- Shipping/Receiving experience
+- Medical Billing experience
+- Programming experience
