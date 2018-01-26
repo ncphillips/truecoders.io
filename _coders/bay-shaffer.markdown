@@ -1,6 +1,7 @@
 ---
 title: Bay Shaffer
 date: 2018-01-25 17:45:00 -06:00
+image: "/uploads/bay-shaffer.jpg"
 class: Beta Code
 profiles:
   mbti: ENTJ
