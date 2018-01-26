@@ -18,6 +18,14 @@ work:
   body: |-
     - Guided and advised customers throughout the buying process as a salesman
     - Organized and maintained product storage and displays as a warehouse professional
+- company: Direct Billing Services
+  job_title: Payment Poster
+  start_date: 2014-02-01 00:00:00 -06:00
+  end_date: 2014-11-01 00:00:00 -05:00
+  location: Hoover, AL
+  body: |-
+    - Maintained multiple clients' insurance payments and patient copays
+    - Submitted electronic and paper claims daily for various clients
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
