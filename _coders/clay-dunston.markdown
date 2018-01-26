@@ -34,6 +34,15 @@ work:
   body: |-
     - Monitored customer account balances
     - Worked with customers in the collection of past due accounts
+- company: Kingdom Comics
+  job_title: Sales Associate
+  start_date: 2011-05-01 01:00:00 -05:00
+  end_date: 2017-12-01 00:00:00 -06:00
+  location: Vestavia Hills, AL
+  body: |-
+    - Helped to setup and maintain customer accounts and subscriptions
+    - Assisted customers in finding and purchasing merchandise
+    - Assembled and supervised sales booths at conventions & movie premieres
 ---
 
   - Who I am as a person, how I’ve gotten to where I am.
