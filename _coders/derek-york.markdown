@@ -1,7 +1,7 @@
 ---
 title: Derek York
 date: 2017-12-18 14:06:00 -06:00
-position: 9
+position: 10
 work:
 - company: Elyton Hotel
   job_title: Director of Rooms/Server Administrator
