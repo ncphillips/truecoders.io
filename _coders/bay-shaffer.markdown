@@ -94,6 +94,9 @@ education:
 - institution: freeCodeCamp
   area: Front End Development Certification
   start_date: 2016-06-01 00:00:00 -05:00
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Focus on JavaScript, including:
 
@@ -101,6 +104,19 @@ education:
     - Responsive Design with Bootstrap
     - jQuery
     - Basic Algorithm Scripting
+- institution: University of Alabama at Birmingham, Collat School of Business
+  area: Project Management Certification
+  start_date: 2016-05-01 00:00:00 -05:00
+  end_date: 2016-06-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: |-
+    Trained in the PMI Body of Knowledge (PMBOK®), project management knowledge areas, and Microsoft Project software tool. Gained a deeper understanding of the project management lifecycle. Put into practice the competencies needed to balance competing demands and communicate with diverse stakeholders:
+
+    - Project Management, Process Groups, Knowledge Areas and Integration Management
+    - Scope, Time and Cost Management
+    - Quality, HR, Stakeholder and Communications Management
+    - Risk, Procurement, Earned Value Management and Microsoft Project
 ---
 
 I have a passion for launching and accelerating businesses with a focus on sustainable growth. Understanding, measuring, and improving the value your company delivers to customers extends across multiple departments in an organization. I'm a coder, founder, growth advisor, mentor, small business advocate, and investment scout. My experience led me to JavaScript, C# and the .NET framework. Seeking an opportunity in website development or software development. Interested in:
