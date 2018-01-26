@@ -18,6 +18,20 @@ work:
   body: |-
     - Assisted customers in finding and purchasing merchandise
     - Cared for and organized various types of plants
+- company: GameStop
+  job_title: Sales
+  start_date: 2016-10-01 00:00:00 -05:00
+  end_date: 2017-02-01 00:00:00 -06:00
+  location: Hoover, AL
+  body: |-
+    - Maintained and augmented customer memberships & pertaining information
+    - Organized and kept track of current and new stock
+- company: 
+  job_title: 
+  start_date: 
+  end_date: 
+  location: 
+  body: 
 ---
 
   - Who I am as a person, how I’ve gotten to where I am.
