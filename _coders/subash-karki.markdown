@@ -21,6 +21,16 @@ work:
     or virus protection software.\n- Create/file monthly expense report  and preparer
     tax documents.\n- Observed budgets and payroll records and examined financial
     transactions to guarantee authentic expenditures."
+- company: Stop and Save Harvest
+  job_title: Manager
+  start_date: 2008-01-01 00:00:00 -06:00
+  end_date: 2010-03-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    - Organized items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas. Determined proper storage methods, identification, and stock location based on turnover, environmental factors, and physical capabilities of facilities.
+    - Scrutinized stock items for wear or defects, reporting any damage to supervisors.
+    - Excelled in difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
+    - Create daily reports from POS terminals
 ---
 
 Detail-oriented and creative professional with the proper training and experience to pursue a full time career in web development.  Proven track record in successful management and capability to handle fast-paced, busy work environments. Skill for analyzing business strategies and objectives and aligning them with information technology and service management concepts to achieve optimal organizational impact with minimal resource allocation. Exceptional communicator, possesses the talent to connect with people of diverse, cultural backgrounds and build quick rapport. Solid team player, can forge strong relationships and partnerships.
