@@ -60,8 +60,8 @@ work:
     - Responsible for processing, sorting, and delivery of daily shipments to various UAB offices, both on and off campus
 - company: Bass Pro Shops
   job_title: 
-  start_date: 
-  end_date: 
+  start_date: 2002-01-01 00:00:00 -06:00
+  end_date: 2004-12-01 00:00:00 -06:00
   location: Lawrenceville, GA
   body: |-
     - Received and sorted shipment to designated department areas for storage and processing
