@@ -50,6 +50,14 @@ work:
     - Assisted students and other customers in finding correct course textbooks
     - Shipped outgoing product via UPS
     - Stocked textbooks and other products
+- company: UAB Warehouse Services
+  job_title: Mover - Shipping/Receiving Clerk
+  start_date: 
+  end_date: 
+  location: Birmingham, AL
+  body: |-
+    - Led teams to organize and execute moving and/or delivery jobs
+    - Responsible for processing, sorting, and delivery of daily shipments to various UAB offices, both on and off campus
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
