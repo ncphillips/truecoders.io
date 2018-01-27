@@ -58,6 +58,14 @@ work:
   body: |-
     - Led teams to organize and execute moving and/or delivery jobs
     - Responsible for processing, sorting, and delivery of daily shipments to various UAB offices, both on and off campus
+- company: Bass Pro Shops
+  job_title: 
+  start_date: 
+  end_date: 
+  location: Lawrenceville, GA
+  body: |-
+    - Received and sorted shipment to designated department areas for storage and processing
+    - Organized and maintained products on shelves and in outdoor containers using various warehouse equipment (pallet jacks, forklifts, scissor lifts, etc.)
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
