@@ -52,6 +52,13 @@ work:
     - Built rapport with customers
     - Used planogram for cell phone displays and carrier displays
     - Maintained professional and technical knowledge by taking classes online provided by the company and different carriers to stay up-to-date on the system
+education:
+- institution: Benjamin Russell High School
+  area: High School Diploma
+  start_date: 2005-08-01 01:00:00 -05:00
+  end_date: 2009-05-01 01:00:00 -05:00
+  gpa: 3
+  location: Alexander City, AL
 ---
 
 It is my goal to pursue a career as a software developer because it is much more than a job. It is a career. As a leader and self-starter, I have challenged myself to learn the skill of programming. I channel my frustration with coding into striving to be the best I can be. The work is challenging yet, very rewarding. I would love the opportunity to adopt your company’s work culture and work to advance the company’s mission and profitability. Please review the attached resume and contact me if you have any questions.
