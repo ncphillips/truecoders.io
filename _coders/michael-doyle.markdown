@@ -11,3 +11,4 @@ profiles:
   codewars: Michaelvdoyle
 ---
 
+Seeking a programming position with a progressive software development group; Ideally I would like to secure a position that will permit me to expand upon what I have learned thus far and to improve my front and backend development skills.
