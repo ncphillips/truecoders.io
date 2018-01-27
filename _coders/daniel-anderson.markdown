@@ -41,6 +41,15 @@ work:
   end_date: 2012-11-01 00:00:00 -05:00
   location: Fultondale, AL
   body: 
+- company: Barnes & Noble College Booksellers
+  job_title: Bookseller - Cashier - Shipping/Receiving
+  start_date: 2008-01-01 00:00:00 -06:00
+  end_date: 2010-12-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    - Assisted students and other customers in finding correct course textbooks
+    - Shipped outgoing product via UPS
+    - Stocked textbooks and other products
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
