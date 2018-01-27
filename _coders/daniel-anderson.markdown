@@ -66,6 +66,12 @@ work:
   body: |-
     - Received and sorted shipment to designated department areas for storage and processing
     - Organized and maintained products on shelves and in outdoor containers using various warehouse equipment (pallet jacks, forklifts, scissor lifts, etc.)
+education:
+- institution: University of Alabama
+  area: 'Bachelor of Arts in Foreign Language: Spanish'
+  start_date: 2004-08-01 01:00:00 -05:00
+  end_date: 2010-05-01 01:00:00 -05:00
+  location: Birmingham, AL
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
