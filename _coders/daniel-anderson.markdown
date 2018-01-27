@@ -26,6 +26,15 @@ work:
   body: |-
     - Maintained multiple clients' insurance payments and patient copays
     - Submitted electronic and paper claims daily for various clients
+- company: The Valletta Group
+  job_title: Payment Poster
+  start_date: 2012-01-01 00:00:00 -06:00
+  end_date: 2014-12-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    - Posted payments to patient accounts in several doctors’ databases across multiple medical billing software platforms
+    - Reconciled batch totals to balance with providers’ bank accounts
+    - Submitted electronic and paper claims daily for various clients
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
