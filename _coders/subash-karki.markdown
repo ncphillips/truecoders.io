@@ -45,12 +45,12 @@ education:
     - CompTIA Linux+
 
     CompTIA Project+ Certification: Certified July, 2017
-- institution: 
-  area: 
+- institution: freeCodeCamp
+  area: Web Development
   start_date: 
-  end_date: 
+  end_date: 2016-05-01 00:00:00 -05:00
   gpa: 
-  location: 
+  location: Birmingham, AL
   body: 
 ---
 
