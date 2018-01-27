@@ -9,6 +9,11 @@ profiles:
   github: starlaoh
   linkedin: starlaoh
   codewars: starlaoden
+work:
+- company: The Cheesecake Factory
+  job_title: Server
+  start_date: 2012-08-01 00:00:00 -05:00
+  location: Austin, TX
 ---
 
 I fell in love with graphic design in college and considered web development a (some word here) next step and interesting skill to learn. I started teaching myself HTML and CSS through Codecademy after college. I moved to Austin at the end of 2016 and began researching coding schools and college courses to further my education. I don’t know how to end this paragraph.
