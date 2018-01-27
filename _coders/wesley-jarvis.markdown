@@ -30,6 +30,17 @@ work:
     clients. Speak to the technical management experience. \n\n- Sales/Marketing\n-
     Appointment setting and negotiating contracts\n- Payroll, accounts receivable
     and payable"
+- company: Bama Budweiser of Shelby County
+  job_title: Warehouse Manager
+  start_date: 2014-10-01 00:00:00 -05:00
+  end_date: 2015-08-01 00:00:00 -05:00
+  location: Harpersville, AL
+  body: |-
+    Supervised a team of 20 warehouse workers engaged in customer service, stocking, inventory maintenance, order fulfillment, and transport.
+
+    - Maintained and coordinated paperwork for drivers
+    - Completed preventive maintenance requirements; calls for repairs; maintained equipment inventories; evaluate new equipment and techniques
+    - Hired, trained, evaluated, and terminated staff
 ---
 
 It is my goal to pursue a career as a software developer because it is much more than a job. It is a career. As a leader and self-starter, I have challenged myself to learn the skill of programming. I channel my frustration with coding into striving to be the best I can be. The work is challenging yet, very rewarding. I would love the opportunity to adopt your company’s work culture and work to advance the company’s mission and profitability. Please review the attached resume and contact me if you have any questions.
