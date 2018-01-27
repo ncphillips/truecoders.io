@@ -37,6 +37,15 @@ work:
 
     - Created a video animation for the Collat Jewish Family Services organization
     - Trying to find a way to word "Learned Illustrator and InDesign in Depth"
+education:
+- institution: University of Alabama at Birmingham
+  area: B.S. Art Studio, graphic design concentration; marketing minor
+  start_date: 2010-08-01 01:00:00 -05:00
+  end_date: 2015-04-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: "Include an education summary of 1-2 sentences maximum, followed by:\n\n-
+    Graphic Design Courses including Typography, ect. ect. \n- Art Studio Courses
+    including sculpture and 3-D Design"
 ---
 
 I fell in love with graphic design in college and considered web development a (some word here) next step and interesting skill to learn. I started teaching myself HTML and CSS through Codecademy after college. I moved to Austin at the end of 2016 and began researching coding schools and college courses to further my education. I don’t know how to end this paragraph.
