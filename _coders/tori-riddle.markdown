@@ -44,6 +44,16 @@ work:
     - Took lead on illustrations for the upcoming issues
     - Assisted with set up and layout for multiple photoshoots and photographed several
     - Contributed to the layout and design for new spreads of the magazine.
+- company: The Cullman Times
+  job_title: Graphic Designer
+  start_date: 2012-01-01 00:00:00 -06:00
+  end_date: 2018-01-26 00:00:00 -06:00
+  location: Cullman, AL
+  body: "Lead and solo designer at the location. A Fast-pace environment, where I
+    had to meet production deadlines daily and work ahead of schedule.\n\n- Worked
+    directly alongside of sales representative and clients to meet their ad criteria\n-
+    \ Dummied newspaper, set up layout and added graphic for final productions daily
+    \n- Contributed to the layout and design for multiple quarterly magazines "
 ---
 
 My name is Tori Riddle, I have a Graphic Design background. Since I was young, I have always been intrigued with problem solving and how everything works. Through my design career, I have been assigned projects that required me to self teach myself on basic web programming, I am very adaptive at learning new skills.  This peaked an interest in the development field. Design is parallel with programming and is a crucial factor. Having a design background will be beneficial in creating the overall UX/UI design. I do great working on a team or alone,  I am eager to continue learning as a developer and designer in our ever changing environment.
