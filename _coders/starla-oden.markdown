@@ -27,6 +27,16 @@ work:
     - Vocabby Book Illustrations
     - ArtPlay print and web ads
     - Event flyers and print ads
+- company: UAB Digital Media
+  job_title: Intern
+  start_date: 2014-05-01 00:00:00 -05:00
+  end_date: 2014-08-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Learned new skills and contributed to various graphic design projects
+
+    - Created a video animation for the Collat Jewish Family Services organization
+    - Trying to find a way to word "Learned Illustrator and InDesign in Depth"
 ---
 
 I fell in love with graphic design in college and considered web development a (some word here) next step and interesting skill to learn. I started teaching myself HTML and CSS through Codecademy after college. I moved to Austin at the end of 2016 and began researching coding schools and college courses to further my education. I don’t know how to end this paragraph.
