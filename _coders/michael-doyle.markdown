@@ -41,6 +41,19 @@ work:
     - Used office and particularly Microsoft Excel to generate ad hoc reports and summaries in support of ongoing legal initiatives at the firm.
     - Constructed management rollup and other ad hoc analytical reports pertaining to the status of claims and related legal activities.
     - Worked directly with a team of attorneys, legal, and administrative assistants to supply data and IT related support as required.
+- company: The Club, Inc.
+  job_title: Social Media Manager
+  start_date: 2012-05-01 00:00:00 -05:00
+  end_date: 2013-06-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Responsible for creating and maintaining a full circle social media presence for The Club:
+
+    - Engineered and executed multi-channel social media campaigns
+    - Developed metrics and implemented tracking strategies to study the effectiveness of efforts; these metrics included monitoring social media channels, ongoing related web traffic, and Google searches.
+    - Developed custom search engine optimization strategies
+    - Developed high impact Facebook campaigns (20,000+ visits per ad)
+    - Demonstrated web traffic increased by 1000%, and expanded weekly visits to audiences of 300,000+ weekly visitors
 ---
 
 Seeking a programming position with a progressive software development group; Ideally I would like to secure a position that will permit me to expand upon what I have learned thus far and to improve my front and backend development skills.
