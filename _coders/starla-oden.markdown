@@ -11,3 +11,6 @@ profiles:
   codewars: starlaoden
 ---
 
+I fell in love with graphic design in college and considered web development a (some word here) next step and interesting skill to learn. I started teaching myself HTML and CSS through Codecademy after college. I moved to Austin at the end of 2016 and began researching coding schools and college courses to further my education. I don’t know how to end this paragraph.
+
+this has peaked an interest in the development field; eager to continue learning as a developer and designer
