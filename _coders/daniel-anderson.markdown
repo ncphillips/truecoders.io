@@ -35,6 +35,12 @@ work:
     - Posted payments to patient accounts in several doctors’ databases across multiple medical billing software platforms
     - Reconciled batch totals to balance with providers’ bank accounts
     - Submitted electronic and paper claims daily for various clients
+- company: Outback Steakhouse
+  job_title: Server
+  start_date: 2010-01-01 00:00:00 -06:00
+  end_date: 2012-11-01 00:00:00 -05:00
+  location: Fultondale, AL
+  body: 
 ---
 
 Seeking a full-time position at a thriving company that will allow me to grow personally and advance my career.  Interested in utilizing my abilities to their full potential.  
