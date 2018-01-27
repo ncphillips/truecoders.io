@@ -52,6 +52,13 @@ education:
   gpa: 
   location: Birmingham, AL
   body: 
+- institution: University of Alabama at Birmingham
+  area: BA in General Studies
+  start_date: 2010-08-01 01:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: Completed 80 credits toward a BA in General Studies
 ---
 
 Detail-oriented and creative professional with the proper training and experience to pursue a full time career in web development.  Proven track record in successful management and capability to handle fast-paced, busy work environments. Skill for analyzing business strategies and objectives and aligning them with information technology and service management concepts to achieve optimal organizational impact with minimal resource allocation. Exceptional communicator, possesses the talent to connect with people of diverse, cultural backgrounds and build quick rapport. Solid team player, can forge strong relationships and partnerships.
