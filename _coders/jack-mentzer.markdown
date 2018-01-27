@@ -56,6 +56,17 @@ work:
     Oversaw work of my subordinates\n- Used Quickbooks pro and Microsoft Excel regularly
     \n- Handled customer inquires face-to-face or on the phone\n- Long hours, manual
     labor"
+education:
+- institution: Liberty University
+  area: 'B.S. Communications: Concentration in Cinematography'
+  start_date: 2009-09-01 01:00:00 -05:00
+  end_date: 2014-05-01 00:00:00 -05:00
+  gpa: 3.4
+  location: Lynchburg, VA
+  body: "Studied business information systems for one year; changed major to film
+    and communications for remaining duration of education.\n\n- Succeeded academically
+    \n- Balanced school and work\n- Took wide range of classes including programming,
+    economics, and cinematography"
 ---
 
 Desire to develop as a career. Love to problem-solve, collaborate, and progress. Formerly in the film industry and looking to return to my first-love, programming. Excellent interpersonal, communication, and relationship-building skills.  Listen attentively, communicate persuasively, and follow through diligently.
