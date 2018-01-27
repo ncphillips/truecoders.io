@@ -7,8 +7,8 @@ class: Beta Code
 profiles:
   mbti: ENFJ
   github: Mvdoyle
-  linkedin: Mvdoyle
-  codewars: Michaelvdoyle
+  linkedin: Michaelvdoyle
+  codewars: Mvdoyle
 work:
 - company: ProAssurance
   job_title: Corporate Architecture and Development
