@@ -31,6 +31,14 @@ work:
     - Scrutinized stock items for wear or defects, reporting any damage to supervisors.
     - Excelled in difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
     - Create daily reports from POS terminals
+education:
+- institution: Cybrary
+  start_date: 2017-04-01 00:00:00 -05:00
+  body: |-
+    Certifications
+
+    - End User Security Awareness
+    - CompTIA Linux+
 ---
 
 Detail-oriented and creative professional with the proper training and experience to pursue a full time career in web development.  Proven track record in successful management and capability to handle fast-paced, busy work environments. Skill for analyzing business strategies and objectives and aligning them with information technology and service management concepts to achieve optimal organizational impact with minimal resource allocation. Exceptional communicator, possesses the talent to connect with people of diverse, cultural backgrounds and build quick rapport. Solid team player, can forge strong relationships and partnerships.
