@@ -52,8 +52,8 @@ work:
     - Stocked textbooks and other products
 - company: UAB Warehouse Services
   job_title: Mover - Shipping/Receiving Clerk
-  start_date: 
-  end_date: 
+  start_date: 2006-01-01 00:00:00 -06:00
+  end_date: 2007-12-01 00:00:00 -06:00
   location: Birmingham, AL
   body: |-
     - Led teams to organize and execute moving and/or delivery jobs
