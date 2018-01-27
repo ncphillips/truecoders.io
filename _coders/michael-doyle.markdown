@@ -13,6 +13,7 @@ work:
 - company: ProAssurance
   job_title: Corporate Architecture and Development
   start_date: 2017-06-01 00:00:00 -05:00
+  end_date: 
   location: Birmingham, AL
   body: "Internship position working in both software development and project management:\n\n-
     Performed a variety of duties related to the day to day operation of a software
@@ -28,6 +29,18 @@ work:
     Studio (and SQL Server 2012), Microsoft Office, Visio, PowerPoint, and Microsoft
     Project. \n- Worked with C#, HTML, CSS, JavaScript, JQuery, and JQuery UI. \n-
     Desktop environment was Microsoft Windows 10."
+- company: Cory Watson Attorneys
+  job_title: Associate
+  start_date: 2013-06-01 00:00:00 -05:00
+  end_date: 2014-06-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Legal Assistant Case Intake Coordinator for the Asbestos division:
+
+    - Designed and implemented a database project used to record and track asbestos related legal cases managed by the law firm.
+    - Used office and particularly Microsoft Excel to generate ad hoc reports and summaries in support of ongoing legal initiatives at the firm.
+    - Constructed management rollup and other ad hoc analytical reports pertaining to the status of claims and related legal activities.
+    - Worked directly with a team of attorneys, legal, and administrative assistants to supply data and IT related support as required.
 ---
 
 Seeking a programming position with a progressive software development group; Ideally I would like to secure a position that will permit me to expand upon what I have learned thus far and to improve my front and backend development skills.
