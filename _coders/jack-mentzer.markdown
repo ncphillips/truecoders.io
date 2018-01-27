@@ -36,6 +36,16 @@ work:
     - Helped educated and train fellow employees
     - Handled labeling and shipping up to 40 packages a day
     - Remained focused in high-stress scenarios
+- company: Red Cloud Productions
+  job_title: Office Manager and Production Assistant
+  start_date: 2014-10-01 00:00:00 -05:00
+  end_date: 2014-12-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: "Office manager and production assistant for the feature film “Woodlawn”.
+    Handled legal paperwork for all “extras” (background actors) on site and well
+    as recruitment of said actors. \n\n- Constant team-work\n- 12-hour days\n- Extremely
+    punctual \n- Consistent communication with actors\n- Managed paperwork crucial
+    for the films legality"
 ---
 
 Desire to develop as a career. Love to problem-solve, collaborate, and progress. Formerly in the film industry and looking to return to my first-love, programming. Excellent interpersonal, communication, and relationship-building skills.  Listen attentively, communicate persuasively, and follow through diligently.
