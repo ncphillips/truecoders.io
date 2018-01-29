@@ -10,14 +10,23 @@ profiles:
   linkedin: skarki011
   codewars: karki011
 work:
+- company: Upwork
+  job_title: Freelance Web Developer
+  start_date: 2016-01-01 00:00:00 -06:00
+  end_date: 
+  location: 
+  body: |-
+    - Maintained and updated HTML/CSS templates on a regular basis and as required.
+    - Conducted layout design and construction for a variety of websites as assigned.
 - company: Muskan Inc.
   job_title: Manager
   start_date: 2010-01-01 00:00:00 -06:00
   end_date: 2017-12-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: "Include a job summary of 1-2 sentences maximum, followed by:\n\n- Provide
-    support for all hardware, software and networking needs for company. \n- Build,
-    Update, and Maintain company website.\n- Customize and preserve email applications
+  body: "Responsible for managing restaurant operations. Hires and trains food service
+    staff, creates menus, business website and orders food and restaurant supplies.\n\n-
+    Provide support for all hardware, software and networking needs for company. \n-
+    Build, Update, and Maintain company website.\n- Customize and preserve email applications
     or virus protection software.\n- Create/file monthly expense report  and preparer
     tax documents.\n- Observed budgets and payroll records and examined financial
     transactions to guarantee authentic expenditures."
@@ -27,6 +36,8 @@ work:
   end_date: 2010-03-01 00:00:00 -06:00
   location: Birmingham, AL
   body: |-
+    Directed all operations for store, including organization, storing, stocking, staffing, staff supervision, budgeting, P&L statements, and maintenance of financial records.
+
     - Organized items in an orderly and accessible manner in warehouses, tool rooms, supply rooms, or other areas. Determined proper storage methods, identification, and stock location based on turnover, environmental factors, and physical capabilities of facilities.
     - Scrutinized stock items for wear or defects, reporting any damage to supervisors.
     - Excelled in difficult staffing duties, including dealing with understaffing, refereeing disputes, firing employees, and administering disciplinary procedures.
