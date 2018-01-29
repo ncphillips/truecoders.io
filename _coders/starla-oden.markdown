@@ -48,6 +48,4 @@ education:
     including sculpture and 3-D Design"
 ---
 
-I fell in love with graphic design in college and considered web development a (some word here) next step and interesting skill to learn. I started teaching myself HTML and CSS through Codecademy after college. I moved to Austin at the end of 2016 and began researching coding schools and college courses to further my education. I don’t know how to end this paragraph.
-
-this has peaked an interest in the development field; eager to continue learning as a developer and designer
+I fell in love with graphic design in college and considered web development a next step and interesting skill to learn. I moved to Austin at the end of 2016 for a new experience and started teaching myself new skills. I am passionate about advancing my knowledge as a developer and designer and would love to be a part of a creative team to contribute to development projects and utilize my graphic design skills.
