@@ -23,9 +23,9 @@ work:
     - Apply custom Ul/UX concepts to generic templates in order to successfully satisfy customer requirements
     - Design branding, packaging and collateral
 - company: BBVA at Innovation Depot
-  job_title: 'Internship: Art Director'
+  job_title: Art Director Internship
   start_date: 2016-05-01 00:00:00 -05:00
-  end_date: 
+  end_date: 2017-06-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
     Took lead art direction on multiple developers on design various banking app designs. Fast-pace short internship that only consisted of 3 sprints.
