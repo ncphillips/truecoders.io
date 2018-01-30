@@ -15,28 +15,29 @@ work:
   start_date: 2012-08-01 00:00:00 -05:00
   end_date: 
   location: Austin, TX
-  body: 
+  body: Working in a fast-paced environment like The Cheesecake Factory has vastly
+    improved my time management and interpersonal skills.
 - company: UAB's Alys Stephens Performing Arts Center
   job_title: Graphic Artist
   start_date: 2015-08-01 00:00:00 -05:00
   end_date: 2016-08-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
-    Worked closely with the marketing director on various print and web projects
+    Worked closely with the marketing director on various print and web projects:
 
     - Vocabby Book Illustrations
     - ArtPlay print and web ads
     - Event flyers and print ads
 - company: UAB Digital Media
-  job_title: Intern
+  job_title: Graphic Design Intern
   start_date: 2014-05-01 00:00:00 -05:00
   end_date: 2014-08-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
-    Learned new skills and contributed to various graphic design projects
+    Learned new skills and contributed to various graphic design projects:
 
     - Created a video animation for the Collat Jewish Family Services organization
-    - Trying to find a way to word "Learned Illustrator and InDesign in Depth"
+    - Advanced knowledge in multiple graphic design programs
 education:
 - institution: University of Alabama at Birmingham
   area: B.S. Art Studio, graphic design concentration; marketing minor
