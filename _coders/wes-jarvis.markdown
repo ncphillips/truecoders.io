@@ -1,5 +1,5 @@
 ---
-title: Wesley Jarvis
+title: Wes Jarvis
 date: 2018-01-25 18:33:00 -06:00
 position: 29
 image: "/uploads/wes-jarvis.jpg"
@@ -7,7 +7,7 @@ class: Beta Code
 profiles:
   mbti: ENFJ
   github: wjarvis90
-  linkedin: wesleybjarvis
+  linkedin: wesbjarvis
   codewars: wjarvis90
 work:
 - company: Airgas USA, LLC
@@ -26,10 +26,12 @@ work:
   start_date: 2010-01-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   location: Atlanta, GA
-  body: "Managed various accounts, as well as, provided marketing consultation to
-    clients. Speak to the technical management experience. \n\n- Sales/Marketing\n-
-    Appointment setting and negotiating contracts\n- Payroll, accounts receivable
-    and payable"
+  body: |-
+    Managed various accounts, as well as, provided marketing consultation to clients. Managed a team maintaining social media accounts, websites, door-to-door marketing, as well as, email marketing accounts:
+
+    - Sales/Marketing
+    - Appointment setting and negotiating contracts
+    - Payroll, accounts receivable and payable
 - company: Bama Budweiser of Shelby County
   job_title: Warehouse Manager
   start_date: 2014-10-01 00:00:00 -05:00
