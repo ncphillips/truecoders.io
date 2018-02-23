@@ -10,14 +10,20 @@ profiles:
   linkedin: danderson0851
   codewars: danderson0851
 work:
+- company: Design Production, LLC
+  job_title: Independent Contractor
+  start_date: 2017-08-01 00:00:00 -05:00
+  end_date: 
+  location: Homewood, AL
+  body: Work with multiple crews to setup and take down event equipment
 - company: HHGregg
   job_title: Sales Associate / Warehouse
   start_date: 2014-11-01 00:00:00 -05:00
   end_date: 2017-04-01 00:00:00 -05:00
   location: Inverness, AL
-  body: |-
-    - Guided and advised customers throughout the buying process as a salesman
-    - Organized and maintained product storage and displays as a warehouse professional
+  body: "- Guided and advised customers throughout the buying process \n- Organized
+    and maintained product storage and displays as a warehouse professional\n- Utilized
+    company software platforms to track, maintain, and edit customer orders"
 - company: Direct Billing Services
   job_title: Payment Poster
   start_date: 2014-02-01 00:00:00 -06:00
@@ -26,6 +32,8 @@ work:
   body: |-
     - Maintained multiple clients' insurance payments and patient copays
     - Submitted electronic and paper claims daily for various clients
+    - Setup new computer work stations
+    - Assisted any IT related issues on-demand around the office
 - company: The Valletta Group
   job_title: Payment Poster
   start_date: 2012-01-01 00:00:00 -06:00
