@@ -83,7 +83,16 @@ education:
   area: 'Bachelor of Arts in Foreign Language: Spanish'
   start_date: 2004-08-01 01:00:00 -05:00
   end_date: 2010-05-01 01:00:00 -05:00
+  gpa: 
   location: Birmingham, AL
+  body: 
+- institution: Collins Hill High School
+  area: Gifted Math Program
+  start_date: 2000-08-01 01:00:00 -05:00
+  end_date: 2004-05-01 01:00:00 -05:00
+  gpa: 
+  location: Suwanee, GA
+  body: 
 ---
 
 I am currently seeking a position at a thriving company that will allow me to advance my career, grow personally, and utilize my abilities to their best potential. From a young age I was fascinated with computers and programming languages, as well as language learning in general. I began teaching myself HTML from books when I was around 10 years old, and have been expanding my knowledge ever since through whatever methods available to me.  Between studying material on the web, taking classes, and dabbling in various programming languages, I love learning. I have now assembled the knowledge and skills necessary to start benefiting existing projects, or the creation of new ones, and I feel that in doing so I will continue to learn and build on my experience.
