@@ -7,7 +7,7 @@ class: Beta Code
 profiles:
   mbti: ENFP
   github: danderson0851
-  linkedin: daniel-anderson
+  linkedin: danderson0851
   codewars: danderson0851
 work:
 - company: HHGregg
