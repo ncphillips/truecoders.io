@@ -66,6 +66,12 @@ work:
   body: |-
     - Received and sorted shipment to designated department areas for storage and processing
     - Organized and maintained products on shelves and in outdoor containers using various warehouse equipment (pallet jacks, forklifts, scissor lifts, etc.)
+- company: Design Production, LLC
+  job_title: Independent Contractor
+  start_date: 2017-08-01 00:00:00 -05:00
+  end_date: 
+  location: 
+  body: Work with multiple crews to setup and take down event equipment
 education:
 - institution: University of Alabama
   area: 'Bachelor of Arts in Foreign Language: Spanish'
