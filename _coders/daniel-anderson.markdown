@@ -36,8 +36,8 @@ work:
     - Assisted any IT related issues on-demand around the office
 - company: The Valletta Group
   job_title: Payment Poster
-  start_date: 2012-01-01 00:00:00 -06:00
-  end_date: 2014-12-01 00:00:00 -06:00
+  start_date: 2012-06-01 00:00:00 -05:00
+  end_date: 2014-02-01 00:00:00 -06:00
   location: Birmingham, AL
   body: |2-
 
