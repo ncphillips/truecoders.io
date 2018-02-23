@@ -39,8 +39,7 @@ work:
   start_date: 2012-06-01 00:00:00 -05:00
   end_date: 2014-02-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: |2-
-
+  body: |-
     - Posted payments to patient accounts in several doctors’ databases across multiple medical billing software platforms
     - Reconciled batch totals to balance with providers’ bank accounts
     - Submitted electronic and paper claims daily for various clients
