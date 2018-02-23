@@ -87,7 +87,7 @@ education:
   location: Birmingham, AL
 ---
 
-I am currently seeking a position at a thriving company that will allow me to advance my career, grow personally, and utilize my abilities to their best potential. From a young age I was fascinated with computers and programming languages, as well as language learning in general. I began teaching myself HTML from books when I was around 10 years old, and have been expanding my knowledge ever since through whatever methods available to me. Between studying material on the web, taking classes, and dabbling in various programming languages, I love learning. I have now assembled the knowledge and skills necessary to start benefiting existing projects, or the creation of new ones, and I feel that in doing so I will continue to learn and build on my experience.
+I am currently seeking a position at a thriving company that will allow me to advance my career, grow personally, and utilize my abilities to their best potential. From a young age I was fascinated with computers and programming languages, as well as language learning in general. I began teaching myself HTML from books when I was around 10 years old, and have been expanding my knowledge ever since through whatever methods available to me. Between studying material on the web, taking classes, and dabbling in various programming languages, I love learning. I have now assembled the knowledge and skills necessary to start benefiting existing projects, or the creation of new ones, and I feel that in doing so I will continue to learn and build on my experience:
 
 - Programming/Web Development experience
 - Bilingual (English and Spanish)
