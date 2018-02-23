@@ -32,15 +32,22 @@ work:
   body: |-
     - Maintained multiple clients' insurance payments and patient copays
     - Submitted electronic and paper claims daily for various clients
+    - Setup new computer work stations
+    - Assisted any IT related issues on-demand around the office
 - company: The Valletta Group
   job_title: Payment Poster
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2014-12-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: |-
+  body: |2-
+
     - Posted payments to patient accounts in several doctors’ databases across multiple medical billing software platforms
     - Reconciled batch totals to balance with providers’ bank accounts
     - Submitted electronic and paper claims daily for various clients
+    - Setup new computer workstations / Established user profiles for new employees
+    - Worked daily in troubleshooting technical issues around the office
+    - Installed relevant software updates across multiple workstations
+    - Maintained server backup
 - company: Outback Steakhouse
   job_title: Server
   start_date: 2010-01-01 00:00:00 -06:00
