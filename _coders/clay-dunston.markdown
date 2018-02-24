@@ -67,10 +67,4 @@ education:
   body: 
 ---
 
-  - Who I am as a person, how I’ve gotten to where I am.
-  - Highlight my attributes.
-  - Had a problem I couldn’t solve, and I decided to learn how to fix it.
-  - I want to take what I’ve learned and apply those skills and that knowledge
-- I enjoy working with syntax highlighting for very many reasons: 
-  - Analyze the syntax, structure, and makeup of various languages.
-  - Text/Code/Language parsing; finding common patterns & idioms across different programming languages.
+I’ve got experience with a wide variety of softwares, programming languages, and operating systems.
