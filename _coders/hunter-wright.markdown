@@ -59,7 +59,7 @@ education:
   location: Auburn, AL
 ---
 
-First interest in programing 150-250w - After having spent several years in the sales and marketing world I realized it is not how I wanted to spend the rest of my professional career. All through school, software development was always on my short list to study. Now that C# programming is my primary focus I couldn’t be more excited to absorb as much information as I can and use it to create in demand software. -what I am hoping to find/give in a job-
+First interest in programing 150-250w - After having spent several years in the sales and marketing world I realized it is not how I wanted to spend the rest of my professional career. All through school, software development was always on my short list to study. Now that C# programming is my primary focus I couldn't be more excited to absorb as much information as I can and use it to create in demand software. -what I am hoping to find/give in a job-
 
 - C# Software development
 - Git and GitHub distributed

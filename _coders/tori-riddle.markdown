@@ -64,7 +64,7 @@ education:
   body: |-
     Member of BLOOM Studio, a student design collaboration that designs for the good.
 
-    - American Advertising Federation | Awarded 1 Gold & 3 Silver Addy’s
+    - American Advertising Federation | Awarded 1 Gold & 3 Silver Addy's
     - Awarded Judges Award in 40th Annual Student Juried Exhibition
     - Cum Laude
 - institution: Dora High School

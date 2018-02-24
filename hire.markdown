@@ -19,7 +19,7 @@ redirect_from:
 
 # Hiring TrueCoders
 
-Here’s just a few benefits of hiring TrueCoders:
+Here's just a few benefits of hiring TrueCoders:
 
 * US-based
 * Highly trained with hands-on experience

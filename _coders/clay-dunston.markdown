@@ -67,4 +67,4 @@ education:
   body: 
 ---
 
-I’ve got experience with a wide variety of softwares, programming languages, and operating systems.
+I've got experience with a wide variety of softwares, programming languages, and operating systems.

@@ -41,8 +41,8 @@ work:
   location: Birmingham, AL
   body: |2-
 
-    - Posted payments to patient accounts in several doctors’ databases across multiple medical billing software platforms
-    - Reconciled batch totals to balance with providers’ bank accounts
+    - Posted payments to patient accounts in several doctors' databases across multiple medical billing software platforms
+    - Reconciled batch totals to balance with providers' bank accounts
     - Submitted electronic and paper claims daily for various clients
     - Setup new computer workstations / Established user profiles for new employees
     - Worked daily in troubleshooting technical issues around the office

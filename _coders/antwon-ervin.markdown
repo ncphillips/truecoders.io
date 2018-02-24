@@ -37,7 +37,7 @@ work:
   body: |-
     Production management and business development:
 
-    - Managed crew’s workflow schedule
+    - Managed crew's workflow schedule
     - Provided customer service
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
@@ -47,7 +47,7 @@ work:
     Worked with customers:
 
     - Packed auto glass and related products
-    - Delivered to customer’s premises
+    - Delivered to customer's premises
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
   job_title: Digital Sales Manager

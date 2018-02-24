@@ -19,7 +19,7 @@ work:
   body: |-
     I have served as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team. During the last three years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl and Science Olympiad.
 
-    I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years. I have primarily been my school’s gifted specialist, teaching various courses and leading a number of activities:
+    I have used the Hour of Code curriculum to develop coding lessons for my gifted students each year for the past 4 years. I have primarily been my school's gifted specialist, teaching various courses and leading a number of activities:
 
     - Enrichment & Technology, 6th-8th grades
     - Problem Solving Rotation, 6th grade
@@ -32,7 +32,7 @@ work:
   start_date: 1992-08-01 01:00:00 -05:00
   end_date: 2003-05-01 01:00:00 -05:00
   body: |-
-    I served as an English department chair, sponsored National Jr. Honor Society, coached Scholars Bowl, and coached our high school’s soccer team.
+    I served as an English department chair, sponsored National Jr. Honor Society, coached Scholars Bowl, and coached our high school's soccer team.
 
     - English/Language Arts, 8th-9th grades
     - American History, 9th grade

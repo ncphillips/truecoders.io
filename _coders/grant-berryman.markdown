@@ -52,7 +52,7 @@ work:
     - Apple small device certified
     - Repaired and rebuilt customer relationships, while managing time effectively
     - Taught personal training sessions on Apple hardware and software
-    - Visual Team Member - ensured that both store and products were displayed according to Apple’s standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
+    - Visual Team Member - ensured that both store and products were displayed according to Apple's standards, worked after hours to change displays, updated storefront windows, image products with updated software, setup for product launches and restock
 - company: Apple Retail
   job_title: Specialist
   start_date: 2010-03-01 00:00:00 -06:00
@@ -83,7 +83,7 @@ education:
   body: |-
     Majored Production and Technology with a Minor in Music Industry:
 
-    - Major GPA: 3.857 - Dean’s List - Audio Engineering Society Member
+    - Major GPA: 3.857 - Dean's List - Audio Engineering Society Member
     - Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance

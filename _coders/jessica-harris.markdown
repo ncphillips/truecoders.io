@@ -18,7 +18,7 @@ work:
   body: |-
     Handled all the requirements of a delivery driver:
 
-    - Took customer’s food and beverage orders
+    - Took customer's food and beverage orders
     - Delivered food and beverages to customers at address provided
     - Sliced pizzas, desserts, and bread, cheese, or cinnamon sticks
     - Cooked and sauced chicken wings and fries
