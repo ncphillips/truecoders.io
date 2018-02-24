@@ -218,6 +218,7 @@ description: |-
 company:
   email: contact@truecoders.io
   full_name: TrueCoders LLC
+  display_phone: "(205) 530-8496"
   phone: 12055308496
   location:
     address: '205 20th Street N #1015'
