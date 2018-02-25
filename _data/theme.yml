@@ -1,8 +1,16 @@
 color: "#0093c9"
 css: "/assets/css/main.css"
 logo: "uploads/logo-only.svg"
-mailchimp:
+course_details: |-
+  Our next !PAGE_TITLE! class starts on !NEXT_CLASS_START! and will cost !NEXT_CLASS_PRICE!.
+  However, we do offer course financing that you can take advantage of. More details coming soon.
+email_signup:
   action: "//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af"
+  body: "## Keep Me Updated
+
+    Want to stay updated on what's happening with !SITE_TITLE!?
+
+    You can subscribe to our mailing list. We promise we won't spam you."
 scripts:
 - "/assets/js/main.js"
 socials:

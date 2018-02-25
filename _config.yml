@@ -256,6 +256,6 @@ plugins:
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
-remote_theme: truecodersio/code-bootcamp-theme@v0.9.10
+remote_theme: truecodersio/code-bootcamp-theme@v0.9.11
 safe: true
 strict_front_matter: true

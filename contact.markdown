@@ -14,3 +14,19 @@ hero:
 # We Are TrueCoders
 
 Thanks for stopping by! Here's our contact info:
+
+#### Email
+
+For general inquiries, email us: [{{ site.company.email }}](mailto:{{ site.company.email }})
+
+#### Phone
+
+{% assign phone = site.company.phone | split: '' %}
+Also, you can give us a call: [{{ site.company.display_phone }}](tel:{{ site.company.phone }})
+
+#### Office
+
+You can find our office:
+
+{{ site.company.location.address }}<br/>
+{{ site.company.location.city }}, {{ site.company.location.region }} {{ site.company.location.postal_code }}
