@@ -31,6 +31,15 @@ work:
     - Managed crew's workflow schedule
     - Provided customer service
     - Budget management and tracking per project
+- company: Chronicle Studio
+  job_title: Service Consultant
+  start_date: 2014-04-01 00:00:00 -05:00
+  end_date: 2015-04-01 00:00:00 -05:00
+  body: |-
+    Outside sales and tech support:
+
+    - Served as first contact for clients
+    - Served as lead support for the project Automotive Leadership Technology
 - company: Discover Birmingham
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
@@ -41,15 +50,6 @@ work:
 
     - Managing written & video content as well as social media channels
     - Leading a team of writers and videographers
-- company: Chronicle Studio
-  job_title: Service Consultant
-  start_date: 2014-04-01 00:00:00 -05:00
-  end_date: 2015-04-01 00:00:00 -05:00
-  body: |-
-    Outside sales and tech support:
-
-    - Served as first contact for clients
-    - Served as lead support for the project Automotive Leadership Technology
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
