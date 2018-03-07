@@ -11,6 +11,26 @@ profiles:
   codewars: aervin
   vimeo_resume: 245987515
 work:
+- company: New Life Church
+  job_title: Project Consultant
+  start_date: 2017-07-01 00:00:00 -05:00
+  end_date: 
+  body: |-
+    Production management:
+
+    - Managed crew's workflow schedule
+    - Manage relationships with vendors and service providers
+    - Budget management and tracking per project
+- company: Five Star Painting
+  job_title: Project Consultant
+  start_date: 2013-09-01 00:00:00 -05:00
+  end_date: 2017-07-01 00:00:00 -05:00
+  body: |-
+    Production management and business development:
+
+    - Managed crew's workflow schedule
+    - Provided customer service
+    - Budget management and tracking per project
 - company: Discover Birmingham
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
@@ -30,15 +50,6 @@ work:
 
     - Served as first contact for clients
     - Served as lead support for the project Automotive Leadership Technology
-- company: Five Star Painting
-  job_title: Project Consultant
-  start_date: 2013-09-01 00:00:00 -05:00
-  end_date: 2017-07-01 00:00:00 -05:00
-  body: |-
-    Production management and business development:
-
-    - Managed crew's workflow schedule
-    - Provided customer service
 - company: Pittsburgh Glass Works, LLC
   job_title: Account Representative
   start_date: 2012-12-01 00:00:00 -06:00
