@@ -116,4 +116,4 @@ references:
     the end user and the business requirements.
 ---
 
-I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C#, .NET, JavaScript, CSS, and HTML. I’m a strong team player and enjoy collaboration.
+I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C# and .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.
