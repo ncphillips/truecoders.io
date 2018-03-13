@@ -9,6 +9,7 @@ profiles:
   github: toriariddle
   linkedin: tori-riddle-829915107
   codewars: toririddle
+  vimeo_resume: 259365084
 work:
 - company: Out There Creative
   job_title: Art Director
