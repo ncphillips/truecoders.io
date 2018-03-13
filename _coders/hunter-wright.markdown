@@ -9,6 +9,7 @@ profiles:
   github: HunterAW
   linkedin: hunterawright
   codewars: HunterAW
+  vimeo_resume: 259379563
 work:
 - company: Post Properties / MAA - Charlotte
   job_title: Leasing Consultant
