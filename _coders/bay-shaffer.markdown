@@ -9,6 +9,7 @@ profiles:
   github: bayshaffer
   linkedin: bayshaffer
   codewars: bayshaffer
+  vimeo_resume: 259379787
 work:
 - company: Topgolf
   job_title: Associate
