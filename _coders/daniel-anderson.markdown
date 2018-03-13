@@ -9,6 +9,7 @@ profiles:
   github: danderson0851
   linkedin: danderson0851
   codewars: danderson0851
+  vimeo_resume: 259380057
 work:
 - company: Design Production, LLC
   job_title: Independent Contractor
