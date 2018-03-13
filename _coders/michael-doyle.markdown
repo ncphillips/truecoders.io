@@ -9,6 +9,7 @@ profiles:
   github: Mvdoyle
   linkedin: Michaelvdoyle
   codewars: Mvdoyle
+  vimeo_resume: 259379385
 work:
 - company: ProAssurance
   job_title: Corporate Architecture and Development
