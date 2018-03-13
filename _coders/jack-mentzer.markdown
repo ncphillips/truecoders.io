@@ -9,6 +9,7 @@ profiles:
   github: JohnCaaandy
   linkedin: jackmentzer
   codewars: JackMentzer
+  vimeo_resume: 259364218
 work:
 - company: Bad Panda Inc.
   job_title: Film Editor
