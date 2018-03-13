@@ -9,6 +9,7 @@ profiles:
   github: starlaoh
   linkedin: starlaoh
   codewars: starlaoden
+  vimeo_resume: 259379181
 work:
 - company: The Cheesecake Factory
   job_title: Server
