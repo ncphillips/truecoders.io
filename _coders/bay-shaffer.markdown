@@ -3,7 +3,7 @@ title: Bay Shaffer
 date: 2018-01-25 17:45:00 -06:00
 position: 3
 image: "/uploads/bay-shaffer.jpg"
-class: Beta Code
+class: Mark 2
 profiles:
   mbti: ENTJ
   github: bayshaffer

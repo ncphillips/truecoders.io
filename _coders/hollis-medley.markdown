@@ -3,7 +3,7 @@ title: Hollis Medley
 date: 2017-11-14 02:02:00 -06:00
 position: 13
 image: "/uploads/hollis-medley.jpg"
-class: Alpha C#
+class: Mark 1
 profiles:
   mbti: ESTJ
   github: hmedley

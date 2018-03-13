@@ -3,7 +3,7 @@ title: Antwon Ervin
 date: 2017-11-14 01:53:00 -06:00
 position: 1
 image: "/uploads/antwon-ervin.jpg"
-class: Alpha C#
+class: Mark 1
 profiles:
   mbti: ENFP
   github: antwonervin

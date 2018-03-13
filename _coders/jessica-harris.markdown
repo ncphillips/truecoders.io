@@ -3,7 +3,7 @@ title: Jessica Reid-Harris
 date: 2017-11-14 02:03:00 -06:00
 position: 16
 image: "/uploads/jessica-harris.jpg"
-class: Alpha C#
+class: Mark 1
 profiles:
   mbti: ESTJ
   github: jrharris620

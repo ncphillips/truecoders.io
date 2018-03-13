@@ -5,7 +5,7 @@ tags:
 - example
 position: 0
 image: "/uploads/john-doe.jpg"
-class: Alpha C#
+class: Mark 1
 profiles:
   mbti: ESTJ
   github: truecodersio
