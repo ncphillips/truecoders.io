@@ -9,6 +9,7 @@ profiles:
   github: dunstontc
   linkedin: clay-dunston
   codewars: dunstontc
+  vimeo_resume: 259365630
 work:
 - company: Andy's Creekside Nursery
   job_title: Sales
