@@ -14,8 +14,8 @@ hero:
 sections:
 - Courses Collection
 - Courses Process
+- Employers Collection
 - Team Collection
 redirect_from:
 - "/home/"
 ---
-
