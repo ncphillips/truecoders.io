@@ -1,0 +1,35 @@
+{%- comment -%}
+<!--
+include:
+  logo: "path/to/logo.png"
+-->
+{%- endcomment -%}
+
+<header>
+  <nav class="navbar navbar-expand-md sticky-top navbar-light">
+    <a class="navbar-brand" href="/">
+      <img src={{ include.logo | relative_url }} alt="Logo" height="80">
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        {%- assign pages = site.pages | where_exp:"page", "page.menus.is_nav == true" | sort: 'position' -%}
+
+        {% for page in pages %}
+        {% unless forloop.last == true %}
+        <li class="nav-item" style="margin: 0 8px;">
+          <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
+        </li>
+        {%- else -%}
+        <li class="nav-item nav-call-to-action" style="margin: 0 16px 0 8px;">
+          <a class="nav-link active" style="color: white;" href={{ page.url | escape }}>{{ page.title }}</a>
+        </li>
+        {%- endunless -%}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>

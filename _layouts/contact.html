@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<hr>
+
+{{ site.data.theme.email_signup.body | replace: '!SITE_TITLE!', site.title | markdownify }}
+
+<br>
+{% include forms/email-signup.html form_action=site.data.theme.email_signup.action submit_title="Submit" %}
