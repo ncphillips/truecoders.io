@@ -1,0 +1,56 @@
+---
+layout: page
+---
+
+{%- capture nowunix -%} {{ 'now' | date: '%s' }} {%- endcapture -%}
+{%- assign course_classes = site.classes | where: "course", page.title | sort: 'start_date' -%}
+
+{%- for class in course_classes -%}
+    {%- capture class_time -%} {{ class.start_date | date: '%s' }} {%- endcapture -%}
+
+    {%- if class_time > nowunix -%}
+        {%- assign next_class = class -%}
+        {%- break -%}
+    {%- endif -%}
+{%- endfor -%}
+
+<h1>{{ page.title }}</h1>
+
+{{- course_info | markdownify -}}
+
+{{ content }}
+
+{%- if next_class -%}
+<h2>Details</h2>
+
+{% assign next_class_start = next_class.start_date | date: "%B %e" -%}
+{%- assign course_details = site.data.theme.course_details | replace: '!PAGE_TITLE!', page.title -%}
+{%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
+{%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', next_class.price -%}
+
+{{ course_details | markdownify }}
+
+{% endif -%}
+
+<h2>Subjects</h2>
+
+<p>Here's a list of the subjects covered in this course:</p>
+
+{%- for subject_title in page.subjects -%}
+{% assign subject = site.subjects | where: "title", subject_title | first %}
+<h4>{{ subject.title }}</h4>
+{{ subject.content | markdownify }}
+{%- endfor -%}
+
+{% if next_class.call_to_action.url %}
+{% include call-to-action-rows.html call_to_action=next_class.call_to_action %}
+{% endif %}
+
+{% if next_class.start_date %}
+
+{% capture counter_js %}
+{% include counters/course-start-date-counter.js start_date=next_class.start_date %}
+{% endcapture %}
+
+<script>{{ counter_js }}</script>
+{% endif %}

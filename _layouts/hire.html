@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% include header.html logo=site.data.theme.logo %}
+{% include hero.html color=site.data.theme.color %}
+
+<div class="container">
+
+  <div id="hire-form" class="row">
+    <div class="col-lg-6">
+      {{content}}
+    </div>
+    
+    <div class="col-lg-6">
+      <h2>Contact Us</h2>
+      <p>Give us a call:
+        <a href="tel:{{ site.company.phone }}">{{ site.company.display_phone }}</a>
+      </p>
+      <p>Or send us a message:</p>
+      {% include forms/sales-form.html to_email=site.company.email submit_title="Submit" %}
+    </div>
+  </div>
+</div>
+
+{% for title in page.sections %}
+
+{% assign section = site.sections | where: "title", title | first %}
+{% capture background_color %}{% cycle '#fafafa', '#fff' %}{% endcapture %}
+{% include section.html background_color=background_color section=section color=site.data.theme.color %}
+
+{% endfor %}
+
+{% include footer.html color=site.data.theme.color socials=site.data.theme.socials copyright_name=site.company.full_name %}

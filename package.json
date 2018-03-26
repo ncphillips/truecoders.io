@@ -1,0 +1,37 @@
+{
+  "name": "truecoders.io",
+  "version": "1.0.0",
+  "description": "TrueCoders Marketing Website",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truecodersio/truecoders.io.git"
+  },
+  "authors": [
+    "Cody Winton <cody.t.winton@gmail.com>"
+  ],
+  "scripts": {
+    "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js.map\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
+    "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
+    "copyMagnificPopup": "cpx \"node_modules/magnific-popup/dist/jquery.magnific-popup.min.js\" assets/js/magnific-popup && cpx \"node_modules/magnific-popup/dist/magnific-popup.css\" assets/css/magnific-popup",
+    "copyPopperJS": "cpx \"node_modules/popper.js/dist/umd/popper.min.js\" assets/js/popper && cpx \"node_modules/popper.js/dist/umd/popper.min.js.map\" assets/js/popper",
+    "copyTetherJS": "cpx \"node_modules/tether/dist/js/tether.min.js\" assets/js/tether",
+    "copyChartJS": "cpx \"node_modules/chart.js/dist/Chart.min.js\" assets/js/chart",
+    "copyAll": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS && npm run copyTetherJS && npm run copyMagnificPopup && npm run copyChartJS",
+    "build": "npm run copyAll && bundle exec jekyll build",
+    "serve": "npm run copyAll && bundle exec jekyll serve"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "chart.js": "^2.7.2",
+    "fontawesome": "^4.7.2",
+    "jquery": "^3.3.1",
+    "magnific-popup": "^1.1.0",
+    "popper.js": "^1.13.0",
+    "tether": "^1.4.3"
+  },
+  "devDependencies": {
+    "cpx": "^1.5.0",
+    "markdownlint": "^0.6.4"
+  }
+}

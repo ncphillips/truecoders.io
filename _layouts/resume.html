@@ -1,0 +1,267 @@
+---
+layout: default
+---
+
+{%- if page.class -%}
+{%- assign class = site.classes | where: "title", page.class | first -%}
+{%- endif -%}
+
+<div class="container resume-container" style="padding-top:32px; padding-bottom:32px;">
+
+  <!-- Image, Title, Content Row -->
+  <div class="row">
+    <div class="col" style="text-align:center;">
+      {% if page.image %}
+      <img src={{ page.image }} alt="{{ page.title }}" style="max-width:144px; border-radius:50%">
+      {% endif %}
+      <h3>{{ page.title }}</h3>
+      
+      {% if page.class %}
+      <img src="{{ site.data.theme.logo | relative_url }}" alt="Logo" style="width:64px;">
+      <strong>{{ page.class }} Graduate</strong>
+      {%- elsif page.subtitle -%}
+      <strong>{{ page.subtitle }}</strong>
+      {% endif %}
+
+    </div>
+  </div>
+
+  <!-- Profiles Row -->
+  {% if page.profiles.vimeo_resume %}
+  <p class="no-print" style="text-align:center;">
+    <a href="{{ "https://player.vimeo.com/video/" | append: page.profiles.vimeo_resume }}" class="video-player" role="button" aria-pressed="true" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+      <i class="fa fa-play-circle fa-lg"></i> Watch Intro
+    </a>
+  </p>
+  {%- endif -%}
+
+  {% if page.profiles %}
+  <div class="row" style="text-align:center;">
+    <div class="col">
+      <ul class="list-inline">
+        {% if page.profiles.mbti %}
+        <li class="list-inline-item">
+          <a href="{{ "https://www.16personalities.com/" | append: page.profiles.mbti | append: "-personality" | downcase }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-lightbulb-o fa-lg"></i> {{ page.profiles.mbti }}
+          </a>
+        </li>
+        {%- endif -%}
+        
+        {% if page.profiles.github %}
+        <li class="list-inline-item">
+          <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-github fa-lg"></i> {{ page.profiles.github }}
+          </a>
+        </li>
+        {%- endif -%}
+
+        {% if page.profiles.linkedin %}
+        <li class="list-inline-item">
+          <a href="{{ "https://www.linkedin.com/in/" | append: page.profiles.linkedin }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-linkedin-square fa-lg"></i> {{ page.profiles.linkedin }}
+          </a>
+        </li>
+        {%- endif -%}
+
+        {% if page.profiles.codewars %}
+        <li class="list-inline-item">
+          <a href="{{ "https://www.codewars.com/users/" | append: page.profiles.codewars }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <img src="{{ "assets/images/codewars.svg" | relative_url }}" alt="Codewars" style="width:20px;"> {{ page.profiles.codewars }}
+          </a>
+        </li>
+        {% endif %}
+
+        {% comment -%}
+        <!-- Download Button
+        <li class="list-inline-item">
+          <a class="no-print" href="{{ "/coders/" | append: page.slug }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
+            <i class="fa fa-download fa-lg"></i> Download
+          </a>
+        </li>
+        -->
+        {%- endcomment %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {{ content }}
+  
+  <br/>
+
+  <!-- Work Row -->
+  <h4>Work</h4>
+
+  {%- assign works = page.work | sort: 'end_date', 'last' | sort: 'start_date', 'last' | reverse -%}
+  {%- assign company = "" -%}
+
+  {%- for work in works -%}
+  
+  {%- unless work.company and work.job_title -%} {% continue %} {%- endunless -%}
+  
+  {%- if work.end_date >= site.time or work.company == site.title -%}
+  {%- assign end_date = "Present" | upcase -%}
+  {%- else -%}
+  {%- assign end_date = work.end_date | date: "%b %Y" | default: "Present" | upcase -%}
+  {% endif %}
+
+  <div class="row">
+    <div class="col-md-4">
+      <p>
+        {%- if company != work.company -%}
+        <strong>{{ work.company }}</strong> <br/>
+        {% endif %}
+        {{ work.job_title }} <br/>
+        {{ work.start_date | date: "%b %Y" | upcase }} - {{ end_date }}
+      </p>
+    </div>
+
+    <div class="col-md-8">
+      {{ work.body | default: work.content | markdownify }}
+    </div>
+  </div>
+
+  <br/>
+
+  {%- assign company = work.company -%}
+  {% endfor %}
+
+  <!-- Education Row -->
+  <h4>Education</h4>
+
+  {%- assign educations = page.education -%}
+  {%- if class -%}
+  {%- assign educations = educations | push: class -%}
+  {%- endif -%}
+
+  {%- assign educations = educations | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
+
+  {%- for education in educations -%}
+  
+  {%- unless education.institution -%} {% continue %} {%- endunless -%}
+  
+  {%- if education.end_date < site.time -%}
+  {%- assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase -%}
+  {%- else -%}
+  {%- assign end_date = "Present" -%}
+  {% endif %}
+
+  <div class="row">
+    <div class="col-md-4">
+      <p>
+        <strong>{{ education.institution }}</strong><br/>
+        {% if education.location %} {{ education.location }}<br/>
+        {%- endif -%}
+
+        {% if education.area or education.course %}
+        {{ education.area | default: education.course }}<br/>
+        {%- endif -%}
+
+        {% if education.gpa %}
+        GPA: {{ education.gpa | times: 1.0 }}<br/>
+        {%- endif -%}
+
+        {% if education.start_date %}
+        {{ education.start_date | date: "%b %Y" | upcase }} - 
+        {%- endif -%}
+        {{ end_date }}<br/>
+      </p>
+    </div>
+
+    <div class="col-md-8">
+      {{ education.body | default: education.content | markdownify }}
+    </div>
+  </div>
+
+  <br/>
+  {% endfor %}
+
+  <!-- Skills Row -->
+  <h4>Skills</h4>
+
+  {% if page.skills[0].name %}
+  <div class="row">
+    {%- for skill in page.skills -%}
+    {% unless skill.name %} {% continue %} {% endunless %}
+    <div class="col-6 col-md-3 col-lg-2">
+      <p>{{ skill.name }}</p>
+    </div>
+
+    <div class="col-6 col-md-3 col-lg-2">
+      {% if skill.level -%}
+      <p>
+        {% assign level = skill.level | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
+        
+        {%- for i in (1..5) -%}
+        {%- assign i_half = i | minus: 0.5 -%}
+        
+        {%- if level >= i -%}
+        <i class="fa fa-circle"></i>
+        {%- elsif level >= i_half -%}
+        <i class="fa fa-adjust fa-flip-horizontal"></i>
+        {%- else -%}
+        <i class="fa fa-circle-o"></i>
+        {%- endif -%}
+        {% endfor %}
+      </p>
+      {%- endif %}
+    </div>
+    {% endfor %}
+  </div>
+  
+  <br/>
+  {% endif %}
+
+  <!-- References Row -->
+  <h4>References</h4>
+  
+  {%- if page.references[0].reference -%}
+  {%- assign references = page.references | sort: 'name' | reverse -%}
+  {%- for reference in references limit: 1 %}
+
+  <p>
+    {%- assign teammate = site.team | where: "title", reference.name | first -%}
+
+    {%- if teammate -%}
+      {%- assign job_title = teammate.subtitle -%}
+      {%- assign company = site.company.full_name -%}
+    {%- endif -%}
+
+    {{'“' | append: reference.reference | append: '”'}}<br/>
+    <strong>- {{ reference.name }}</strong> | {% if job_title and company %}{{ job_title }} at {{ company }}{% endif %}
+  </p>
+
+  {%- endfor -%}
+  {%- endif %}
+
+  <p>Further references and contact info for {{ page.title }} are available upon request.</p>
+
+  {%- comment -%}
+  <!-- Charts Row -->
+  <!-- Uncomment for Bar Charts
+  <br/>
+  <div class="row justify-content-between">
+
+    {% if page.skills[1].level > 1 %}
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Skill Sets</h4>
+      <canvas id="skills-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
+    </div>
+    {% endif %}
+
+    {% if page.codewars_scores[1] > 0 %}
+    <div class="col-xl-5" style="text-align:center;">
+      <h4>Codewars Score</h4>
+      <canvas id="codewars-chart" width="32" height="22" style="max-width: 480px; margin: 0 auto;"></canvas>
+    </div>
+    {% endif %}
+
+  </div>
+  -->
+  {%- endcomment %}
+</div>
+
+{%- comment -%}
+<!-- Javascript Chart Source -->
+<!--<script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>-->
+{%- endcomment -%}
