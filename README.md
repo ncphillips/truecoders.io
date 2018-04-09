@@ -1,7 +1,5 @@
 # TrueCoders Marketing Website
 
-[GitHub Pages](https://truecodersio.github.io/truecoders.io/)
-
 ![Website type](https://img.shields.io/badge/type-Jekyll%20%7C%20GitHub%20Pages-yellow.svg)
 [![CMS type](https://img.shields.io/badge/cms-Siteleaf-green.svg)](https://manage.siteleaf.com/)
 [![license](https://img.shields.io/github/license/truecodersio/truecoders.io.svg)](/LICENSE)
