@@ -221,11 +221,11 @@ company:
   display_phone: "(205) 530-8496"
   phone: 12055308496
   location:
-    address: '205 20th Street N #1015'
-    city: Birmingham
-    postal_code: 35203
-    country_code: US
+    address: '2131 Data Office Dr #235'
+    city: Hoover
     region: AL
+    postal_code: 35244
+    country_code: US
 analytics:
   google_tracking_id: UA-104643272-1
 author:
