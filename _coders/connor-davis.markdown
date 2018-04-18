@@ -1,7 +1,7 @@
 ---
 title: Connor Davis
 date: 2017-11-14 02:01:00 -06:00
-position: 10
+position: 9
 image: "/uploads/connor-davis.jpg"
 class: Mark 1
 profiles:
