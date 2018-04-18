@@ -1,7 +1,7 @@
 ---
 title: Grant Berryman
 date: 2017-11-14 02:02:00 -06:00
-position: 15
+position: 14
 image: "/uploads/grant-berryman.jpg"
 class: Mark 1
 profiles:
