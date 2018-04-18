@@ -1,7 +1,7 @@
 ---
 title: Joseph Cyriac
 date: 2017-11-14 02:03:00 -06:00
-position: 22
+position: 23
 image: "/uploads/joseph-cyriac.jpg"
 class: Mark 1
 profiles:

@@ -1,7 +1,7 @@
 ---
 title: Clay Dunston
 date: 2018-01-25 18:26:00 -06:00
-position: 8
+position: 9
 image: "/uploads/clay-dunston.jpg"
 class: Mark 2
 profiles:

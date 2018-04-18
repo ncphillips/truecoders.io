@@ -1,7 +1,7 @@
 ---
 title: Michael Doyle
 date: 2018-01-25 18:31:00 -06:00
-position: 27
+position: 28
 image: "/uploads/michael-doyle.jpg"
 class: Mark 2
 profiles:

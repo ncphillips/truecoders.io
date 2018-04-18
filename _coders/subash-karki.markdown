@@ -1,7 +1,7 @@
 ---
 title: Subash Karki
 date: 2018-01-25 18:32:00 -06:00
-position: 31
+position: 33
 image: "/uploads/subash-karki.jpg"
 class: Mark 2
 profiles:
