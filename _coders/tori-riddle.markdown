@@ -1,7 +1,7 @@
 ---
 title: Tori Riddle
 date: 2018-01-25 18:33:00 -06:00
-position: 27
+position: 32
 image: "/uploads/tori-riddle.jpg"
 class: Mark 2
 profiles:

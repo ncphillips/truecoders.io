@@ -1,7 +1,7 @@
 ---
 title: Zach Phillips
 date: 2017-11-14 02:04:00 -06:00
-position: 30
+position: 34
 image: "/uploads/zach-phillips.jpg"
 class: Mark 1
 profiles:
