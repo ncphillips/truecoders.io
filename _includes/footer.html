@@ -24,7 +24,7 @@ include:
     <ul class="list-inline">
       {% for social in include.socials %}
       <li class="list-inline-item">
-        <a href={{ social.url | escape }} target="_blank" style="color:white;">
+        <a href={{ social.url | escape }} title="{{ social.title }}" target="_blank" style="color:white;">
           <i class="fa {{ social.fa_icon }} fa-lg" style="margin: 0 8px;"></i>
         </a>
       </li>

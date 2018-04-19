@@ -9,7 +9,9 @@
     {%- endif -%}
 
     <h4>{{ include.subsection.display_title | default: include.subsection.title }}</h4>
+    {% if include.subsection.subtitle -%}
     <h6>{{ include.subsection.subtitle }}</h6>
+    {%- endif %}
 
     {{ include.subsection.excerpt | default: include.subsection.body | markdownify | truncate: 160 }}
 
