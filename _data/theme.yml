@@ -29,6 +29,9 @@ socials:
 - title: LinkedIn
   url: https://www.linkedin.com/company/truecodersio
   fa_icon: fa-linkedin
+- title: Vimeo
+  url: https://vimeo.com/truecodersio
+  fa_icon: fa-vimeo
 - title: Angel List
   url: https://angel.co/truecodersio
   fa_icon: fa-angellist
