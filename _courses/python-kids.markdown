@@ -10,7 +10,8 @@ hero:
 subtitle: Build games with Python
 image: "/uploads/python-logo.png"
 subjects:
-- Architecture
+- Python
+- Game Development
 ---
 
 This course covers building games using Python.
