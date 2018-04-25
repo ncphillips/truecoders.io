@@ -16,4 +16,6 @@ subjects:
 
 This course covers building games using Python.
 
+![Python for Kids](/uploads/python-kids-logo.jpg)
+
 In this day and age, programming is becoming more and more relevant to every level of education. This course gives kids an introduction to basic programming and game development using Python, a fun and popular programming language.
