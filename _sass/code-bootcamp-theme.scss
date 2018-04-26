@@ -5,6 +5,10 @@
 
 @import 'resume-print';
 
+p>img {
+    max-width: 90%;
+}
+
 .nav-call-to-action {
     color: $white;
     background-color: $blue;
