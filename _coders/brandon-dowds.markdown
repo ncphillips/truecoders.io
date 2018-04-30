@@ -10,6 +10,17 @@ profiles:
   github: bdowds
   linkedin: brandon-dowds
   codewars: bdowds
+education:
+- institution: Auburn University
+  area: 'Major: Software Engineering'
+  start_date: 2012-08-01 00:00:00 -05:00
+  end_date: 2014-05-01 00:00:00 -05:00
+  body: |-
+    Focus on Java:
+
+    * Calculus
+    * Physics
+    * Chemistry
 skills:
 - name: C#
   level: 
