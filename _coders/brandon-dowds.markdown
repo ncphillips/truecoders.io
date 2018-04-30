@@ -15,12 +15,26 @@ education:
   area: 'Major: Software Engineering'
   start_date: 2012-08-01 00:00:00 -05:00
   end_date: 2014-05-01 00:00:00 -05:00
+  gpa: 
+  location: 
   body: |-
     Focus on Java:
 
     * Calculus
     * Physics
     * Chemistry
+- institution: Wallace State Community College
+  area: Associates Degree in Computer Science
+  start_date: 2017-01-01 00:00:00 -06:00
+  end_date: 
+  gpa: 
+  location: 
+  body: |-
+    Major in Programming:
+
+    * C++ and Visual Basic
+    * HTML and CSS
+    * ANSI SQL
 skills:
 - name: C#
   level: 
