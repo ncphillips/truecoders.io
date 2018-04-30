@@ -10,9 +10,9 @@ profiles:
   linkedin: david-cotton-b57027161
   codewars: privateporkers
 work:
-- company: 
-  job_title: Freelance Developer
-  start_date: 
+- company: Freelance
+  job_title: Developer
+  start_date: 2016-11-01 00:00:00 -05:00
   end_date: 
   location: 
   body: Term - Console Based terminal
@@ -26,7 +26,7 @@ work:
 
     * Regularly worked with Zaxby’s POS system
 - company: Arduino Projects
-  job_title: 
+  job_title: Developer
   start_date: 2016-11-01 00:00:00 -05:00
   end_date: 2017-01-01 00:00:00 -06:00
   location: Birmingham, AL
@@ -39,7 +39,7 @@ work:
     * Multiple projects dealing with motors and sensors
     * Developed a basic theremin instrument
 - company: Game Project
-  job_title: 
+  job_title: Developer
   start_date: 2018-04-01 00:00:00 -05:00
   end_date: 
   location: 
