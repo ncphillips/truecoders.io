@@ -10,6 +10,38 @@ profiles:
   github: privateporkers
   linkedin: david-cotton-b57027161
   codewars: privateporkers
+education:
+- institution: Codecademy
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
+  body: |-
+    Training in:
+
+    * HTML, CSS, and JavaScript
+    * ANSI SQL and Relational Databases
+    * Source Control using Git
+- institution: SoloLearn
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
+  body: "Training in:\n\n* C# Certification \n* ANSI SQL certification\n* Java - Certification"
+- institution: GreenFoot
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
+  body: |-
+    Training in:
+
+    * HTML, CSS, and JavaScript
+    * ANSI SQL and Relational Databases
+    * Source Control using Git
 skills:
 - name: Linux Kernel
   level: 
