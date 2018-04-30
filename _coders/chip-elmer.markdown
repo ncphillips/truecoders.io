@@ -16,24 +16,35 @@ work:
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 
   location: Birmingham, AL
-  body: Provided specialized supported for clients in the industrial construction
-    project management industry
-- company: Southern Company
-  job_title: CB&A Consultant – IT, Cost Analysis, and Estimating
+  body: |-
+    Provided specialized supported for clients in the industrial construction project management industry:
+
+    * Streamlined CB&A candidate management process by creating C# application with a SQL database
+    * Maintained CB&A and client relational databases using Microsoft SQL Server and TSQL
+- company: CB&A Project Management Services
+  job_title: Consultant at Southern Company
   start_date: 2016-11-01 00:00:00 -05:00
   end_date: 
   location: Birmingham, AL
   body: |-
-    Provided analysis for Southern Power’s renewables fleet retrofits & maintenance budgets:
+    Provided analysis for Southern Power's renewables fleet retrofits & maintenance budgets:
 
     * Supported Estimating department by implementing new workflows
     * Created Excel/Access VBA process solutions for $400+ million estimates
-- company: 
-  job_title: 
-  start_date: 
-  end_date: 
-  location: 
-  body: 
+- company: CB&A Project Management Services
+  job_title: IT Specialist at BP
+  start_date: 2015-11-01 00:00:00 -05:00
+  end_date: 2016-11-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: Supported BP with C# program to provide a custom interface with Oracle's Primavera
+    P6
+- company: CB&A Project Management Services
+  job_title: Consultant at Yates Construction
+  start_date: 2015-10-01 00:00:00 -05:00
+  end_date: 2015-11-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: Supported client's project team with development of upcoming project bid's
+    Excel file
 skills:
 - name: C# and .NET
   level: 
