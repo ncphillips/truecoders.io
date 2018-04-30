@@ -84,7 +84,7 @@ defaults:
       body: 
     skills:
     - name: 
-      level: 0
+      level: 3
     references:
     - name: 
       reference: 

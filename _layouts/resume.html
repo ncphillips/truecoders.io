@@ -188,9 +188,8 @@ layout: default
     </div>
 
     <div class="col-6 col-md-3 col-lg-2">
-      {% if skill.level -%}
       <p>
-        {% assign level = skill.level | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
+        {% assign level = skill.level | default: 3 | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
         
         {%- for i in (1..5) -%}
         {%- assign i_half = i | minus: 0.5 -%}
@@ -204,7 +203,6 @@ layout: default
         {%- endif -%}
         {% endfor %}
       </p>
-      {%- endif %}
     </div>
     {% endfor %}
   </div>
