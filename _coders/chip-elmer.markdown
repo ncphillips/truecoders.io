@@ -64,6 +64,30 @@ work:
     Managed music assistant and teams of musicians while coordinating with senior leadership:
 
     * Conducted worship services and planned music rehearsals
+- company: Special Connections Camp Briarwood
+  job_title: Summer Camp Director
+  start_date: 2005-06-01 01:00:00 -05:00
+  end_date: 2013-09-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Recruited, trained, and managed a team of counselors:
+
+    * Enabled children with disabilities to attend summer camp
+- company: Special Connections Camp Briarwood
+  job_title: Senior Counselor
+  start_date: 2005-06-01 01:00:00 -05:00
+  end_date: 2012-09-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: Personally responsible for supervision and safety of campers with disabilities
+education:
+- institution: Auburn University
+  area: Bachelor of Science in Business Administration, Finance
+  end_date: 2013-05-20 00:00:00 -05:00
+  location: Auburn, AL
+  body: |-
+    Minor in Philosophy, Religious Studies
+
+    * Graduated Magna Cum Laude
 skills:
 - name: C# and .NET
   level: 
