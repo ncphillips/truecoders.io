@@ -21,6 +21,15 @@ work:
 
     * In charge of running a small team that was tasked with keeping the track running in a safe and responsible way.
     * Maintained a friendly attitude towards customers while ensuring the safety of all racers.
+- company: Professional Engineering Groups
+  job_title: Assistant
+  start_date: 2014-05-01 00:00:00 -05:00
+  end_date: 2014-08-01 00:00:00 -05:00
+  location: Trussville, AL
+  body: |
+    Responsible for scanning blueprints and keeping archives up to date:
+
+    * Worked on a close and personal level with professional engineers. Able to manage multiple tasks at once and finish them within a specific deadline.
 education:
 - institution: Auburn University
   area: 'Major: Software Engineering'
