@@ -10,6 +10,22 @@ profiles:
   github: privateporkers
   linkedin: david-cotton-b57027161
   codewars: privateporkers
+work:
+- company: 
+  job_title: Freelance Developer
+  start_date: 
+  end_date: 
+  location: 
+  body: Term - Console Based terminal
+- company: Zaxby's
+  job_title: Cook
+  start_date: 2017-05-01 00:00:00 -05:00
+  end_date: 2018-08-02 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Responsible for dealing with customers and general kitchen duties:
+
+    * Regularly worked with Zaxby’s POS system
 education:
 - institution: Codecademy
   area: 
@@ -42,6 +58,13 @@ education:
     * HTML, CSS, and JavaScript
     * ANSI SQL and Relational Databases
     * Source Control using Git
+- institution: Vestavia Hills High School
+  area: High School Diploma
+  start_date: 
+  end_date: 2017-05-01 00:00:00 -05:00
+  gpa: 
+  location: Vestavia, AL
+  body: Robotics, IT fundamentals, and Java Programming courses
 skills:
 - name: Linux Kernel
   level: 
