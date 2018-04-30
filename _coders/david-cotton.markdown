@@ -30,10 +30,14 @@ work:
   start_date: 2016-11-01 00:00:00 -05:00
   end_date: 2017-01-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: "Projects Requirements:\n\n* Basic 4 note synth with physical buttons and
-    its own sound\n* Multiple LED projects, witch switches and automatically\n* Printed
-    messages on a simple ink screen\t\n* Multiple projects dealing with motors and
-    sensors\n* Developed a basic theremin instrument"
+  body: |-
+    Projects Requirements:
+
+    * Basic 4 note synth with physical buttons and its own sound
+    * Multiple LED projects, witch switches and automatically
+    * Printed messages on a simple ink screen
+    * Multiple projects dealing with motors and sensors
+    * Developed a basic theremin instrument
 - company: Game Project
   job_title: 
   start_date: 2018-04-01 00:00:00 -05:00
