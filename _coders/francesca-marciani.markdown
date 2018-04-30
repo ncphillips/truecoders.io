@@ -22,6 +22,16 @@ work:
     * Trained students in mathematical problem-solving logic in the areas of calculus and algebra, and reframed complex psychological concepts within easy-to-understand concepts.
     * Provided software demonstrations of SPSS for statistical analysis.
     * Developed study materials for students in MS Word and Quizlet.com, including chapter outlines, quizzes, flow charts, and flashcards.
+- company: University Of Alabama At Birmingham
+  job_title: Front Desk Associate
+  start_date: 2017-02-01 00:00:00 -06:00
+  end_date: 2017-04-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    For the spring semester, served as first point of contact for students, tutors, and academic advisors calling or visiting the Academic Success Center:
+
+    * Monitored student and tutor activity via the timekeeping system, and phoned to notify tutors or academic counselors of late appointments.
+    * Performed office upkeep activities such as photocopying, scanning and emailing athletics department memoranda, and maintaining a registry of borrowed or issued items.
 skills:
 - name: C# and .NET
   level: 
