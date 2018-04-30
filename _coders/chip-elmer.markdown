@@ -10,6 +10,30 @@ profiles:
   github: chipelmer
   linkedin: chip-elmer
   codewars: chipelmer
+work:
+- company: CB&A Project Management Services
+  job_title: Consultant – IT Specialist and Project Management
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 
+  location: Birmingham, AL
+  body: Provided specialized supported for clients in the industrial construction
+    project management industry
+- company: Southern Company
+  job_title: CB&A Consultant – IT, Cost Analysis, and Estimating
+  start_date: 2016-11-01 00:00:00 -05:00
+  end_date: 
+  location: Birmingham, AL
+  body: |-
+    Provided analysis for Southern Power’s renewables fleet retrofits & maintenance budgets:
+
+    * Supported Estimating department by implementing new workflows
+    * Created Excel/Access VBA process solutions for $400+ million estimates
+- company: 
+  job_title: 
+  start_date: 
+  end_date: 
+  location: 
+  body: 
 skills:
 - name: C# and .NET
   level: 
