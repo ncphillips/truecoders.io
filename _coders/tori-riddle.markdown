@@ -50,11 +50,12 @@ work:
   start_date: 2012-01-01 00:00:00 -06:00
   end_date: 2015-12-01 00:00:00 -06:00
   location: Cullman, AL
-  body: "Lead and solo designer at the location. A Fast-pace environment, where I
-    had to meet production deadlines daily and work ahead of schedule.\n\n- Worked
-    directly alongside of sales representative and clients to meet their ad criteria\n-
-    \ Dummied newspaper, set up layout and added graphic for final productions daily
-    \n- Contributed to the layout and design for multiple quarterly magazines "
+  body: |-
+    Lead and solo designer at the location. A Fast-pace environment, where I had to meet production deadlines daily and work ahead of schedule.
+
+    - Worked directly alongside of sales representative and clients to meet their ad criteria
+    - Dummied newspaper, set up layout and added graphic for final productions daily
+    - Contributed to the layout and design for multiple quarterly magazines
 education:
 - institution: University of Alabama at Birmingham
   area: Bachelor of Arts in Graphic Design
