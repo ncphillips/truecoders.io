@@ -45,6 +45,25 @@ work:
   location: Birmingham, AL
   body: Supported client's project team with development of upcoming project bid's
     Excel file
+- company: CB&A Project Management Services
+  job_title: Cost Analyst at Mississippi Power
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  location: Meridian, MS
+  body: |-
+    Developed and maintained Scope Additions budget tracking and reporting:
+
+    * Created VBA tools to automate Construction’s direct labor forecasting process
+    * Produced Executive metrics packages and progress tracking to evaluate construction KPIs
+- company: Trinity Presbyterian Church, PCA
+  job_title: Music Director
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  location: Tuscaloosa, AL
+  body: |-
+    Managed music assistant and teams of musicians while coordinating with senior leadership:
+
+    * Conducted worship services and planned music rehearsals
 skills:
 - name: C# and .NET
   level: 
