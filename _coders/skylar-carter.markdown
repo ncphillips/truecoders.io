@@ -14,6 +14,7 @@ work:
 - company: Excelous Incorporate
   job_title: UPK Training Developer
   start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 
   location: Atlanta, GA
   body: "Responsible for the development, coordination, implementation and administration
     of an Oracle R12 enterprise-wide system integration training program to ensure
@@ -33,6 +34,28 @@ work:
     training schedule, and curriculum for the Finance, Supply Chain, and Human Capital
     Management organizations. \n* Initiate and develop effective business relationships
     with key stakeholders and other internal and external organizations."
+- company: Blackcreek Integrated Systems Inc.
+  job_title: Field Technical Consultant
+  start_date: 2011-04-01 01:00:00 -05:00
+  end_date: 2012-10-01 00:00:00 -05:00
+  location: Irondale, AL
+  body: "Served as a Lead Field Technical Consultant to proficiently provide technical
+    skills with a proven ability to troubleshoot and diagnose issues with a wide variety
+    of systems in an efficient and timely manner. Provided quality service working
+    with clients at all levels in performing the following: \n\n* Responsible for
+    the installation of a proprietary security and monitoring systems software inside
+    federal minimum/maximum prison systems which included CCTV, surveillance camera,
+    access control, card reader, and wireless keypad modules.  \n* Served as team’s
+    Functional Lead for key integrations into legacy network based security systems.\n*
+    Led system integration and user acceptance testing efforts for access control,
+    card reader and wireless keypad modules. \n* Installed, tested, and responsible
+    for intercom systems and VOIP on intercom systems.\n* Supervised electrical contractors
+    on prison sites to ensure system stability.\n* Accountable for the  maintenance
+    of  PLC based system for controls and alarming devices\n* Led the troubleshooting
+    efforts of the CCTV system which required termination of electronic door locks,
+    cat-6 cables, DPS status switches, and other various devices.\n* Completed daily
+    reports and applicable site status documentation.\n* Responsible for the maintenance
+    of the touch screen system software"
 skills:
 - name: C# and .NET
   level: 
