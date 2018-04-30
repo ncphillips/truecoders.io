@@ -10,6 +10,21 @@ profiles:
   github: fmarciani
   linkedin: fmarciani
   codewars: fmarciani
+skills:
+- name: C# and .NET
+  level: 
+- name: Java
+  level: 
+- name: Git
+  level: 
+- name: ANSI SQL
+  level: 
+- name: Quantitative Research and Analysis
+  level: 
+- name: Python
+  level: 
+- name: R
+  level: 
 ---
 
 Recovering research psychologist, current amateur mathematician, and STEM enthusiast:
