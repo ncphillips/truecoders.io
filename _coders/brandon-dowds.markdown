@@ -30,6 +30,16 @@ work:
     Responsible for scanning blueprints and keeping archives up to date:
 
     * Worked on a close and personal level with professional engineers. Able to manage multiple tasks at once and finish them within a specific deadline.
+- company: Walmart
+  job_title: Cashier
+  start_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-08-01 00:00:00 -05:00
+  location: Trussville, AL
+  body: |-
+    Responsible for checking out customers and restocking shelves:
+
+    * Responsible for ending a customer’s shopping experience on a good note that encouraged a customer to return.
+    * Maintained friendly and professional customer interactions. Demonstrated that customers come first by serving them with a sense of urgency.
 education:
 - institution: Auburn University
   area: 'Major: Software Engineering'
