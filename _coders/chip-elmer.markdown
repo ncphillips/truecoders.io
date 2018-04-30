@@ -74,7 +74,7 @@ skills:
   level: 
 - name: Git
   level: 
-- name: Microsoft Office Suite
+- name: Office Suite
   level: 
 - name: Microsoft Excel
   level: 5
