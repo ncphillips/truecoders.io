@@ -43,7 +43,10 @@ work:
   start_date: 2012-09-01 00:00:00 -05:00
   end_date: 2012-12-01 00:00:00 -06:00
   location: Montgomery, AL
-  body: "- Acquisition of leads\n- Media Sales\n- Marketing campaign development"
+  body: |-
+    - Acquisition of leads
+    - Media Sales
+    - Marketing campaign development
 - company: Advanced Insulation Technology (AIT)
   job_title: Markting Associate
   start_date: 2010-05-01 01:00:00 -05:00

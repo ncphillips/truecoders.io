@@ -45,9 +45,11 @@ education:
   start_date: 2010-08-01 01:00:00 -05:00
   end_date: 2015-04-01 00:00:00 -05:00
   location: Birmingham, AL
-  body: "Include an education summary of 1-2 sentences maximum, followed by:\n\n-
-    Graphic Design Courses including Typography, ect. ect.\n- Art Studio Courses
-    including sculpture and 3-D Design"
+  body: |-
+    Include an education summary of 1-2 sentences maximum, followed by:
+
+    - Graphic Design Courses including Typography, ect. ect.
+    - Art Studio Courses including sculpture and 3-D Design
 ---
 
 I fell in love with graphic design in college and considered web development a next step and interesting skill to learn. I moved to Austin at the end of 2016 for a new experience and started teaching myself new skills. I am passionate about advancing my knowledge as a developer and designer and would love to be a part of a creative team to contribute to development projects and utilize my graphic design skills.

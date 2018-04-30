@@ -23,13 +23,14 @@ work:
   start_date: 2010-01-01 00:00:00 -06:00
   end_date: 2017-12-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: "Responsible for managing restaurant operations. Hires and trains food service
-    staff, creates menus, business website and orders food and restaurant supplies.\n\n-
-    Provide support for all hardware, software and networking needs for company.\n-
-    Build, Update, and Maintain company website.\n- Customize and preserve email applications
-    or virus protection software.\n- Create/file monthly expense report  and preparer
-    tax documents.\n- Observed budgets and payroll records and examined financial
-    transactions to guarantee authentic expenditures."
+  body: |-
+    Responsible for managing restaurant operations. Hires and trains food service staff, creates menus, business website and orders food and restaurant supplies.
+
+    - Provide support for all hardware, software and networking needs for company.
+    - Build, Update, and Maintain company website.
+    - Customize and preserve email applications or virus protection software.
+    - Create/file monthly expense report  and preparer tax documents.
+    - Observed budgets and payroll records and examined financial transactions to guarantee authentic expenditures.
 - company: Stop and Save Harvest
   job_title: Manager
   start_date: 2008-01-01 00:00:00 -06:00
