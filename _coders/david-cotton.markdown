@@ -68,7 +68,7 @@ education:
   end_date: 
   gpa: 
   location: 
-  body: "Training in:\n\n* C# Certification \n* ANSI SQL certification\n* Java - Certification"
+  body: "Training in:\n\n* C# Certification\n* ANSI SQL certification\n* Java - Certification"
 - institution: GreenFoot
   area: 
   start_date: 

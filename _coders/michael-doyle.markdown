@@ -28,7 +28,7 @@ work:
     project meetings, and discovering and mitigating issues impacting schedules.\n-
     Toolset included Visual Studio 2017, VSTS (source control), SQL Server Management
     Studio (and SQL Server 2012), Microsoft Office, Visio, PowerPoint, and Microsoft
-    Project. \n- Worked with C#, HTML, CSS, JavaScript, JQuery, and JQuery UI. \n-
+    Project.\n- Worked with C#, HTML, CSS, JavaScript, JQuery, and JQuery UI.\n-
     Desktop environment was Microsoft Windows 10."
 - company: Cory Watson Attorneys
   job_title: Associate

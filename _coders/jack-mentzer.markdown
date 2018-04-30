@@ -44,19 +44,15 @@ work:
   location: Birmingham, AL
   body: "Office manager and production assistant for the feature film “Woodlawn”.
     Handled legal paperwork for all “extras” (background actors) on site and well
-    as recruitment of said actors. \n\n- Constant team-work\n- 12-hour days\n- Extremely
-    punctual \n- Consistent communication with actors\n- Managed paperwork crucial
+    as recruitment of said actors.\n\n- Constant team-work\n- 12-hour days\n- Extremely
+    punctual\n- Consistent communication with actors\n- Managed paperwork crucial
     for the films legality"
 - company: Mentzer Home Maintenance LLC
   job_title: Foreman
   start_date: 2016-03-01 00:00:00 -06:00
   end_date: 2016-12-01 00:00:00 -06:00
   location: Petersburg, NJ
-  body: "Foreman for a painting, power-washing, and roof cleaning service. Led and
-    completed several projects in the South Jersey area.\n\n- Detail oriented work\n-
-    Oversaw work of my subordinates\n- Used Quickbooks pro and Microsoft Excel regularly
-    \n- Handled customer inquires face-to-face or on the phone\n- Long hours, manual
-    labor"
+  body: "Foreman for a painting, power-washing, and roof cleaning service. Led and completed several projects in the South Jersey area.\n\n- Detail oriented work\n- Oversaw work of my subordinates\n- Used Quickbooks pro and Microsoft Excel regularly\n- Handled customer inquires face-to-face or on the phone\n- Long hours, manual labor"
 education:
 - institution: Liberty University
   area: 'B.S. Communications: Concentration in Cinematography'
@@ -64,10 +60,7 @@ education:
   end_date: 2014-05-01 00:00:00 -05:00
   gpa: 3.4
   location: Lynchburg, VA
-  body: "Studied business information systems for one year; changed major to film
-    and communications for remaining duration of education.\n\n- Succeeded academically
-    \n- Balanced school and work\n- Took wide range of classes including programming,
-    economics, and cinematography"
+  body: "Studied business information systems for one year; changed major to film and communications for remaining duration of education.\n\n- Succeeded academically\n- Balanced school and work\n- Took wide range of classes including programming, economics, and cinematography"
 ---
 
 Desire to develop as a career. Love to problem-solve, collaborate, and progress. Formerly in the film industry and looking to return to my first-love, programming. Excellent interpersonal, communication, and relationship-building skills.  Listen attentively, communicate persuasively, and follow through diligently.

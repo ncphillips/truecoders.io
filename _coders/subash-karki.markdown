@@ -25,7 +25,7 @@ work:
   location: Birmingham, AL
   body: "Responsible for managing restaurant operations. Hires and trains food service
     staff, creates menus, business website and orders food and restaurant supplies.\n\n-
-    Provide support for all hardware, software and networking needs for company. \n-
+    Provide support for all hardware, software and networking needs for company.\n-
     Build, Update, and Maintain company website.\n- Customize and preserve email applications
     or virus protection software.\n- Create/file monthly expense report  and preparer
     tax documents.\n- Observed budgets and payroll records and examined financial

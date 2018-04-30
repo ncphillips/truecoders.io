@@ -31,7 +31,7 @@ work:
     across all impacted business groups.\n* Coordinate with business leads, managers
     and front-line supervisors to finalize the structure of the training program,
     training schedule, and curriculum for the Finance, Supply Chain, and Human Capital
-    Management organizations. \n* Initiate and develop effective business relationships
+    Management organizations.\n* Initiate and develop effective business relationships
     with key stakeholders and other internal and external organizations."
 - company: Blackcreek Integrated Systems Inc.
   job_title: Field Technical Consultant
@@ -41,13 +41,13 @@ work:
   body: "Served as a Lead Field Technical Consultant to proficiently provide technical
     skills with a proven ability to troubleshoot and diagnose issues with a wide variety
     of systems in an efficient and timely manner. Provided quality service working
-    with clients at all levels in performing the following: \n\n* Responsible for
+    with clients at all levels in performing the following:\n\n* Responsible for
     the installation of a proprietary security and monitoring systems software inside
     federal minimum/maximum prison systems which included CCTV, surveillance camera,
-    access control, card reader, and wireless keypad modules.  \n* Served as team’s
+    access control, card reader, and wireless keypad modules.\n* Served as team’s
     Functional Lead for key integrations into legacy network based security systems.\n*
     Led system integration and user acceptance testing efforts for access control,
-    card reader and wireless keypad modules. \n* Installed, tested, and responsible
+    card reader and wireless keypad modules.\n* Installed, tested, and responsible
     for intercom systems and VOIP on intercom systems.\n* Supervised electrical contractors
     on prison sites to ensure system stability.\n* Accountable for the  maintenance
     of  PLC based system for controls and alarming devices\n* Led the troubleshooting

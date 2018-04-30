@@ -46,7 +46,7 @@ education:
   end_date: 2015-04-01 00:00:00 -05:00
   location: Birmingham, AL
   body: "Include an education summary of 1-2 sentences maximum, followed by:\n\n-
-    Graphic Design Courses including Typography, ect. ect. \n- Art Studio Courses
+    Graphic Design Courses including Typography, ect. ect.\n- Art Studio Courses
     including sculpture and 3-D Design"
 ---
 
