@@ -16,20 +16,14 @@ work:
   start_date: 2017-06-01 00:00:00 -05:00
   end_date: 
   location: Birmingham, AL
-  body: "Internship position working in both software development and project management:\n\n-
-    Performed a variety of duties related to the day to day operation of a software
-    development group. The focus of projects worked targeted corporate level end users
-    and primarily included the development of software products used by human resources
-    (on-boarding new employees, opening new requisitions, altering employee status,
-    and so forth), infrastructure users (creating applications to support provisioning
-    new servers/virtual machines, building out workstations for new employees, and
-    similar activities).\n- Also performed project management related duties such
-    as building out schedules, man-power forecasting, project tracking, setting up
-    project meetings, and discovering and mitigating issues impacting schedules.\n-
-    Toolset included Visual Studio 2017, VSTS (source control), SQL Server Management
-    Studio (and SQL Server 2012), Microsoft Office, Visio, PowerPoint, and Microsoft
-    Project.\n- Worked with C#, HTML, CSS, JavaScript, JQuery, and JQuery UI.\n-
-    Desktop environment was Microsoft Windows 10."
+  body: |-
+    Internship position working in both software development and project management:
+
+    - Performed a variety of duties related to the day to day operation of a software development group. The focus of projects worked targeted corporate level end users and primarily included the development of software products used by human resources (on-boarding new employees, opening new requisitions, altering employee status, and so forth), infrastructure users (creating applications to support provisioning new servers/virtual machines, building out workstations for new employees, and similar activities).
+    - Also performed project management related duties such as building out schedules, man-power forecasting, project tracking, setting up project meetings, and discovering and mitigating issues impacting schedules.
+    - Toolset included Visual Studio 2017, VSTS (source control), SQL Server Management Studio (and SQL Server 2012), Microsoft Office, Visio, PowerPoint, and Microsoft Project.
+    - Worked with C#, HTML, CSS, JavaScript, JQuery, and JQuery UI.
+    - Desktop environment was Microsoft Windows 10.
 - company: Cory Watson Attorneys
   job_title: Associate
   start_date: 2013-06-01 00:00:00 -05:00
