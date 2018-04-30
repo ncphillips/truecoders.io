@@ -5,5 +5,28 @@ published: false
 position: 4
 image: "/uploads/brandon-dowds.jpg"
 class: Mark 3
+profiles:
+  mbti: ISTJ
+  github: bdowds
+  linkedin: brandon-dowds
+  codewars: bdowds
+skills:
+- name: C#
+  level: 
+- name: C++
+  level: 
+- name: Java
+  level: 
+- name: SQL
+  level: 
+- name: Git
+  level: 
+- name: Visual Basic
+  level: 
+- name: HTML
+  level: 
+- name: CSS
+  level: 
 ---
 
+My interest in software development was sparked at a young age when I had a desire to learn the mechanics of how the video games I was playing were built, that fascination with wanting to know how things were built lead me to pursue a degree in mechanical engineering at Auburn University. After a short amount of time I realized my true passion for computers and technology was with the software side and not hardware. I am a fast learner and a hard worker, who desires to be apart of an energetic team building exciting software. At some point in my career I would love the opportunity to follow what originally got me excited about programming by creating the games that I enjoyed so much as a kid.
