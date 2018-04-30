@@ -22,7 +22,7 @@ work:
   start_date: 2014-11-01 00:00:00 -05:00
   end_date: 2017-04-01 00:00:00 -05:00
   location: Inverness, AL
-  body: "- Guided and advised customers throughout the buying process \n- Organized
+  body: "- Guided and advised customers throughout the buying process\n- Organized
     and maintained product storage and displays as a warehouse professional\n- Utilized
     company software platforms to track, maintain, and edit customer orders"
 - company: Direct Billing Services
