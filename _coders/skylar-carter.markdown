@@ -56,6 +56,12 @@ work:
     cat-6 cables, DPS status switches, and other various devices.\n* Completed daily
     reports and applicable site status documentation.\n* Responsible for the maintenance
     of the touch screen system software"
+education:
+- institution: I.T.T. Technical Institute
+  area: Associate's Degree Computer Engineering and Computer Technology
+  start_date: 2001-03-01 00:00:00 -06:00
+  end_date: 2003-03-01 00:00:00 -06:00
+  location: Carmel, IN
 skills:
 - name: C# and .NET
   level: 
