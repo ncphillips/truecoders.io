@@ -10,6 +10,17 @@ profiles:
   github: bdowds
   linkedin: brandon-dowds
   codewars: bdowds
+work:
+- company: Grand Prix Karting
+  job_title: Track Lead
+  start_date: 2015-02-01 00:00:00 -06:00
+  end_date: 2015-12-01 00:00:00 -06:00
+  location: Columbus, OH
+  body: |-
+    Responsible for running day to day operations on the track:
+
+    * In charge of running a small team that was tasked with keeping the track running in a safe and responsible way.
+    * Maintained a friendly attitude towards customers while ensuring the safety of all racers.
 education:
 - institution: Auburn University
   area: 'Major: Software Engineering'
@@ -27,11 +38,12 @@ education:
   area: Associates Degree in Computer Science
   start_date: 2017-01-01 00:00:00 -06:00
   end_date: 
-  gpa: 
+  gpa: 3.7
   location: 
   body: |-
     Major in Programming:
 
+    * Received Who’s Who Award
     * C++ and Visual Basic
     * HTML and CSS
     * ANSI SQL
