@@ -5,6 +5,7 @@ position: 32
 image: "/uploads/steven-bustamento.jpg"
 class: Mark 3
 profiles:
+  mbti: ISTJ
   github: devBustamento
   linkedin: stbustamento
   codewars: stbustamento
