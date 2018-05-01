@@ -76,6 +76,21 @@ work:
 
     * Maintained a password-protected database containing confidential participant contact information, filing system identification numbers, and date of last visit.
     * Managed incoming telephone calls from parents of children participating in research, scheduling laboratory visits and answering queries about the nature of the research.
+education:
+- institution: University of Alabama at Birmingham
+  area: 
+  start_date: 
+  end_date: 2017-04-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: Coursework in single, and multivariable calculus, linear algebra
+- institution: Ohio State University
+  area: Master of Arts in Developmental Psychology
+  start_date: 
+  end_date: 2013-05-01 00:00:00 -05:00
+  gpa: 
+  location: Columbus, OH
+  body: 'Minor: Quantitative Psychology'
 skills:
 - name: C# and .NET
   level: 3
