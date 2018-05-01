@@ -10,6 +10,25 @@ profiles:
   linkedin: zachjphillips
   codewars: zachstagrammer
   vimeo_resume: 245988282
+skills:
+- name: C# and .NET
+  level: 3.6
+- name: Java
+  level: 3.0
+- name: ANSI SQL
+  level: 3.7
+- name: HTML, CSS, JS
+  level: 3.2
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 3.4
+- name: ASP.NET
+  level: 3.6
+- name: Soft Skills
+  level: 4.3
+- name: Technical Sales
+  level: 3.0
 work:
 - company: Market Cove LLC
   job_title: Owner
@@ -45,25 +64,6 @@ education:
   area: High School Diploma
   end_date: 2013-05-01 00:00:00 -05:00
   location: Odenville, AL
-skills:
-- name: C# and .NET
-  level: 3.6
-- name: Java
-  level: 3.0
-- name: ANSI SQL
-  level: 3.7
-- name: HTML, CSS, JS
-  level: 3.2
-- name: Git
-  level: 3.9
-- name: Diagnostics
-  level: 3.4
-- name: ASP.NET
-  level: 3.6
-- name: Soft Skills
-  level: 4.3
-- name: Technical Sales
-  level: 3.0
 ---
 
 I'm excited to be learning new skillsets and technologies in development with TrueCoders. I've found development fascinating as it provides a combination of creative outlook and organization. I'm a motivated self learner and detail oriented team player with strong organizational skills. I hope to learn much more and become increasingly passionate as a developer.

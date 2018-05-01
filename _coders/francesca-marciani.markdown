@@ -9,6 +9,21 @@ profiles:
   github: fmarciani
   linkedin: fmarciani
   codewars: fmarciani
+skills:
+- name: C# and .NET
+  level: 3
+- name: Java
+  level: 
+- name: Git
+  level: 
+- name: ANSI SQL
+  level: 
+- name: Quantitative Research and Analysis
+  level: 
+- name: Python
+  level: 
+- name: R
+  level: 
 work:
 - company: University of Alabama at Birmingham
   job_title: Mathematics Tutor
@@ -97,21 +112,6 @@ education:
   gpa: 
   location: Oberlin, OH
   body: High Honors in Psychology
-skills:
-- name: C# and .NET
-  level: 3
-- name: Java
-  level: 
-- name: Git
-  level: 
-- name: ANSI SQL
-  level: 
-- name: Quantitative Research and Analysis
-  level: 
-- name: Python
-  level: 
-- name: R
-  level: 
 ---
 
 Recovering research psychologist, current amateur mathematician, and STEM enthusiast:

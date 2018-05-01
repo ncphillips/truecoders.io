@@ -9,6 +9,25 @@ profiles:
   github: devBustamento
   linkedin: stbustamento
   codewars: stbustamento
+skills:
+- name: Responsive Web Development
+  level: 
+- name: HTML
+  level: 
+- name: CSS
+  level: 
+- name: JavaScript
+  level: 
+- name: C# and .NET
+  level: 
+- name: Java
+  level: 
+- name: ANSI SQL
+  level: 
+- name: Git
+  level: 
+- name: PHP
+  level: 
 work:
 - company: Hungry Howies
   job_title: Store Manager
@@ -80,25 +99,6 @@ education:
     * Strong leadership skills.
     * Participated in multiple judged musical solo competitions and coming back with the highest scores possible.
     * A handful of computer literacy classes and similar classes when offered.
-skills:
-- name: Responsive Web Development
-  level: 
-- name: HTML
-  level: 
-- name: CSS
-  level: 
-- name: JavaScript
-  level: 
-- name: C# and .NET
-  level: 
-- name: Java
-  level: 
-- name: ANSI SQL
-  level: 
-- name: Git
-  level: 
-- name: PHP
-  level: 
 ---
 
 My name is Steven, I'm an Alabama native who is extremely passionate about what I do. I've spent a few years traveling the country performing and have fallen in love with a productive team environment that is always chasing improvement. I want to combine my addiction to this environment, tech, and my interest in problem solving and creation to flourish in the role as a developer. I've become very interested in how we can use technology to enhance our brain's natural abilities, and hope to one day be on a team that is helping people who can't see, or hear, use technology as an alternative means of perceiving the world.

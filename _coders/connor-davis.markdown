@@ -10,6 +10,23 @@ profiles:
   linkedin: connor-davis-5aa29a152
   codewars: connor_davis98
   vimeo_resume: 245988218
+skills:
+- name: C# and .NET
+  level: 3.5
+- name: ANSI SQL
+  level: 3.2
+- name: HTML, CSS, JS
+  level: 2.6
+- name: Git
+  level: 3.5
+- name: Diagnostics
+  level: 3.1
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 4.6
+- name: Technical Sales
+  level: 4.0
 work:
 - company: Pelham Raquet Club
   job_title: Tennis Instructor
@@ -36,23 +53,6 @@ education:
     Graduated with AAD:
 
     - Outstanding Athlete
-skills:
-- name: C# and .NET
-  level: 3.5
-- name: ANSI SQL
-  level: 3.2
-- name: HTML, CSS, JS
-  level: 2.6
-- name: Git
-  level: 3.5
-- name: Diagnostics
-  level: 3.1
-- name: ASP.NET
-  level: 4.1
-- name: Soft Skills
-  level: 4.6
-- name: Technical Sales
-  level: 4.0
 ---
 
 I'm an aspiring developer who loves what I do. I'm always looking to better myself in my craft. I've been a part of the tech team at my church for two years. I also have experience with audio mixing, recording, and media as a DJ. Lastly, I have experience with landscaping.

@@ -10,6 +10,23 @@ profiles:
   linkedin: austinredmayne
   codewars: austinrickmayne
   vimeo_resume: 245987519
+skills:
+- name: C# and .NET
+  level: 2.8
+- name: ANSI SQL
+  level: 3.2
+- name: HTML, CSS, JS
+  level: 2.8
+- name: Git
+  level: 3.1
+- name: Diagnostics
+  level: 2.7
+- name: ASP.NET
+  level: 2.8
+- name: Soft Skills
+  level: 3.5
+- name: Technical Sales
+  level: 2.7
 work:
 - company: Baumhowers
   job_title: Server
@@ -90,23 +107,6 @@ education:
   gpa: 
   location: Homewood, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 2.8
-- name: ANSI SQL
-  level: 3.2
-- name: HTML, CSS, JS
-  level: 2.8
-- name: Git
-  level: 3.1
-- name: Diagnostics
-  level: 2.7
-- name: ASP.NET
-  level: 2.8
-- name: Soft Skills
-  level: 3.5
-- name: Technical Sales
-  level: 2.7
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.

@@ -10,6 +10,23 @@ profiles:
   linkedin: toriana-grooms
   codewars: torigrooms
   vimeo_resume: 245988278
+skills:
+- name: C# and .NET
+  level: 3.3
+- name: ANSI SQL
+  level: 3.7
+- name: HTML, CSS, JS
+  level: 2.8
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 3
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 3.7
+- name: Technical Sales
+  level: 3.7
 work:
 - company: Cricket Wireless
   job_title: Assistant Manager
@@ -76,23 +93,6 @@ education:
   gpa: 
   location: Birmingham, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 3.3
-- name: ANSI SQL
-  level: 3.7
-- name: HTML, CSS, JS
-  level: 2.8
-- name: Git
-  level: 3.9
-- name: Diagnostics
-  level: 3
-- name: ASP.NET
-  level: 4.1
-- name: Soft Skills
-  level: 3.7
-- name: Technical Sales
-  level: 3.7
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization:

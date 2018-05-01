@@ -9,6 +9,19 @@ profiles:
   github: CFin86
   linkedin: cfin86
   codewars: cfin86
+skills:
+- name: C# and .NET
+  level: 
+- name: ANSI SQL
+  level: 
+- name: Java
+  level: 
+- name: JavaScript
+  level: 
+- name: Angular
+  level: 
+- name: Git
+  level: 
 work:
 - company: 'Project: trimr'
   job_title: Lead Developer
@@ -38,19 +51,6 @@ education:
   area: Accounting
   location: Birmingham, AL
   body: Completed 94 credits toward Bachelor of Science in Business
-skills:
-- name: C# and .NET
-  level: 
-- name: ANSI SQL
-  level: 
-- name: Java
-  level: 
-- name: JavaScript
-  level: 
-- name: Angular
-  level: 
-- name: Git
-  level: 
 ---
 
 I am a full stack web developer seeking knowledge, tirelessly. Helping other people learn is what brings me the most joy in life. If I am not challenged, I consider myself in the wrong place. Leadership and communication is second nature. I excel best in high paced, quick thinking environments.

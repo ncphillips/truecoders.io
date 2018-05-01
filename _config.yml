@@ -67,6 +67,9 @@ defaults:
       linkedin: 
       codewars: 
       vimeo_resume: 
+    skills:
+    - name: 
+      level: 3
     work:
     - company: 
       job_title: 
@@ -82,9 +85,6 @@ defaults:
       gpa: 
       location: 
       body: 
-    skills:
-    - name: 
-      level: 3
 - scope:
     path: ''
     type: courses

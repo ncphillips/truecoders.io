@@ -10,6 +10,25 @@ profiles:
   linkedin: hjulapelli
   codewars: Harshithj
   vimeo_resume: 245988232
+skills:
+- name: C# and .NET
+  level: 4.1
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 4.1
+- name: Java
+  level: 3.8
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 4.2
+- name: ASP.NET
+  level: 4.1
+- name: Soft Skills
+  level: 3.7
+- name: Technical Sales
+  level: 3.0
 work:
 - company: University of Central Missouri
   job_title: Graduate Research Assistant
@@ -60,25 +79,6 @@ education:
     * Student Coordinator, Training and Placement Cell, SREC Warangal.
     * Member of Computer Society of India (CSI)
     * Joint Secretary, National Service Scheme (NSS)
-skills:
-- name: C# and .NET
-  level: 4.1
-- name: ANSI SQL
-  level: 3.8
-- name: HTML, CSS, JS
-  level: 4.1
-- name: Java
-  level: 3.8
-- name: Git
-  level: 3.9
-- name: Diagnostics
-  level: 4.2
-- name: ASP.NET
-  level: 4.1
-- name: Soft Skills
-  level: 3.7
-- name: Technical Sales
-  level: 3.0
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth. My educational background and technical knowledge have given me the skills required for a Software Developer, with Java and C# as my base languages. Good team player with excellent organizational skills and business process improvements. My strong knowledge of fundamentals and self-motivation along with my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.

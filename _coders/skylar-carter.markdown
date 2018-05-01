@@ -9,6 +9,19 @@ profiles:
   github: nutunjamai
   linkedin: skylar-carter-844050161
   codewars: nutunjamai
+skills:
+- name: C# and .NET
+  level: 
+- name: Java
+  level: 
+- name: ANSI SQL
+  level: 
+- name: VBA
+  level: 
+- name: Git
+  level: 
+- name: Office Suite
+  level: 5
 work:
 - company: Excelous Incorporate
   job_title: UPK Training Developer
@@ -48,19 +61,6 @@ education:
   start_date: 2001-03-01 00:00:00 -06:00
   end_date: 2003-03-01 00:00:00 -06:00
   location: Carmel, IN
-skills:
-- name: C# and .NET
-  level: 
-- name: Java
-  level: 
-- name: ANSI SQL
-  level: 
-- name: VBA
-  level: 
-- name: Git
-  level: 
-- name: Office Suite
-  level: 5
 ---
 
 Innovative Information Technology (IT) Professional with a track record of applying knowledge of computer science and other computer related technologies to IT operations and infrastructures.   Reputation for taking pride in achieving the highest goals to define enterprise and technology strategies and solutions.  Valuable team member who possesses excellent communication skills and works well within a team environment to accomplish organizational goals.

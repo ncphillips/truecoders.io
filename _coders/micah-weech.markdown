@@ -10,6 +10,23 @@ profiles:
   linkedin: micah-weech
   codewars: mweechzing
   vimeo_resume: 245988267
+skills:
+- name: C# and .NET
+  level: 2.7
+- name: ANSI SQL
+  level: 2.9
+- name: HTML, CSS, JS
+  level: 2.9
+- name: Git
+  level: 3.5
+- name: Diagnostics
+  level: 3
+- name: ASP.NET
+  level: 3.2
+- name: Soft Skills
+  level: 3.5
+- name: Technical Sales
+  level: 4.4
 work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
@@ -88,23 +105,6 @@ education:
   gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages
-skills:
-- name: C# and .NET
-  level: 2.7
-- name: ANSI SQL
-  level: 2.9
-- name: HTML, CSS, JS
-  level: 2.9
-- name: Git
-  level: 3.5
-- name: Diagnostics
-  level: 3
-- name: ASP.NET
-  level: 3.2
-- name: Soft Skills
-  level: 3.5
-- name: Technical Sales
-  level: 4.4
 ---
 
 It is my goal to pursue a career as a software developer at your company. As a leader and self-starter I would love the opportunity to adopt your company's work culture and work to advance the company's mission and profitability. Please review the attached resume and contact me if you have any questions.

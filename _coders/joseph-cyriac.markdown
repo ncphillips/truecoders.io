@@ -10,6 +10,23 @@ profiles:
   linkedin: cyriajo
   codewars: cyriajo
   vimeo_resume: 245988251
+skills:
+- name: C# and .NET
+  level: 3
+- name: ANSI SQL
+  level: 3.6
+- name: HTML, CSS, JS
+  level: 3.6
+- name: Git
+  level: 4
+- name: Diagnostics
+  level: 3.9
+- name: ASP.NET
+  level: 3.5
+- name: Soft Skills
+  level: 4.5
+- name: Technical Sales
+  level: 4.5
 work:
 - company: HFP LLC
   job_title: Customs and Sales Broker
@@ -70,23 +87,6 @@ education:
 
     - College of Business
     - Organized and lead the re-chartering initiative of Auburn University's chapter of the Phi Kappa Psi Fraternity
-skills:
-- name: C# and .NET
-  level: 3
-- name: ANSI SQL
-  level: 3.6
-- name: HTML, CSS, JS
-  level: 3.6
-- name: Git
-  level: 4
-- name: Diagnostics
-  level: 3.9
-- name: ASP.NET
-  level: 3.5
-- name: Soft Skills
-  level: 4.5
-- name: Technical Sales
-  level: 4.5
 ---
 
 Dynamic and results focused professional with a range of valuable work experience. Proven ability to effectively manage office personnel, company infrastructure and develop efficiency systems in support of business goals and initiatives. Detail oriented and adaptable with excellent process thinking and interpersonal skills; ability to establish rapport and communication effectively with customers and across all levels of an organization. My goal is to join a team that values dedication and results.

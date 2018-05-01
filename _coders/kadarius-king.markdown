@@ -10,6 +10,23 @@ profiles:
   linkedin: kadarius-king
   codewars: KaDarius
   vimeo_resume: 245988254
+skills:
+- name: C# and .NET
+  level: 2.9
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 2.9
+- name: Git
+  level: 3.2
+- name: Diagnostics
+  level: 3.8
+- name: ASP.NET
+  level: 3.9
+- name: Soft Skills
+  level: 4.4
+- name: Technical Sales
+  level: 4.4
 work:
 - company: BBVA Compass
   job_title: Financial Sales Consultant
@@ -67,23 +84,6 @@ education:
   gpa: 
   location: Auburn, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 2.9
-- name: ANSI SQL
-  level: 3.8
-- name: HTML, CSS, JS
-  level: 2.9
-- name: Git
-  level: 3.2
-- name: Diagnostics
-  level: 3.8
-- name: ASP.NET
-  level: 3.9
-- name: Soft Skills
-  level: 4.4
-- name: Technical Sales
-  level: 4.4
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.

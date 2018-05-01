@@ -10,6 +10,25 @@ profiles:
   linkedin: antwonervin
   codewars: aervin
   vimeo_resume: 245987515
+skills:
+- name: C# and .NET
+  level: 3
+- name: Java
+  level: 3
+- name: ANSI SQL
+  level: 3.1
+- name: HTML, CSS, JS
+  level: 2.8
+- name: Git
+  level: 3.2
+- name: Diagnostics
+  level: 3.1
+- name: ASP.NET
+  level: 3.4
+- name: Soft Skills
+  level: 4.8
+- name: Technical Sales
+  level: 4.8
 work:
 - company: New Life Church
   job_title: Project Consultant
@@ -96,25 +115,6 @@ education:
   gpa: 
   location: Bessemer, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 3
-- name: Java
-  level: 3
-- name: ANSI SQL
-  level: 3.1
-- name: HTML, CSS, JS
-  level: 2.8
-- name: Git
-  level: 3.2
-- name: Diagnostics
-  level: 3.1
-- name: ASP.NET
-  level: 3.4
-- name: Soft Skills
-  level: 4.8
-- name: Technical Sales
-  level: 4.8
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C# and .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.

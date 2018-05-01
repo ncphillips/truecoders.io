@@ -10,6 +10,25 @@ profiles:
   linkedin: jessica-reid-a9bb0681
   codewars: jrharris620
   vimeo_resume: 245988239
+skills:
+- name: C# and .NET
+  level: 3.4
+- name: Java
+  level: 3.0
+- name: ANSI SQL
+  level: 3.8
+- name: HTML, CSS, JS
+  level: 3.5
+- name: Git
+  level: 4.2
+- name: Diagnostics
+  level: 3.6
+- name: ASP.NET
+  level: 3.3
+- name: Soft Skills
+  level: 3.8
+- name: Technical Sales
+  level: 3.0
 work:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver
@@ -93,25 +112,6 @@ education:
   gpa: 
   location: Birmingham, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 3.4
-- name: Java
-  level: 3.0
-- name: ANSI SQL
-  level: 3.8
-- name: HTML, CSS, JS
-  level: 3.5
-- name: Git
-  level: 4.2
-- name: Diagnostics
-  level: 3.6
-- name: ASP.NET
-  level: 3.3
-- name: Soft Skills
-  level: 3.8
-- name: Technical Sales
-  level: 3.0
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I've been a self-taught hobbyist developer for most of my life. I've attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I've now decided to make it a Full-Time career.

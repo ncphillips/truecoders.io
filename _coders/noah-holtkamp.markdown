@@ -10,6 +10,23 @@ profiles:
   linkedin: noah-holtkamp
   codewars: HoltkampN
   vimeo_resume: 245988271
+skills:
+- name: C# and .NET
+  level: 2.3
+- name: ANSI SQL
+  level: 3
+- name: HTML, CSS, JS
+  level: 3.1
+- name: Git
+  level: 3.3
+- name: Diagnostics
+  level: 2.7
+- name: ASP.NET
+  level: 2.8
+- name: Soft Skills
+  level: 3.8
+- name: Technical Sales
+  level: 4.0
 work:
 - company: NutritionFacts.org
   job_title: MD Volunteer Article Retriever
@@ -57,23 +74,6 @@ education:
 
     - Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.
     - Learned psychological reasons we are drawn to foods that do not support health
-skills:
-- name: C# and .NET
-  level: 2.3
-- name: ANSI SQL
-  level: 3
-- name: HTML, CSS, JS
-  level: 3.1
-- name: Git
-  level: 3.3
-- name: Diagnostics
-  level: 2.7
-- name: ASP.NET
-  level: 2.8
-- name: Soft Skills
-  level: 3.8
-- name: Technical Sales
-  level: 4.0
 ---
 
 I am an enthusiastic TrueCoders Developer completing fundamental coursework in C#, SQL, .NET, and Git. I'm currently seeking to apply my passion for learning to a position with a quality employer.

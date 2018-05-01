@@ -10,6 +10,23 @@ profiles:
   linkedin: darrellstovall
   codewars: darrellstovall
   vimeo_resume: 245988227
+skills:
+- name: C# and .NET
+  level: 3.3
+- name: ANSI SQL
+  level: 3.5
+- name: HTML, CSS, JS
+  level: 3.8
+- name: Git
+  level: 3.6
+- name: Diagnostics
+  level: 3.9
+- name: ASP.NET
+  level: 3.9
+- name: Soft Skills
+  level: 4.7
+- name: Technical Sales
+  level: 3.5
 work:
 - company: Hewitt-Trussville
   job_title: Middle School, Teacher
@@ -58,23 +75,6 @@ education:
     Secondary Education:
 
     * English and Economics Certification
-skills:
-- name: C# and .NET
-  level: 3.3
-- name: ANSI SQL
-  level: 3.5
-- name: HTML, CSS, JS
-  level: 3.8
-- name: Git
-  level: 3.6
-- name: Diagnostics
-  level: 3.9
-- name: ASP.NET
-  level: 3.9
-- name: Soft Skills
-  level: 4.7
-- name: Technical Sales
-  level: 3.5
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference:

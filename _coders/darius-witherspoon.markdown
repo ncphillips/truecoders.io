@@ -10,6 +10,25 @@ profiles:
   linkedin: dariuswitherspoon
   codewars: wcordarius
   vimeo_resume: 245988222
+skills:
+- name: C# and .NET
+  level: 3.0
+- name: Java
+  level: 3.0
+- name: ANSI SQL
+  level: 3.6
+- name: HTML, CSS, JS
+  level: 3.5
+- name: Git
+  level: 3.7
+- name: Diagnostics
+  level: 3.2
+- name: ASP.NET
+  level: 3.5
+- name: Soft Skills
+  level: 4.2
+- name: Technical Sales
+  level: 4.0
 work:
 - company: FedEx Ground
   job_title: Driver
@@ -47,25 +66,6 @@ education:
   gpa: 
   location: Huffman, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 3.0
-- name: Java
-  level: 3.0
-- name: ANSI SQL
-  level: 3.6
-- name: HTML, CSS, JS
-  level: 3.5
-- name: Git
-  level: 3.7
-- name: Diagnostics
-  level: 3.2
-- name: ASP.NET
-  level: 3.5
-- name: Soft Skills
-  level: 4.2
-- name: Technical Sales
-  level: 4.0
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company's performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

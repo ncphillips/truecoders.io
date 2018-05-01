@@ -10,6 +10,23 @@ profiles:
   linkedin: candacewelch
   codewars: candacejwelch
   vimeo_resume: 245987521
+skills:
+- name: C# and .NET
+  level: 3.6
+- name: ANSI SQL
+  level: 4.1
+- name: HTML, CSS, JS
+  level: 3.9
+- name: Git
+  level: 3.9
+- name: Diagnostics
+  level: 4.4
+- name: ASP.NET
+  level: 4.2
+- name: Soft Skills
+  level: 4.1
+- name: Technical Sales
+  level: 2.8
 work:
 - company: Out There Creative
   job_title: Graphic Designer & Developer
@@ -90,23 +107,6 @@ education:
   gpa: 
   location: Montgomery, AL
   body: 
-skills:
-- name: C# and .NET
-  level: 3.6
-- name: ANSI SQL
-  level: 4.1
-- name: HTML, CSS, JS
-  level: 3.9
-- name: Git
-  level: 3.9
-- name: Diagnostics
-  level: 4.4
-- name: ASP.NET
-  level: 4.2
-- name: Soft Skills
-  level: 4.1
-- name: Technical Sales
-  level: 2.8
 ---
 
 My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. I am a Graphic Designer with a knack for development. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.

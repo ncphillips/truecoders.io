@@ -9,6 +9,25 @@ profiles:
   github: 2unes
   linkedin: grantberryman
   codewars: 2unes
+skills:
+- name: C# and .NET
+  level: 3.6
+- name: ANSI SQL
+  level: 3.6
+- name: HTML, CSS, JS
+  level: 4.1
+- name: Git
+  level: 4
+- name: Diagnostics
+  level: 4.4
+- name: ASP.NET
+  level: 4
+- name: Soft Skills
+  level: 3.8
+- name: Technical Sales
+  level: 3.3
+- name: Customer Service
+  level: 4.5
 work:
 - company: Tech-Ease
   job_title: Apple Consultant / Lead Tech
@@ -99,25 +118,6 @@ education:
   gpa: 3.198
   location: Auburn, AL
   body: Dean's list - Golden Key International Honor Society
-skills:
-- name: C# and .NET
-  level: 3.6
-- name: ANSI SQL
-  level: 3.6
-- name: HTML, CSS, JS
-  level: 4.1
-- name: Git
-  level: 4
-- name: Diagnostics
-  level: 4.4
-- name: ASP.NET
-  level: 4
-- name: Soft Skills
-  level: 3.8
-- name: Technical Sales
-  level: 3.3
-- name: Customer Service
-  level: 4.5
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.

@@ -89,6 +89,41 @@ layout: default
   
   <br/>
 
+  <!-- Skills Row -->
+  {% if page.skills[0].name %}
+
+  <h4>Skills</h4>
+
+  <div class="row">
+    {%- for skill in page.skills -%}
+    {% unless skill.name %} {% continue %} {% endunless %}
+    <div class="col-6 col-md-3 col-lg-2">
+      <p>{{ skill.name }}</p>
+    </div>
+
+    <div class="col-6 col-md-3 col-lg-2">
+      <p>
+        {% assign level = skill.level | default: 3 | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
+        
+        {%- for i in (1..5) -%}
+        {%- assign i_half = i | minus: 0.5 -%}
+        
+        {%- if level >= i -%}
+        <i class="fa fa-circle"></i>
+        {%- elsif level >= i_half -%}
+        <i class="fa fa-adjust fa-flip-horizontal"></i>
+        {%- else -%}
+        <i class="fa fa-circle-o"></i>
+        {%- endif -%}
+        {% endfor %}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+  
+  <br/>
+  {% endif %}
+
   <!-- Work Row -->
   <h4>Work</h4>
 
@@ -175,40 +210,6 @@ layout: default
 
   <br/>
   {% endfor %}
-
-  <!-- Skills Row -->
-  <h4>Skills</h4>
-
-  {% if page.skills[0].name %}
-  <div class="row">
-    {%- for skill in page.skills -%}
-    {% unless skill.name %} {% continue %} {% endunless %}
-    <div class="col-6 col-md-3 col-lg-2">
-      <p>{{ skill.name }}</p>
-    </div>
-
-    <div class="col-6 col-md-3 col-lg-2">
-      <p>
-        {% assign level = skill.level | default: 3 | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
-        
-        {%- for i in (1..5) -%}
-        {%- assign i_half = i | minus: 0.5 -%}
-        
-        {%- if level >= i -%}
-        <i class="fa fa-circle"></i>
-        {%- elsif level >= i_half -%}
-        <i class="fa fa-adjust fa-flip-horizontal"></i>
-        {%- else -%}
-        <i class="fa fa-circle-o"></i>
-        {%- endif -%}
-        {% endfor %}
-      </p>
-    </div>
-    {% endfor %}
-  </div>
-  
-  <br/>
-  {% endif %}
 </div>
 
 {%- comment -%}

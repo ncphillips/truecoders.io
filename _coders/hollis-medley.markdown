@@ -10,6 +10,21 @@ profiles:
   linkedin: hollis-medley-8a6169152
   codewars: hmedley
   vimeo_resume: 245988235
+skills:
+- name: C# and .NET
+  level: 2.9
+- name: ANSI SQL
+  level: 3
+- name: HTML, CSS, JS
+  level: 3.6
+- name: Git
+  level: 3.6
+- name: Diagnostics
+  level: 3.2
+- name: ASP.NET
+  level: 3.1
+- name: Soft Skills
+  level: 4.3
 work:
 - company: Tractor Supply Co
   job_title: Cashier/Team Member
@@ -65,21 +80,6 @@ education:
   gpa: 
   location: Montgomery, AL
   body: Dual Enrollment
-skills:
-- name: C# and .NET
-  level: 2.9
-- name: ANSI SQL
-  level: 3
-- name: HTML, CSS, JS
-  level: 3.6
-- name: Git
-  level: 3.6
-- name: Diagnostics
-  level: 3.2
-- name: ASP.NET
-  level: 3.1
-- name: Soft Skills
-  level: 4.3
 ---
 
 Experienced in C#, Visual Basic, Python, and Web Languages (HTML, CSS, JS)

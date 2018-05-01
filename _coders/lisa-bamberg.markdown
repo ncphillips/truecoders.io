@@ -9,6 +9,19 @@ profiles:
   github: lisambamberg
   linkedin: lisabamberg
   codewars: lisabamberg
+skills:
+- name: C# and .NET
+  level: 
+- name: ANSI SQL
+  level: 
+- name: HTML
+  level: 
+- name: CSS
+  level: 
+- name: JavaScript
+  level: 
+- name: Git
+  level: 
 work:
 - company: Abhi
   job_title: Front of House
@@ -60,19 +73,6 @@ education:
   end_date: 2012-09-01 00:00:00 -05:00
   location: Birmingham, AL
   body: 'Major: Theatre'
-skills:
-- name: C# and .NET
-  level: 
-- name: ANSI SQL
-  level: 
-- name: HTML
-  level: 
-- name: CSS
-  level: 
-- name: JavaScript
-  level: 
-- name: Git
-  level: 
 ---
 
 I am enthusiastically pursuing my lifelong interest in technology which has led me to study software development. Coming from a background focused in art, I value exercising my creativity independently and with effective collaboration with others. I am a strong communicator, with a passion for problem solving. I aspire to contribute to the technology advancement to help benefit mankind.
