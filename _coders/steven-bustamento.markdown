@@ -42,9 +42,9 @@ work:
 
     * Basic IT problem solving
     * Developed aggressive work OCD
-    * Organization
-    * Communication
-    * Documentation
+      * Organization
+      * Communication
+      * Documentation
 education:
 - institution: Jefferson State University
   area: Fullstack Web Development Courses
