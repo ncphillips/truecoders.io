@@ -5,5 +5,10 @@ published: false
 position: 24
 image: "/uploads/lisa-bamberg.jpg"
 class: Mark 3
+profiles:
+  mbti: INFP
+  github: lisambamberg
+  linkedin: lisabamberg
+  codewars: lisabamberg
 ---
 
