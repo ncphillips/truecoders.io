@@ -14,23 +14,31 @@ layout: page
     {%- endif -%}
 {%- endfor -%}
 
-<h1>{{ page.title }}</h1>
+<div id="hire-form" class="row">
+  <div class="col-lg-6">
+    <h1>{{ page.title }}</h1>
+    {{content}}
 
-{{- course_info | markdownify -}}
+    {%- if next_class -%}
+    {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
+    {%- assign course_details = site.data.theme.course_details | replace: '!PAGE_TITLE!', page.title -%}
+    {%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
+    {%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', next_class.price -%}
 
-{{ content }}
+    {{ course_details | markdownify }}
+    {% endif -%}
 
-{%- if next_class -%}
-<h2>Details</h2>
+    {% if next_class.call_to_action.url %}
+    {% include call-to-action-rows.html call_to_action=next_class.call_to_action hide_title=true is_button_centered=false %}
+    {% endif %}
+  </div>
 
-{% assign next_class_start = next_class.start_date | date: "%B %e" -%}
-{%- assign course_details = site.data.theme.course_details | replace: '!PAGE_TITLE!', page.title -%}
-{%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
-{%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', next_class.price -%}
-
-{{ course_details | markdownify }}
-
-{% endif -%}
+  <div class="col-lg-6">
+    <h2>Contact Us</h2>
+    <p>Give us a call at <a href="tel:{{ site.company.phone }}">{{ site.company.display_phone }}</a> or send us a message:</p>
+    {% include forms/course-form.html to_email=site.company.email submit_title="Submit" %}
+  </div>
+</div>
 
 <h2>Subjects</h2>
 
@@ -41,10 +49,6 @@ layout: page
 <h4>{{ subject.title }}</h4>
 {{ subject.content | markdownify }}
 {%- endfor -%}
-
-{% if next_class.call_to_action.url %}
-{% include call-to-action-rows.html call_to_action=next_class.call_to_action %}
-{% endif %}
 
 {% if next_class.start_date %}
 

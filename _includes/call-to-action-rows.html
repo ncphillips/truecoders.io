@@ -1,7 +1,21 @@
+{%- comment -%}
+<!--
+include:
+  call_to_action:
+    title:
+    url:
+    body:
+  hide_title: false
+  is_button_centered: true
+-->
+{%- endcomment -%}
+
 {% if include.call_to_action.body %}
 <div class="row">
   <div class="col">
+    {% if include.hide_title != true %}
     <h2>{{ include.call_to_action.title }}</h2>
+    {% endif %}
     {{ include.call_to_action.body | markdownify }}
   </div>
 </div>
@@ -13,7 +27,13 @@
   {% assign link_target = "_self" %}
 {% endif %}
 
-<div class="row justify-content-center" style="padding: 40px 0; text-align:center;">
+{% if include.is_button_centered == false %}
+  {% assign row_style = "padding: 40px 0;" %}
+{% else %}
+  {% assign row_style = "padding: 40px 0; text-align:center;" %}
+{% endif %}
+
+<div class="row justify-content-center" style="{{ row_style }}">
   <div class="col">
     <a href="{{ include.call_to_action.url }}" target="{{ link_target }}" class="btn btn-primary btn-lg call-to-action-button" role="button" aria-pressed="true">
       {{ include.call_to_action.title }}
