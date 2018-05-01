@@ -50,12 +50,24 @@ education:
   area: Fullstack Web Development Courses
   start_date: 2017-08-01 00:00:00 -05:00
   end_date: 2018-05-01 00:00:00 -05:00
+  gpa: 
   location: Hoover, AL
   body: |-
     Gained a foundation of HTML, CSS, JS, PHP, SQL and a hunger for more:
 
     * Was part of the team that coded the FullStackBHM.com page
     * Still currently meeting with a group of people post-class, and the owner of the site, to rebuild and implement new features.
+- institution: University of Alabama in Birmingham
+  area: Music Education Degree
+  start_date: 2013-08-01 00:00:00 -05:00
+  end_date: 2015-05-01 00:00:00 -05:00
+  gpa: 
+  location: Birmingham, AL
+  body: |-
+    Percussionist:
+
+    * Completed five semesters of required eight for Music Ed Degree
+    * Completed 80 / 122 credits towards this degree
 skills:
 - name: Responsive Web Development
   level: 
