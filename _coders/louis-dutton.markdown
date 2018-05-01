@@ -37,6 +37,24 @@ work:
 
     * Scheduler
     * Project Management
+education:
+- institution: Jeff State Community College
+  area: Major in Biology
+  start_date: 2009-05-01 01:00:00 -05:00
+  end_date: 2011-12-01 00:00:00 -06:00
+  gpa: 
+  location: Birmingham, AL
+  body: Computer Science, Anatomy, and Physiology
+- institution: University of Alabama in Birmingham
+  area: Major in Biology
+  start_date: 2015-01-01 00:00:00 -06:00
+  end_date: 
+  gpa: 
+  location: Birmingham, AL
+  body: |-
+    Minor in Chemistry:
+
+    * Organic Chemistry
 skills:
 - name: C# and .NET
   level: 
