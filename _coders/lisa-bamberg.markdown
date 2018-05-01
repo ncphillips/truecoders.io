@@ -43,6 +43,17 @@ work:
 
     * Responsible for trained and educating new employees.
     * Managed any issues to ensure stable flow for employees during service.
+- company: Birmingham-Southern College Theatre Shop
+  job_title: Stage Technician
+  start_date: 2007-08-01 01:00:00 -05:00
+  end_date: 2011-05-01 01:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Responsible for all organization, storage, and lending of properties:
+
+    * Constructed and assisted in installations of sets.
+    * Hand painted sets to designer's request.
+    * Prepared space for run of shows and for after show strike.
 skills:
 - name: C# and .NET
   level: 
