@@ -10,6 +10,34 @@ profiles:
   github: standridgejeff
   linkedin: jeff-standridge-0a8037161
   codewars: standridgejeff
+work:
+- company: Luttrell Architectural Woodworks
+  job_title: Custom Woodworker
+  start_date: 2016-01-01 00:00:00 -06:00
+  end_date: 2018-12-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: Started with very little experience in wood working, but adapted quickly and
+    excelled in a completely new, and very challenging, craft.
+- company: Enck & Associates
+  job_title: Manufacturer's Representative
+  start_date: 2009-01-01 00:00:00 -06:00
+  end_date: 2013-12-01 00:00:00 -06:00
+  location: Atlanta, GA
+  body: |-
+    Represented several large hospitality and commercial carpet manufacturers and was    responsible for a large territory consisting of Alabama and northwest Florida:
+
+    * Responsible for the facilitation of the B2B sales process all the way from sales lead generation, to the development and maintenance of productive relationships with clients including architectural design firms, large hospitality management companies, and many others in the hospitality and commercial carpet markets.
+skills:
+- name: C# and .NET
+  level: 
+- name: Java
+  level: 
+- name: ANSI SQL
+  level: 
+- name: HTML
+  level: 
+- name: CSS
+  level: 
 ---
 
 Background in B2B sales which cultivated excellent interpersonal skills, and a talent for developing and maintaining relationships with clients and coworkers. Gained valuable experience working as a part of a team. In looking for a change from sales, I have been actively pursuing computer programming since 2014.
