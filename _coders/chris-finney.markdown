@@ -14,6 +14,7 @@ work:
 - company: 'Project: trimr'
   job_title: Lead Developer
   start_date: 2017-08-01 00:00:00 -05:00
+  end_date: 
   location: Birmingham, AL
   body: "Final project built during the Covalence bootcamp. A responsive mobile web
     application built with Bootstrap and AngularJS. Queries a MySQL database with
@@ -22,6 +23,17 @@ work:
     Acted as Lead Developer. Provided team members with guidance on API decisions,
     application architecture, and web design. \n* A short demonstration can be [viewed
     here](https://youtu.be/aH86z_9gT28)."
+- company: OvenBird
+  job_title: Key Employee and Head Waiter
+  start_date: 2015-10-01 00:00:00 -05:00
+  end_date: 2017-04-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Oversaw the development  of beer draft and bottle list, and responsible for maintaining draft line integrity:
+
+    * Responsible for management duties one day a week
+    * Managed cash drawers and prepared end of night accounting balance sheets
+    * Created inventory management that aid in-stock levels and reduce inventory shrink.
 skills:
 - name: C# and .NET
   level: 
