@@ -57,11 +57,6 @@ education:
 
     - Analyzed trend diet topics including: gluten-free, low-carb, vegan, paleo, etc.
     - Learned psychological reasons we are drawn to foods that do not support health
-references:
-- name: Cody Winton
-  reference: Noah pursues knowledge and asks questions until he understands what he
-    needs to know. He is diligent in both accomplishing and learning from the task
-    at hand. I'd recommend Noah for a QA role.
 skills:
 - name: C# and .NET
   level: 2.3

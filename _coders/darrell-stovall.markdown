@@ -75,12 +75,6 @@ skills:
   level: 4.7
 - name: Technical Sales
   level: 3.5
-references:
-- name: Cody Winton
-  reference: Darrel is anxious to learn and do well in his career as a programmer
-    and possesses a real ability to both learn and teach others what he knows. His
-    work ethic and ability to grasp complex problems make him a real asset to any
-    team. I'd recommend Darrel for a programming position.
 ---
 
 Having recently retired after 25 years as a public school teacher, I decided to pursue a new career in programming. My interest in the field began to take shape when I created coding lessons for my gifted middle school students. Their excitement over solving those kinds of problems was contagious. I've been investing the last several months in learning as much as I can to prepare myself for a programming position, and I am interested in finding a company which shares my values and passions, where I can learn, grow, and make a positive difference:

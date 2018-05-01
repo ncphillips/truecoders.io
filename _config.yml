@@ -85,9 +85,6 @@ defaults:
     skills:
     - name: 
       level: 3
-    references:
-    - name: 
-      reference: 
 - scope:
     path: ''
     type: courses

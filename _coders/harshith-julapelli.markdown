@@ -79,11 +79,6 @@ skills:
   level: 3.7
 - name: Technical Sales
   level: 3.0
-references:
-- name: Cody Winton
-  reference: Harshith is a skilled individual with a real talent for quality. He has
-    a knack for details and an ability to accomplish his work quickly and effectively.
-    I'd highly recommend Harshith for a developer position.
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth. My educational background and technical knowledge have given me the skills required for a Software Developer, with Java and C# as my base languages. Good team player with excellent organizational skills and business process improvements. My strong knowledge of fundamentals and self-motivation along with my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.

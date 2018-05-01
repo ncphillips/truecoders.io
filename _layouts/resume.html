@@ -209,30 +209,6 @@ layout: default
   
   <br/>
   {% endif %}
-
-  <!-- References Row -->
-  <h4>References</h4>
-  
-  {%- if page.references[0].reference -%}
-  {%- assign references = page.references | sort: 'name' | reverse -%}
-  {%- for reference in references limit: 1 %}
-
-  <p>
-    {%- assign teammate = site.team | where: "title", reference.name | first -%}
-
-    {%- if teammate -%}
-      {%- assign job_title = teammate.subtitle -%}
-      {%- assign company = site.company.full_name -%}
-    {%- endif -%}
-
-    {{'“' | append: reference.reference | append: '”'}}<br/>
-    <strong>- {{ reference.name }}</strong> | {% if job_title and company %}{{ job_title }} at {{ company }}{% endif %}
-  </p>
-
-  {%- endfor -%}
-  {%- endif %}
-
-  <p>Further references and contact info for {{ page.title }} are available upon request.</p>
 </div>
 
 {%- comment -%}

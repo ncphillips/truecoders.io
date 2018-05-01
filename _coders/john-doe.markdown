@@ -46,10 +46,6 @@ education:
     * Example One
     * Example Two
     * Example Three
-references:
-- name: Cody Winton
-  reference: John Doe has shown incredible skills and talent. I'd recommend John Doe
-    for a developer position.
 skills:
 - name: C# and .NET
   level: 4.5

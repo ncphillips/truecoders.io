@@ -115,16 +115,6 @@ skills:
   level: 4.8
 - name: Technical Sales
   level: 4.8
-references:
-- name: Cody Winton
-  reference: Antwon is an exceptional individual with a real knack for interaction
-    and explanation. He works well with others, bringing insight and perspective to
-    problems. I highly recommend Antwon for a DBA or Project Management role.
-- name: Martin Murphy
-  reference: I highly recommend Antwon for a DBA position.  He's a tenacity with problems
-    and cool demeanor will make for an excellent addition to any team.  With natural
-    communication skills and emotional intelligence he can bridge the gap between
-    the end user and the business requirements.
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C# and .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.

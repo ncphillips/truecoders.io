@@ -118,11 +118,6 @@ skills:
   level: 3.3
 - name: Customer Service
   level: 4.5
-references:
-- name: Cody Winton
-  reference: Grant is highly intelligent and will not rest until he has accomplished
-    the task at hand. He's a self learner with an ability to tackle any problem given
-    him. I'd highly recommend him for a developer position.
 ---
 
 Experienced and dedicated professional looking to leverage over 8 years of customer service experience, proven problem solving abilities, excellent computer skills, and unique background to a company that has opportunities for career growth and contribution to a team.

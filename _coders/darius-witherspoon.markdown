@@ -66,17 +66,6 @@ skills:
   level: 4.2
 - name: Technical Sales
   level: 4.0
-references:
-- name: Cody Winton
-  reference: Darius has both skill and drive to complete tasks with quality and accuracy.
-    His knowledge of the technical and his exceptional soft skills make him a great
-    addition to a team. I'd recommend Darius for a developer or quality assurance
-    role.
-- name: Martin Murphy
-  reference: Darius is a perpetual learner able to digest complex problems quickly
-    and put them into use. Great interpersonal skills I believe he'll be a valuable
-    asset to any team and produce the best results from those around him. Diagnostics
-    are his strong suit and I look forward to seeing what he can do in the wild.
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company's performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

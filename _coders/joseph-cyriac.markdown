@@ -70,11 +70,6 @@ education:
 
     - College of Business
     - Organized and lead the re-chartering initiative of Auburn University's chapter of the Phi Kappa Psi Fraternity
-references:
-- name: Cody Winton
-  reference: Joseph is anxious to succeed and will do what it takes to accomplish
-    his tasks effectively. He has the technical abilities and the people skills to
-    provide real value to a team. I recommend Joseph for a developer or QA position.
 skills:
 - name: C# and .NET
   level: 3

@@ -107,11 +107,6 @@ skills:
   level: 3.5
 - name: Technical Sales
   level: 2.7
-references:
-- name: Cody Winton
-  reference: Austin has shown himself anxious to learn and do well in his work. He
-    is motivated to succeed and his tenacity and work ethic would make him an excellent
-    addition to a team.
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.
