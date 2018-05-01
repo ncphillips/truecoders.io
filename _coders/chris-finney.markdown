@@ -1,7 +1,6 @@
 ---
 title: Chris Finney
 date: 2018-04-18 10:59:00 -05:00
-published: false
 position: 8
 image: "/uploads/chris-finney.jpg"
 class: Mark 3
@@ -34,6 +33,11 @@ work:
     * Responsible for management duties one day a week
     * Managed cash drawers and prepared end of night accounting balance sheets
     * Created inventory management that aid in-stock levels and reduce inventory shrink.
+education:
+- institution: University of Alabama in Birmingham
+  area: Accounting
+  location: Birmingham, AL
+  body: Completed 94 credits toward Bachelor of Science in Business
 skills:
 - name: C# and .NET
   level: 
