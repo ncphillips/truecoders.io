@@ -9,6 +9,29 @@ profiles:
   github: devBustamento
   linkedin: stbustamento
   codewars: stbustamento
+work:
+- company: Hungry Howies
+  job_title: Store Manager
+  start_date: 2015-08-01 00:00:00 -05:00
+  end_date: 2017-10-01 00:00:00 -05:00
+  location: Helena/Alabaster, AL
+  body: |-
+    Supervised and trained all employees:
+
+    * Redefining the workflow of the store to be more efficient while maximizing profits and quality simultaneously.
+    * Troubleshooting basic IT problems.
+- company: Cracker Barrel
+  job_title: Various Positions
+  start_date: 2013-12-01 00:00:00 -06:00
+  end_date: 2015-06-01 00:00:00 -05:00
+  location: Alabaster, AL
+  body: |-
+    Hands on experience with a couple different POS systems:
+
+    * Cooked
+    * Served
+    * Hosted
+    * Was responsible for closing registers for the nights
 education:
 - institution: Jefferson State University
   area: Fullstack Web Development Courses
