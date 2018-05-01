@@ -1,7 +1,6 @@
 ---
 title: Steven Bustamento
 date: 2018-04-18 10:59:00 -05:00
-published: false
 position: 32
 image: "/uploads/steven-bustamento.jpg"
 class: Mark 3
@@ -69,7 +68,7 @@ education:
     * Completed five semesters of required eight for Music Ed Degree
     * Completed 80 / 122 credits towards this degree
 - institution: Pelham High School
-  area: 
+  area: High School Diploma
   start_date: 2009-01-01 00:00:00 -06:00
   end_date: 2013-01-01 00:00:00 -06:00
   gpa: 
