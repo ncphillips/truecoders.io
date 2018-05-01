@@ -27,6 +27,16 @@ work:
   end_date: 2010-07-01 01:00:00 -05:00
   location: Birmingham, AL
   body: Filled Scripts and Compounding
+- company: Walgreens
+  job_title: Senior Certified Pharmacy Tech
+  start_date: 2010-09-01 01:00:00 -05:00
+  end_date: 
+  location: Birmingham, AL
+  body: |-
+    Stock Management:
+
+    * Scheduler
+    * Project Management
 skills:
 - name: C# and .NET
   level: 
