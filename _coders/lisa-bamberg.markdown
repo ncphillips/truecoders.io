@@ -1,7 +1,6 @@
 ---
 title: Lisa Bamberg
 date: 2018-04-18 10:59:00 -05:00
-published: false
 position: 24
 image: "/uploads/lisa-bamberg.jpg"
 class: Mark 3
@@ -54,6 +53,13 @@ work:
     * Constructed and assisted in installations of sets.
     * Hand painted sets to designer's request.
     * Prepared space for run of shows and for after show strike.
+education:
+- institution: Birmingham-Southern College
+  area: Bachelor of Arts
+  start_date: 2007-08-01 01:00:00 -05:00
+  end_date: 2012-09-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: 'Major: Theatre'
 skills:
 - name: C# and .NET
   level: 
