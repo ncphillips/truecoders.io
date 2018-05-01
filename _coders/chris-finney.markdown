@@ -5,6 +5,10 @@ published: false
 position: 8
 image: "/uploads/chris-finney.jpg"
 class: Mark 3
+profiles:
+  github: CFin86
+  linkedin: cfin86
+  codewars: cfin86
 skills:
 - name: C# and .NET
   level: 
