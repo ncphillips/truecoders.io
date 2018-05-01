@@ -10,6 +10,23 @@ profiles:
   github: Duttonlouis
   linkedin: louis-dutton-a30927160
   codewars: LouisDutton
+work:
+- company: Hollister
+  job_title: Sale Representative, Model
+  start_date: 2005-06-01 01:00:00 -05:00
+  end_date: 2005-12-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    Sales:
+
+    * Wearing brand Clothing
+    * Customer service
+- company: Greystone Pharmacy
+  job_title: Pharmacy Tech
+  start_date: 2006-07-01 01:00:00 -05:00
+  end_date: 2010-07-01 01:00:00 -05:00
+  location: Birmingham, AL
+  body: Filled Scripts and Compounding
 skills:
 - name: C# and .NET
   level: 
