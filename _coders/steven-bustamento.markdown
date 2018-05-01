@@ -32,6 +32,19 @@ work:
     * Served
     * Hosted
     * Was responsible for closing registers for the nights
+- company: Weaver Tidmore, LLC
+  job_title: Office/Admin Assistant
+  start_date: 2009-06-01 01:00:00 -05:00
+  end_date: 2013-07-01 00:00:00 -05:00
+  location: Hoover, AL
+  body: |-
+    Using different resources to structure work in more efficient ways:
+
+    * Basic IT problem solving
+    * Developed aggressive work OCD
+    * Organization
+    * Communication
+    * Documentation
 education:
 - institution: Jefferson State University
   area: Fullstack Web Development Courses
