@@ -41,7 +41,7 @@ work:
     Using different resources to structure work in more efficient ways:
 
     * Basic IT problem solving
-    * Developed aggressive work OCD
+    * Developed aggressive work OCD:
       * Organization
       * Communication
       * Documentation
