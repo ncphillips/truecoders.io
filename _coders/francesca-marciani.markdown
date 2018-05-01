@@ -43,9 +43,32 @@ work:
     * Investigated and flagged websites with fraudulent or malicious content.
     * Balanced company parameters to efficiently produce accurate data on strict time limits.
     * While with Lionbridge, gained an interest in the field of data analysis using Python and R.
+- company: Ohio State University
+  job_title: Course Assistant
+  start_date: 2011-09-01 01:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
+  location: Columbus, OH
+  body: |-
+    Evaluated papers, lab reports, and exams, and occasionally lectured in place of a course instructor, for 4+ courses and 100–250+ students per semester:
+
+    * Maintained an Excel spreadsheet of relevant contributions to a course website for student participation grades.
+    * Hosted 1 – 2 office hours per week to address student questions and concerns.
+    * Corresponded regularly by e-mail and in person with up to 4 professors per semester regarding course planning and grade adjustments.
+- company: Ohio State University
+  job_title: Graduate Enrichment Fellow
+  start_date: 2010-09-01 01:00:00 -05:00
+  end_date: 2013-05-01 00:00:00 -05:00
+  location: Columbus, OH
+  body: |-
+    Collected quantitative and qualitative data from children aged 3 to 5 years at multiple preschool and childcare sites.
+    Completed data analysis in both SPSS and SAS:
+
+    * Presented research findings in quarterly department meetings using Keynote.
+    * Co-authored a paper accepted for presentation at a meeting of the Cognitive Science Society.
+    * Supervised and coordinated with an undergraduate research assistant to collect study data.
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: Java
   level: 
 - name: Git
