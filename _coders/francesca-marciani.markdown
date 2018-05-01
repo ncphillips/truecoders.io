@@ -91,6 +91,13 @@ education:
   gpa: 
   location: Columbus, OH
   body: 'Minor: Quantitative Psychology'
+- institution: Oberlin College
+  area: Bachelor of Arts in Psychology
+  start_date: 
+  end_date: 2009-05-01 01:00:00 -05:00
+  gpa: 
+  location: Oberlin, OH
+  body: High Honors in Psychology
 skills:
 - name: C# and .NET
   level: 3
