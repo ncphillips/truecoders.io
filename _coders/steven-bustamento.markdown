@@ -68,6 +68,18 @@ education:
 
     * Completed five semesters of required eight for Music Ed Degree
     * Completed 80 / 122 credits towards this degree
+- institution: Pelham High School
+  area: 
+  start_date: 2009-01-01 00:00:00 -06:00
+  end_date: 2013-01-01 00:00:00 -06:00
+  gpa: 
+  location: Pelham, AL
+  body: |-
+    Brought a variety of medals home for music performance during this time, be it from events through the school, or events outside of school:
+
+    * Strong leadership skills.
+    * Participated in multiple judged musical solo competitions and coming back with the highest scores possible.
+    * A handful of computer literacy classes and similar classes when offered.
 skills:
 - name: Responsive Web Development
   level: 
