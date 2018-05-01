@@ -33,6 +33,16 @@ work:
     * Collaborated with clients to develop and generate precise designs to their specifications.
     * Assisted in customized electrical requests.
     * Import show files for traveling performances and convert them to be able for in house equipment.
+- company: Sekisui
+  job_title: Front of House
+  start_date: 2011-09-01 01:00:00 -05:00
+  end_date: 2015-10-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Executed detailed knowledge of inventory:
+
+    * Responsible for trained and educating new employees.
+    * Managed any issues to ensure stable flow for employees during service.
 skills:
 - name: C# and .NET
   level: 
