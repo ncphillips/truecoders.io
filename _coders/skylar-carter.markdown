@@ -19,7 +19,7 @@ work:
     Responsible for the development, coordination, implementation and administration of an Oracle R12 enterprise-wide system integration training program to ensure the continued alignment of people, processes and systems that support and maintain employee development, performance management and on-boarding.
 
     * Serve as content development Trainer for Oracle R12 Supply Chain modules: (Order Management, Sales Quoting, Sales Contracts and Service Contracts)
-    * Developed a program wide training strategy to provide system navigation and business process training for new and existing Oracle end users across North America and Asia’s (Sales, Finance, Supply Chain, and Human Capital Management) organizations.
+    * Developed a program wide training strategy to provide system navigation and business process training for new and existing Oracle end users across North America and Asia's (Sales, Finance, Supply Chain, and Human Capital Management) organizations.
     * Design and develop training curriculums for online and classroom based learning.
     * Develop key training deliverables during each phase of the system development lifecycle including Training Strategy, Needs Analysis, Curriculum Plans and Delivery Plans.
     * Performed an in-depth enterprise wide needs assessment in order to create a standard training model across all impacted business groups.
@@ -34,7 +34,7 @@ work:
     Served as a Lead Field Technical Consultant to proficiently provide technical skills with a proven ability to troubleshoot and diagnose issues with a wide variety of systems in an efficient and timely manner. Provided quality service working with clients at all levels in performing the following:
 
     * Responsible for the installation of a proprietary security and monitoring systems software inside federal minimum/maximum prison systems which included CCTV, surveillance camera, access control, card reader, and wireless keypad modules.
-    * Served as team’s Functional Lead for key integrations into legacy network based security systems.
+    * Served as team's Functional Lead for key integrations into legacy network based security systems.
     * Led system integration and user acceptance testing efforts for access control, card reader and wireless keypad modules.
     * Installed, tested, and responsible for intercom systems and VOIP on intercom systems.
     * Supervised electrical contractors on prison sites to ensure system stability.

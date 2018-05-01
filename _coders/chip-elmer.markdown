@@ -52,7 +52,7 @@ work:
   body: |-
     Developed and maintained Scope Additions budget tracking and reporting:
 
-    * Created VBA tools to automate Construction’s direct labor forecasting process
+    * Created VBA tools to automate Construction's direct labor forecasting process
     * Produced Executive metrics packages and progress tracking to evaluate construction KPIs
 education:
 - institution: Auburn University

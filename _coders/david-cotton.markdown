@@ -24,7 +24,7 @@ work:
   body: |-
     Responsible for dealing with customers and general kitchen duties:
 
-    * Regularly worked with Zaxby’s POS system
+    * Regularly worked with Zaxby's POS system
 - company: Arduino Projects
   job_title: Developer
   start_date: 2016-11-01 00:00:00 -05:00

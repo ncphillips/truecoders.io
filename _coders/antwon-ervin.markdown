@@ -58,7 +58,7 @@ work:
     Worked with customers:
 
     - Packed auto glass and related products
-    - Delivered to customer’s premises
+    - Delivered to customer's premises
     - Documented and kept record of information on pick ups and deliveries, automobile mileage, fuel costs, and any problems encountered
 - company: Anthony Underwood Automotive
   job_title: Digital Sales Manager

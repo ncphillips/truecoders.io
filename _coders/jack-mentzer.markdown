@@ -43,7 +43,7 @@ work:
   end_date: 2014-12-01 00:00:00 -06:00
   location: Birmingham, AL
   body: |-
-    Office manager and production assistant for the feature film “Woodlawn”. Handled legal paperwork for all “extras” (background actors) on site and well as recruitment of said actors.
+    Office manager and production assistant for the feature film "Woodlawn". Handled legal paperwork for all "extras" (background actors) on site and well as recruitment of said actors.
 
     - Constant team-work
     - 12-hour days

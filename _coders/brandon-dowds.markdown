@@ -37,7 +37,7 @@ work:
   body: |-
     Responsible for checking out customers and restocking shelves:
 
-    * Responsible for ending a customer’s shopping experience on a good note that encouraged a customer to return.
+    * Responsible for ending a customer's shopping experience on a good note that encouraged a customer to return.
     * Maintained friendly and professional customer interactions. Demonstrated that customers come first by serving them with a sense of urgency.
 education:
 - institution: Auburn University
@@ -61,7 +61,7 @@ education:
   body: |-
     Major in Programming:
 
-    * Received Who’s Who Award
+    * Received Who's Who Award
     * C++ and Visual Basic
     * HTML and CSS
     * ANSI SQL
