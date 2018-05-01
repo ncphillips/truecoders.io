@@ -10,6 +10,18 @@ profiles:
   github: CFin86
   linkedin: cfin86
   codewars: cfin86
+work:
+- company: 'Project: trimr'
+  job_title: Lead Developer
+  start_date: 2017-08-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: "Final project built during the Covalence bootcamp. A responsive mobile web
+    application built with Bootstrap and AngularJS. Queries a MySQL database with
+    Node.js and calls to a third-party API:\n\n* Users are able to connect to mobile
+    hairstylists, where they will come to a user’s location to cut their hair. \n*
+    Acted as Lead Developer. Provided team members with guidance on API decisions,
+    application architecture, and web design. \n* A short demonstration can be [viewed
+    here](https://youtu.be/aH86z_9gT28)."
 skills:
 - name: C# and .NET
   level: 
