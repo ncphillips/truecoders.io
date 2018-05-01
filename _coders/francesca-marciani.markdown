@@ -66,6 +66,16 @@ work:
     * Presented research findings in quarterly department meetings using Keynote.
     * Co-authored a paper accepted for presentation at a meeting of the Cognitive Science Society.
     * Supervised and coordinated with an undergraduate research assistant to collect study data.
+- company: University Of Alabama At Birmingham
+  job_title: Research Assistant
+  start_date: 2010-02-01 00:00:00 -06:00
+  end_date: 2010-10-01 01:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Gathered data for the Youth Safety Lab through behavior in a virtual reality simulator, performance on a psychometric assessment battery, and coding of video interactions:
+
+    * Maintained a password-protected database containing confidential participant contact information, filing system identification numbers, and date of last visit.
+    * Managed incoming telephone calls from parents of children participating in research, scheduling laboratory visits and answering queries about the nature of the research.
 skills:
 - name: C# and .NET
   level: 3
