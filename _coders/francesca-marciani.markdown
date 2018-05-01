@@ -32,6 +32,17 @@ work:
 
     * Monitored student and tutor activity via the timekeeping system, and phoned to notify tutors or academic counselors of late appointments.
     * Performed office upkeep activities such as photocopying, scanning and emailing athletics department memoranda, and maintaining a registry of borrowed or issued items.
+- company: Lionbridge Technologies, Inc.
+  job_title: Internet Assessor
+  start_date: 2013-07-01 00:00:00 -05:00
+  end_date: 2014-03-01 00:00:00 -06:00
+  location: Birmingham, AL
+  body: |-
+    Identified internet search engine returns that best reflected user needs and expectations:
+
+    * Investigated and flagged websites with fraudulent or malicious content.
+    * Balanced company parameters to efficiently produce accurate data on strict time limits.
+    * While with Lionbridge, gained an interest in the field of data analysis using Python and R.
 skills:
 - name: C# and .NET
   level: 
