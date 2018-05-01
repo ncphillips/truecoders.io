@@ -5,5 +5,11 @@ published: false
 position: 21
 image: "/uploads/jeff-standridge.jpg"
 class: Mark 3
+profiles:
+  mbti: ESTJ
+  github: standridgejeff
+  linkedin: jeff-standridge-0a8037161
+  codewars: standridgejeff
 ---
 
+Background in B2B sales which cultivated excellent interpersonal skills, and a talent for developing and maintaining relationships with clients and coworkers. Gained valuable experience working as a part of a team. In looking for a change from sales, I have been actively pursuing computer programming since 2014.
