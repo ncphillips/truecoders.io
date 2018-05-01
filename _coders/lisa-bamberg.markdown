@@ -14,12 +14,25 @@ work:
 - company: Abhi
   job_title: Front of House
   start_date: 2017-05-20 00:00:00 -05:00
+  end_date: 
   location: Birmingham, AL
   body: |-
     Responsible for providing a high-caliber experience and exceptional customer service:
 
     Perform multiple tasks at once, under heavy time constraints.
     Help to maintain the multiple award winning image and culture.
+- company: Samford University Wright Fine Arts Center
+  job_title: Lighting Designer
+  start_date: 2015-08-01 00:00:00 -05:00
+  end_date: 2017-04-01 00:00:00 -05:00
+  location: Birmingham, AL
+  body: |-
+    Head of lighting department for a 2,633 seat performing arts center. Designed lighting for Samford University’s productions, contracted work including the Alabama Ballet and Alabama Symphony Orchestra and national touring companies:
+
+    * Programmed and recorded lighting designs on consoles to be executed during show time.
+    * Collaborated with clients to develop and generate precise designs to their specifications.
+    * Assisted in customized electrical requests.
+    * Import show files for traveling performances and convert them to be able for in house equipment.
 skills:
 - name: C# and .NET
   level: 
