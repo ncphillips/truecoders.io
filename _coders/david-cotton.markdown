@@ -95,17 +95,17 @@ education:
   body: Robotics, IT fundamentals, and Java Programming courses
 skills:
 - name: Linux Kernel
-  level: 
+  level: 3
 - name: Java
   level: 
 - name: ANSI SQL
   level: 
 - name: C
-  level: 
+  level: 2
 - name: C#
   level: 
 - name: Python
-  level: 
+  level: 2
 - name: HTML
   level: 
 - name: CSS
