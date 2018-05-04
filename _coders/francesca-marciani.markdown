@@ -97,7 +97,7 @@ education:
   end_date: 2017-04-01 00:00:00 -05:00
   gpa: 
   location: Birmingham, AL
-  body: Coursework in single, and multivariable calculus, linear algebra
+  body: Coursework in single and multivariable calculus, linear algebra
 - institution: Ohio State University
   area: Master of Arts in Developmental Psychology
   start_date: 
