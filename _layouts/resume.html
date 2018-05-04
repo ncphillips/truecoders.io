@@ -15,7 +15,7 @@ layout: default
       <img src={{ page.image }} alt="{{ page.title }}" style="max-width:144px; border-radius:50%">
       {% endif %}
       <h3>{{ page.title }}</h3>
-      
+
       {% if page.class %}
       <img src="{{ site.data.theme.logo | relative_url }}" alt="Logo" style="width:64px;">
       <strong>{{ page.class }} Graduate</strong>
@@ -46,7 +46,7 @@ layout: default
           </a>
         </li>
         {%- endif -%}
-        
+
         {% if page.profiles.github %}
         <li class="list-inline-item">
           <a href="{{ "https://www.github.com/" | append: page.profiles.github }}" target="_blank" style="color:#212529; text-decoration:none; margin: 0px 10px;">
@@ -86,7 +86,7 @@ layout: default
   {% endif %}
 
   {{ content }}
-  
+
   <br/>
 
   <!-- Skills Row -->
@@ -106,10 +106,10 @@ layout: default
     <div class="col-6 col-md-3 col-lg-2">
       <p>
         {% assign level = skill.level | default: 3 | times: 2.0 | floor | times: 1.0 | divided_by: 2.0 %}
-        
+
         {%- for i in (1..5) -%}
         {%- assign i_half = i | minus: 0.5 -%}
-        
+
         {%- if level >= i -%}
         <i class="fa fa-circle"></i>
         {%- elsif level >= i_half -%}
@@ -122,20 +122,20 @@ layout: default
     </div>
     {% endfor %}
   </div>
-  
+
   <br/>
   {% endif %}
 
   <!-- Work Row -->
   <h4>Work</h4>
 
-  {%- assign works = page.work | sort: 'end_date', 'last' | sort: 'start_date', 'last' | reverse -%}
+  {%- assign works = page.work | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
   {%- assign company = "" -%}
 
   {%- for work in works -%}
-  
+
   {%- unless work.company and work.job_title -%} {% continue %} {%- endunless -%}
-  
+
   {%- if work.end_date >= site.time or work.company == site.title -%}
   {%- assign end_date = "Present" | upcase -%}
   {%- else -%}
@@ -174,9 +174,9 @@ layout: default
   {%- assign educations = educations | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
 
   {%- for education in educations -%}
-  
+
   {%- unless education.institution -%} {% continue %} {%- endunless -%}
-  
+
   {%- if education.end_date < site.time -%}
   {%- assign end_date = education.end_date | date: "%b %Y" | default: "Present" | upcase -%}
   {%- else -%}
@@ -199,7 +199,7 @@ layout: default
         {%- endif -%}
 
         {% if education.start_date %}
-        {{ education.start_date | date: "%b %Y" | upcase }} - 
+        {{ education.start_date | date: "%b %Y" | upcase }} -
         {%- endif -%}
         {{ end_date }}<br/>
       </p>
