@@ -11,7 +11,7 @@ profiles:
   codewars: standridgejeff
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: Java
   level: 
 - name: ANSI SQL
@@ -57,4 +57,4 @@ education:
   body: Major in Business Administration
 ---
 
-Background in B2B sales which cultivated excellent interpersonal skills, and a talent for developing and maintaining relationships with clients and coworkers. Gained valuable experience working as a part of a team. In looking for a change from sales, I have been actively pursuing computer programming since 2014.
+In looking for a change from sales, I have been actively pursuing computer programming since 2014. My background in B2B sales cultivated excellent interpersonal skills, and a talent for developing and maintaining relationships with clients and coworkers was very valuable experience working as a part of a team. Passionate about technology and about learning.
