@@ -24,6 +24,8 @@ skills:
   level: 
 - name: HTML and CSS
   level: 5
+- name: RDBMS Design
+  level: 
 work:
 - company: 'Project: trimr'
   job_title: Lead Developer
