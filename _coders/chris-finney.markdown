@@ -11,7 +11,7 @@ profiles:
   codewars: cfin86
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: ANSI SQL
   level: 
 - name: Java
@@ -22,6 +22,8 @@ skills:
   level: 
 - name: Git
   level: 
+- name: HTML and CSS
+  level: 5
 work:
 - company: 'Project: trimr'
   job_title: Lead Developer
