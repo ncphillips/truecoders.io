@@ -27,7 +27,7 @@ skills:
 - name: CSS
   level: 
 - name: Microsoft Word Certified
-  level: 
+  level: 2
 work:
 - company: Freelance
   job_title: Developer
