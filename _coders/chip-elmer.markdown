@@ -11,9 +11,9 @@ profiles:
   codewars: chipelmer
 skills:
 - name: C# and .NET
-  level: 
+  level: 4
 - name: VBA
-  level: 
+  level: 4.5
 - name: ANSI SQL
   level: 
 - name: RDBMS Design
@@ -26,6 +26,17 @@ skills:
   level: 5
 work:
 - company: CB&A Project Management Services
+  job_title: Consultant at Southern Company
+  start_date: 2016-11-01 00:00:00 -05:00
+  end_date: 
+  location: Birmingham, AL
+  body: |-
+    Supported Southern Company's Project Controls:
+
+    * Provided analysis for Southern Power's renewables fleet retrofits & maintenance budgets
+    * Supported Estimating department by implementing new workflows
+    * Created Excel/Access VBA process solutions for $400+ million estimates
+- company: CB&A Project Management Services
   job_title: Consultant – IT Specialist and Project Management
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 
@@ -35,16 +46,6 @@ work:
 
     * Streamlined CB&A candidate management process by creating C# application with a SQL database
     * Maintained CB&A and client relational databases using Microsoft SQL Server and TSQL
-- company: CB&A Project Management Services
-  job_title: Consultant at Southern Company
-  start_date: 2016-11-01 00:00:00 -05:00
-  end_date: 
-  location: Birmingham, AL
-  body: |-
-    Provided analysis for Southern Power's renewables fleet retrofits & maintenance budgets:
-
-    * Supported Estimating department by implementing new workflows
-    * Created Excel/Access VBA process solutions for $400+ million estimates
 - company: CB&A Project Management Services
   job_title: IT Specialist at BP
   start_date: 2015-11-01 00:00:00 -05:00
