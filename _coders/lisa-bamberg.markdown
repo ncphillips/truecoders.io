@@ -39,7 +39,7 @@ work:
   end_date: 2017-04-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
-    Head of lighting department for a 2,633 seat performing arts center. Designed lighting for Samford University's productions, contracted work including the Alabama Ballet and Alabama Symphony Orchestra and national touring companies:
+    Head of lighting department for a 2,633 seat performing arts center. Designed lighting for Samford University’s productions, contracted work including the Alabama Ballet and Alabama Symphony Orchestra and national touring companies:
 
     * Programmed and recorded lighting designs on consoles to be executed during show time.
     * Collaborated with clients to develop and generate precise designs to their specifications.
