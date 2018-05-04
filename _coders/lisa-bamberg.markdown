@@ -51,10 +51,10 @@ work:
   end_date: 2015-10-01 00:00:00 -05:00
   location: Birmingham, AL
   body: |-
-    Executed detailed knowledge of inventory:
+    Lead server who executed detailed knowledge of Japanese cuisine and culture to promote the restaurant:
 
-    * Responsible for trained and educating new employees.
-    * Managed any issues to ensure stable flow for employees during service.
+    * Assistant to the head bartender and maintained bar space.
+    * Responsible for training and educating new employees.
 - company: Birmingham-Southern College Theatre Shop
   job_title: Stage Technician
   start_date: 2007-08-01 01:00:00 -05:00
