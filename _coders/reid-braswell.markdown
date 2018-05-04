@@ -10,8 +10,8 @@ profiles:
   linkedin: reid-braswell
   codewars: reidbraswell
 skills:
-- name: Java and Net Beans
-  level: 4.5
+- name: Java
+  level: 4
 - name: C# and .NET
   level: 
 - name: COBOL
@@ -41,16 +41,6 @@ work:
     * Developed and maintained Bash or Korn shell scripts required by COBOL applications and Java build jobs that ran on a LINUX / AIX operating system.
     * Maintained several Jenkins CI build jobs for both COBOL and Java web-based applications.
     * Maintained SSL certificates.
-- company: Personal Projects
-  job_title: Developer
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 
-  location: Birmingham, AL
-  body: |-
-    1. [Tribute Page](https://codepen.io/heptode/full/yXPGLj/)
-    2. [Quote Machine](https://codepen.io/heptode/full/ZyvoEx/)
-    3. [Wikipedia Viewer](https://codepen.io/heptode/full/pwKJor/)
-    4. [Simple Date Picker](https://codepen.io/heptode/full/ayKMwL/)
 education:
 - institution: University of Alabama Birmingham
   area: Bachelor of Science in Computer Science
