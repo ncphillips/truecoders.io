@@ -26,6 +26,8 @@ skills:
   level: 
 - name: ANSI SQL
   level: 
+- name: AWS
+  level: 
 work:
 - company: McKesson Pharmacy Systems
   job_title: Software Engineer
