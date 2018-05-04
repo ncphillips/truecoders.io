@@ -102,9 +102,7 @@ education:
   body: |-
     Training in:
 
-    * HTML, CSS, and JavaScript
-    * ANSI SQL and Relational Databases
-    * Source Control using Git
+    * Java
 - institution: Vestavia Hills High School
   area: High School Diploma
   start_date: 
