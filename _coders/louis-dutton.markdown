@@ -11,7 +11,7 @@ profiles:
   codewars: LouisDutton
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: Java
   level: 
 - name: Git
@@ -21,7 +21,7 @@ skills:
 - name: Office Suite
   level: 
 - name: Certified Pharmacy Tech
-  level: 
+  level: 5
 work:
 - company: Hollister
   job_title: Sale Representative, Model
