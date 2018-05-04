@@ -66,8 +66,9 @@ work:
   end_date: 2015-10-01 00:00:00 -05:00
   location: Meridian, MS
   body: |-
-    Developed and maintained Scope Additions budget tracking and reporting:
+    Supported Mississippi Power:
 
+    * Developed and maintained Scope Additions budget tracking and reporting
     * Created VBA tools to automate Construction's direct labor forecasting process
     * Produced Executive metrics packages and progress tracking to evaluate construction KPIs
 education:
