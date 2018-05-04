@@ -18,8 +18,8 @@ skills:
   level: 
 - name: JavaScript
   level: 
-- name: Angular
-  level: 
+- name: Front End Web Development
+  level: 4
 - name: Git
   level: 
 - name: HTML and CSS
