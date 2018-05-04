@@ -11,7 +11,7 @@ profiles:
   codewars: lisabamberg
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: ANSI SQL
   level: 
 - name: HTML
