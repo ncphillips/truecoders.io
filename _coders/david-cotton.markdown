@@ -11,7 +11,7 @@ profiles:
   codewars: privateporkers
 skills:
 - name: Linux Kernel
-  level: 3
+  level: 3.5
 - name: Java
   level: 
 - name: ANSI SQL
