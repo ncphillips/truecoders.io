@@ -11,7 +11,7 @@ profiles:
   codewars: nutunjamai
 skills:
 - name: C# and .NET
-  level: 
+  level: 3
 - name: Java
   level: 
 - name: ANSI SQL
@@ -60,7 +60,7 @@ education:
   area: Associate's Degree Computer Engineering and Computer Technology
   start_date: 2001-03-01 00:00:00 -06:00
   end_date: 2003-03-01 00:00:00 -06:00
-  location: Carmel, IN
+  location: Birmingham, AL
 ---
 
 Innovative Information Technology (IT) Professional with a track record of applying knowledge of computer science and other computer related technologies to IT operations and infrastructures.   Reputation for taking pride in achieving the highest goals to define enterprise and technology strategies and solutions.  Valuable team member who possesses excellent communication skills and works well within a team environment to accomplish organizational goals.
