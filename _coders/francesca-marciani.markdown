@@ -18,7 +18,7 @@ skills:
   level: 
 - name: ANSI SQL
   level: 
-- name: Quantitative Research and Analysis
+- name: Quantitative Research
   level: 
 - name: Python
   level: 
