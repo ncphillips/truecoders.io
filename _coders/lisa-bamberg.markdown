@@ -25,14 +25,14 @@ skills:
 work:
 - company: Abhi
   job_title: Front of House
-  start_date: 2017-05-20 00:00:00 -05:00
+  start_date: 2017-05-01 00:00:00 -05:00
   end_date: 
   location: Birmingham, AL
-  body: |-
-    Responsible for providing a high-caliber experience and exceptional customer service:
-
-    Perform multiple tasks at once, under heavy time constraints.
-    Help to maintain the multiple award winning image and culture.
+  body: "Part of a team of professionals who maintain an award winning business by
+    providing a high-caliber experience and exceptional customer service with 7 years
+    of experience:\n \n* Perform multiple tasks at once, under heavy time constraints.\n*
+    Able to think quickly and respond effectively to challenging situations.\n* Skillfully
+    anticipated and addressed guest service needs."
 - company: Samford University Wright Fine Arts Center
   job_title: Lighting Designer
   start_date: 2015-08-01 00:00:00 -05:00
