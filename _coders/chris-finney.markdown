@@ -18,7 +18,7 @@ skills:
   level: 
 - name: JavaScript
   level: 
-- name: Front End Web Development
+- name: Front-End Web Development
   level: 4
 - name: Git
   level: 
