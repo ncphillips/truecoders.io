@@ -42,7 +42,7 @@ work:
   end_date: 
   location: Birmingham, AL
   body: |-
-    Provided specialized supported for clients in the industrial construction project management industry:
+    Provided specialized support for clients in the industrial construction project management industry:
 
     * Streamlined CB&A candidate management process by creating C# application with a SQL database
     * Maintained CB&A and client relational databases using Microsoft SQL Server and TSQL
