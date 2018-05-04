@@ -7,7 +7,7 @@ class: Mark 3
 profiles:
   mbti: ESTJ
   github: standridgejeff
-  linkedin: jeff-standridge-0a8037161
+  linkedin: jeff-standridge
   codewars: standridgejeff
 skills:
 - name: C# and .NET
@@ -20,6 +20,8 @@ skills:
   level: 
 - name: CSS
   level: 
+- name: Office Suite
+  level: 4
 work:
 - company: Luttrell Architectural Woodworks
   job_title: Custom Woodworker
