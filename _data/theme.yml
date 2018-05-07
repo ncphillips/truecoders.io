@@ -15,13 +15,13 @@ scripts:
 - "/assets/js/main.js"
 socials:
 - title: Facebook
-  url: http://facebook.com/truecodersio
+  url: https://facebook.com/truecodersio
   fa_icon: fa-facebook
 - title: Twitter
-  url: http://twitter.com/truecodersio
+  url: https://twitter.com/truecodersio
   fa_icon: fa-twitter
 - title: Instagram
-  url: http://instagram.com/truecodersio
+  url: https://instagram.com/truecodersio
   fa_icon: fa-instagram
 - title: GitHub
   url: https://github.com/truecodersio
