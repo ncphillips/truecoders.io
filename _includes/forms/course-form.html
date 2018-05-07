@@ -6,7 +6,9 @@ include:
 -->
 {%- endcomment -%}
 
-<form method="POST" action="http://formspree.io/{{ include.to_email }}" target="_blank">
+<form method="POST" action="http://formspree.io/{{ include.to_email }}">
+  <input type="hidden" name="_subject" value="Course Form Submission" />
+  <input type="hidden" name="_next" value="{{ page.url }}" />
   <div class="form-group">
     <label for="sales-form-name">Name</label>
     <input type="text" name="name" class="form-control" id="sales-form-name" placeholder="Your Name" required>
