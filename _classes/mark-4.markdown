@@ -5,7 +5,7 @@ position: 3
 course: C# and .NET
 start_date: 2018-07-02 08:00:00 -05:00
 end_date: 2018-08-24 14:00:00 -05:00
-price: "$7,500"
+price: 7500
 call_to_action:
   url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
 ---

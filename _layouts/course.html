@@ -23,7 +23,9 @@ layout: page
     {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
     {%- assign course_details = site.data.theme.course_details | replace: '!PAGE_TITLE!', page.title -%}
     {%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
-    {%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', next_class.price -%}
+
+    {%- assign class_price = next_class.price | prepend: "$" -%}
+    {%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', class_price -%}
 
     {{ course_details | markdownify }}
     {% endif -%}

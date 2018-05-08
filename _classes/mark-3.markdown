@@ -5,7 +5,7 @@ position: 2
 course: C# and .NET
 start_date: 2018-04-02 08:00:00 -05:00
 end_date: 2018-05-25 14:00:00 -05:00
-price: "$7,500"
+price: 7500
 ---
 
 Focus on {{ page.course }}, including:

@@ -40,7 +40,7 @@ defaults:
     course: 
     start_date: 
     end_date: 
-    price: "$7,500"
+    price: 0
     has_scholarship: true
     location: Birmingham, AL
     institution: TrueCoders
@@ -53,7 +53,7 @@ defaults:
         If you're interested in this course, please take the our aptitude test.
     stats:
       students_placed: 
-      average_salary: 
+      average_salary: 0
 - scope:
     path: ''
     type: coders
