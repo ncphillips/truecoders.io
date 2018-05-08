@@ -44,8 +44,6 @@ defaults:
     has_scholarship: true
     location: Birmingham, AL
     institution: TrueCoders
-    company: TrueCoders
-    job_title: Developer
     call_to_action:
       title: Aptitude Test
       url: 
@@ -53,6 +51,9 @@ defaults:
         Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship.
 
         If you're interested in this course, please take the our aptitude test.
+    stats:
+      students_placed: 
+      average_salary: 
 - scope:
     path: ''
     type: coders
