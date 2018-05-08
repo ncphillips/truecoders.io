@@ -6,9 +6,9 @@ course: C# and .NET
 start_date: 2017-10-03 01:00:00 -05:00
 end_date: 2017-11-22 00:00:00 -06:00
 call_to_action:
-  stats:
-    students_placed: 10
-    average_salary: "$47,500"
+stats:
+  students_placed: 10
+  average_salary: "$47,500"
 ---
 
 Focus on {{ page.course }}, including:
