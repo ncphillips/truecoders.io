@@ -1,0 +1,53 @@
+---
+pages:
+- _team/martin-murphy.md
+- _team/daniel-walsh.md
+- _team/cody-winton.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: 
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+- name: is_board_member
+  label: Is board member
+  type: boolean
+  hidden: false
+  default: false
+- name: is_teacher
+  label: Is teacher
+  type: boolean
+  hidden: false
+  default: false
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page

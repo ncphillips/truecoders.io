@@ -1,0 +1,46 @@
+---
+pages:
+- _faqs/what.md
+- _faqs/who.md
+- _faqs/contact.md
+- _faqs/accredited.md
+- _faqs/scholarship.md
+- _faqs/failure.md
+- _faqs/work-after.md
+- _faqs/no-scholarship.md
+- _faqs/work-during.md
+- _faqs/computer.md
+- _faqs/scholarship-payback.md
+- _faqs/scholarship-cost.md
+- _faqs/age.md
+- _faqs/experience.md
+- _faqs/schedule.md
+- _faqs/placement-details.md
+- _faqs/cost.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Question
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+  description: Frequently asked question
+- type: datetime
+  name: date
+  label: Date
+  hidden: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - company
+    - cost
+    - courses
+    - placement
+    required: true
+  label: Category
+  name: categories

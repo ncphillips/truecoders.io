@@ -29,31 +29,7 @@ collections:
   team:
     title: Team
     output: false
-  uploads:
-    title: Uploads
-    output: true
 defaults:
-- scope:
-    path: ''
-    type: classes
-  values:
-    course: 
-    start_date: 
-    end_date: 
-    price: 0
-    has_scholarship: true
-    location: Birmingham, AL
-    institution: TrueCoders
-    call_to_action:
-      title: Aptitude Test
-      url: 
-      body: |-
-        Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship.
-
-        If you're interested in this course, please take the our aptitude test.
-    stats:
-      students_placed: 
-      average_salary: 0
 - scope:
     path: ''
     type: coders
@@ -91,26 +67,11 @@ defaults:
     type: courses
   values:
     layout: course
-    hero:
-      color: "#4b4948"
-      image: 
-    subtitle: 
-    image: 
-    subjects:
-    - 
 - scope:
     path: ''
     type: employers
   values:
     layout: page
-    subtitle: 
-    image: 
-    website: 
-- scope:
-    path: ''
-    type: faqs
-  values:
-    display_title: 
 - scope:
     path: ''
     type: sections
@@ -162,46 +123,46 @@ defaults:
       url: 
       body: 
 - scope:
-    path: about.markdown
+    path: about.md
     type: pages
   values:
     layout: collection-page
     collection: team
 - scope:
-    path: courses.markdown
+    path: courses.md
     type: pages
   values:
     layout: collection-page
     collection: courses
 - scope:
-    path: employers.markdown
+    path: employers.md
     type: pages
   values:
     layout: collection-page
     collection: employers
 - scope:
-    path: coders.markdown
+    path: coders.md
     type: pages
   values:
     layout: collection-page
     collection: coders
 - scope:
-    path: contact.markdown
+    path: contact.md
     type: pages
   values:
     layout: contact
 - scope:
-    path: faqs.markdown
+    path: faqs.md
     type: pages
   values:
     layout: faqs
 - scope:
-    path: hire.markdown
+    path: hire.md
     type: pages
   values:
     layout: hire
 - scope:
-    path: index.markdown
+    path: index.md
     type: pages
   values:
     layout: index
@@ -213,19 +174,6 @@ description: |-
   Be Mentored. Be Connected.
 
   We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-company:
-  email: contact@truecoders.io
-  full_name: TrueCoders LLC
-  display_phone: "(205) 530-8496"
-  phone: 12055308496
-  location:
-    address: '2131 Data Office Dr #235'
-    city: Hoover
-    region: AL
-    postal_code: 35244
-    country_code: US
-analytics:
-  google_tracking_id: UA-104643272-1
 author:
   name: TrueCoders
   twitter: truecodersio
