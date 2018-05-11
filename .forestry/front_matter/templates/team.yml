@@ -7,35 +7,29 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Name
   type: text
   hidden: false
   default: ''
+  description: e.g. John Smith
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: position
-  label: Position
-  type: text
-  hidden: false
-  default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: 
 - name: subtitle
-  label: Subtitle
+  label: Job Title
   type: text
   hidden: false
   default: 
+  description: e.g. CEO
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
 - name: is_board_member
   label: Is board member
   type: boolean
@@ -46,8 +40,3 @@ fields:
   type: boolean
   hidden: false
   default: false
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: page
