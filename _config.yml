@@ -99,10 +99,6 @@ defaults:
     type: team
   values:
     layout: page
-    subtitle: 
-    is_board_member: false
-    is_teacher: false
-    image: 
 - scope:
     path: ''
     type: pages
