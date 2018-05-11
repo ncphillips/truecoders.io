@@ -11,23 +11,23 @@ profiles:
   codewars: stbustamento
 skills:
 - name: Responsive Web Development
-  level: 
+  level: 3
 - name: HTML
-  level: 
+  level: 3
 - name: CSS
-  level: 
+  level: 3
 - name: JavaScript
-  level: 
+  level: 3
 - name: C# and .NET
-  level: 
+  level: 3
 - name: Java
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 - name: PHP
-  level: 
+  level: 3
 work:
 - company: Hungry Howies
   job_title: Store Manager

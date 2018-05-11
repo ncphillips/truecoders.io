@@ -13,13 +13,13 @@ skills:
 - name: C# and .NET
   level: 3
 - name: Java
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: Office Suite
-  level: 
+  level: 3
 - name: Certified Pharmacy Tech
   level: 5
 work:

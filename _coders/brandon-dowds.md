@@ -11,21 +11,21 @@ profiles:
   codewars: bdowds
 skills:
 - name: C#
-  level: 
+  level: 3
 - name: C++
-  level: 
+  level: 3
 - name: Java
-  level: 
+  level: 3
 - name: SQL
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 - name: Visual Basic
-  level: 
+  level: 3
 - name: HTML
-  level: 
+  level: 3
 - name: CSS
-  level: 
+  level: 3
 work:
 - company: Grand Prix Karting
   job_title: Track Lead

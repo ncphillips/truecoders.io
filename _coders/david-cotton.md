@@ -13,19 +13,19 @@ skills:
 - name: Linux Kernel
   level: 3.5
 - name: Java
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: C
   level: 2
 - name: C#
-  level: 
+  level: 3
 - name: Python
   level: 2
 - name: HTML
-  level: 
+  level: 3
 - name: CSS
-  level: 
+  level: 3
 - name: Microsoft Word Certified
   level: 2
 work:

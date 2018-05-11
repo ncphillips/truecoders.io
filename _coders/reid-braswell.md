@@ -13,21 +13,21 @@ skills:
 - name: Java
   level: 4
 - name: C# and .NET
-  level: 
+  level: 3
 - name: COBOL
-  level: 
+  level: 3
 - name: RPG II
-  level: 
+  level: 3
 - name: XSLT
-  level: 
+  level: 3
 - name: HTML, CSS, & JavaScript
-  level: 
+  level: 3
 - name: 'Linux: Red Hat & Ubuntu'
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: AWS
-  level: 
+  level: 3
 work:
 - company: McKesson Pharmacy Systems
   job_title: Software Engineer

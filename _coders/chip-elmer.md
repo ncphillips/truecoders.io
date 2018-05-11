@@ -15,13 +15,13 @@ skills:
 - name: VBA
   level: 4.5
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: RDBMS Design
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 - name: Office Suite
-  level: 
+  level: 3
 - name: Microsoft Excel
   level: 5
 work:

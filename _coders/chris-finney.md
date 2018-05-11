@@ -13,19 +13,19 @@ skills:
 - name: C# and .NET
   level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: Java
-  level: 
+  level: 3
 - name: JavaScript
-  level: 
+  level: 3
 - name: Front-End Web Development
   level: 4
 - name: Git
-  level: 
+  level: 3
 - name: HTML and CSS
   level: 5
 - name: RDBMS Design
-  level: 
+  level: 3
 work:
 - company: 'Project: trimr'
   job_title: Lead Developer

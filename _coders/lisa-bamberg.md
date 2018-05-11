@@ -13,15 +13,15 @@ skills:
 - name: C# and .NET
   level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: HTML
-  level: 
+  level: 3
 - name: CSS
-  level: 
+  level: 3
 - name: JavaScript
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 work:
 - company: Abhi
   job_title: Front of House

@@ -13,13 +13,13 @@ skills:
 - name: C# and .NET
   level: 3
 - name: Java
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: HTML
-  level: 
+  level: 3
 - name: CSS
-  level: 
+  level: 3
 - name: Office Suite
   level: 4
 work:

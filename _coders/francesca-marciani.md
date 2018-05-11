@@ -13,17 +13,17 @@ skills:
 - name: C# and .NET
   level: 3
 - name: Java
-  level: 
+  level: 3
 - name: Git
-  level: 
+  level: 3
 - name: ANSI SQL
-  level: 
+  level: 3
 - name: Quantitative Research
-  level: 
+  level: 3
 - name: Python
-  level: 
+  level: 3
 - name: R
-  level: 
+  level: 3
 work:
 - company: University of Alabama at Birmingham
   job_title: Mathematics Tutor

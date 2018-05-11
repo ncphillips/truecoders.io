@@ -35,33 +35,6 @@ defaults:
     type: coders
   values:
     layout: resume
-    subtitle: 
-    image: 
-    class: 
-    profiles:
-      mbti: 
-      github: 
-      linkedin: 
-      codewars: 
-      vimeo_resume: 
-    skills:
-    - name: 
-      level: 3
-    work:
-    - company: 
-      job_title: 
-      start_date: 
-      end_date: 
-      location: 
-      body: 
-    education:
-    - institution: 
-      area: 
-      start_date: 
-      end_date: 
-      gpa: 
-      location: 
-      body: 
 - scope:
     path: ''
     type: courses
