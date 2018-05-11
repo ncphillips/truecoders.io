@@ -1,0 +1,97 @@
+---
+pages:
+- _classes/mark-4.markdown
+- _classes/kids-1.markdown
+- _classes/mark-3.markdown
+- _classes/mark-2.markdown
+- _classes/mark-1.markdown
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: position
+  label: Position
+  type: text
+  hidden: false
+  default: ''
+- name: course
+  label: Course
+  type: text
+  hidden: false
+  default: 
+- name: start_date
+  label: Start date
+  type: datetime
+  hidden: false
+  default: 
+- name: end_date
+  label: End date
+  type: datetime
+  hidden: false
+  default: 
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: 0
+- name: stats
+  label: Stats
+  type: field_group
+  fields:
+  - name: students_placed
+    label: Students placed
+    type: text
+    hidden: false
+    default: ''
+  - name: average_salary
+    label: Average salary
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: call_to_action
+  label: Call to action
+  type: field_group
+  fields:
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: body
+    label: Body
+    type: textarea
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: has_scholarship
+  label: Has scholarship
+  type: boolean
+  hidden: false
+  default: true
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: Birmingham, AL
+- name: institution
+  label: Institution
+  type: text
+  hidden: false
+  default: TrueCoders
