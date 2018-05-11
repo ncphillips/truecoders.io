@@ -1,6 +1,6 @@
 ---
 title: Harshith Julapelli
-date: 2017-11-14 02:02:00 -06:00
+date: 2017-11-14 08:02:00 +0000
 position: 16
 image: "/uploads/harshith-julapelli.jpg"
 class: _classes/mark-1.md
@@ -28,12 +28,12 @@ skills:
 - name: Soft Skills
   level: 3.7
 - name: Technical Sales
-  level: 3.0
+  level: 3
 work:
 - company: University of Central Missouri
   job_title: Graduate Research Assistant
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  start_date: 2016-01-01 06:00:00 +0000
+  end_date: 2016-12-01 06:00:00 +0000
   location: 
   body: |-
     Worked under the support and guidance of the senior professor:
@@ -46,8 +46,8 @@ work:
     - Wrote reports on the data analyzed
 - company: University of Central Missouri
   job_title: Emergency Mail Sender
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2015-12-01 00:00:00 -06:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2015-12-01 06:00:00 +0000
   body: Emergency mail sender is an android application targeted for many users who
     cannot access their mobiles for long duration of time. EMS sends the missed calls
     and message details to the user specified email id. Few times by not attempting
@@ -59,7 +59,7 @@ education:
 - institution: University of Central Missouri
   area: Master of Computer Science
   start_date: 
-  end_date: 2016-12-01 00:00:00 -06:00
+  end_date: 2016-12-01 06:00:00 +0000
   gpa: 3.6
   location: Warrensburg, MO
   body: |-
@@ -70,7 +70,7 @@ education:
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
   start_date: 
-  end_date: 2015-04-01 00:00:00 -05:00
+  end_date: 2015-04-01 05:00:00 +0000
   gpa: 3.5
   location: Hyderabad, India
   body: |-
@@ -79,6 +79,7 @@ education:
     * Student Coordinator, Training and Placement Cell, SREC Warangal.
     * Member of Computer Society of India (CSI)
     * Joint Secretary, National Service Scheme (NSS)
+subtitle: ''
 ---
 
 To obtain a position that will enable me to use my technical Knowledge, educational background and ability to work well with the people in a challenging and healthy work environment where I can utilize my skills for organizational and personal growth. My educational background and technical knowledge have given me the skills required for a Software Developer, with Java and C# as my base languages. Good team player with excellent organizational skills and business process improvements. My strong knowledge of fundamentals and self-motivation along with my efficient problem - solving skills and "can do" attitude can be definitely useful for the growth of your company as well as my career.
