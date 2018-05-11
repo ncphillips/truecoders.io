@@ -146,31 +146,46 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: e.g. Company LLC
+    config:
+      required: true
   - name: job_title
-    label: Job title
+    label: Job Title
     type: text
     hidden: false
     default: ''
-  - name: start_date
-    label: Start date
-    type: datetime
-    hidden: false
-    default: ''
-  - name: end_date
-    label: End date
-    type: datetime
-    hidden: false
-    default: ''
-  - name: body
-    label: Body
-    type: textarea
-    hidden: false
-    default: ''
+    config:
+      required: true
+    description: e.g. Software Developer
   - name: location
     label: Location
     type: text
     hidden: false
     default: ''
+    description: e.g. Birmingham, AL
+  - name: start_date
+    label: Start Date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+      required: false
+  - name: end_date
+    label: End Date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+  - name: body
+    label: Body
+    type: textarea
+    hidden: false
+    default: ''
+    description: Describe work/project
   hidden: false
   default:
   - company: 
@@ -179,6 +194,9 @@ fields:
     end_date: 
     location: 
     body: 
+  config:
+    labelField: company
+  description: Companies and Projects
 - name: education
   label: Education
   type: field_group_list
