@@ -186,6 +186,10 @@ fields:
     hidden: false
     default: ''
     description: Describe work/project
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   hidden: false
   default:
   - company: 
@@ -252,6 +256,10 @@ fields:
     hidden: false
     default: ''
     description: Describe education
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   hidden: false
   default:
   - institution: 
