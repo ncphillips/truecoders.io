@@ -1,9 +1,9 @@
 ---
 pages:
-- _classes/mark-2.md
 - _classes/mark-4.md
 - _classes/kids-1.md
 - _classes/mark-3.md
+- _classes/mark-2.md
 - _classes/mark-1.md
 hide_body: false
 is_partial: false

@@ -1,7 +1,5 @@
 ---
 pages:
-- _faqs/what.md
-- _faqs/who.md
 - _faqs/contact.md
 - _faqs/accredited.md
 - _faqs/scholarship.md
@@ -17,6 +15,8 @@ pages:
 - _faqs/schedule.md
 - _faqs/placement-details.md
 - _faqs/cost.md
+- _faqs/what.md
+- _faqs/who.md
 hide_body: false
 is_partial: false
 fields:
