@@ -5,10 +5,10 @@ pages:
 - _coders/reid-braswell.md
 - _coders/louis-dutton.md
 - _coders/jeff-standridge.md
-- _coders/david-cotton.md
 - _coders/chris-finney.md
-- _coders/chip-elmer.md
 - _coders/brandon-dowds.md
+- _coders/david-cotton.md
+- _coders/chip-elmer.md
 - _coders/subash-karki.md
 - _coders/starla-oden.md
 - _coders/hunter-wright.md
@@ -219,7 +219,7 @@ fields:
     hidden: false
     default: ''
     config:
-      required: true
+      required: false
     description: e.g. Bachelor in Computer Science
   - name: start_date
     label: Start date
