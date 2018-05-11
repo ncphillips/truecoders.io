@@ -206,36 +206,52 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: e.g. University Name
+    config:
+      required: true
   - name: area
     label: Area
     type: text
     hidden: false
     default: ''
+    config:
+      required: true
+    description: e.g. Bachelor in Computer Science
   - name: start_date
     label: Start date
     type: datetime
     hidden: false
     default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
   - name: end_date
     label: End date
     type: datetime
     hidden: false
     default: ''
-  - name: gpa
-    label: Gpa
-    type: text
-    hidden: false
-    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
   - name: location
     label: Location
     type: text
     hidden: false
     default: ''
+    description: e.g. Birmingham, AL
+  - type: number
+    name: gpa
+    label: GPA
+    description: e.g. 4.0
+    config:
+      min: '0.0'
+      max: '5.0'
   - name: body
     label: Body
     type: textarea
     hidden: false
     default: ''
+    description: Describe education
   hidden: false
   default:
   - institution: 
@@ -245,3 +261,6 @@ fields:
     gpa: 
     location: 
     body: 
+  config:
+    labelField: institution
+  description: Colleges and University
