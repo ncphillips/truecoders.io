@@ -41,30 +41,37 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Coder Name
   type: text
   hidden: false
   default: ''
+  description: e.g. Cody Winton
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
-- name: position
-  label: Position
+- name: subtitle
+  label: Subtitle
   type: text
   hidden: false
-  default: ''
-- name: image
+  default: 
+  description: e.g. Junior Software Developer
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: 
-- name: class
+- type: select
+  name: class
+  config:
+    source:
+      type: pages
+      section: classes
+    required: true
   label: Class
-  type: text
-  hidden: false
-  default: 
+  description: e.g. Mark 1
+  default: _classes/mark-4.md
 - name: profiles
   label: Profiles
   type: field_group
@@ -204,18 +211,3 @@ fields:
     gpa: 
     location: 
     body: 
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: resume
-- name: subtitle
-  label: Subtitle
-  type: text
-  hidden: false
-  default: 
