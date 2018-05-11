@@ -108,6 +108,7 @@ fields:
     description: vimeo.com/1234567 would be `1234567`
   hidden: false
   default: 
+  description: LinkedIn, GitHub, etc.
 - name: skills
   label: Skills
   type: field_group_list
@@ -133,6 +134,9 @@ fields:
   default:
   - name: 
     level: 3
+  description: Java, C#, Git, etc.
+  config:
+    labelField: name
 - name: work
   label: Work
   type: field_group_list
