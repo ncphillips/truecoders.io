@@ -3,7 +3,7 @@ title: Jack Mentzer
 date: 2018-01-25 18:30:00 -06:00
 position: 19
 image: "/uploads/jack-mentzer.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: INFJ
   github: JohnCaaandy

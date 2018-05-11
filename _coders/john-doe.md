@@ -5,7 +5,7 @@ tags:
 - example
 position: 0
 image: "/uploads/john-doe.jpg"
-class: Mark 1
+class: _classes/mark-1.md
 profiles:
   mbti: ESTJ
   github: truecodersio

@@ -3,7 +3,7 @@ title: Steven Bustamento
 date: 2018-04-18 10:59:00 -05:00
 position: 32
 image: "/uploads/steven-bustamento.jpg"
-class: Mark 3
+class: _classes/mark-3.md
 profiles:
   mbti: ISTJ
   github: devBustamento

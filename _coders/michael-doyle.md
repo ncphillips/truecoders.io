@@ -3,7 +3,7 @@ title: Michael Doyle
 date: 2018-01-25 18:31:00 -06:00
 position: 27
 image: "/uploads/michael-doyle.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: ENFJ
   github: Mvdoyle

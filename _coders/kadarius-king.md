@@ -3,7 +3,7 @@ title: KaDarius King
 date: 2017-11-14 02:03:00 -06:00
 position: 23
 image: "/uploads/kadarius-king.jpg"
-class: Mark 1
+class: _classes/mark-1.md
 profiles:
   mbti: INFP
   github: KaDarius

@@ -3,7 +3,7 @@ title: Subash Karki
 date: 2018-01-25 18:32:00 -06:00
 position: 33
 image: "/uploads/subash-karki.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: INFJ
   github: karki011

@@ -3,7 +3,7 @@ title: Grant Berryman
 date: 2017-11-14 02:02:00 -06:00
 position: 14
 image: "/uploads/grant-berryman.jpg"
-class: Mark 1
+class: _classes/mark-1.md
 profiles:
   mbti: INTJ
   github: 2unes

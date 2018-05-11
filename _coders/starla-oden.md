@@ -3,7 +3,7 @@ title: Starla Oden
 date: 2018-01-25 18:32:00 -06:00
 position: 31
 image: "/uploads/starla-oden.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: ISTP
   github: starlaoh

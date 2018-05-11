@@ -3,7 +3,7 @@ title: Tori Riddle
 date: 2018-01-25 18:33:00 -06:00
 position: 34
 image: "/uploads/tori-riddle.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: INFJ
   github: toriariddle

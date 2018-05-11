@@ -3,7 +3,7 @@ title: Candace Welch
 date: 2017-11-14 02:05:00 -06:00
 position: 5
 image: "/uploads/candace-welch.jpg"
-class: Mark 1
+class: _classes/mark-1.md
 profiles:
   mbti: INFJ
   github: candacejwelch

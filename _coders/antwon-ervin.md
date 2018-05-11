@@ -3,7 +3,7 @@ title: Antwon Ervin
 date: 2017-11-14 01:53:00 -06:00
 position: 1
 image: "/uploads/antwon-ervin.jpg"
-class: Mark 1
+class: _classes/mark-1.md
 profiles:
   mbti: ENFP
   github: antwonervin
@@ -33,7 +33,7 @@ work:
 - company: New Life Church
   job_title: Project Consultant
   start_date: 2017-07-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   body: |-
     Production management:
 
@@ -62,8 +62,8 @@ work:
 - company: Discover Birmingham
   job_title: Founder
   start_date: 2013-01-01 00:00:00 -06:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: |-
     Built a community calendar & engagement website:
 
@@ -102,19 +102,19 @@ work:
 education:
 - institution: Brown Mackie College-Birmingham
   area: Associate's Degree
-  start_date: 
+  start_date:
   end_date: 2015-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: Focused on Business, Management, Marketing, and Related Support Services,
     2014 - 2015
 - institution: Bessemer Technical College
   area: Architectural Design
-  start_date: 
+  start_date:
   end_date: 2006-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Bessemer, AL
-  body: 
+  body:
 ---
 
 I enjoy using my resources to develop creative solutions to real world problems. Some of my resources include a knowledge base in C# and .NET, JavaScript, CSS, and HTML. I'm a strong team player and enjoy collaboration.

@@ -3,7 +3,7 @@ title: Clay Dunston
 date: 2018-01-25 18:26:00 -06:00
 position: 7
 image: "/uploads/clay-dunston.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: ISTJ
   github: dunstontc

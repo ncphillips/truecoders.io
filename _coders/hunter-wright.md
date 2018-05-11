@@ -3,7 +3,7 @@ title: Hunter Wright
 date: 2018-01-25 18:28:00 -06:00
 position: 18
 image: "/uploads/hunter-wright.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: ESFP
   github: HunterAW

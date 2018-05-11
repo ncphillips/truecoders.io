@@ -3,7 +3,7 @@ title: Daniel Anderson
 date: 2018-01-25 18:28:00 -06:00
 position: 10
 image: "/uploads/daniel-anderson.jpg"
-class: Mark 2
+class: _classes/mark-2.md
 profiles:
   mbti: ENFP
   github: danderson0851
