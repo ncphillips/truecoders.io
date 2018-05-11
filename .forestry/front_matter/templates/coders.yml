@@ -71,35 +71,41 @@ fields:
     required: true
   label: Class
   description: e.g. Mark 1
+  default: _classes/mark-4.md
 - name: profiles
   label: Profiles
   type: field_group
   fields:
   - name: mbti
-    label: Mbti
+    label: Myers Briggs Personality Type
     type: text
     hidden: false
     default: ''
+    description: e.g. ESTJ
   - name: github
-    label: Github
+    label: Github Username
     type: text
     hidden: false
     default: ''
+    description: e.g. codytwinton
   - name: linkedin
-    label: Linkedin
+    label: Linkedin Username
     type: text
     hidden: false
     default: ''
+    description: linkedin.com/in/codytwinton would be `codytwinton`
   - name: codewars
-    label: Codewars
+    label: Codewars Username
     type: text
     hidden: false
     default: ''
+    description: e.g. codytwinton
   - name: vimeo_resume
-    label: Vimeo resume
+    label: Vimeo Resume
     type: text
     hidden: false
     default: ''
+    description: vimeo.com/1234567 would be `1234567`
   hidden: false
   default: 
 - name: skills
