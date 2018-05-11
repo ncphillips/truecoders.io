@@ -113,15 +113,22 @@ fields:
   type: field_group_list
   fields:
   - name: name
-    label: Name
+    label: Skill
     type: text
     hidden: false
     default: ''
-  - name: level
+    description: e.g. C# and .NET
+    config:
+      required: true
+  - type: number
     label: Level
-    type: text
-    hidden: false
-    default: ''
+    name: level
+    description: e.g. 3.5
+    config:
+      min: '1.0'
+      max: '5.0'
+      step: '0.5'
+      required: true
   hidden: false
   default:
   - name: 
