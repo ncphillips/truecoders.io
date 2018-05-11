@@ -6,35 +6,32 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Page Title
   type: text
   hidden: false
   default: ''
+  description: e.g. About
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
-  hidden: false
-  default: ''
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: ''
-- name: position
-  label: Position
-  type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: display_title
-  label: Display title
+  label: Display Title
   type: text
   hidden: false
   default: 
+  description: e.g. Who We Are
+  config:
+    required: false
 - name: subtitle
   label: Subtitle
   type: text
   hidden: false
   default: 
+  description: e.g. We are more than just a bootcamp
 - name: hero
   label: Hero
   type: field_group
@@ -88,11 +85,6 @@ fields:
     default: ''
   hidden: true
   default: 
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: page
 - name: sections
   label: Sections
   type: list
