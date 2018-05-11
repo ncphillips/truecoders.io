@@ -71,7 +71,6 @@ fields:
     required: true
   label: Class
   description: e.g. Mark 1
-  default: _classes/mark-4.md
 - name: profiles
   label: Profiles
   type: field_group
