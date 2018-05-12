@@ -24,10 +24,18 @@ fields:
   hidden: true
   default: ''
 - name: sub_collection
-  label: Sub collection
+  label: Sub Collection
   type: text
   hidden: false
   default: 
+  description: classes, coders, etc.
+- type: number
+  label: Limit
+  name: limit
+  description: How many collection items should be shown?
+  config:
+    min: '1'
+    step: '1'
 - name: subsections
   label: Subsections
   type: field_group_list
@@ -43,15 +51,20 @@ fields:
     hidden: false
     default: ''
   - name: fa_icon
-    label: Fa icon
+    label: Font Awesome Icon
     type: text
     hidden: false
     default: ''
+    description: e.g. fa-compass
   - name: body
     label: Body
     type: textarea
     hidden: false
     default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   hidden: false
   default:
   - title: 
@@ -74,8 +87,3 @@ fields:
     default: ''
   hidden: false
   default: 
-- name: limit
-  label: Limit
-  type: text
-  hidden: false
-  default: 3
