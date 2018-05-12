@@ -1,6 +1,45 @@
 ---
+# Jekyll Settings
 title: TrueCoders
 timezone: America/Chicago
+url: https://truecoders.io
+baseurl: 
+kramdown:
+  show_warnings: true
+liquid:
+  error_mode: strict
+permalink: pretty
+plugins:
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+safe: true
+sass:
+  style: compressed
+strict_front_matter: true
+
+# Jekyll SEO Settings
+description: |-
+  Be Mentored. Be Connected.
+
+  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
+author:
+  name: TrueCoders
+  twitter: truecodersio
+image: "/uploads/logo.png"
+logo: "/uploads/logo.png"
+social:
+  name: TrueCoders
+  links:
+  - https://twitter.com/truecodersio
+  - https://www.facebook.com/truecodersio
+  - https://www.linkedin.com/in/truecodersio
+  - https://github.com/truecodersio
+twitter:
+  username: truecodersio
+
+# Collections
 collections:
   classes:
     title: Classes
@@ -29,6 +68,8 @@ collections:
   team:
     title: Team
     output: false
+
+# Defaults for Layouts
 defaults:
 - scope:
     path: ''
@@ -45,20 +86,6 @@ defaults:
     type: employers
   values:
     layout: page
-- scope:
-    path: ''
-    type: sections
-  values:
-    sub_collection: 
-    limit: 3
-    call_to_action:
-      title: 
-      url: 
-    subsections:
-    - title: 
-      subtitle: 
-      fa_icon: 
-      body: 
 - scope:
     path: ''
     type: posts
@@ -80,25 +107,21 @@ defaults:
     type: pages
   values:
     layout: collection-page
-    collection: team
 - scope:
     path: courses.md
     type: pages
   values:
     layout: collection-page
-    collection: courses
 - scope:
     path: employers.md
     type: pages
   values:
     layout: collection-page
-    collection: employers
 - scope:
     path: coders.md
     type: pages
   values:
     layout: collection-page
-    collection: coders
 - scope:
     path: contact.md
     type: pages
@@ -119,41 +142,3 @@ defaults:
     type: pages
   values:
     layout: index
-    hero:
-      call_to_action:
-        title: 
-        url: 
-description: |-
-  Be Mentored. Be Connected.
-
-  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-author:
-  name: TrueCoders
-  twitter: truecodersio
-image: "/uploads/logo.png"
-logo: "/uploads/logo.png"
-social:
-  name: TrueCoders
-  links:
-  - https://twitter.com/truecodersio
-  - https://www.facebook.com/truecodersio
-  - https://www.linkedin.com/in/truecodersio
-  - https://github.com/truecodersio
-twitter:
-  username: truecodersio
-sass:
-  style: compressed
-url: https://truecoders.io
-baseurl: 
-kramdown:
-  show_warnings: true
-liquid:
-  error_mode: strict
-permalink: pretty
-plugins:
-- jekyll-feed
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-safe: true
-strict_front_matter: true
