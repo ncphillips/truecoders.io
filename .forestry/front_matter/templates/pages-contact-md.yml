@@ -14,11 +14,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: position
-  label: Position
-  type: text
-  hidden: false
-  default: ''
 - name: display_title
   label: Display title
   type: text
