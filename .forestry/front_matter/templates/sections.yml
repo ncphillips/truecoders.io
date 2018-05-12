@@ -74,11 +74,6 @@ fields:
     default: ''
   hidden: false
   default: 
-- name: subtitle
-  label: Subtitle
-  type: text
-  hidden: false
-  default: 
 - name: limit
   label: Limit
   type: text
