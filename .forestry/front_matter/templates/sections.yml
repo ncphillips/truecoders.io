@@ -1,12 +1,12 @@
 ---
 pages:
-- _sections/employers-collection.md
+- _sections/employers.md
 - _sections/hire-cost.md
 - _sections/dev-process.md
 - _sections/dev-team.md
-- _sections/courses-collection.md
+- _sections/courses.md
 - _sections/courses-process.md
-- _sections/team-collection.md
+- _sections/team.md
 hide_body: false
 is_partial: false
 fields:

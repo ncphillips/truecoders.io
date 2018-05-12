@@ -1,8 +1,7 @@
 ---
-title: Employers Collection
+title: Our Employers
 date: 2018-03-21 18:13:00 -05:00
 position: 5
-display_title: Our Employers
 sub_collection: employers
 ---
 
