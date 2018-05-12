@@ -92,7 +92,7 @@ layout: default
   <!-- Skills Row -->
   {% if page.skills[0].name %}
 
-  {%- assign skills = page.skills | sort: 'name' -%}
+  {%- assign skills = page.skills | sort: "name" -%}
 
   <h4>Skills</h4>
 
@@ -129,7 +129,7 @@ layout: default
   <!-- Work Row -->
   <h4>Work</h4>
 
-  {%- assign works = page.work | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
+  {%- assign works = page.work | sort: "start_date", "last" | sort: "end_date", "last" | reverse -%}
   {%- assign company = "" -%}
 
   {%- for work in works -%}
@@ -171,7 +171,7 @@ layout: default
   {%- assign educations = educations | push: class -%}
   {%- endif -%}
 
-  {%- assign educations = educations | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
+  {%- assign educations = educations | sort: "start_date", "last" | sort: "end_date", "last" | reverse -%}
 
   {%- for education in educations -%}
 

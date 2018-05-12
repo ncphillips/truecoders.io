@@ -26,7 +26,7 @@ layout: default
 {% for path in page.sections %}
 
 {% assign section = site.sections | where: "path", path | first %}
-{% capture background_color %}{% cycle '#fafafa', '#fff' %}{% endcapture %}
+{% capture background_color %}{% cycle "#fafafa", "#fff" %}{% endcapture %}
 {% include section.html background_color=background_color section=section color=site.data.theme.color %}
 
 {% endfor %}

@@ -20,7 +20,7 @@ For general inquiries, email us: [{{ site.data.company.email }}](mailto:{{ site.
 
 #### Phone
 
-{% assign phone = site.data.company.phone | split: '' %}
+{% assign phone = site.data.company.phone | split: "" %}
 Also, you can give us a call: [{{ site.data.company.display_phone }}](tel:{{ site.data.company.phone }})
 
 #### Office

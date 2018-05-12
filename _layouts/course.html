@@ -2,11 +2,11 @@
 layout: page
 ---
 
-{%- capture nowunix -%} {{ 'now' | date: '%s' }} {%- endcapture -%}
-{%- assign course_classes = site.classes | where: "course", page.path | sort: 'start_date' -%}
+{%- capture nowunix -%} {{ "now" | date: "%s" }} {%- endcapture -%}
+{%- assign course_classes = site.classes | where: "course", page.path | sort: "start_date" -%}
 
 {%- for class in course_classes -%}
-    {%- capture class_time -%} {{ class.start_date | date: '%s' }} {%- endcapture -%}
+    {%- capture class_time -%} {{ class.start_date | date: "%s" }} {%- endcapture -%}
 
     {%- if class_time > nowunix -%}
         {%- assign next_class = class -%}
@@ -21,11 +21,11 @@ layout: page
 
     {%- if next_class -%}
     {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
-    {%- assign course_details = site.data.classes.details | replace: '!PAGE_TITLE!', page.title -%}
-    {%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
+    {%- assign course_details = site.data.classes.details | replace: "!PAGE_TITLE!", page.title -%}
+    {%- assign course_details = course_details | replace: "!NEXT_CLASS_START!", next_class_start -%}
 
     {%- assign class_price = next_class.price | prepend: "$" -%}
-    {%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', class_price -%}
+    {%- assign course_details = course_details | replace: "!NEXT_CLASS_PRICE!", class_price -%}
 
     {{ course_details | markdownify }}
     {% endif -%}

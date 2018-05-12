@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{%- assign items = site[page.collection] | sort: 'position' -%}
+{%- assign items = site[page.collection] | sort: "position" -%}
 {%- assign collection = site.collections | where: "label", page.collection | first -%}
 
 <h2>{{ collection.title }}</h2>
@@ -22,6 +22,6 @@ layout: page
 
   {%- if item.tags contains "example" -%} {%- continue -%} {%- endif -%}
   {%- include subsection-col.html collection=collection subsection=item color=site.data.theme.color -%}
-  
+
   {%- endfor -%}
 </div>

@@ -43,7 +43,7 @@ work:
   start_date: 2007-01-01 00:00:00 -06:00
   end_date: 2008-12-01 00:00:00 -06:00
   location: Birmingham, AL
-  body: 'Performed on-site policy appraisals for an insurance underwriter. '
+  body: 'Performed on-site policy appraisals for an insurance underwriter.'
 - company: Play It Again Sports
   job_title: Assistant Manager
   start_date: 2006-01-01 00:00:00 -06:00

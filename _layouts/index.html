@@ -8,12 +8,12 @@ layout: default
 {%- for path in page.sections -%}
 {%- assign section = site.sections | where: "path", path | first -%}
 
-{%- capture background_color -%} {% cycle '#fff', '#fafafa' %} {%- endcapture -%}
+{%- capture background_color -%} {% cycle "#fff", "#fafafa" %} {%- endcapture -%}
 
 {% include section.html background_color=background_color section=section color=site.data.theme.color %}
 
 {%- if forloop.last == true -%}
-{%- capture background_color -%} {% cycle '#fff', '#fafafa' %} {%- endcapture -%}
+{%- capture background_color -%} {% cycle "#fff", "#fafafa" %} {%- endcapture -%}
 {%- endif -%}
 
 {%- endfor -%}
@@ -22,7 +22,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col" style="text-align:center;">
-        {{ site.data.copy.email_signup | replace: '!SITE_TITLE!', site.title | markdownify }}
+        {{ site.data.copy.email_signup | replace: "!SITE_TITLE!", site.title | markdownify }}
         <br>
         {% include forms/email-signup.html form_action=site.data.development.email_signup_action submit_title="Submit" %}
       </div>
