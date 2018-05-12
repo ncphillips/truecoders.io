@@ -5,8 +5,8 @@ layout: default
 {% include header.html logo=site.data.theme.logo %}
 {% include hero.html color=site.data.theme.color %}
 
-{%- for title in page.sections -%}
-{%- assign section = site.sections | where: "title", title | first -%}
+{%- for path in page.sections -%}
+{%- assign section = site.sections | where: "path", path | first -%}
 
 {%- capture background_color -%} {% cycle '#fff', '#fafafa' %} {%- endcapture -%}
 

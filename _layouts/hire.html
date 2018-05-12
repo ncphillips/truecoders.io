@@ -11,7 +11,7 @@ layout: default
     <div class="col-lg-6">
       {{content}}
     </div>
-    
+
     <div class="col-lg-6">
       <h2>Contact Us</h2>
       <p>Give us a call:
@@ -23,9 +23,9 @@ layout: default
   </div>
 </div>
 
-{% for title in page.sections %}
+{% for path in page.sections %}
 
-{% assign section = site.sections | where: "title", title | first %}
+{% assign section = site.sections | where: "path", path | first %}
 {% capture background_color %}{% cycle '#fafafa', '#fff' %}{% endcapture %}
 {% include section.html background_color=background_color section=section color=site.data.theme.color %}
 

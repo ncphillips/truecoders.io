@@ -17,17 +17,17 @@ layout: default
   {% endif %}
 
   {% if page.sections.first %}
-  {% for title in page.sections %}
-  {% assign section = site.sections | where: "title", title | first %}
-  
+  {% for path in page.sections %}
+  {% assign section = site.sections | where: "path", path | first %}
+
   {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-  
+
   {% include section.html background_color=background_color section=section color=site.data.theme.color %}
-  
+
   {% if forloop.last == true %}
   {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
   {% endif %}
-  
+
   {% endfor %}
   {% endif %}
 </div>
