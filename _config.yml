@@ -75,20 +75,6 @@ defaults:
     type: pages
   values:
     layout: page
-    display_title: 
-    subtitle: 
-    menus:
-      is_nav: false
-      is_footer: false
-    hero:
-      color: "#0093c9"
-      image: 
-    sections:
-    - 
-    call_to_action:
-      title: 
-      url: 
-      body: 
 - scope:
     path: about.md
     type: pages
