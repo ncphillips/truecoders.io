@@ -11,44 +11,21 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Section Title
   type: text
   hidden: false
   default: ''
+  description: e.g. Our Courses
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
-- name: position
-  label: Position
-  type: text
-  hidden: false
-  default: ''
-- name: display_title
-  label: Display title
-  type: text
-  hidden: false
-  default: 
 - name: sub_collection
   label: Sub collection
   type: text
-  hidden: false
-  default: 
-- name: call_to_action
-  label: Call to action
-  type: field_group
-  fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ''
-  - name: url
-    label: Url
-    type: text
-    hidden: false
-    default: ''
   hidden: false
   default: 
 - name: subsections
@@ -81,6 +58,22 @@ fields:
     subtitle: 
     fa_icon: 
     body: 
+- name: call_to_action
+  label: Call to action
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
 - name: subtitle
   label: Subtitle
   type: text
