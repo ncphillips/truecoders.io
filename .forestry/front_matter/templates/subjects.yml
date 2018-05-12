@@ -1,5 +1,6 @@
 ---
 pages:
+- _subjects/architecture.md
 - _subjects/utilities.md
 - _subjects/testing.md
 - _subjects/source-control.md
@@ -12,7 +13,6 @@ pages:
 - _subjects/c-sharp-dot-net.md
 - _subjects/browsers.md
 - _subjects/asp-dot-net-mvc.md
-- _subjects/architecture.md
 - _subjects/communication.md
 hide_body: false
 is_partial: false
