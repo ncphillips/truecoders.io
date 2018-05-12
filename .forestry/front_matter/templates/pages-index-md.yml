@@ -81,8 +81,12 @@ fields:
   label: Sections
   type: list
   hidden: false
-  default:
-  - 
+  default: []
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: sections
 - name: redirect_from
   label: Redirect from
   type: list
