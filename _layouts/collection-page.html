@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{%- assign items = site[page.collection] | sort: "position" -%}
+{%- assign items = site[page.collection] | sort: "title" -%}
 {%- assign collection = site.collections | where: "label", page.collection | first -%}
 
 <h2>{{ collection.title }}</h2>

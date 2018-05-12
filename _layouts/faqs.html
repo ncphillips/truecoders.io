@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign faqs = site.faqs | sort: "position" %}
+{% assign faqs = site.faqs | sort: "title" %}
 
 {% assign faq_categories = "" | split:"|" %}
 {% for faq in faqs %}
