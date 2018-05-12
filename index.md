@@ -12,10 +12,10 @@ hero:
     title: Watch Intro
     url: https://player.vimeo.com/video/234034039
 sections:
-- Courses Collection
-- Courses Process
-- Employers Collection
-- Team Collection
+- _sections/courses.md
+- _sections/courses-process.md
+- _sections/employers.md
+- _sections/team.md
 redirect_from:
 - "/home/"
 ---
