@@ -45,7 +45,7 @@ fields:
     label: Color
     type: text
     hidden: false
-    default: ''
+    default: "#0093c9"
   hidden: false
   default: 
 - name: call_to_action
