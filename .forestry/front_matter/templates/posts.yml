@@ -2,8 +2,9 @@
 hide_body: false
 is_partial: false
 fields:
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: true
-  default: "/blog/:title/"
+- type: text
+  label: Title
+  name: title
+  description: e.g. My Blog Post
+  config:
+    required: true
