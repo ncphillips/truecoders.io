@@ -36,6 +36,7 @@ fields:
   config:
     min: '1'
     step: '1'
+  default: '3'
 - name: subsections
   label: Subsections
   type: field_group_list
