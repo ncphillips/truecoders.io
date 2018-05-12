@@ -1,6 +1,6 @@
 ---
 title: Communication
-date: 2017-09-12 01:30:00 -05:00
+date: 2017-09-12 06:30:00 +0000
 position: 4
 ---
 
