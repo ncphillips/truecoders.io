@@ -1,6 +1,19 @@
 ---
 pages:
+- _subjects/architecture.md
+- _subjects/asp-dot-net-mvc.md
+- _subjects/browsers.md
 - _subjects/communication.md
+- _subjects/c-sharp-dot-net.md
+- _subjects/diagnostics.md
+- _subjects/game-development.md
+- _subjects/java.md
+- _subjects/logging.md
+- _subjects/python.md
+- _subjects/relational-databases.md
+- _subjects/source-control.md
+- _subjects/testing.md
+- _subjects/utilities.md
 hide_body: false
 is_partial: false
 fields:
