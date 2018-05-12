@@ -34,15 +34,17 @@ fields:
   type: field_group
   fields:
   - name: is_nav
-    label: Is nav
+    label: Is Nav
     type: boolean
     hidden: false
     default: ''
+    description: If the page should be displayed in the nav bar
   - name: is_footer
-    label: Is footer
+    label: Is Footer
     type: boolean
     hidden: false
     default: ''
+    description: If the page should be displayed in the footer
   hidden: true
   default: 
 - name: hero
