@@ -1,0 +1,14 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Subject
+  description: e.g. Java
+  config:
+    required: true
+- type: datetime
+  hidden: true
+  label: Date
+  name: date
