@@ -1,7 +1,6 @@
 ---
 title: Grant Berryman
 date: 2017-11-14 02:02:00 -06:00
-position: 14
 image: "/uploads/grant-berryman.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -32,8 +31,8 @@ work:
 - company: Tech-Ease
   job_title: Apple Consultant / Lead Tech
   start_date: 2016-09-01 00:00:00 -05:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: |-
     Field calls from customers, set up appointments, provide on-site personal or business consultation and expertise for finding the best technical solution for their needs:
 
@@ -95,7 +94,7 @@ work:
 education:
 - institution: Middle Tennessee State University
   area: Bachelor of Science Degree in Recording Industry
-  start_date: 
+  start_date:
   end_date: 2006-05-01 01:00:00 -05:00
   gpa: 3.34
   location: Murfreesboro, TN
@@ -106,14 +105,14 @@ education:
     - Internship with Grammy award winning engineer Dan Rudin
 - institution: Atlanta Institute of Music
   area: Associates Degree in Guitar Performance
-  start_date: 
+  start_date:
   end_date: 2004-05-01 01:00:00 -05:00
   gpa: 3.3
   location: Atlanta, GA
-  body: 
+  body:
 - institution: Auburn University
   area: Bachelor of Arts Degree in Psychology
-  start_date: 
+  start_date:
   end_date: 2002-05-01 01:00:00 -05:00
   gpa: 3.198
   location: Auburn, AL

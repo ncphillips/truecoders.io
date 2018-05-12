@@ -1,7 +1,6 @@
 ---
 title: Louis Dutton
 date: 2018-04-18 10:59:00 -05:00
-position: 25
 image: "/uploads/louis-dutton.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -42,7 +41,7 @@ work:
 - company: Walgreens
   job_title: Senior Certified Pharmacy Tech
   start_date: 2010-09-01 01:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Stock Management:
@@ -54,14 +53,14 @@ education:
   area: Major in Biology
   start_date: 2009-05-01 01:00:00 -05:00
   end_date: 2011-12-01 00:00:00 -06:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: Computer Science, Anatomy, and Physiology
 - institution: University of Alabama in Birmingham
   area: Major in Biology
   start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 
-  gpa: 
+  end_date:
+  gpa:
   location: Birmingham, AL
   body: |-
     Minor in Chemistry:

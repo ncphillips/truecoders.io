@@ -1,7 +1,6 @@
 ---
 title: Chris Finney
 date: 2018-04-18 10:59:00 -05:00
-position: 8
 image: "/uploads/chris-finney.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -30,7 +29,7 @@ work:
 - company: 'Project: trimr'
   job_title: Lead Developer
   start_date: 2017-08-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: "Final project built during the Covalence bootcamp. A responsive mobile web
     application built with Bootstrap and AngularJS. Queries a MySQL database with

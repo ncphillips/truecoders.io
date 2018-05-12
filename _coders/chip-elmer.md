@@ -1,7 +1,6 @@
 ---
 title: Chip Elmer
 date: 2018-04-18 10:59:00 -05:00
-position: 6
 image: "/uploads/chip-elmer.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -28,7 +27,7 @@ work:
 - company: CB&A Project Management Services
   job_title: Consultant at Southern Company
   start_date: 2016-11-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Supported Southern Company's Project Controls:
@@ -39,7 +38,7 @@ work:
 - company: CB&A Project Management Services
   job_title: Consultant – IT Specialist and Project Management
   start_date: 2013-08-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Provided specialized support for clients in the industrial construction project management industry:

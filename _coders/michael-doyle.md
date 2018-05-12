@@ -1,7 +1,6 @@
 ---
 title: Michael Doyle
 date: 2018-01-25 18:31:00 -06:00
-position: 27
 image: "/uploads/michael-doyle.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -14,7 +13,7 @@ work:
 - company: ProAssurance
   job_title: Corporate Architecture and Development
   start_date: 2017-06-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Internship position working in both software development and project management:

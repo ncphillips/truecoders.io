@@ -1,7 +1,6 @@
 ---
 title: Skylar Carter
 date: 2018-04-18 10:59:00 -05:00
-position: 30
 image: "/uploads/skylar-carter.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -26,7 +25,7 @@ work:
 - company: Excelous Incorporate
   job_title: UPK Training Developer
   start_date: 2013-08-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Atlanta, GA
   body: |-
     Responsible for the development, coordination, implementation and administration of an Oracle R12 enterprise-wide system integration training program to ensure the continued alignment of people, processes and systems that support and maintain employee development, performance management and on-boarding.

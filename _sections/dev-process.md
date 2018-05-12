@@ -1,7 +1,6 @@
 ---
 title: Our Process
 date: 2017-11-11 13:24:00 -06:00
-position: 2
 call_to_action:
   title: Engage Our Process
   url: "#hire-form"

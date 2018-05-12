@@ -1,7 +1,6 @@
 ---
 title: Darius Witherspoon
 date: 2017-11-14 02:05:00 -06:00
-position: 11
 image: "/uploads/darius-witherspoon.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -34,7 +33,7 @@ work:
   job_title: Driver
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2017-10-01 00:00:00 -05:00
-  location: 
+  location:
   body: |-
     Responsible for maintaining route integrity delivering and picking up at various customers in a timely and strictly scheduled manner in order to support the logistical and operational needs of each customer:
 
@@ -53,19 +52,19 @@ work:
     - Provided new employees a complete training package from customer standards to basic detailing and customer service skills
 education:
 - institution: Jefferson State Community College
-  area: 
-  start_date: 
+  area:
+  start_date:
   end_date: 2013-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: Huffman High School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2008-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Huffman, AL
-  body: 
+  body:
 ---
 
 I desire to become a member of a company team where I can expand my skills and knowledge, help perpetuate the company's performance and growth through my enthusiasm, skills, and work-ethic by providing new and innovative ideas and services for our company.

@@ -1,7 +1,6 @@
 ---
 title: Jessica Reid-Harris
 date: 2017-11-14 02:03:00 -06:00
-position: 20
 image: "/uploads/jessica-harris.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -100,18 +99,18 @@ work:
 education:
 - institution: Brown Mackie College
   area: Information Technology
-  start_date: 
+  start_date:
   end_date: 2015-10-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: Training in Information Technology
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
-  start_date: 
+  start_date:
   end_date: 2005-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I've been a self-taught hobbyist developer for most of my life. I've attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I've now decided to make it a Full-Time career.

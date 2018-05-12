@@ -1,7 +1,6 @@
 ---
 title: Starla Oden
 date: 2018-01-25 18:32:00 -06:00
-position: 31
 image: "/uploads/starla-oden.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -14,7 +13,7 @@ work:
 - company: The Cheesecake Factory
   job_title: Server
   start_date: 2012-08-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Austin, TX
   body: Working in a fast-paced environment like The Cheesecake Factory has vastly
     improved my time management and interpersonal skills.

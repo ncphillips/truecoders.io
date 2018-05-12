@@ -3,7 +3,6 @@ title: John Doe
 date: 2017-11-18 15:17:00 -06:00
 tags:
 - example
-position: 0
 image: "/uploads/john-doe.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -33,7 +32,7 @@ work:
 - company: Company LLC
   job_title: Job Title
   start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -53,7 +52,7 @@ work:
 education:
 - institution: Example High School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2010-05-01 01:00:00 -05:00
   gpa: 4
   location: Birmingham, AL

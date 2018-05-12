@@ -1,7 +1,6 @@
 ---
 title: Noah Holtkamp
 date: 2017-11-14 02:03:00 -06:00
-position: 28
 image: "/uploads/noah-holtkamp.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,7 +30,7 @@ work:
 - company: NutritionFacts.org
   job_title: MD Volunteer Article Retriever
   start_date: 2016-12-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   body: |-
     Work as part of a project team to coordinate database development and determine project scope and limitations:
 
@@ -58,17 +57,17 @@ work:
 education:
 - institution: Vestavia Hills High School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2013-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Vestavia Hills, AL
-  body: 
+  body:
 - institution: T. Colin Campbell Center For Nutrition Studies
   area: Plant Based Nutrition
-  start_date: 
+  start_date:
   end_date: 2016-03-01 00:00:00 -06:00
-  gpa: 
-  location: 
+  gpa:
+  location:
   body: |-
     Gauged role nutrition plays in chronic disease:
 

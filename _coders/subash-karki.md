@@ -1,7 +1,6 @@
 ---
 title: Subash Karki
 date: 2018-01-25 18:32:00 -06:00
-position: 33
 image: "/uploads/subash-karki.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -13,8 +12,8 @@ work:
 - company: Upwork
   job_title: Freelance Web Developer
   start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: |-
     - Maintained and updated HTML/CSS templates on a regular basis and as required.
     - Conducted layout design and construction for a variety of websites as assigned.
@@ -45,11 +44,11 @@ work:
     - Create daily reports from POS terminals
 education:
 - institution: Cybrary
-  area: 
+  area:
   start_date: 2017-04-01 00:00:00 -05:00
-  end_date: 
-  gpa: 
-  location: 
+  end_date:
+  gpa:
+  location:
   body: |-
     Certifications
 
@@ -59,16 +58,16 @@ education:
     CompTIA Project+ Certification: Certified July, 2017
 - institution: freeCodeCamp
   area: Web Development
-  start_date: 
+  start_date:
   end_date: 2016-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: University of Alabama at Birmingham
   area: BA in General Studies
   start_date: 2010-08-01 01:00:00 -05:00
   end_date: 2013-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: Completed 80 credits toward a BA in General Studies
 ---

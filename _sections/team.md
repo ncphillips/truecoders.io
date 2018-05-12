@@ -1,7 +1,6 @@
 ---
 title: Our Team
 date: 2017-11-10 23:13:00 +0000
-position: 5
 sub_collection: team
 call_to_action:
   title: More About Us

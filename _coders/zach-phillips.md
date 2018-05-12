@@ -1,7 +1,6 @@
 ---
 title: Zach Phillips
 date: 2017-11-14 02:04:00 -06:00
-position: 36
 image: "/uploads/zach-phillips.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -33,7 +32,7 @@ work:
 - company: Market Cove LLC
   job_title: Owner
   start_date: 2015-05-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   body: |-
     Owned and Operated E-commerce Business:
 
@@ -45,7 +44,7 @@ work:
 - company: Christ Church
   job_title: Website Administration
   start_date: 2012-04-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
   job_title: Tech Support

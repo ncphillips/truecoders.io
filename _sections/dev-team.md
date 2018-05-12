@@ -1,7 +1,6 @@
 ---
 title: Our Team
 date: 2017-11-11 13:18:00 -06:00
-position: 3
 call_to_action:
   title: Engage a Team
   url: "#hire-form"

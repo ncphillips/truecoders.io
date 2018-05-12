@@ -1,7 +1,6 @@
 ---
 title: Lisa Bamberg
 date: 2018-04-18 10:59:00 -05:00
-position: 24
 image: "/uploads/lisa-bamberg.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -26,7 +25,7 @@ work:
 - company: Abhi
   job_title: Front of House
   start_date: 2017-05-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: "Part of a team of professionals who maintain an award winning business by
     providing a high-caliber experience and exceptional customer service with 7 years

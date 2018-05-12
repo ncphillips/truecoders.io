@@ -1,7 +1,6 @@
 ---
 title: Austin Redmayne
 date: 2017-11-14 02:01:00 -06:00
-position: 2
 image: "/uploads/austin-redmayne.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -32,7 +31,7 @@ work:
   job_title: Server
   start_date: 2016-12-01 00:00:00 -06:00
   end_date: 2017-11-01 00:00:00 -05:00
-  location: 
+  location:
   body: |-
     Met time commitments in order to keep restaurant running smoothly:
 
@@ -81,32 +80,32 @@ work:
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
-  start_date: 
-  end_date: 
-  gpa: 
+  start_date:
+  end_date:
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
-  start_date: 
+  start_date:
   end_date: 2014-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Florence, AL
-  body: 
+  body:
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
-  start_date: 
+  start_date:
   end_date: 2012-12-01 00:00:00 -06:00
-  gpa: 
+  gpa:
   location: Muscle​ ​Shoals,​ ​AL
-  body: 
+  body:
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
-  start_date: 
+  start_date:
   end_date: 2011-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Homewood, AL
-  body: 
+  body:
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.

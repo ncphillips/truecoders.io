@@ -1,7 +1,6 @@
 ---
 title: Our Process
 date: 2017-11-10 17:19:00 -06:00
-position: 1
 subsections:
 - title: Training
   subtitle:

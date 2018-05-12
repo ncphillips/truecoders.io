@@ -1,7 +1,6 @@
 ---
 title: Bay Shaffer
 date: 2018-01-25 17:45:00 -06:00
-position: 3
 image: "/uploads/bay-shaffer.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -14,7 +13,7 @@ work:
 - company: Topgolf
   job_title: Associate
   start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Host guests in the hitting bays:
@@ -25,7 +24,7 @@ work:
 - company: Wefunder
   job_title: Scout
   start_date: 2016-08-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Scout companies with potential for Reg CF/D/A+:
@@ -97,9 +96,9 @@ education:
 - institution: freeCodeCamp
   area: Front End Development Certification
   start_date: 2016-06-01 00:00:00 -05:00
-  end_date: 
-  gpa: 
-  location: 
+  end_date:
+  gpa:
+  location:
   body: |-
     Focus on JavaScript, including:
 
@@ -111,7 +110,7 @@ education:
   area: Project Management Certification
   start_date: 2016-05-01 00:00:00 -05:00
   end_date: 2016-06-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: |-
     Trained in the PMI Body of Knowledge (PMBOK®), project management knowledge areas, and Microsoft Project software tool. Gained a deeper understanding of the project management lifecycle. Put into practice the competencies needed to balance competing demands and communicate with diverse stakeholders:

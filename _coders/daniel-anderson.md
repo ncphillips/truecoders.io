@@ -1,7 +1,6 @@
 ---
 title: Daniel Anderson
 date: 2018-01-25 18:28:00 -06:00
-position: 10
 image: "/uploads/daniel-anderson.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -14,8 +13,8 @@ work:
 - company: Design Production, LLC
   job_title: Independent Contractor
   start_date: 2017-08-01 00:00:00 -05:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: Work with multiple crews to setup and take down event equipment
 - company: HHGregg
   job_title: Sales Associate / Warehouse
@@ -55,7 +54,7 @@ work:
   start_date: 2010-01-01 00:00:00 -06:00
   end_date: 2012-11-01 00:00:00 -05:00
   location: Fultondale, AL
-  body: 
+  body:
 - company: Barnes & Noble College Booksellers
   job_title: Bookseller - Cashier - Shipping/Receiving
   start_date: 2008-01-01 00:00:00 -06:00
@@ -74,7 +73,7 @@ work:
     - Led teams to organize and execute moving and/or delivery jobs
     - Responsible for processing, sorting, and delivery of daily shipments to various UAB offices, both on and off campus
 - company: Bass Pro Shops
-  job_title: 
+  job_title:
   start_date: 2002-01-01 00:00:00 -06:00
   end_date: 2004-12-01 00:00:00 -06:00
   location: Lawrenceville, GA

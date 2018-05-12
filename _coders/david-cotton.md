@@ -1,7 +1,6 @@
 ---
 title: David Cotton
 date: 2018-04-18 10:59:00 -05:00
-position: 13
 image: "/uploads/david-cotton.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -32,8 +31,8 @@ work:
 - company: Freelance
   job_title: Developer
   start_date: 2016-11-01 00:00:00 -05:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: Term - Console Based terminal
 - company: Zaxby's
   job_title: Cook
@@ -60,8 +59,8 @@ work:
 - company: Game Project
   job_title: Developer
   start_date: 2018-04-01 00:00:00 -05:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: |-
     Being developed in C#:
 
@@ -70,11 +69,11 @@ work:
     * Developing out a SQL database for the backend
 education:
 - institution: Codecademy
-  area: 
-  start_date: 
-  end_date: 
-  gpa: 
-  location: 
+  area:
+  start_date:
+  end_date:
+  gpa:
+  location:
   body: |-
     Training in:
 
@@ -82,11 +81,11 @@ education:
     * ANSI SQL and Relational Databases
     * Source Control using Git
 - institution: SoloLearn
-  area: 
-  start_date: 
-  end_date: 
-  gpa: 
-  location: 
+  area:
+  start_date:
+  end_date:
+  gpa:
+  location:
   body: |-
     Training in:
 
@@ -94,20 +93,20 @@ education:
     * ANSI SQL certification
     * Java - Certification
 - institution: GreenFoot
-  area: 
-  start_date: 
-  end_date: 
-  gpa: 
-  location: 
+  area:
+  start_date:
+  end_date:
+  gpa:
+  location:
   body: |-
     Training in:
 
     * Java
 - institution: Vestavia Hills High School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2017-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Vestavia, AL
   body: Robotics, IT fundamentals, and Java Programming courses
 ---

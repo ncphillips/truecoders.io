@@ -1,7 +1,6 @@
 ---
 title: Connor Davis
 date: 2017-11-14 02:01:00 -06:00
-position: 9
 image: "/uploads/connor-davis.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,8 +30,8 @@ work:
 - company: Pelham Raquet Club
   job_title: Tennis Instructor
   start_date: 2015-12-01 00:00:00 -06:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God

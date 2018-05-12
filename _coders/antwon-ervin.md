@@ -1,7 +1,6 @@
 ---
 title: Antwon Ervin
 date: 2017-11-14 01:53:00 -06:00
-position: 1
 image: "/uploads/antwon-ervin.jpg"
 class: _classes/mark-1.md
 profiles:

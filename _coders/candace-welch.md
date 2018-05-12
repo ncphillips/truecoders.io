@@ -1,7 +1,6 @@
 ---
 title: Candace Welch
 date: 2017-11-14 02:05:00 -06:00
-position: 5
 image: "/uploads/candace-welch.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,8 +30,8 @@ work:
 - company: Out There Creative
   job_title: Graphic Designer & Developer
   start_date: 2017-06-01 00:00:00 -05:00
-  end_date: 
-  location: 
+  end_date:
+  location:
   body: |-
     Completed web development training in order to prepare for transitioning into a primarily development role:
 
@@ -89,9 +88,9 @@ work:
 education:
 - institution: Auburn University at Montgomery
   area: Graphic Design
-  start_date: 
+  start_date:
   end_date: 2017-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Montgomery, AL
   body: |-
     Activities and Societies:
@@ -102,11 +101,11 @@ education:
     - Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2012-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Montgomery, AL
-  body: 
+  body:
 ---
 
 My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. I am a Graphic Designer with a knack for development. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.

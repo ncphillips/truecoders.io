@@ -1,7 +1,6 @@
 ---
 title: Harshith Julapelli
 date: 2017-11-14 08:02:00 +0000
-position: 16
 image: "/uploads/harshith-julapelli.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -34,7 +33,7 @@ work:
   job_title: Graduate Research Assistant
   start_date: 2016-01-01 06:00:00 +0000
   end_date: 2016-12-01 06:00:00 +0000
-  location: 
+  location:
   body: |-
     Worked under the support and guidance of the senior professor:
 
@@ -58,7 +57,7 @@ work:
 education:
 - institution: University of Central Missouri
   area: Master of Computer Science
-  start_date: 
+  start_date:
   end_date: 2016-12-01 06:00:00 +0000
   gpa: 3.6
   location: Warrensburg, MO
@@ -69,7 +68,7 @@ education:
     - Acted as a liaison between School officials and International Students
 - institution: Jawaharlal Nehru Technological University
   area: Bachelor of Computer Science and Engineering
-  start_date: 
+  start_date:
   end_date: 2015-04-01 05:00:00 +0000
   gpa: 3.5
   location: Hyderabad, India

@@ -1,7 +1,6 @@
 ---
 title: Darrell Stovall
 date: 2017-11-14 02:02:00 -06:00
-position: 12
 image: "/uploads/darrell-stovall.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -32,7 +31,7 @@ work:
   job_title: Middle School, Teacher
   start_date: 2003-08-01 01:00:00 -05:00
   end_date: 2017-05-01 00:00:00 -05:00
-  location: 
+  location:
   body: |-
     I have served as an English department chair, been part of our school leadership/professional development team and a system-wide gifted placement team. During the last three years, I have sponsored 5 different interest-based clubs. I coached Scholars Bowl and Science Olympiad.
 
@@ -57,9 +56,9 @@ work:
 education:
 - institution: University of Alabama, Birmingham (UAB)
   area: Masters of Arts
-  start_date: 
+  start_date:
   end_date: 1995-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: |-
     Special Education:
@@ -67,9 +66,9 @@ education:
     * Gifted and Talented Certification
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
-  start_date: 
+  start_date:
   end_date: 1992-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: |-
     Secondary Education:

@@ -1,7 +1,6 @@
 ---
 title: Hollis Medley
 date: 2017-11-14 02:02:00 -06:00
-position: 17
 image: "/uploads/hollis-medley.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,7 +28,7 @@ work:
 - company: Tractor Supply Co
   job_title: Cashier/Team Member
   start_date: 2017-04-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   body: |-
     Handled team requirements:
 
@@ -54,30 +53,30 @@ work:
 education:
 - institution: Homeschool
   area: High School Diploma
-  start_date: 
-  end_date: 
-  gpa: 
-  location: 
-  body: 
+  start_date:
+  end_date:
+  gpa:
+  location:
+  body:
 - institution: Lawson State
-  area: 
-  start_date: 
-  end_date: 
-  gpa: 
+  area:
+  start_date:
+  end_date:
+  gpa:
   location: Birmingham, AL
   body: Dual Enrollment
 - institution: Trenholm State
-  area: 
-  start_date: 
+  area:
+  start_date:
   end_date: 2016-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Montgomery, AL
   body: Dual Enrollment
 - institution: Faulkner University
-  area: 
-  start_date: 
+  area:
+  start_date:
   end_date: 2015-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Montgomery, AL
   body: Dual Enrollment
 ---

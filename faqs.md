@@ -1,7 +1,6 @@
 ---
 title: FAQs
 date: 2017-09-03 15:00:00 -05:00
-position: 4
 subtitle: All of your questions answered in one place
 menus:
   is_nav: true

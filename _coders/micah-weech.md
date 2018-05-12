@@ -1,7 +1,6 @@
 ---
 title: Micah Weech
 date: 2017-11-14 02:03:00 -06:00
-position: 26
 image: "/uploads/micah-weech.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,7 +30,7 @@ work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
   start_date: 2008-05-01 01:00:00 -05:00
-  end_date: 
+  end_date:
   body: |-
     Congregations served:
 
@@ -93,16 +92,16 @@ work:
 education:
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
-  start_date: 
-  end_date: 
-  gpa: 
+  start_date:
+  end_date:
+  gpa:
   location: Savannah, GA
   body: Pending thesis
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
-  start_date: 
+  start_date:
   end_date: 2013-11-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Huntsville, AL
   body: Minor in Biblical Languages
 ---

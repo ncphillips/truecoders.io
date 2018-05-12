@@ -1,7 +1,6 @@
 ---
 title: Home
 date: 2017-09-01 00:00:00 -05:00
-position: 0
 display_title: We Are TrueCoders
 subtitle: Be Mentored. Be Connected.
 menus:

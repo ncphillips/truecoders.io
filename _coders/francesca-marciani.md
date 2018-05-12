@@ -1,7 +1,6 @@
 ---
 title: Francesca Marciani
 date: 2018-04-18 10:59:00 -05:00
-position: 15
 image: "/uploads/francesca-marciani.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -92,24 +91,24 @@ work:
     * Managed incoming telephone calls from parents of children participating in research, scheduling laboratory visits and answering queries about the nature of the research.
 education:
 - institution: University of Alabama at Birmingham
-  area: 
-  start_date: 
+  area:
+  start_date:
   end_date: 2017-04-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
   body: Coursework in single and multivariable calculus, linear algebra
 - institution: Ohio State University
   area: Master of Arts in Developmental Psychology
-  start_date: 
+  start_date:
   end_date: 2013-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Columbus, OH
   body: 'Minor: Quantitative Psychology'
 - institution: Oberlin College
   area: Bachelor of Arts in Psychology
-  start_date: 
+  start_date:
   end_date: 2009-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Oberlin, OH
   body: High Honors in Psychology
 ---

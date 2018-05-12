@@ -1,7 +1,6 @@
 ---
 title: Tori Riddle
 date: 2018-01-25 18:33:00 -06:00
-position: 34
 image: "/uploads/tori-riddle.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -14,7 +13,7 @@ work:
 - company: Out There Creative
   job_title: Art Director
   start_date: 2016-05-01 00:00:00 -05:00
-  end_date: 
+  end_date:
   location: Birmingham, AL
   body: |-
     Efficiently lead and administer creative print and web design projects. Developed, rendered, and expanded art concepts throughout production of advertising campaigns:
@@ -71,11 +70,11 @@ education:
     - Cum Laude
 - institution: Dora High School
   area: Advanced Technical Diploma
-  start_date: 
+  start_date:
   end_date: 2011-05-01 01:00:00 -05:00
   gpa: 4
   location: Dora, AL
-  body: 
+  body:
 ---
 
 My name is Tori Riddle, I have a Graphic Design background. Since I was young, I have always been intrigued with problem solving and how everything works. Through my design career, I have been assigned projects that required me to self teach myself on basic web programming, I am very adaptive at learning new skills.  This peaked an interest in the development field. Design is parallel with programming and is a crucial factor. Having a design background will be beneficial in creating the overall UX/UI design. I do great working on a team or alone,  I am eager to continue learning as a developer and designer in our ever changing environment.

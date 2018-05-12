@@ -1,7 +1,6 @@
 ---
 title: Our Courses
 date: 2017-11-10 23:35:00 +0000
-position: 0
 sub_collection: courses
 call_to_action:
   title: All Our Courses

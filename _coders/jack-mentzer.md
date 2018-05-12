@@ -1,7 +1,6 @@
 ---
 title: Jack Mentzer
 date: 2018-01-25 18:30:00 -06:00
-position: 19
 image: "/uploads/jack-mentzer.jpg"
 class: _classes/mark-2.md
 profiles:

@@ -1,7 +1,6 @@
 ---
 title: Clay Dunston
 date: 2018-01-25 18:26:00 -06:00
-position: 7
 image: "/uploads/clay-dunston.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -49,23 +48,23 @@ education:
   area: Web Development
   start_date: 2017-02-01 00:00:00 -06:00
   end_date: 2017-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: Jefferson State Community College
   area: General Studies
   start_date: 2016-01-01 00:00:00 -06:00
   end_date: 2016-08-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: The University of Alabama
   area: General Business
   start_date: 2013-08-01 00:00:00 -05:00
   end_date: 2015-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Tuscaloosa, AL
-  body: 
+  body:
 ---
 
 I've got experience with a wide variety of softwares, programming languages, and operating systems.

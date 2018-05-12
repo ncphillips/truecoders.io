@@ -1,7 +1,6 @@
 ---
 title: Joseph Cyriac
 date: 2017-11-14 02:03:00 -06:00
-position: 22
 image: "/uploads/joseph-cyriac.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,7 +30,7 @@ work:
 - company: HFP LLC
   job_title: Customs and Sales Broker
   start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   body: |-
     Liaison for North American Ventures:
 
@@ -40,7 +39,7 @@ work:
 - company: West Alabama Internal Medicine LLC
   job_title: Senior Manager and IT Analyst
   start_date: 2003-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   body: |-
     As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
 
@@ -51,7 +50,7 @@ work:
 - company: Song Eye Center Inc.
   job_title: Assistant Manager and IT Analyst
   start_date: 1997-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   body: |-
     Analyzing, Designing, and Implementing Office Infrastructure for several locations:
 

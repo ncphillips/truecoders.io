@@ -1,7 +1,6 @@
 ---
 title: Brandon Dowds
 date: 2018-04-18 10:59:00 -05:00
-position: 4
 image: "/uploads/brandon-dowds.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -61,8 +60,8 @@ education:
   area: 'Major: Software Engineering'
   start_date: 2012-08-01 00:00:00 -05:00
   end_date: 2014-05-01 00:00:00 -05:00
-  gpa: 
-  location: 
+  gpa:
+  location:
   body: |-
     Focus on Java:
 
@@ -72,9 +71,9 @@ education:
 - institution: Wallace State Community College
   area: Associates Degree in Computer Science
   start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 
+  end_date:
   gpa: 3.7
-  location: 
+  location:
   body: |-
     Major in Programming:
 

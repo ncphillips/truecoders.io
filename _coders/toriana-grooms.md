@@ -1,7 +1,6 @@
 ---
 title: Toriana Grooms
 date: 2017-11-14 02:03:00 -06:00
-position: 35
 image: "/uploads/toriana-grooms.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -74,25 +73,25 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Criminal Justice
-  start_date: 
+  start_date:
   end_date: 2016-12-01 00:00:00 -06:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: University of Alabama in Birmingham
   area: Early Childhood Education
-  start_date: 
+  start_date:
   end_date: 2013-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: Erwin High School
   area: High School Diploma
-  start_date: 
+  start_date:
   end_date: 2008-05-01 01:00:00 -05:00
-  gpa: 
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization:

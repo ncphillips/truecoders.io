@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2017-09-04 10:00:00 -05:00
-position: 1
 display_title: Our Story
 subtitle: We are more than just a bootcamp
 collection: team

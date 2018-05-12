@@ -1,7 +1,6 @@
 ---
 title: KaDarius King
 date: 2017-11-14 02:03:00 -06:00
-position: 23
 image: "/uploads/kadarius-king.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -72,18 +71,18 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Political Science Major
-  start_date: 
-  end_date: 
-  gpa: 
+  start_date:
+  end_date:
+  gpa:
   location: Birmingham, AL
-  body: 
+  body:
 - institution: Auburn University
   area: Political Science Major
-  start_date: 
+  start_date:
   end_date: 2012-05-01 00:00:00 -05:00
-  gpa: 
+  gpa:
   location: Auburn, AL
-  body: 
+  body:
 ---
 
 Excellent communication and people skills with the ability to work well in both a team and individual environment. Methodical and results oriented personality. Strong passion for creativity and the desire to take projects from beginning to end, drive my desire to become a high-caliber programmer.

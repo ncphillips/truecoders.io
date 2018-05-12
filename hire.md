@@ -1,7 +1,6 @@
 ---
 title: Hire Us
 date: 2017-11-10 10:00:00 -06:00
-position: 7
 display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 menus:
