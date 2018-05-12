@@ -191,7 +191,14 @@ layout: default
         {%- endif -%}
 
         {% if education.area or education.course %}
-        {{ education.area | default: education.course }}<br/>
+        {%- assign education_area = education.area -%}
+
+        {% if education.course %}
+        {%- assign course = site.courses | where: "path", education.course | first -%}
+        {%- assign education_area = course.title -%}
+        {%- endif -%}
+
+        {{ education_area }}<br/>
         {%- endif -%}
 
         {% if education.gpa %}

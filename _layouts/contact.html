@@ -6,7 +6,7 @@ layout: page
 
 <hr>
 
-{{ site.data.theme.email_signup.body | replace: '!SITE_TITLE!', site.title | markdownify }}
+{{ site.data.copy.email_signup | replace: '!SITE_TITLE!', site.title | markdownify }}
 
 <br>
-{% include forms/email-signup.html form_action=site.data.theme.email_signup.action submit_title="Submit" %}
+{% include forms/email-signup.html form_action=site.data.development.email_signup_action submit_title="Submit" %}
