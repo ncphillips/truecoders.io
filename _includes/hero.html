@@ -3,11 +3,11 @@
 include:
   title: Title
   subtitle: Subtitle
-  image: 
+  image:
   color: "#0093c9"
   call_to_action:
-    title: 
-    url: 
+    title:
+    url:
 -->
 {%- endcomment -%}
 
@@ -21,7 +21,7 @@ include:
 <div class="jumbotron jumbotron-fluid" style="{{jumbotron_style}}">
   <div class="container-fluid">
     <h1 class="display-1" style="text-align:center; color:white;">{{ page.display_title | default: page.title }}</h1>
-    
+
     {% if page.subtitle %}
     <h3 id="hero-subtitle" style="text-align:center; color:white;">{{ page.subtitle }}</h3>
     {%- endif -%}
@@ -29,7 +29,7 @@ include:
     {% if page.hero.call_to_action.url %}
     <div class="play-icon">
       <a href={{ page.hero.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
-        <i class="fa fa-play-circle fa-lg"></i> {{ page.hero.call_to_action.title }}
+        <i class="fa {{ site.data.icons["Play Circle"].fa_icon }} fa-lg"></i> {{ page.hero.call_to_action.title }}
       </a>
     </div>
     {%- endif -%}
