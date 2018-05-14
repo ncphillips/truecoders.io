@@ -10,6 +10,7 @@ subsections:
   fa_icon: fa-terminal
   body: At the core of our company is development. We are constantly training the
     right people to meet your development needs.
+  icon: Facebook
 - title: QAs and PMs
   subtitle: 
   fa_icon: fa-cogs
@@ -20,6 +21,8 @@ subsections:
   fa_icon: fa-compass
   body: Every one of our dev teams is supervised by a Software Architect with years
     of experience in every aspect of the software lifecycle.
+sub_collection: ''
+limit: 3
 ---
 
 We are all about team work. From small to large projects, we ensure that the right individual is working on every step.
