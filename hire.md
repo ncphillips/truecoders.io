@@ -17,7 +17,7 @@ menu:
   footer:
     identifier: _hire
     url: "/hire/"
-    weight: 8
+    weight: 7
 ---
 
 # Hiring TrueCoders

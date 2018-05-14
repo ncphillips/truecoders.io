@@ -13,7 +13,7 @@ menu:
   footer:
     identifier: _contact
     url: "/contact/"
-    weight: 7
+    weight: 6
 ---
 
 # We Are TrueCoders
