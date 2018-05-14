@@ -57,6 +57,15 @@ fields:
     hidden: false
     default: ''
     description: e.g. fa-compass
+  - type: select
+    config:
+      source:
+        type: datafiles
+        file: _data-icons-yml
+        path: icons
+    label: Icon
+    name: icon
+    default: 
   - name: body
     label: Body
     type: textarea
