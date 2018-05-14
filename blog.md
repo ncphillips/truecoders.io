@@ -9,9 +9,6 @@ call_to_action:
   title: View Our Medium Blog
   url: https://medium.com/@truecodersio
 menu:
-  header:
-    weight: 1
-    title: ''
   footer:
     identifier: _blog
     url: "/blog/"
