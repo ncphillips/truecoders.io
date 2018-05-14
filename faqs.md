@@ -9,14 +9,14 @@ call_to_action:
   url: "/contact"
   body: Have more questions for us? Maybe something we didn't answer?
 menu:
-  header:
-    identifier: _faqs
-    url: "/faqs/"
-    weight: 4
   footer:
     identifier: _faqs
     url: "/faqs/"
     weight: 3
+  header:
+    identifier: _faqs
+    url: "/faqs/"
+    weight: 4
 ---
 
 # Frequently Asked Questions

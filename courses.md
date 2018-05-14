@@ -11,14 +11,14 @@ call_to_action:
   url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
   body: We have applications open for upcoming courses.
 menu:
-  header:
-    identifier: _courses
-    url: "/courses/"
-    weight: 2
   footer:
     identifier: _courses
     url: "/courses/"
     weight: 4
+  header:
+    identifier: _courses
+    url: "/courses/"
+    weight: 2
 ---
 
 # We Are TrueCoders

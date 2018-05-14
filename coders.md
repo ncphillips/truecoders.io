@@ -11,14 +11,14 @@ call_to_action:
   url: "/hire"
   body: Interested in hiring a TrueCoder?
 menu:
-  header:
-    identifier: _coders
-    url: "/coders/"
-    weight: 3
   footer:
     identifier: _coders
     url: "/coders/"
     weight: 5
+  header:
+    identifier: _coders
+    url: "/coders/"
+    weight: 3
 ---
 
 # We Are TrueCoders

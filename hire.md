@@ -10,14 +10,14 @@ sections:
 - _sections/dev-process.md
 - _sections/hire-cost.md
 menu:
-  footer:
-    identifier: _hire
-    url: "/hire/"
-    weight: 8
   header:
     identifier: _hire
     url: "/hire/"
     weight: 6
+  footer:
+    identifier: _hire
+    url: "/hire/"
+    weight: 8
 ---
 
 # Hiring TrueCoders
