@@ -79,7 +79,7 @@ fields:
     fa_icon: 
     body: 
 - name: call_to_action
-  label: Call to action
+  label: Call to Action
   type: field_group
   fields:
   - name: title
