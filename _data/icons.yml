@@ -1,0 +1,15 @@
+---
+- title: Facebook
+  fa_icon: fa-facebook
+- title: Twitter
+  fa_icon: fa-twitter
+- title: Instagram
+  fa_icon: fa-instagram
+- title: GitHub
+  fa_icon: fa-github
+- title: LinkedIn
+  fa_icon: fa-linkedin
+- title: Vimeo
+  fa_icon: fa-vimeo
+- title: Angel List
+  fa_icon: fa-angellist
