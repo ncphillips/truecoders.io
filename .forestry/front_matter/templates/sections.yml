@@ -1,8 +1,8 @@
 ---
 pages:
-- _sections/employers.md
 - _sections/hire-cost.md
 - _sections/dev-process.md
+- _sections/employers.md
 - _sections/dev-team.md
 - _sections/courses.md
 - _sections/courses-process.md
