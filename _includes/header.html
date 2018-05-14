@@ -16,7 +16,7 @@ include:
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        {%- assign pages = site.pages | where_exp:"page", "page.menu.header.title" | sort: "menu.header.weight" -%}
+        {%- assign pages = site.pages | where_exp:"page", "page.menu.header" | sort: "menu.header.weight" -%}
 
         {% for page in pages %}
         {% unless forloop.last == true %}
