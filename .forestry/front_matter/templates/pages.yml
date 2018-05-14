@@ -1,6 +1,5 @@
 ---
 pages:
-- blog.md
 - 404.md
 hide_body: false
 is_partial: false
