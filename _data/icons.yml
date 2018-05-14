@@ -1,16 +1,15 @@
 ---
-icons:
-  Facebook:
-    fa_icon: fa-facebook
-  Twitter:
-    fa_icon: fa-twitter
-  Instagram:
-    fa_icon: fa-instagram
-  GitHub:
-    fa_icon: fa-github
-  LinkedIn:
-    fa_icon: fa-linkedin
-  Vimeo:
-    fa_icon: fa-vimeo
-  Angel List:
-    fa_icon: fa-angellist
+Facebook:
+  fa_icon: fa-facebook
+Twitter:
+  fa_icon: fa-twitter
+Instagram:
+  fa_icon: fa-instagram
+GitHub:
+  fa_icon: fa-github
+LinkedIn:
+  fa_icon: fa-linkedin
+Vimeo:
+  fa_icon: fa-vimeo
+Angel List:
+  fa_icon: fa-angellist
