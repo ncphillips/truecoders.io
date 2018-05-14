@@ -1,15 +1,39 @@
 ---
-Facebook:
-  fa_icon: fa-facebook
-Twitter:
-  fa_icon: fa-twitter
-Instagram:
-  fa_icon: fa-instagram
-GitHub:
-  fa_icon: fa-github
-LinkedIn:
-  fa_icon: fa-linkedin
-Vimeo:
-  fa_icon: fa-vimeo
 Angel List:
   fa_icon: fa-angellist
+Check:
+  fa_icon: fa-check
+Code:
+  fa_icon: fa-code
+Cogs:
+  fa_icon: fa-cogs
+Compass:
+  fa_icon: fa-compass
+Facebook:
+  fa_icon: fa-facebook
+File with Text:
+  fa_icon: fa-file-text-o
+GitHub:
+  fa_icon: fa-github
+Graduation Cap:
+  fa_icon: fa-graduation-cap
+Instagram:
+  fa_icon: fa-instagram
+LinkedIn:
+  fa_icon: fa-linkedin
+Plug:
+  fa_icon: fa-plug
+Refresh:
+  fa_icon: fa-refresh
+Tags:
+  fa_icon: fa-tags
+Terminal:
+  fa_icon: fa-terminal
+Twitter:
+  fa_icon: fa-twitter
+User:
+  fa_icon: fa-user
+Users:
+  fa_icon: fa-users
+Vimeo:
+  fa_icon: fa-vimeo
