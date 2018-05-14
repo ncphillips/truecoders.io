@@ -1,6 +1,6 @@
 ---
 title: What is included with the scholarship?
-date: 2017-09-22 16:43:00 -05:00
+date: 2017-09-22 21:43:00 +0000
 categories: cost
 ---
 

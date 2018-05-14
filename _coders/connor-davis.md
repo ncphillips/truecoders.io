@@ -1,6 +1,6 @@
 ---
 title: Connor Davis
-date: 2017-11-14 02:01:00 -06:00
+date: 2017-11-14 08:01:00 +0000
 image: "/uploads/connor-davis.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,15 +29,15 @@ skills:
 work:
 - company: Pelham Raquet Club
   job_title: Tennis Instructor
-  start_date: 2015-12-01 00:00:00 -06:00
-  end_date:
-  location:
+  start_date: 2015-12-01 06:00:00 +0000
+  end_date: 
+  location: 
   body: Work with, and instruct, a wide variety of people as well as coaching for
     a teen league.
 - company: Garywood Assembly of God
   job_title: Media/Audio Department
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  start_date: 2015-01-01 06:00:00 +0000
+  end_date: 2017-01-01 06:00:00 +0000
   body: |-
     Worked with a number of different media/audio tools:
 
@@ -46,7 +46,7 @@ work:
 education:
 - institution: Hope Christian High School
   area: High School Diploma
-  end_date: 2017-05-01 00:00:00 -05:00
+  end_date: 2017-05-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Graduated with AAD:

@@ -1,6 +1,6 @@
 ---
 title: Micah Weech
-date: 2017-11-14 02:03:00 -06:00
+date: 2017-11-14 08:03:00 +0000
 image: "/uploads/micah-weech.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,8 +29,8 @@ skills:
 work:
 - company: South Central Conference of Seventh Day Adventists
   job_title: Senior Pastor
-  start_date: 2008-05-01 01:00:00 -05:00
-  end_date:
+  start_date: 2008-05-01 06:00:00 +0000
+  end_date: 
   body: |-
     Congregations served:
 
@@ -58,8 +58,8 @@ work:
     - Supported the community thru various initiatives focused on improving the quality of life
 - company: Emmanuel Jr. Academy
   job_title: Teacher
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-05-01 00:00:00 -05:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2016-05-01 05:00:00 +0000
   body: |-
     Grade levels taught:
 
@@ -68,8 +68,8 @@ work:
     - PE class for grades 3-10
 - company: Savannah College of Art and Design
   job_title: Teaching Assistant
-  start_date: 2012-01-01 00:00:00 -06:00
-  end_date: 2012-12-01 00:00:00 -06:00
+  start_date: 2012-01-01 06:00:00 +0000
+  end_date: 2012-12-01 06:00:00 +0000
   body: |-
     Trained in use of the Steadicam camera support system:
 
@@ -78,8 +78,8 @@ work:
     - Physical practice and emphasis on proper footwork
 - company: Oakwood University Church
   job_title: Media Director/Assistant Youth Pastor
-  start_date: 2008-08-01 01:00:00 -05:00
-  end_date: 2010-07-01 01:00:00 -05:00
+  start_date: 2008-08-01 06:00:00 +0000
+  end_date: 2010-07-01 06:00:00 +0000
   body: |-
     Developed sales strategy and Lead youth events:
 
@@ -92,16 +92,16 @@ work:
 education:
 - institution: Savannah College of Art and Design
   area: Master of Fine Arts, Film & Television
-  start_date:
-  end_date:
-  gpa:
+  start_date: 
+  end_date: 
+  gpa: 
   location: Savannah, GA
   body: Pending thesis
 - institution: Oakwood University
   area: Bachelor of Arts, Theology Pastoral/Evangelism
-  start_date:
-  end_date: 2013-11-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2013-11-01 05:00:00 +0000
+  gpa: 
   location: Huntsville, AL
   body: Minor in Biblical Languages
 ---

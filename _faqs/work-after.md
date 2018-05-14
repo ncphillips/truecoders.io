@@ -1,6 +1,6 @@
 ---
 title: Do I get to work for TrueCoders after the course is done?
-date: 2017-09-22 16:41:00 -05:00
+date: 2017-09-22 21:41:00 +0000
 categories: placement
 ---
 

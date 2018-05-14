@@ -1,6 +1,6 @@
 ---
 title: Hunter Wright
-date: 2018-01-25 18:28:00 -06:00
+date: 2018-01-26 00:28:00 +0000
 image: "/uploads/hunter-wright.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,8 +12,8 @@ profiles:
 work:
 - company: Post Properties / MAA - Charlotte
   job_title: Leasing Consultant
-  start_date: 2016-04-01 00:00:00 -05:00
-  end_date: 2017-02-01 00:00:00 -06:00
+  start_date: 2016-04-01 05:00:00 +0000
+  end_date: 2017-02-01 06:00:00 +0000
   location: Charlotte, NC
   body: |-
     - Leasing apartments
@@ -21,8 +21,8 @@ work:
     - Work to keep renewal rates healthy
 - company: Allen Tate Companies
   job_title: Real Estate Broker
-  start_date: 2015-03-01 00:00:00 -06:00
-  end_date: 2016-03-01 00:00:00 -06:00
+  start_date: 2015-03-01 06:00:00 +0000
+  end_date: 2016-03-01 06:00:00 +0000
   location: Charlotte, NC
   body: |-
     - Licensed NC Provisional Real Estate Broker
@@ -30,8 +30,8 @@ work:
     - Cultivate leads and turn them into clients
 - company: Colonial Properties / MAA
   job_title: Leasing Consultant
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 2017-12-01 00:00:00 -06:00
+  start_date: 2017-01-01 06:00:00 +0000
+  end_date: 2017-12-01 06:00:00 +0000
   location: Charlotte, NC
   body: |-
     - Leasing apartments
@@ -39,8 +39,8 @@ work:
     - Work to keep renewal rates healthy
 - company: Raycom Media
   job_title: Account Executive
-  start_date: 2012-09-01 00:00:00 -05:00
-  end_date: 2012-12-01 00:00:00 -06:00
+  start_date: 2012-09-01 05:00:00 +0000
+  end_date: 2012-12-01 06:00:00 +0000
   location: Montgomery, AL
   body: |-
     - Acquisition of leads
@@ -48,8 +48,8 @@ work:
     - Marketing campaign development
 - company: Advanced Insulation Technology (AIT)
   job_title: Markting Associate
-  start_date: 2010-05-01 01:00:00 -05:00
-  end_date: 2011-05-01 01:00:00 -05:00
+  start_date: 2010-05-01 06:00:00 +0000
+  end_date: 2011-05-01 06:00:00 +0000
   location: Auburn, AL
   body: |-
     - Conducted marketing research and generated targeted advertising
@@ -57,8 +57,8 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science in Business Administration; Marketing
-  start_date: 2007-08-01 01:00:00 -05:00
-  end_date: 2012-05-01 00:00:00 -05:00
+  start_date: 2007-08-01 06:00:00 +0000
+  end_date: 2012-05-01 05:00:00 +0000
   location: Auburn, AL
 ---
 

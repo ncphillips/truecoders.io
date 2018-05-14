@@ -1,6 +1,6 @@
 ---
 title: Lisa Bamberg
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/lisa-bamberg.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -24,8 +24,8 @@ skills:
 work:
 - company: Abhi
   job_title: Front of House
-  start_date: 2017-05-01 00:00:00 -05:00
-  end_date:
+  start_date: 2017-05-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: "Part of a team of professionals who maintain an award winning business by
     providing a high-caliber experience and exceptional customer service with 7 years
@@ -34,8 +34,8 @@ work:
     anticipated and addressed guest service needs."
 - company: Samford University Wright Fine Arts Center
   job_title: Lighting Designer
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2017-04-01 00:00:00 -05:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2017-04-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Head of lighting department for a 2,633 seat performing arts center. Designed lighting for Samford University’s productions, contracted work including the Alabama Ballet and Alabama Symphony Orchestra and national touring companies:
@@ -46,8 +46,8 @@ work:
     * Import show files for traveling performances and convert them to be able for in house equipment.
 - company: Sekisui
   job_title: Front of House
-  start_date: 2011-09-01 01:00:00 -05:00
-  end_date: 2015-10-01 00:00:00 -05:00
+  start_date: 2011-09-01 06:00:00 +0000
+  end_date: 2015-10-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Lead server who executed detailed knowledge of Japanese cuisine and culture to promote the restaurant:
@@ -56,8 +56,8 @@ work:
     * Responsible for training and educating new employees.
 - company: Birmingham-Southern College Theatre Shop
   job_title: Stage Technician
-  start_date: 2007-08-01 01:00:00 -05:00
-  end_date: 2011-05-01 01:00:00 -05:00
+  start_date: 2007-08-01 06:00:00 +0000
+  end_date: 2011-05-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Crew member for all school products in various concentrations:
@@ -69,8 +69,8 @@ work:
 education:
 - institution: Birmingham-Southern College
   area: Bachelor of Arts
-  start_date: 2007-08-01 01:00:00 -05:00
-  end_date: 2012-09-01 00:00:00 -05:00
+  start_date: 2007-08-01 06:00:00 +0000
+  end_date: 2012-09-01 05:00:00 +0000
   location: Birmingham, AL
   body: 'Major: Theatre'
 ---

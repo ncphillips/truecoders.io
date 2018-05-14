@@ -1,6 +1,6 @@
 ---
 title: Austin Redmayne
-date: 2017-11-14 02:01:00 -06:00
+date: 2017-11-14 08:01:00 +0000
 image: "/uploads/austin-redmayne.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,9 +29,9 @@ skills:
 work:
 - company: Baumhowers
   job_title: Server
-  start_date: 2016-12-01 00:00:00 -06:00
-  end_date: 2017-11-01 00:00:00 -05:00
-  location:
+  start_date: 2016-12-01 06:00:00 +0000
+  end_date: 2017-11-01 05:00:00 +0000
+  location: 
   body: |-
     Met time commitments in order to keep restaurant running smoothly:
 
@@ -39,16 +39,16 @@ work:
     - Maintained alertness in full scope of the restaurants needs
 - company: Jackson's​ ​Bar​ ​and​ ​Bistro
   job_title: Server
-  start_date: 2016-07-01 00:00:00 -05:00
-  end_date: 2016-11-01 00:00:00 -05:00
+  start_date: 2016-07-01 05:00:00 +0000
+  end_date: 2016-11-01 05:00:00 +0000
   body: |-
     Adhered persistently to the changing pace and demand of the restaurant:
 
     - Communicating with customers to find out their specific needs
 - company: Cracker​ ​Barrel
   job_title: Server
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2015-11-01 00:00:00 -05:00
+  start_date: 2015-04-01 05:00:00 +0000
+  end_date: 2015-11-01 05:00:00 +0000
   body: |-
     Focused on teamwork to ensure all customers were satisfied with their service:
 
@@ -56,8 +56,8 @@ work:
     - Kept up with a constant driving pace and consistent flux of customers
 - company: All​ ​American​ ​Swim​ ​Supply
   job_title: Sales Representative
-  start_date: 2014-07-01 00:00:00 -05:00
-  end_date: 2015-07-01 00:00:00 -05:00
+  start_date: 2014-07-01 05:00:00 +0000
+  end_date: 2015-07-01 05:00:00 +0000
   body: |-
     Set up and maintained a mobile store:
 
@@ -65,13 +65,13 @@ work:
     - Handling money using mobile pay options
 - company: Blue​ ​Coast​ ​Burrito
   job_title: Store Employee
-  start_date: 2014-12-01 00:00:00 -06:00
-  end_date: 2015-03-01 00:00:00 -06:00
+  start_date: 2014-12-01 06:00:00 +0000
+  end_date: 2015-03-01 06:00:00 +0000
   body: Prepared and served food, ensuring the overall presentation of the restaurant
 - company: Hometown​ ​Market
   job_title: Cashier
-  start_date: 2014-06-01 00:00:00 -05:00
-  end_date: 2014-11-01 00:00:00 -05:00
+  start_date: 2014-06-01 05:00:00 +0000
+  end_date: 2014-11-01 05:00:00 +0000
   body: |-
     Assisted customers in locating products, at times helping them make a decision between multiple products:
 
@@ -80,32 +80,32 @@ work:
 education:
 - institution: University​ ​of​ ​Alabama​ ​at​ ​Birmingham
   area: Psychology
-  start_date:
-  end_date:
-  gpa:
+  start_date: 
+  end_date: 
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 - institution: University​ ​of​ ​North​ ​Alabama
   area: Music Performance
-  start_date:
-  end_date: 2014-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2014-05-01 05:00:00 +0000
+  gpa: 
   location: Florence, AL
-  body:
+  body: 
 - institution: Northwest​ ​Shoals​ ​Community​ ​College
   area: General
-  start_date:
-  end_date: 2012-12-01 00:00:00 -06:00
-  gpa:
+  start_date: 
+  end_date: 2012-12-01 06:00:00 +0000
+  gpa: 
   location: Muscle​ ​Shoals,​ ​AL
-  body:
+  body: 
 - institution: Homewood​ ​High​ ​School
   area: High​ ​School Diploma
-  start_date:
-  end_date: 2011-05-01 01:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2011-05-01 06:00:00 +0000
+  gpa: 
   location: Homewood, AL
-  body:
+  body: 
 ---
 
 I am a tech enthusiast who became familiar early on with driver and software troubleshooting, data transfer, and virus/malware removal. I have an understanding the diverse and unique needs of others, communicating with people, and adapting to the sporadic nature of high-energy environments.The experience I have allowed me to efficiently work in fast-paced environments while also wiring my mind to always be in search of the best way to work through the present problems.

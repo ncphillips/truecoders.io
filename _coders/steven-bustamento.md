@@ -1,6 +1,6 @@
 ---
 title: Steven Bustamento
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/steven-bustamento.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -30,8 +30,8 @@ skills:
 work:
 - company: Hungry Howies
   job_title: Store Manager
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2017-10-01 00:00:00 -05:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2017-10-01 05:00:00 +0000
   location: Helena/Alabaster, AL
   body: |-
     Supervised and trained all employees:
@@ -40,8 +40,8 @@ work:
     * Troubleshooting basic IT problems.
 - company: Cracker Barrel
   job_title: Various Positions
-  start_date: 2013-12-01 00:00:00 -06:00
-  end_date: 2015-06-01 00:00:00 -05:00
+  start_date: 2013-12-01 06:00:00 +0000
+  end_date: 2015-06-01 05:00:00 +0000
   location: Alabaster, AL
   body: |-
     Hands on experience with a couple different POS systems:
@@ -52,8 +52,8 @@ work:
     * Was responsible for closing registers for the nights
 - company: Weaver Tidmore, LLC
   job_title: Office/Admin Assistant
-  start_date: 2009-06-01 01:00:00 -05:00
-  end_date: 2013-07-01 00:00:00 -05:00
+  start_date: 2009-06-01 06:00:00 +0000
+  end_date: 2013-07-01 05:00:00 +0000
   location: Hoover, AL
   body: |-
     Using different resources to structure work in more efficient ways:
@@ -66,9 +66,9 @@ work:
 education:
 - institution: Jefferson State University
   area: Fullstack Web Development Courses
-  start_date: 2017-08-01 00:00:00 -05:00
-  end_date: 2018-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 2017-08-01 05:00:00 +0000
+  end_date: 2018-05-01 05:00:00 +0000
+  gpa: 
   location: Hoover, AL
   body: |-
     Gained a foundation of HTML, CSS, JS, PHP, SQL and a hunger for more:
@@ -77,9 +77,9 @@ education:
     * Still currently meeting with a group of people post-class, and the owner of the site, to rebuild and implement new features.
 - institution: University of Alabama in Birmingham
   area: Music Education Degree
-  start_date: 2013-08-01 00:00:00 -05:00
-  end_date: 2015-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 2013-08-01 05:00:00 +0000
+  end_date: 2015-05-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
   body: |-
     Percussionist:
@@ -88,9 +88,9 @@ education:
     * Completed 80 / 122 credits towards this degree
 - institution: Pelham High School
   area: High School Diploma
-  start_date: 2009-01-01 00:00:00 -06:00
-  end_date: 2013-01-01 00:00:00 -06:00
-  gpa:
+  start_date: 2009-01-01 06:00:00 +0000
+  end_date: 2013-01-01 06:00:00 +0000
+  gpa: 
   location: Pelham, AL
   body: |-
     Brought a variety of medals home for music performance during this time, be it from events through the school, or events outside of school:

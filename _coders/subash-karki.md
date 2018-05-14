@@ -1,6 +1,6 @@
 ---
 title: Subash Karki
-date: 2018-01-25 18:32:00 -06:00
+date: 2018-01-26 00:32:00 +0000
 image: "/uploads/subash-karki.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -11,16 +11,16 @@ profiles:
 work:
 - company: Upwork
   job_title: Freelance Web Developer
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date:
-  location:
+  start_date: 2016-01-01 06:00:00 +0000
+  end_date: 
+  location: 
   body: |-
     - Maintained and updated HTML/CSS templates on a regular basis and as required.
     - Conducted layout design and construction for a variety of websites as assigned.
 - company: Muskan Inc.
   job_title: Manager
-  start_date: 2010-01-01 00:00:00 -06:00
-  end_date: 2017-12-01 00:00:00 -06:00
+  start_date: 2010-01-01 06:00:00 +0000
+  end_date: 2017-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Responsible for managing restaurant operations. Hires and trains food service staff, creates menus, business website and orders food and restaurant supplies.
@@ -32,8 +32,8 @@ work:
     - Observed budgets and payroll records and examined financial transactions to guarantee authentic expenditures.
 - company: Stop and Save Harvest
   job_title: Manager
-  start_date: 2008-01-01 00:00:00 -06:00
-  end_date: 2010-03-01 00:00:00 -06:00
+  start_date: 2008-01-01 06:00:00 +0000
+  end_date: 2010-03-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Directed all operations for store, including organization, storing, stocking, staffing, staff supervision, budgeting, P&L statements, and maintenance of financial records.
@@ -44,11 +44,11 @@ work:
     - Create daily reports from POS terminals
 education:
 - institution: Cybrary
-  area:
-  start_date: 2017-04-01 00:00:00 -05:00
-  end_date:
-  gpa:
-  location:
+  area: 
+  start_date: 2017-04-01 05:00:00 +0000
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Certifications
 
@@ -58,16 +58,16 @@ education:
     CompTIA Project+ Certification: Certified July, 2017
 - institution: freeCodeCamp
   area: Web Development
-  start_date:
-  end_date: 2016-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2016-05-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 - institution: University of Alabama at Birmingham
   area: BA in General Studies
-  start_date: 2010-08-01 01:00:00 -05:00
-  end_date: 2013-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 2010-08-01 06:00:00 +0000
+  end_date: 2013-05-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
   body: Completed 80 credits toward a BA in General Studies
 ---

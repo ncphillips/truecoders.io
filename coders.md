@@ -1,18 +1,24 @@
 ---
 title: Coders
-date: 2017-09-12 02:39:00 -05:00
+date: 2017-09-12 07:39:00 +0000
 display_title: Our Coders
 subtitle: The people that make us amazing
 collection: coders
-menus:
-  is_nav: true
-  is_footer: true
 hero:
   image: "/uploads/hero-image-10.jpg"
 call_to_action:
   title: Hire Us
   url: "/hire"
   body: Interested in hiring a TrueCoder?
+menu:
+  header:
+    identifier: _coders
+    url: "/coders/"
+    weight: 3
+  footer:
+    identifier: _coders
+    url: "/coders/"
+    weight: 5
 ---
 
 # We Are TrueCoders

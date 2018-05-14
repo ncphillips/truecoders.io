@@ -1,6 +1,6 @@
 ---
 title: Jack Mentzer
-date: 2018-01-25 18:30:00 -06:00
+date: 2018-01-26 00:30:00 +0000
 image: "/uploads/jack-mentzer.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,8 +12,8 @@ profiles:
 work:
 - company: Bad Panda Inc.
   job_title: Film Editor
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date: 2017-09-01 00:00:00 -05:00
+  start_date: 2017-01-01 06:00:00 +0000
+  end_date: 2017-09-01 05:00:00 +0000
   location: Los Angeles, CA
   body: |-
     Film Editor for highly competitive ESports on a professional level. Edited tournaments, interviews, live events, and in-game footage using Adobe Premiere Pro.
@@ -25,8 +25,8 @@ work:
     - Multiple software programs learned and used throughout longevity
 - company: Sterling Tackle
   job_title: Assistant
-  start_date: 2010-05-01 01:00:00 -05:00
-  end_date: 2017-12-01 00:00:00 -06:00
+  start_date: 2010-05-01 06:00:00 +0000
+  end_date: 2017-12-01 06:00:00 +0000
   location: Marmora, NJ
   body: |-
     Assistant to the owner of offshore fishing website; rigged all production lures and processed orders, shipped orders, and maintained inventory.
@@ -38,8 +38,8 @@ work:
     - Remained focused in high-stress scenarios
 - company: Red Cloud Productions
   job_title: Office Manager and Production Assistant
-  start_date: 2014-10-01 00:00:00 -05:00
-  end_date: 2014-12-01 00:00:00 -06:00
+  start_date: 2014-10-01 05:00:00 +0000
+  end_date: 2014-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Office manager and production assistant for the feature film "Woodlawn". Handled legal paperwork for all "extras" (background actors) on site and well as recruitment of said actors.
@@ -51,8 +51,8 @@ work:
     - Managed paperwork crucial for the films legality
 - company: Mentzer Home Maintenance LLC
   job_title: Foreman
-  start_date: 2016-03-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  start_date: 2016-03-01 06:00:00 +0000
+  end_date: 2016-12-01 06:00:00 +0000
   location: Petersburg, NJ
   body: |-
     Foreman for a painting, power-washing, and roof cleaning service. Led and completed several projects in the South Jersey area.
@@ -65,8 +65,8 @@ work:
 education:
 - institution: Liberty University
   area: 'B.S. Communications: Concentration in Cinematography'
-  start_date: 2009-09-01 01:00:00 -05:00
-  end_date: 2014-05-01 00:00:00 -05:00
+  start_date: 2009-09-01 06:00:00 +0000
+  end_date: 2014-05-01 05:00:00 +0000
   gpa: 3.4
   location: Lynchburg, VA
   body: |-

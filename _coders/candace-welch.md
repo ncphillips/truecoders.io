@@ -1,6 +1,6 @@
 ---
 title: Candace Welch
-date: 2017-11-14 02:05:00 -06:00
+date: 2017-11-14 08:05:00 +0000
 image: "/uploads/candace-welch.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,9 +29,9 @@ skills:
 work:
 - company: Out There Creative
   job_title: Graphic Designer & Developer
-  start_date: 2017-06-01 00:00:00 -05:00
-  end_date:
-  location:
+  start_date: 2017-06-01 05:00:00 +0000
+  end_date: 
+  location: 
   body: |-
     Completed web development training in order to prepare for transitioning into a primarily development role:
 
@@ -42,8 +42,8 @@ work:
     - Develop and design branding, packaging, & animations for projects
 - company: Costco Wholesale
   job_title: Produce Merchandiser
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2017-02-01 00:00:00 -06:00
+  start_date: 2015-04-01 05:00:00 +0000
+  end_date: 2017-02-01 06:00:00 +0000
   body: |-
     Maintained business to business relationships with local restaurants in order to promote Costco community involvement:
 
@@ -52,8 +52,8 @@ work:
     - Ensured accurate records of inbound shipments
 - company: RSVP Magazine
   job_title: Graphic Design Intern
-  start_date: 2016-05-01 00:00:00 -05:00
-  end_date: 2016-09-01 00:00:00 -05:00
+  start_date: 2016-05-01 05:00:00 +0000
+  end_date: 2016-09-01 05:00:00 +0000
   body: |-
     Completed several ads for the July/August 2016 edition of RSVP, in addition to designing two event flyers:
 
@@ -61,23 +61,23 @@ work:
     - Release Party for the July/August Edition
 - company: Wetumpka Area Chamber of Commerce
   job_title: Graphic Design Intern
-  start_date: 2016-06-01 00:00:00 -05:00
-  end_date: 2016-07-01 00:00:00 -05:00
+  start_date: 2016-06-01 05:00:00 +0000
+  end_date: 2016-07-01 05:00:00 +0000
   body: During the internship, I was allowed the opportunity to designing a new Billboard
     concept for the Wetumpka Chamber of Commerce. Additionally, I designed a banner
     for the Chamber to use for a "Shop Local" campaign.
 - company: Gumptionneers
   job_title: Graphic Design Intern
-  start_date: 2016-06-01 00:00:00 -05:00
-  end_date: 2016-07-01 00:00:00 -05:00
+  start_date: 2016-06-01 05:00:00 +0000
+  end_date: 2016-07-01 05:00:00 +0000
   body: A summer program of 3 students, which was started in 2015 and last 6 to 8
     weeks. During this time, projects were completed to improve different aspects
     of the city. Weekly open meetings were held with local business owners and community
     figures, including the Mayor.
 - company: Square Root Interactive
   job_title: Account Coordinator
-  start_date: 2014-08-01 00:00:00 -05:00
-  end_date: 2015-04-01 00:00:00 -05:00
+  start_date: 2014-08-01 05:00:00 +0000
+  end_date: 2015-04-01 05:00:00 +0000
   body: |-
     Handled customer relationships between twelve total past and current accounts:
 
@@ -88,9 +88,9 @@ work:
 education:
 - institution: Auburn University at Montgomery
   area: Graphic Design
-  start_date:
-  end_date: 2017-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2017-05-01 05:00:00 +0000
+  gpa: 
   location: Montgomery, AL
   body: |-
     Activities and Societies:
@@ -101,11 +101,11 @@ education:
     - Phi Kappa Phi Honor Society
 - institution: Trinity Presbyterian School
   area: High School Diploma
-  start_date:
-  end_date: 2012-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2012-05-01 05:00:00 +0000
+  gpa: 
   location: Montgomery, AL
-  body:
+  body: 
 ---
 
 My name is Candace Welch and I hail from the bustling city of Montgomery, Alabama. I am a Graphic Designer with a knack for development. The growth of Front End Development has stagnated, leaving several developers to wonder what comes next. I am passionate about my career, and I strive to keep myself current and relative within the market. I am eager to continue learning throughout my career as a Software Developer unfolds in an ever changing environment.

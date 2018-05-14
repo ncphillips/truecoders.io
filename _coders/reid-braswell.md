@@ -1,6 +1,6 @@
 ---
 title: Reid Braswell
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/reid-braswell.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -30,8 +30,8 @@ skills:
 work:
 - company: McKesson Pharmacy Systems
   job_title: Software Engineer
-  start_date: 2004-11-01 00:00:00 -06:00
-  end_date: 2016-04-01 00:00:00 -05:00
+  start_date: 2004-11-01 06:00:00 +0000
+  end_date: 2016-04-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Maintained and developed a JAVA  e-prescribing web application PPIWEB (Pharmacy Physician Interface) that enabled pharmacies to send and receive electronic prescriptions through the Sure Scripts network (a network that supports electronic transmission of prescriptions between health care organizations and pharmacies). All messages were base-64 encoded EDIFACT wrapped in XML sent via a secure SSL connection:

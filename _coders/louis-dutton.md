@@ -1,6 +1,6 @@
 ---
 title: Louis Dutton
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/louis-dutton.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -24,8 +24,8 @@ skills:
 work:
 - company: Hollister
   job_title: Sale Representative, Model
-  start_date: 2005-06-01 01:00:00 -05:00
-  end_date: 2005-12-01 00:00:00 -06:00
+  start_date: 2005-06-01 06:00:00 +0000
+  end_date: 2005-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Sales:
@@ -34,14 +34,14 @@ work:
     * Customer service
 - company: Greystone Pharmacy
   job_title: Pharmacy Tech
-  start_date: 2006-07-01 01:00:00 -05:00
-  end_date: 2010-07-01 01:00:00 -05:00
+  start_date: 2006-07-01 06:00:00 +0000
+  end_date: 2010-07-01 06:00:00 +0000
   location: Birmingham, AL
   body: Filled Scripts and Compounding
 - company: Walgreens
   job_title: Senior Certified Pharmacy Tech
-  start_date: 2010-09-01 01:00:00 -05:00
-  end_date:
+  start_date: 2010-09-01 06:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Stock Management:
@@ -51,16 +51,16 @@ work:
 education:
 - institution: Jeff State Community College
   area: Major in Biology
-  start_date: 2009-05-01 01:00:00 -05:00
-  end_date: 2011-12-01 00:00:00 -06:00
-  gpa:
+  start_date: 2009-05-01 06:00:00 +0000
+  end_date: 2011-12-01 06:00:00 +0000
+  gpa: 
   location: Birmingham, AL
   body: Computer Science, Anatomy, and Physiology
 - institution: University of Alabama in Birmingham
   area: Major in Biology
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date:
-  gpa:
+  start_date: 2015-01-01 06:00:00 +0000
+  end_date: 
+  gpa: 
   location: Birmingham, AL
   body: |-
     Minor in Chemistry:

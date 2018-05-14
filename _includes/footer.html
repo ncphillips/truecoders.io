@@ -13,7 +13,7 @@ include:
 <footer class="footer sticky-bottom" style="background-color:{{ include.color }}; padding: 80px 0; text-align:center;">
   <div class="container" style="color:white;">
     <ul class="list-inline">
-      {% assign pages = site.pages | where_exp:"page", "page.menus.is_footer == true" | sort: "title" %}
+      {% assign pages = site.pages | where_exp:"page", "page.menu.footer.title" | sort: "menu.footer.weight" -%}
       {% for page in pages %}
       <li class="list-inline-item">
         <a href={{ page.url | escape }} style="color:white;">{{ page.title }}</a>

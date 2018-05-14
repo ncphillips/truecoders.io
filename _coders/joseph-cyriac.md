@@ -1,6 +1,6 @@
 ---
 title: Joseph Cyriac
-date: 2017-11-14 02:03:00 -06:00
+date: 2017-11-14 08:03:00 +0000
 image: "/uploads/joseph-cyriac.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,8 +29,8 @@ skills:
 work:
 - company: HFP LLC
   job_title: Customs and Sales Broker
-  start_date: 2015-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 2015-01-01 06:00:00 +0000
+  end_date: 
   body: |-
     Liaison for North American Ventures:
 
@@ -38,8 +38,8 @@ work:
     - Process shipments, managing customs, tariffs, and other requirements
 - company: West Alabama Internal Medicine LLC
   job_title: Senior Manager and IT Analyst
-  start_date: 2003-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 2003-01-01 06:00:00 +0000
+  end_date: 
   body: |-
     As a permanent staff member serving in the capacity of IT Consultant and Senior Office Manager responsible for:
 
@@ -49,8 +49,8 @@ work:
     - HR services such as hiring and yearly employee review
 - company: Song Eye Center Inc.
   job_title: Assistant Manager and IT Analyst
-  start_date: 1997-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 1997-01-01 06:00:00 +0000
+  end_date: 
   body: |-
     Analyzing, Designing, and Implementing Office Infrastructure for several locations:
 
@@ -58,8 +58,8 @@ work:
     - Assist with Quarterly Marketing and Advertising for Main and Satellite locations
 - company: Business Partnership
   job_title: Investment Property Manager
-  start_date: 2005-01-01 00:00:00 -06:00
-  end_date: 2010-12-01 00:00:00 -06:00
+  start_date: 2005-01-01 06:00:00 +0000
+  end_date: 2010-12-01 06:00:00 +0000
   body: |-
     As a joint investor and property manager responsible for:
 
@@ -68,8 +68,8 @@ work:
     - Financing and accounting of project budgets to maintain workflow and to ensure profitability
 - company: Continental Airlines
   job_title: Customer Relations Representative
-  start_date: 2007-01-01 00:00:00 -06:00
-  end_date: 2008-12-01 00:00:00 -06:00
+  start_date: 2007-01-01 06:00:00 +0000
+  end_date: 2008-12-01 06:00:00 +0000
   body: |-
     As a full-time employee working on behalf of the customer and company responsible for:
 
@@ -79,7 +79,7 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science Degree
-  end_date: 2004-05-01 01:00:00 -05:00
+  end_date: 2004-05-01 06:00:00 +0000
   location: Auburn, AL
   body: |-
     Business Administration with a focus in Logistics:

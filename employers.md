@@ -1,6 +1,6 @@
 ---
 title: Employers
-date: 2017-12-14 16:55:00 -06:00
+date: 2017-12-14 22:55:00 +0000
 subtitle: Employers that trust TrueCoders
 collection: employers
 hero:

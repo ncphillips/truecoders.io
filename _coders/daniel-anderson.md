@@ -1,6 +1,6 @@
 ---
 title: Daniel Anderson
-date: 2018-01-25 18:28:00 -06:00
+date: 2018-01-26 00:28:00 +0000
 image: "/uploads/daniel-anderson.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,14 +12,14 @@ profiles:
 work:
 - company: Design Production, LLC
   job_title: Independent Contractor
-  start_date: 2017-08-01 00:00:00 -05:00
-  end_date:
-  location:
+  start_date: 2017-08-01 05:00:00 +0000
+  end_date: 
+  location: 
   body: Work with multiple crews to setup and take down event equipment
 - company: HHGregg
   job_title: Sales Associate / Warehouse
-  start_date: 2014-11-01 00:00:00 -05:00
-  end_date: 2017-04-01 00:00:00 -05:00
+  start_date: 2014-11-01 05:00:00 +0000
+  end_date: 2017-04-01 05:00:00 +0000
   location: Inverness, AL
   body: |-
     - Guided and advised customers throughout the buying process
@@ -27,8 +27,8 @@ work:
     - Utilized company software platforms to track, maintain, and edit customer orders
 - company: Direct Billing Services
   job_title: Payment Poster
-  start_date: 2014-02-01 00:00:00 -06:00
-  end_date: 2014-11-01 00:00:00 -05:00
+  start_date: 2014-02-01 06:00:00 +0000
+  end_date: 2014-11-01 05:00:00 +0000
   location: Hoover, AL
   body: |-
     - Maintained multiple clients' insurance payments and patient copays
@@ -37,8 +37,8 @@ work:
     - Assisted any IT related issues on-demand around the office
 - company: The Valletta Group
   job_title: Payment Poster
-  start_date: 2012-06-01 00:00:00 -05:00
-  end_date: 2014-02-01 00:00:00 -06:00
+  start_date: 2012-06-01 05:00:00 +0000
+  end_date: 2014-02-01 06:00:00 +0000
   location: Birmingham, AL
   body: |2-
 
@@ -51,14 +51,14 @@ work:
     - Maintained server backup
 - company: Outback Steakhouse
   job_title: Server
-  start_date: 2010-01-01 00:00:00 -06:00
-  end_date: 2012-11-01 00:00:00 -05:00
+  start_date: 2010-01-01 06:00:00 +0000
+  end_date: 2012-11-01 05:00:00 +0000
   location: Fultondale, AL
-  body:
+  body: 
 - company: Barnes & Noble College Booksellers
   job_title: Bookseller - Cashier - Shipping/Receiving
-  start_date: 2008-01-01 00:00:00 -06:00
-  end_date: 2010-12-01 00:00:00 -06:00
+  start_date: 2008-01-01 06:00:00 +0000
+  end_date: 2010-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     - Assisted students and other customers in finding correct course textbooks
@@ -66,16 +66,16 @@ work:
     - Stocked textbooks and other products
 - company: UAB Warehouse Services
   job_title: Mover - Shipping/Receiving Clerk
-  start_date: 2006-01-01 00:00:00 -06:00
-  end_date: 2007-12-01 00:00:00 -06:00
+  start_date: 2006-01-01 06:00:00 +0000
+  end_date: 2007-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     - Led teams to organize and execute moving and/or delivery jobs
     - Responsible for processing, sorting, and delivery of daily shipments to various UAB offices, both on and off campus
 - company: Bass Pro Shops
-  job_title:
-  start_date: 2002-01-01 00:00:00 -06:00
-  end_date: 2004-12-01 00:00:00 -06:00
+  job_title: 
+  start_date: 2002-01-01 06:00:00 +0000
+  end_date: 2004-12-01 06:00:00 +0000
   location: Lawrenceville, GA
   body: |-
     - Received and sorted shipment to designated department areas for storage and processing
@@ -83,8 +83,8 @@ work:
 education:
 - institution: University of Alabama
   area: 'Bachelor of Arts in Foreign Language: Spanish'
-  start_date: 2004-08-01 01:00:00 -05:00
-  end_date: 2010-05-01 01:00:00 -05:00
+  start_date: 2004-08-01 06:00:00 +0000
+  end_date: 2010-05-01 06:00:00 +0000
   location: Birmingham, AL
 ---
 

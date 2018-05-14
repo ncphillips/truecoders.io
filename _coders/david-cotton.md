@@ -1,6 +1,6 @@
 ---
 title: David Cotton
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/david-cotton.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -30,14 +30,14 @@ skills:
 work:
 - company: Freelance
   job_title: Developer
-  start_date: 2016-11-01 00:00:00 -05:00
-  end_date:
-  location:
+  start_date: 2016-11-01 05:00:00 +0000
+  end_date: 
+  location: 
   body: Term - Console Based terminal
 - company: Zaxby's
   job_title: Cook
-  start_date: 2017-05-01 00:00:00 -05:00
-  end_date: 2018-08-02 00:00:00 -05:00
+  start_date: 2017-05-01 05:00:00 +0000
+  end_date: 2018-08-02 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Responsible for dealing with customers and general kitchen duties:
@@ -45,8 +45,8 @@ work:
     * Regularly worked with Zaxby's POS system
 - company: Arduino Projects
   job_title: Developer
-  start_date: 2016-11-01 00:00:00 -05:00
-  end_date: 2017-01-01 00:00:00 -06:00
+  start_date: 2016-11-01 05:00:00 +0000
+  end_date: 2017-01-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Projects Requirements:
@@ -58,9 +58,9 @@ work:
     * Developed a basic theremin instrument
 - company: Game Project
   job_title: Developer
-  start_date: 2018-04-01 00:00:00 -05:00
-  end_date:
-  location:
+  start_date: 2018-04-01 05:00:00 +0000
+  end_date: 
+  location: 
   body: |-
     Being developed in C#:
 
@@ -69,11 +69,11 @@ work:
     * Developing out a SQL database for the backend
 education:
 - institution: Codecademy
-  area:
-  start_date:
-  end_date:
-  gpa:
-  location:
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Training in:
 
@@ -81,11 +81,11 @@ education:
     * ANSI SQL and Relational Databases
     * Source Control using Git
 - institution: SoloLearn
-  area:
-  start_date:
-  end_date:
-  gpa:
-  location:
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Training in:
 
@@ -93,20 +93,20 @@ education:
     * ANSI SQL certification
     * Java - Certification
 - institution: GreenFoot
-  area:
-  start_date:
-  end_date:
-  gpa:
-  location:
+  area: 
+  start_date: 
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Training in:
 
     * Java
 - institution: Vestavia Hills High School
   area: High School Diploma
-  start_date:
-  end_date: 2017-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2017-05-01 05:00:00 +0000
+  gpa: 
   location: Vestavia, AL
   body: Robotics, IT fundamentals, and Java Programming courses
 ---

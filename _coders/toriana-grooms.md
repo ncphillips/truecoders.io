@@ -1,6 +1,6 @@
 ---
 title: Toriana Grooms
-date: 2017-11-14 02:03:00 -06:00
+date: 2017-11-14 08:03:00 +0000
 image: "/uploads/toriana-grooms.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -29,8 +29,8 @@ skills:
 work:
 - company: Cricket Wireless
   job_title: Assistant Manager
-  start_date: 2017-06-01 00:00:00 -05:00
-  end_date: 2017-09-30 00:00:00 -05:00
+  start_date: 2017-06-01 05:00:00 +0000
+  end_date: 2017-09-30 05:00:00 +0000
   body: |-
     Handled the requirements of an assistant manager:
 
@@ -38,8 +38,8 @@ work:
     - Marketed products and services to consumers
 - company: Steak N' Shake
   job_title: Service Trainer
-  start_date: 2014-05-01 00:00:00 -05:00
-  end_date: 2016-08-01 00:00:00 -05:00
+  start_date: 2014-05-01 05:00:00 +0000
+  end_date: 2016-08-01 05:00:00 +0000
   body: |-
     Handled the requirements of a service trainer:
 
@@ -47,13 +47,13 @@ work:
     - Provided superior service and a quality experience to the guest
 - company: Insomnia Cookies
   job_title: Store Manager
-  start_date: 2014-10-01 00:00:00 -05:00
-  end_date: 2015-06-01 00:00:00 -05:00
+  start_date: 2014-10-01 05:00:00 +0000
+  end_date: 2015-06-01 05:00:00 +0000
   body: Managed and coordinated all aspects of the business and staff
 - company: RadioShack
   job_title: Wireless Consultant
-  start_date: 2012-10-01 00:00:00 -05:00
-  end_date: 2013-10-01 00:00:00 -05:00
+  start_date: 2012-10-01 05:00:00 +0000
+  end_date: 2013-10-01 05:00:00 +0000
   body: |-
     Handled the requirements of a wireless consultant:
 
@@ -62,8 +62,8 @@ work:
     - Monitored goals daily
 - company: Children's Hospital of Birmingham
   job_title: Sterile Processing Technician
-  start_date: 2012-04-01 00:00:00 -05:00
-  end_date: 2012-09-01 00:00:00 -05:00
+  start_date: 2012-04-01 05:00:00 +0000
+  end_date: 2012-09-01 05:00:00 +0000
   body: |-
     Handled the requirements of a sterile processing technician:
 
@@ -73,25 +73,25 @@ work:
 education:
 - institution: Jefferson State Community College
   area: Criminal Justice
-  start_date:
-  end_date: 2016-12-01 00:00:00 -06:00
-  gpa:
+  start_date: 
+  end_date: 2016-12-01 06:00:00 +0000
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 - institution: University of Alabama in Birmingham
   area: Early Childhood Education
-  start_date:
-  end_date: 2013-05-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2013-05-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 - institution: Erwin High School
   area: High School Diploma
-  start_date:
-  end_date: 2008-05-01 01:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2008-05-01 06:00:00 +0000
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 ---
 
 To secure a challenging position within the programming industry, utilizing job training to promote individual opportunity and professional growth while making positive contributions to the organization:

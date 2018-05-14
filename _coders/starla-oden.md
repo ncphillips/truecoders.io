@@ -1,6 +1,6 @@
 ---
 title: Starla Oden
-date: 2018-01-25 18:32:00 -06:00
+date: 2018-01-26 00:32:00 +0000
 image: "/uploads/starla-oden.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,15 +12,15 @@ profiles:
 work:
 - company: The Cheesecake Factory
   job_title: Server
-  start_date: 2012-08-01 00:00:00 -05:00
-  end_date:
+  start_date: 2012-08-01 05:00:00 +0000
+  end_date: 
   location: Austin, TX
   body: Working in a fast-paced environment like The Cheesecake Factory has vastly
     improved my time management and interpersonal skills.
 - company: UAB's Alys Stephens Performing Arts Center
   job_title: Graphic Artist
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-08-01 00:00:00 -05:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2016-08-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Worked closely with the marketing director on various print and web projects:
@@ -30,8 +30,8 @@ work:
     - Event flyers and print ads
 - company: UAB Digital Media
   job_title: Graphic Design Intern
-  start_date: 2014-05-01 00:00:00 -05:00
-  end_date: 2014-08-01 00:00:00 -05:00
+  start_date: 2014-05-01 05:00:00 +0000
+  end_date: 2014-08-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Learned new skills and contributed to various graphic design projects:
@@ -41,8 +41,8 @@ work:
 education:
 - institution: University of Alabama at Birmingham
   area: B.S. Art Studio, graphic design concentration; marketing minor
-  start_date: 2010-08-01 01:00:00 -05:00
-  end_date: 2015-04-01 00:00:00 -05:00
+  start_date: 2010-08-01 06:00:00 +0000
+  end_date: 2015-04-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Include an education summary of 1-2 sentences maximum, followed by:

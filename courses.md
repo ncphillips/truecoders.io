@@ -1,18 +1,24 @@
 ---
 title: Courses
-date: 2017-09-12 02:39:00 -05:00
+date: 2017-09-12 07:39:00 +0000
 display_title: Our Courses
 subtitle: The things we do and the stacks we love
 collection: courses
-menus:
-  is_nav: true
-  is_footer: true
 hero:
   image: "/uploads/hero-image-7.jpg"
 call_to_action:
   title: Apply for a Course
   url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
   body: We have applications open for upcoming courses.
+menu:
+  header:
+    identifier: _courses
+    url: "/courses/"
+    weight: 2
+  footer:
+    identifier: _courses
+    url: "/courses/"
+    weight: 4
 ---
 
 # We Are TrueCoders
