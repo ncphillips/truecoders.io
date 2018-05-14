@@ -16,19 +16,7 @@ include:
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        {%- assign pages = site.pages | where_exp:"page", "page.menu.header" | sort: "menu.header.weight" -%}
-
-        {% for page in pages %}
-        {% unless forloop.last == true %}
-        <li class="nav-item" style="margin: 0 8px;">
-          <a class="nav-link active" href={{ page.url | escape }}>{{ page.title }}</a>
-        </li>
-        {%- else -%}
-        <li class="nav-item nav-call-to-action" style="margin: 0 16px 0 8px;">
-          <a class="nav-link active" style="color: white;" href={{ page.url | escape }}>{{ page.title }}</a>
-        </li>
-        {%- endunless -%}
-        {% endfor %}
+        {% include menus.html menu="header" %}
       </ul>
     </div>
   </nav>
