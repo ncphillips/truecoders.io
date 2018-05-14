@@ -4,8 +4,8 @@
 
     {% if include.subsection.image %}
     <img src={{ include.subsection.image }} alt="{{ include.subsection.title }}" style="border-radius:50%; max-width:40%;">
-    {% elsif include.subsection.fa_icon %}
-    <i class="fa {{ include.subsection.fa_icon }} fa-5x" style="color:{{ include.color }};"></i>
+    {% elsif include.subsection.icon %}
+    <i class="fa {{ site.data.icons[include.subsection.icon].fa_icon }} fa-5x" style="color:{{ include.color }};"></i>
     {%- endif -%}
 
     <h4>{{ include.subsection.display_title | default: include.subsection.title }}</h4>
@@ -22,7 +22,7 @@
         {%- if include.collection.output -%}
 
         {%- assign link = include.subsection.website | default: include.subsection.url -%}
-        
+
         {%- if link contains 'http' -%}
           {%- assign link_target = "_blank" -%}
         {%- else -%}

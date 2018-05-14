@@ -7,17 +7,17 @@ call_to_action:
 subsections:
 - title: Developers
   subtitle:
-  fa_icon: fa-terminal
+  icon: Terminal
   body: At the core of our company is development. We are constantly training the
     right people to meet your development needs.
 - title: QAs and PMs
   subtitle:
-  fa_icon: fa-cogs
+  icon: Cogs
   body: In addition to development, we provide every client with a dedicated project
     manager and consistent quality assurance testing.
 - title: Architects
   subtitle:
-  fa_icon: fa-compass
+  icon: Compass
   body: Every one of our dev teams is supervised by a Software Architect with years
     of experience in every aspect of the software lifecycle.
 sub_collection: ''

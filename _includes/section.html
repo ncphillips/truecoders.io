@@ -14,7 +14,7 @@ include:
             </div>
         </div>
 
-        {%- if include.section.sub_collection -%}
+        {%- if include.section.sub_collection.size > 0 -%}
             {%- assign subsections = site[include.section.sub_collection] | sort: "title" | sort: "image","last" -%}
             {%- assign collection = site.collections | where: "label", include.section.sub_collection | first -%}
         {%- elsif include.section.subsections -%}
