@@ -14,7 +14,7 @@ menu:
   footer:
     identifier: _coders
     url: "/coders/"
-    weight: 5
+    weight: 4
   header:
     identifier: _coders
     url: "/coders/"

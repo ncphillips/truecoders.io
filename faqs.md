@@ -12,7 +12,7 @@ menu:
   footer:
     identifier: _faqs
     url: "/faqs/"
-    weight: 3
+    weight: 5
   header:
     identifier: _faqs
     url: "/faqs/"

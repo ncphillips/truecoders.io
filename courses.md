@@ -14,7 +14,7 @@ menu:
   footer:
     identifier: _courses
     url: "/courses/"
-    weight: 4
+    weight: 3
   header:
     identifier: _courses
     url: "/courses/"
