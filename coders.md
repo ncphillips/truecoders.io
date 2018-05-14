@@ -5,8 +5,10 @@ display_title: Our Coders
 subtitle: The people that make us amazing
 collection: coders
 menus:
-  is_nav: true
-  is_footer: true
+  header:
+    title: Coders
+  footer:
+    title: Coders
 hero:
   image: "/uploads/hero-image-10.jpg"
 call_to_action:

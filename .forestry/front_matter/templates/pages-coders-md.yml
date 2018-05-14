@@ -24,24 +24,6 @@ fields:
   type: text
   hidden: false
   default: 
-- name: menus
-  label: Menus
-  type: field_group
-  fields:
-  - name: is_nav
-    label: Is Nav
-    type: boolean
-    hidden: false
-    default: ''
-    description: If the page should be displayed in the nav bar
-  - name: is_footer
-    label: Is Footer
-    type: boolean
-    hidden: false
-    default: ''
-    description: If the page should be displayed in the footer
-  hidden: true
-  default: 
 - name: hero
   label: Hero
   type: field_group

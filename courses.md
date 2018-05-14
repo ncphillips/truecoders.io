@@ -5,8 +5,10 @@ display_title: Our Courses
 subtitle: The things we do and the stacks we love
 collection: courses
 menus:
-  is_nav: true
-  is_footer: true
+  header:
+    title: Courses
+  footer:
+    title: Courses
 hero:
   image: "/uploads/hero-image-7.jpg"
 call_to_action:

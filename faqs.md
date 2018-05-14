@@ -3,8 +3,10 @@ title: FAQs
 date: 2017-09-03 15:00:00 -05:00
 subtitle: All of your questions answered in one place
 menus:
-  is_nav: true
-  is_footer: true
+  header:
+    title: FAQs
+  footer:
+    title: FAQs
 hero:
   image: "/uploads/hero-image-1.jpg"
 call_to_action:

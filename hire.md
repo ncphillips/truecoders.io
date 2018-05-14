@@ -4,8 +4,10 @@ date: 2017-11-10 10:00:00 -06:00
 display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 menus:
-  is_nav: true
-  is_footer: true
+  header:
+    title: Hire Us
+  footer:
+    title: Hire Us
 hero:
   image: "/uploads/hero-image-9.jpg"
 sections:

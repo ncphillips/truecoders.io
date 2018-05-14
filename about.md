@@ -5,8 +5,10 @@ display_title: Our Story
 subtitle: We are more than just a bootcamp
 collection: team
 menus:
-  is_nav: true
-  is_footer: true
+  header:
+    title: About
+  footer:
+    title: About
 hero:
   image: "/uploads/hero-image-2.jpg"
 call_to_action:
