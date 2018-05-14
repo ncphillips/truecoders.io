@@ -1,8 +1,8 @@
 ---
 pages:
-- _sections/employers.md
 - _sections/hire-cost.md
 - _sections/dev-process.md
+- _sections/employers.md
 - _sections/dev-team.md
 - _sections/courses.md
 - _sections/courses-process.md
@@ -41,16 +41,6 @@ fields:
   label: Subsections
   type: field_group_list
   fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ''
-  - name: subtitle
-    label: Subtitle
-    type: text
-    hidden: false
-    default: ''
   - type: select
     config:
       source:
@@ -60,6 +50,19 @@ fields:
     label: Icon
     name: icon
     default: 
+    description: Font Awesome icon to use
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+    description: Describe your section
+  - name: subtitle
+    label: Subtitle
+    type: text
+    hidden: false
+    default: ''
+    description: Displayed below the title
   - name: body
     label: Body
     type: textarea
@@ -76,7 +79,7 @@ fields:
     fa_icon: 
     body: 
 - name: call_to_action
-  label: Call to action
+  label: Call to Action
   type: field_group
   fields:
   - name: title
