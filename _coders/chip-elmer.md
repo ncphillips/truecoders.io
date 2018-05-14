@@ -1,6 +1,6 @@
 ---
 title: Chip Elmer
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/chip-elmer.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -26,8 +26,8 @@ skills:
 work:
 - company: CB&A Project Management Services
   job_title: Consultant at Southern Company
-  start_date: 2016-11-01 00:00:00 -05:00
-  end_date:
+  start_date: 2016-11-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Supported Southern Company's Project Controls:
@@ -37,8 +37,8 @@ work:
     * Created Excel/Access VBA process solutions for $400+ million estimates
 - company: CB&A Project Management Services
   job_title: Consultant – IT Specialist and Project Management
-  start_date: 2013-08-01 00:00:00 -05:00
-  end_date:
+  start_date: 2013-08-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Provided specialized support for clients in the industrial construction project management industry:
@@ -47,22 +47,22 @@ work:
     * Maintained CB&A and client relational databases using Microsoft SQL Server and TSQL
 - company: CB&A Project Management Services
   job_title: IT Specialist at BP
-  start_date: 2015-11-01 00:00:00 -05:00
-  end_date: 2016-11-01 00:00:00 -05:00
+  start_date: 2015-11-01 05:00:00 +0000
+  end_date: 2016-11-01 05:00:00 +0000
   location: Birmingham, AL
   body: Supported BP with C# program to provide a custom interface with Oracle's Primavera
     P6
 - company: CB&A Project Management Services
   job_title: Consultant at Yates Construction
-  start_date: 2015-10-01 00:00:00 -05:00
-  end_date: 2015-11-01 00:00:00 -05:00
+  start_date: 2015-10-01 05:00:00 +0000
+  end_date: 2015-11-01 05:00:00 +0000
   location: Birmingham, AL
   body: Supported client's project team with development of upcoming project bid's
     Excel file
 - company: CB&A Project Management Services
   job_title: Cost Analyst at Mississippi Power
-  start_date: 2013-08-01 00:00:00 -05:00
-  end_date: 2015-10-01 00:00:00 -05:00
+  start_date: 2013-08-01 05:00:00 +0000
+  end_date: 2015-10-01 05:00:00 +0000
   location: Meridian, MS
   body: |-
     Supported Mississippi Power:
@@ -73,7 +73,7 @@ work:
 education:
 - institution: Auburn University
   area: Bachelor of Science in Business Administration, Finance
-  end_date: 2013-05-20 00:00:00 -05:00
+  end_date: 2013-05-20 05:00:00 +0000
   location: Auburn, AL
   body: |-
     Minor in Philosophy, Religious Studies

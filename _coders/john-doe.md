@@ -1,6 +1,6 @@
 ---
 title: John Doe
-date: 2017-11-18 15:17:00 -06:00
+date: 2017-11-18 21:17:00 +0000
 tags:
 - example
 image: "/uploads/john-doe.jpg"
@@ -31,8 +31,8 @@ skills:
 work:
 - company: Company LLC
   job_title: Job Title
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 2017-01-01 06:00:00 +0000
+  end_date: 
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -41,8 +41,8 @@ work:
     * Example Three
 - company: Example Inc.
   job_title: Job Title
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-12-01 00:00:00 -06:00
+  start_date: 2016-01-01 06:00:00 +0000
+  end_date: 2016-12-01 06:00:00 +0000
   body: |-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo mi ac nisi dignissim, in hendrerit libero tempor. In semper, est nec tincidunt feugiat, nulla nunc rutrum ante, sit amet condimentum tortor lectus eu mauris. Mauris semper pretium quam, a auctor erat posuere:
 
@@ -52,8 +52,8 @@ work:
 education:
 - institution: Example High School
   area: High School Diploma
-  start_date:
-  end_date: 2010-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2010-05-01 06:00:00 +0000
   gpa: 4
   location: Birmingham, AL
   body: |-

@@ -1,6 +1,6 @@
 ---
 title: Jessica Reid-Harris
-date: 2017-11-14 02:03:00 -06:00
+date: 2017-11-14 08:03:00 +0000
 image: "/uploads/jessica-harris.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,8 +31,8 @@ skills:
 work:
 - company: Pizza​ ​Hut
   job_title: Delivery​ ​Driver
-  start_date: 2015-08-01 00:00:00 -05:00
-  end_date: 2016-03-01 00:00:00 -06:00
+  start_date: 2015-08-01 05:00:00 +0000
+  end_date: 2016-03-01 06:00:00 +0000
   body: |-
     Handled all the requirements of a delivery driver:
 
@@ -42,8 +42,8 @@ work:
     - Cooked and sauced chicken wings and fries
 - company: Wal-Mart
   job_title: Deli​ ​Sales​ ​Associate
-  start_date: 2012-12-01 00:00:00 -06:00
-  end_date: 2012-12-31 00:00:00 -06:00
+  start_date: 2012-12-01 06:00:00 +0000
+  end_date: 2012-12-31 06:00:00 +0000
   body: |-
     Handled all the requirements of deli sales:
 
@@ -52,16 +52,16 @@ work:
     - Sliced meat and cheese for party trays and individual orders
 - company: TDM​ ​Research​
   job_title: Surveyor
-  start_date: 2010-09-01 01:00:00 -05:00
-  end_date: 2012-01-01 00:00:00 -06:00
+  start_date: 2010-09-01 06:00:00 +0000
+  end_date: 2012-01-01 06:00:00 +0000
   body: |-
     Conducted surveys and filled in required information provided from various participants:
 
     - Called lists of numbers searching for survey participants
 - company: Williams​ ​&​ ​Associates​
   job_title: Administrative Assistant
-  start_date: 2009-06-01 01:00:00 -05:00
-  end_date: 2011-09-01 01:00:00 -05:00
+  start_date: 2009-06-01 06:00:00 +0000
+  end_date: 2011-09-01 06:00:00 +0000
   body: |-
     Supported and managed projects:
 
@@ -71,8 +71,8 @@ work:
     - Answered and made calls regarding clients and contracts
 - company: IHOP​ ​Restaurants​
   job_title: Server
-  start_date: 2009-04-01 01:00:00 -05:00
-  end_date: 2010-02-01 00:00:00 -06:00
+  start_date: 2009-04-01 06:00:00 +0000
+  end_date: 2010-02-01 06:00:00 +0000
   body: |-
     Handled server requirements:
 
@@ -80,8 +80,8 @@ work:
     - Prepped and stocked utensils, condiments, ice, and garnishes for next shift
 - company: SITEL,​ ​Inc.​
   job_title: Customer Service Representative
-  start_date: 2008-03-01 00:00:00 -06:00
-  end_date: 2008-06-01 01:00:00 -05:00
+  start_date: 2008-03-01 06:00:00 +0000
+  end_date: 2008-06-01 06:00:00 +0000
   body: |-
     Answered calls from Verizon Wireless customers regarding their wireless devices:
 
@@ -89,8 +89,8 @@ work:
     - Transferred customers to the proper channels in a timely manner to help resolve the cellular they are calling about
 - company: Results​ ​Construction​
   job_title: Administrative Assistant
-  start_date: 2007-08-01 01:00:00 -05:00
-  end_date: 2008-03-01 00:00:00 -06:00
+  start_date: 2007-08-01 06:00:00 +0000
+  end_date: 2008-03-01 06:00:00 +0000
   body: |-
     Handled administrative assistant requirements:
 
@@ -99,18 +99,18 @@ work:
 education:
 - institution: Brown Mackie College
   area: Information Technology
-  start_date:
-  end_date: 2015-10-01 00:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2015-10-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
   body: Training in Information Technology
 - institution: P.D.​ ​Jackson​ ​Olin​
   area: GED
-  start_date:
-  end_date: 2005-05-01 01:00:00 -05:00
-  gpa:
+  start_date: 
+  end_date: 2005-05-01 06:00:00 +0000
+  gpa: 
   location: Birmingham, AL
-  body:
+  body: 
 ---
 
 I have always loved numbers, logic, solving puzzles and figuring out how things work internally. I've been a self-taught hobbyist developer for most of my life. I've attended different technological training courses learning a vast array of knowledge that have fueled my passion for programming and I've now decided to make it a Full-Time career.

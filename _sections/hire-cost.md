@@ -1,6 +1,6 @@
 ---
 title: Our Cost
-date: 2017-11-11 13:25:00 -06:00
+date: 2017-11-11 19:25:00 +0000
 call_to_action:
   title: Discuss Pricing
   url: "#hire-form"

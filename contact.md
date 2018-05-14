@@ -1,15 +1,19 @@
 ---
 title: Contact
-date: 2017-09-11 11:00:00 -05:00
+date: 2017-09-11 16:00:00 +0000
 display_title: Contact Us
 subtitle: Here's how you get in touch with us
-menus:
-  header:
-    title: Contact
-  footer:
-    title: Contact
 hero:
   image: "/uploads/hero-image-4.jpg"
+menu:
+  header:
+    identifier: _contact
+    url: "/contact/"
+    weight: 5
+  footer:
+    identifier: _contact
+    url: "/contact/"
+    weight: 7
 ---
 
 # We Are TrueCoders

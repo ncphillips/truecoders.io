@@ -1,6 +1,6 @@
 ---
 title: What happens if I don't get the scholarship?
-date: 2017-09-22 16:41:00 -05:00
+date: 2017-09-22 21:41:00 +0000
 categories: cost
 ---
 

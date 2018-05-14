@@ -1,6 +1,6 @@
 ---
 title: Skylar Carter
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/skylar-carter.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -24,8 +24,8 @@ skills:
 work:
 - company: Excelous Incorporate
   job_title: UPK Training Developer
-  start_date: 2013-08-01 00:00:00 -05:00
-  end_date:
+  start_date: 2013-08-01 05:00:00 +0000
+  end_date: 
   location: Atlanta, GA
   body: |-
     Responsible for the development, coordination, implementation and administration of an Oracle R12 enterprise-wide system integration training program to ensure the continued alignment of people, processes and systems that support and maintain employee development, performance management and on-boarding.
@@ -39,8 +39,8 @@ work:
     * Initiate and develop effective business relationships with key stakeholders and other internal and external organizations.
 - company: Blackcreek Integrated Systems Inc.
   job_title: Field Technical Consultant
-  start_date: 2011-04-01 01:00:00 -05:00
-  end_date: 2012-10-01 00:00:00 -05:00
+  start_date: 2011-04-01 06:00:00 +0000
+  end_date: 2012-10-01 05:00:00 +0000
   location: Irondale, AL
   body: |-
     Served as a Lead Field Technical Consultant to proficiently provide technical skills with a proven ability to troubleshoot and diagnose issues with a wide variety of systems in an efficient and timely manner. Provided quality service working with clients at all levels in performing the following:
@@ -57,8 +57,8 @@ work:
 education:
 - institution: I.T.T. Technical Institute
   area: Associate's Degree Computer Engineering and Computer Technology
-  start_date: 2001-03-01 00:00:00 -06:00
-  end_date: 2003-03-01 00:00:00 -06:00
+  start_date: 2001-03-01 06:00:00 +0000
+  end_date: 2003-03-01 06:00:00 +0000
   location: Birmingham, AL
 ---
 

@@ -1,20 +1,24 @@
 ---
 title: About
-date: 2017-09-04 10:00:00 -05:00
+date: 2017-09-04 15:00:00 +0000
 display_title: Our Story
 subtitle: We are more than just a bootcamp
 collection: team
-menus:
-  header:
-    title: About
-  footer:
-    title: About
 hero:
   image: "/uploads/hero-image-2.jpg"
 call_to_action:
   title: Find Out More
   url: "/contact"
   body: Want to know more about us?
+menu:
+  footer:
+    identifier: _about
+    url: "/about/"
+    weight: 2
+  header:
+    identifier: _about
+    url: "/about/"
+    weight: 1
 ---
 
 # We Are TrueCoders

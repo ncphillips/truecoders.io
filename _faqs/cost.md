@@ -1,6 +1,6 @@
 ---
 title: How much does a course cost?
-date: 2017-09-22 16:34:00 -05:00
+date: 2017-09-22 21:34:00 +0000
 categories: cost
 ---
 

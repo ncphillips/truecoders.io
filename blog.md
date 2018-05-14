@@ -1,16 +1,18 @@
 ---
 title: Blog
-date: 2017-08-23 22:00:00 -05:00
+date: 2017-08-24 03:00:00 +0000
 display_title: Our Blog
 subtitle: Find out what we think about stuff
-menus:
-  footer:
-    title: Blog
 hero:
   image: "/uploads/hero-image-5.jpg"
 call_to_action:
   title: View Our Medium Blog
   url: https://medium.com/@truecodersio
+menu:
+  footer:
+    identifier: _blog
+    url: "/blog/"
+    weight: 6
 ---
 
 # Our Blog is on Medium

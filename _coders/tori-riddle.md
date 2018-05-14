@@ -1,6 +1,6 @@
 ---
 title: Tori Riddle
-date: 2018-01-25 18:33:00 -06:00
+date: 2018-01-26 00:33:00 +0000
 image: "/uploads/tori-riddle.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,8 +12,8 @@ profiles:
 work:
 - company: Out There Creative
   job_title: Art Director
-  start_date: 2016-05-01 00:00:00 -05:00
-  end_date:
+  start_date: 2016-05-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Efficiently lead and administer creative print and web design projects. Developed, rendered, and expanded art concepts throughout production of advertising campaigns:
@@ -24,8 +24,8 @@ work:
     - Design branding, packaging and collateral
 - company: BBVA at Innovation Depot
   job_title: Art Director Internship
-  start_date: 2016-05-01 00:00:00 -05:00
-  end_date: 2017-06-01 00:00:00 -05:00
+  start_date: 2016-05-01 05:00:00 +0000
+  end_date: 2017-06-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Took lead art direction on multiple developers on design various banking app designs. Fast-pace short internship that only consisted of 3 sprints.
@@ -35,8 +35,8 @@ work:
     - Create wireframes, initial designs and graphics for applications
 - company: Good Grit Magazine
   job_title: Design Intern
-  start_date: 2016-01-01 00:00:00 -06:00
-  end_date: 2016-04-01 00:00:00 -05:00
+  start_date: 2016-01-01 06:00:00 +0000
+  end_date: 2016-04-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Gained hands-on experience with a lifestyle publication that is passionate about empowering people.  Collaborated directly with the creative department to break down tasks and determine the best way to tell the upcoming stories visually.
@@ -46,8 +46,8 @@ work:
     - Contributed to the layout and design for new spreads of the magazine.
 - company: The Cullman Times
   job_title: Graphic Designer
-  start_date: 2012-01-01 00:00:00 -06:00
-  end_date: 2015-12-01 00:00:00 -06:00
+  start_date: 2012-01-01 06:00:00 +0000
+  end_date: 2015-12-01 06:00:00 +0000
   location: Cullman, AL
   body: |-
     Lead and solo designer at the location. A Fast-pace environment, where I had to meet production deadlines daily and work ahead of schedule.
@@ -58,8 +58,8 @@ work:
 education:
 - institution: University of Alabama at Birmingham
   area: Bachelor of Arts in Graphic Design
-  start_date: 2011-08-01 01:00:00 -05:00
-  end_date: 2016-05-01 00:00:00 -05:00
+  start_date: 2011-08-01 06:00:00 +0000
+  end_date: 2016-05-01 05:00:00 +0000
   gpa: 3.9
   location: Birmingham, AL
   body: |-
@@ -70,11 +70,11 @@ education:
     - Cum Laude
 - institution: Dora High School
   area: Advanced Technical Diploma
-  start_date:
-  end_date: 2011-05-01 01:00:00 -05:00
+  start_date: 
+  end_date: 2011-05-01 06:00:00 +0000
   gpa: 4
   location: Dora, AL
-  body:
+  body: 
 ---
 
 My name is Tori Riddle, I have a Graphic Design background. Since I was young, I have always been intrigued with problem solving and how everything works. Through my design career, I have been assigned projects that required me to self teach myself on basic web programming, I am very adaptive at learning new skills.  This peaked an interest in the development field. Design is parallel with programming and is a crucial factor. Having a design background will be beneficial in creating the overall UX/UI design. I do great working on a team or alone,  I am eager to continue learning as a developer and designer in our ever changing environment.

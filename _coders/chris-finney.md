@@ -1,6 +1,6 @@
 ---
 title: Chris Finney
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/chris-finney.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -28,8 +28,8 @@ skills:
 work:
 - company: 'Project: trimr'
   job_title: Lead Developer
-  start_date: 2017-08-01 00:00:00 -05:00
-  end_date:
+  start_date: 2017-08-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: "Final project built during the Covalence bootcamp. A responsive mobile web
     application built with Bootstrap and AngularJS. Queries a MySQL database with
@@ -40,8 +40,8 @@ work:
     here](https://youtu.be/aH86z_9gT28)."
 - company: OvenBird
   job_title: Key Employee and Head Waiter
-  start_date: 2015-10-01 00:00:00 -05:00
-  end_date: 2017-04-01 00:00:00 -05:00
+  start_date: 2015-10-01 05:00:00 +0000
+  end_date: 2017-04-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Oversaw the development  of beer draft and bottle list, and responsible for maintaining draft line integrity:

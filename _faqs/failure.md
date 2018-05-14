@@ -1,6 +1,6 @@
 ---
 title: Can I fail the course?
-date: 2017-09-22 16:42:00 -05:00
+date: 2017-09-22 21:42:00 +0000
 categories: courses
 ---
 

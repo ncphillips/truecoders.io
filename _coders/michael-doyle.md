@@ -1,6 +1,6 @@
 ---
 title: Michael Doyle
-date: 2018-01-25 18:31:00 -06:00
+date: 2018-01-26 00:31:00 +0000
 image: "/uploads/michael-doyle.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,8 +12,8 @@ profiles:
 work:
 - company: ProAssurance
   job_title: Corporate Architecture and Development
-  start_date: 2017-06-01 00:00:00 -05:00
-  end_date:
+  start_date: 2017-06-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Internship position working in both software development and project management:
@@ -25,8 +25,8 @@ work:
     - Desktop environment was Microsoft Windows 10.
 - company: Cory Watson Attorneys
   job_title: Associate
-  start_date: 2013-06-01 00:00:00 -05:00
-  end_date: 2014-06-01 00:00:00 -05:00
+  start_date: 2013-06-01 05:00:00 +0000
+  end_date: 2014-06-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Legal Assistant Case Intake Coordinator for the Asbestos division:
@@ -37,8 +37,8 @@ work:
     - Worked directly with a team of attorneys, legal, and administrative assistants to supply data and IT related support as required.
 - company: The Club, Inc.
   job_title: Social Media Manager
-  start_date: 2012-05-01 00:00:00 -05:00
-  end_date: 2013-06-01 00:00:00 -05:00
+  start_date: 2012-05-01 05:00:00 +0000
+  end_date: 2013-06-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Responsible for creating and maintaining a full circle social media presence for The Club:
@@ -51,8 +51,8 @@ work:
 education:
 - institution: University of Alabama Birmingham
   area: Bachelors of Science in Information Systems
-  start_date: 2014-08-01 00:00:00 -05:00
-  end_date: 2017-12-01 00:00:00 -06:00
+  start_date: 2014-08-01 05:00:00 +0000
+  end_date: 2017-12-01 06:00:00 +0000
   location: Birmingham, AL
   body: 'Related coursework included: Programming languages, Object Oriented Analysis
     and Design (OOA&D), Systems Analysis, Enterprise System development, business

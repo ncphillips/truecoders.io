@@ -1,6 +1,6 @@
 ---
 title: Zach Phillips
-date: 2017-11-14 02:04:00 -06:00
+date: 2017-11-14 08:04:00 +0000
 image: "/uploads/zach-phillips.jpg"
 class: _classes/mark-1.md
 profiles:
@@ -31,8 +31,8 @@ skills:
 work:
 - company: Market Cove LLC
   job_title: Owner
-  start_date: 2015-05-01 00:00:00 -05:00
-  end_date:
+  start_date: 2015-05-01 05:00:00 +0000
+  end_date: 
   body: |-
     Owned and Operated E-commerce Business:
 
@@ -43,13 +43,13 @@ work:
     - Analyzed and managed shipping products to Amazon warehouses
 - company: Christ Church
   job_title: Website Administration
-  start_date: 2012-04-01 00:00:00 -05:00
-  end_date:
+  start_date: 2012-04-01 05:00:00 +0000
+  end_date: 
   body: Maintaining website using Wordpress and providing weekly updates.
 - company: 9G LLC
   job_title: Tech Support
-  start_date: 2015-04-01 00:00:00 -05:00
-  end_date: 2017-09-29 00:00:00 -05:00
+  start_date: 2015-04-01 05:00:00 +0000
+  end_date: 2017-09-29 05:00:00 +0000
   body: |-
     Tech Support and Shipping Manager:
 
@@ -61,7 +61,7 @@ work:
 education:
 - institution: Christ Church School
   area: High School Diploma
-  end_date: 2013-05-01 00:00:00 -05:00
+  end_date: 2013-05-01 05:00:00 +0000
   location: Odenville, AL
 ---
 

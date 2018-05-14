@@ -1,6 +1,6 @@
 ---
 title: Brandon Dowds
-date: 2018-04-18 10:59:00 -05:00
+date: 2018-04-18 15:59:00 +0000
 image: "/uploads/brandon-dowds.jpg"
 class: _classes/mark-3.md
 profiles:
@@ -28,8 +28,8 @@ skills:
 work:
 - company: Grand Prix Karting
   job_title: Track Lead
-  start_date: 2015-02-01 00:00:00 -06:00
-  end_date: 2015-12-01 00:00:00 -06:00
+  start_date: 2015-02-01 06:00:00 +0000
+  end_date: 2015-12-01 06:00:00 +0000
   location: Columbus, OH
   body: |-
     Responsible for running day to day operations on the track:
@@ -38,8 +38,8 @@ work:
     * Maintained a friendly attitude towards customers while ensuring the safety of all racers.
 - company: Professional Engineering Groups
   job_title: Assistant
-  start_date: 2014-05-01 00:00:00 -05:00
-  end_date: 2014-08-01 00:00:00 -05:00
+  start_date: 2014-05-01 05:00:00 +0000
+  end_date: 2014-08-01 05:00:00 +0000
   location: Trussville, AL
   body: |
     Responsible for scanning blueprints and keeping archives up to date:
@@ -47,8 +47,8 @@ work:
     * Worked on a close and personal level with professional engineers. Able to manage multiple tasks at once and finish them within a specific deadline.
 - company: Walmart
   job_title: Cashier
-  start_date: 2013-05-01 00:00:00 -05:00
-  end_date: 2013-08-01 00:00:00 -05:00
+  start_date: 2013-05-01 05:00:00 +0000
+  end_date: 2013-08-01 05:00:00 +0000
   location: Trussville, AL
   body: |-
     Responsible for checking out customers and restocking shelves:
@@ -58,10 +58,10 @@ work:
 education:
 - institution: Auburn University
   area: 'Major: Software Engineering'
-  start_date: 2012-08-01 00:00:00 -05:00
-  end_date: 2014-05-01 00:00:00 -05:00
-  gpa:
-  location:
+  start_date: 2012-08-01 05:00:00 +0000
+  end_date: 2014-05-01 05:00:00 +0000
+  gpa: 
+  location: 
   body: |-
     Focus on Java:
 
@@ -70,10 +70,10 @@ education:
     * Chemistry
 - institution: Wallace State Community College
   area: Associates Degree in Computer Science
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 2017-01-01 06:00:00 +0000
+  end_date: 
   gpa: 3.7
-  location:
+  location: 
   body: |-
     Major in Programming:
 

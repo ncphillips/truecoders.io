@@ -1,6 +1,6 @@
 ---
 title: Bay Shaffer
-date: 2018-01-25 17:45:00 -06:00
+date: 2018-01-25 23:45:00 +0000
 image: "/uploads/bay-shaffer.jpg"
 class: _classes/mark-2.md
 profiles:
@@ -12,8 +12,8 @@ profiles:
 work:
 - company: Topgolf
   job_title: Associate
-  start_date: 2017-01-01 00:00:00 -06:00
-  end_date:
+  start_date: 2017-01-01 06:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Host guests in the hitting bays:
@@ -23,8 +23,8 @@ work:
     - Engage with guests and ensure they are well cared for at all times
 - company: Wefunder
   job_title: Scout
-  start_date: 2016-08-01 00:00:00 -05:00
-  end_date:
+  start_date: 2016-08-01 05:00:00 +0000
+  end_date: 
   location: Birmingham, AL
   body: |-
     Scout companies with potential for Reg CF/D/A+:
@@ -34,8 +34,8 @@ work:
     - Consult on forms, terms, profiles, perks, strategy
 - company: Marathon Staffing
   job_title: Inspector Packer
-  start_date: 2017-07-01 00:00:00 -05:00
-  end_date: 2018-01-12 00:00:00 -06:00
+  start_date: 2017-07-01 05:00:00 +0000
+  end_date: 2018-01-12 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Inspect parts for quality assurance and pack into boxes accordingly:
@@ -45,8 +45,8 @@ work:
     - Inspect overall quality of product
 - company: 1 Million Cups
   job_title: Organizer
-  start_date: 2016-12-01 00:00:00 -06:00
-  end_date: 2018-01-01 00:00:00 -06:00
+  start_date: 2016-12-01 06:00:00 +0000
+  end_date: 2018-01-01 06:00:00 +0000
   location: Birmingham, AL
   body: |-
     Facilitate a weekly program designed to educate, engage, and connect entrepreneurs with their communities:
@@ -57,8 +57,8 @@ work:
     - Make coffee
 - company: Startup Grind
   job_title: Chapter Director
-  start_date: 2016-07-01 00:00:00 -05:00
-  end_date: 2017-06-01 00:00:00 -05:00
+  start_date: 2016-07-01 05:00:00 +0000
+  end_date: 2017-06-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Coordinate and host an event series designed to help educate, inspire, and connect Birmingham entrepreneurs:
@@ -70,8 +70,8 @@ work:
     - Community Outreach
 - company: Alabama Outdoors
   job_title: Specialist
-  start_date: 2015-05-01 00:00:00 -05:00
-  end_date: 2016-09-01 00:00:00 -05:00
+  start_date: 2015-05-01 05:00:00 +0000
+  end_date: 2016-09-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Assisted with various eConmerce activities:
@@ -82,8 +82,8 @@ work:
     - Customer Service
 - company: First Avenue Ventures
   job_title: Specialist
-  start_date: 2014-12-01 00:00:00 -06:00
-  end_date: 2016-09-01 00:00:00 -05:00
+  start_date: 2014-12-01 06:00:00 +0000
+  end_date: 2016-09-01 05:00:00 +0000
   location: Birmingham, AL
   body: |-
     Assisted with various digital marketing activities and business stategy:
@@ -95,10 +95,10 @@ work:
 education:
 - institution: freeCodeCamp
   area: Front End Development Certification
-  start_date: 2016-06-01 00:00:00 -05:00
-  end_date:
-  gpa:
-  location:
+  start_date: 2016-06-01 05:00:00 +0000
+  end_date: 
+  gpa: 
+  location: 
   body: |-
     Focus on JavaScript, including:
 
@@ -108,9 +108,9 @@ education:
     - Basic Algorithm Scripting
 - institution: University of Alabama at Birmingham, Collat School of Business
   area: Project Management Certification
-  start_date: 2016-05-01 00:00:00 -05:00
-  end_date: 2016-06-01 00:00:00 -05:00
-  gpa:
+  start_date: 2016-05-01 05:00:00 +0000
+  end_date: 2016-06-01 05:00:00 +0000
+  gpa: 
   location: Birmingham, AL
   body: |-
     Trained in the PMI Body of Knowledge (PMBOK®), project management knowledge areas, and Microsoft Project software tool. Gained a deeper understanding of the project management lifecycle. Put into practice the competencies needed to balance competing demands and communicate with diverse stakeholders:
