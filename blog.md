@@ -8,11 +8,6 @@ hero:
 call_to_action:
   title: View Our Medium Blog
   url: https://medium.com/@truecodersio
-menu:
-  footer:
-    identifier: _blog
-    url: "/blog/"
-    weight: 6
 ---
 
 # Our Blog is on Medium
