@@ -4,11 +4,16 @@ title: TrueCoders
 timezone: America/Chicago
 url: https://truecoders.io
 baseurl: 
+# Enable once Forestry supports custom collections_dir
+# collections_dir: collections
 kramdown:
   show_warnings: true
+lang: en
 liquid:
   error_mode: strict
   strict_filters: true
+  # Enable once certain jekyll extensions, like seo, support without errors
+  # strict_variables: true
 permalink: pretty
 plugins:
 - jekyll-feed
