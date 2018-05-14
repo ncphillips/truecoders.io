@@ -143,8 +143,12 @@ defaults:
     type: pages
   values:
     layout: hire
+    redirect_from:
+    - "/hire-us/"
 - scope:
     path: index.md
     type: pages
   values:
     layout: index
+    redirect_from:
+    - "/home/"

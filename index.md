@@ -13,8 +13,6 @@ sections:
 - _sections/courses-process.md
 - _sections/employers.md
 - _sections/team.md
-redirect_from:
-- "/home/"
 menu:
   footer:
     identifier: _index

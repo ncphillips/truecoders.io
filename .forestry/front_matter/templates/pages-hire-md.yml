@@ -50,16 +50,6 @@ fields:
     source:
       type: pages
       section: sections
-- name: redirect_from
-  label: Redirect from
-  type: list
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: hire
 - name: call_to_action
   label: Call to action
   type: field_group

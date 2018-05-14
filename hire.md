@@ -9,8 +9,6 @@ sections:
 - _sections/dev-team.md
 - _sections/dev-process.md
 - _sections/hire-cost.md
-redirect_from:
-- "/hire-us/"
 menu:
   footer:
     identifier: _hire
