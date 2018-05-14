@@ -41,16 +41,6 @@ fields:
   label: Subsections
   type: field_group_list
   fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ''
-  - name: subtitle
-    label: Subtitle
-    type: text
-    hidden: false
-    default: ''
   - type: select
     config:
       source:
@@ -60,6 +50,19 @@ fields:
     label: Icon
     name: icon
     default: 
+    description: Font Awesome icon to use
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+    description: Describe your section
+  - name: subtitle
+    label: Subtitle
+    type: text
+    hidden: false
+    default: ''
+    description: Displayed below the title
   - name: body
     label: Body
     type: textarea
