@@ -1,0 +1,274 @@
+---
+pages:
+- _coders/reid-braswell.md
+- _coders/jeff-standridge.md
+- _coders/chris-finney.md
+- _coders/brandon-dowds.md
+- _coders/starla-oden.md
+- _coders/hunter-wright.md
+- _coders/daniel-anderson.md
+- _coders/clay-dunston.md
+- _coders/bay-shaffer.md
+- _coders/john-doe.md
+- _coders/darius-witherspoon.md
+- _coders/candace-welch.md
+- _coders/zach-phillips.md
+- _coders/toriana-grooms.md
+- _coders/micah-weech.md
+- _coders/kadarius-king.md
+- _coders/joseph-cyriac.md
+- _coders/jessica-harris.md
+- _coders/hollis-medley.md
+- _coders/grant-berryman.md
+- _coders/darrell-stovall.md
+- _coders/connor-davis.md
+- _coders/steven-bustamento.md
+- _coders/skylar-carter.md
+- _coders/louis-dutton.md
+- _coders/david-cotton.md
+- _coders/chip-elmer.md
+- _coders/subash-karki.md
+- _coders/antwon-ervin.md
+- _coders/lisa-bamberg.md
+- _coders/francesca-marciani.md
+- _coders/tori-riddle.md
+- _coders/michael-doyle.md
+- _coders/jack-mentzer.md
+- _coders/noah-holtkamp.md
+- _coders/harshith-julapelli.md
+- _coders/austin-redmayne.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Coder Name
+  type: text
+  hidden: false
+  default: ''
+  description: e.g. Cody Winton
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Junior Software Developer
+- type: file
+  name: image
+  label: Image
+- type: select
+  name: class
+  config:
+    source:
+      type: pages
+      section: classes
+    required: true
+  label: Class
+  description: e.g. Mark 1
+  default: _classes/mark-4.md
+- name: profiles
+  label: Profiles
+  type: field_group
+  fields:
+  - name: mbti
+    label: Myers Briggs Personality Type
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. ESTJ
+  - name: github
+    label: Github Username
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. codytwinton
+  - name: linkedin
+    label: Linkedin Username
+    type: text
+    hidden: false
+    default: ''
+    description: linkedin.com/in/codytwinton would be `codytwinton`
+  - name: codewars
+    label: Codewars Username
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. codytwinton
+  - name: vimeo_resume
+    label: Vimeo Resume
+    type: text
+    hidden: false
+    default: ''
+    description: vimeo.com/1234567 would be `1234567`
+  hidden: false
+  default: 
+  description: LinkedIn, GitHub, etc.
+- name: skills
+  label: Skills
+  type: field_group_list
+  fields:
+  - name: name
+    label: Skill
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. C# and .NET
+    config:
+      required: true
+  - type: number
+    label: Level
+    name: level
+    description: e.g. 3.5
+    config:
+      min: '1.0'
+      max: '5.0'
+      step: '0.5'
+      required: true
+  hidden: false
+  default:
+  - name: 
+    level: 3
+  description: Java, C#, Git, etc.
+  config:
+    labelField: name
+- name: work
+  label: Work
+  type: field_group_list
+  fields:
+  - name: company
+    label: Company
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. Company LLC
+    config:
+      required: true
+  - name: job_title
+    label: Job Title
+    type: text
+    hidden: false
+    default: ''
+    config:
+      required: true
+    description: e.g. Software Developer
+  - name: location
+    label: Location
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. Birmingham, AL
+  - name: start_date
+    label: Start Date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+      required: false
+  - name: end_date
+    label: End Date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+  - name: body
+    label: Body
+    type: textarea
+    hidden: false
+    default: ''
+    description: Describe work/project
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  hidden: false
+  default:
+  - company: 
+    job_title: 
+    start_date: 
+    end_date: 
+    location: 
+    body: 
+  config:
+    labelField: company
+  description: Companies and Projects
+- name: education
+  label: Education
+  type: field_group_list
+  fields:
+  - name: institution
+    label: Institution
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. University Name
+    config:
+      required: true
+  - name: area
+    label: Area
+    type: text
+    hidden: false
+    default: ''
+    config:
+      required: false
+    description: e.g. Bachelor in Computer Science
+  - name: start_date
+    label: Start date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+  - name: end_date
+    label: End date
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: MMM YYYY
+      time_format: " "
+  - name: location
+    label: Location
+    type: text
+    hidden: false
+    default: ''
+    description: e.g. Birmingham, AL
+  - type: number
+    name: gpa
+    label: GPA
+    description: e.g. 4.0
+    config:
+      min: '0.0'
+      max: '5.0'
+  - name: body
+    label: Body
+    type: textarea
+    hidden: false
+    default: ''
+    description: Describe education
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  hidden: false
+  default:
+  - institution: 
+    area: 
+    start_date: 
+    end_date: 
+    gpa: 
+    location: 
+    body: 
+  config:
+    labelField: institution
+  description: Colleges and University

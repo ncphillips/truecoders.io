@@ -3,7 +3,7 @@ layout: default
 ---
 
 {%- if page.class -%}
-{%- assign class = site.classes | where: "title", page.class | first -%}
+{%- assign class = site.classes | where: "path", page.class | first -%}
 {%- endif -%}
 
 <div class="container resume-container" style="padding-top:32px; padding-bottom:32px;">
@@ -16,9 +16,9 @@ layout: default
       {% endif %}
       <h3>{{ page.title }}</h3>
 
-      {% if page.class %}
+      {% if class %}
       <img src="{{ site.data.theme.logo | relative_url }}" alt="Logo" style="width:64px;">
-      <strong>{{ page.class }} Graduate</strong>
+      <strong>{{ class.title }} Graduate</strong>
       {%- elsif page.subtitle -%}
       <strong>{{ page.subtitle }}</strong>
       {% endif %}
@@ -92,7 +92,7 @@ layout: default
   <!-- Skills Row -->
   {% if page.skills[0].name %}
 
-  {%- assign skills = page.skills | sort: 'name' -%}
+  {%- assign skills = page.skills | sort: "name" -%}
 
   <h4>Skills</h4>
 
@@ -129,7 +129,7 @@ layout: default
   <!-- Work Row -->
   <h4>Work</h4>
 
-  {%- assign works = page.work | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
+  {%- assign works = page.work | sort: "start_date", "last" | sort: "end_date", "last" | reverse -%}
   {%- assign company = "" -%}
 
   {%- for work in works -%}
@@ -171,7 +171,7 @@ layout: default
   {%- assign educations = educations | push: class -%}
   {%- endif -%}
 
-  {%- assign educations = educations | sort: 'start_date', 'last' | sort: 'end_date', 'last' | reverse -%}
+  {%- assign educations = educations | sort: "start_date", "last" | sort: "end_date", "last" | reverse -%}
 
   {%- for education in educations -%}
 
@@ -191,7 +191,14 @@ layout: default
         {%- endif -%}
 
         {% if education.area or education.course %}
-        {{ education.area | default: education.course }}<br/>
+        {%- assign education_area = education.area -%}
+
+        {% if education.course %}
+        {%- assign course = site.courses | where: "path", education.course | first -%}
+        {%- assign education_area = course.title -%}
+        {%- endif -%}
+
+        {{ education_area }}<br/>
         {%- endif -%}
 
         {% if education.gpa %}
@@ -213,8 +220,3 @@ layout: default
   <br/>
   {% endfor %}
 </div>
-
-{%- comment -%}
-<!-- Javascript Chart Source -->
-<!--<script src="{{ "/assets/js/chart/Chart.min.js" | relative_url }}"></script>-->
-{%- endcomment -%}

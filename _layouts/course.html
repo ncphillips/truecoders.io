@@ -2,11 +2,11 @@
 layout: page
 ---
 
-{%- capture nowunix -%} {{ 'now' | date: '%s' }} {%- endcapture -%}
-{%- assign course_classes = site.classes | where: "course", page.title | sort: 'start_date' -%}
+{%- capture nowunix -%} {{ "now" | date: "%s" }} {%- endcapture -%}
+{%- assign course_classes = site.classes | where: "course", page.path | sort: "start_date" -%}
 
 {%- for class in course_classes -%}
-    {%- capture class_time -%} {{ class.start_date | date: '%s' }} {%- endcapture -%}
+    {%- capture class_time -%} {{ class.start_date | date: "%s" }} {%- endcapture -%}
 
     {%- if class_time > nowunix -%}
         {%- assign next_class = class -%}
@@ -21,24 +21,24 @@ layout: page
 
     {%- if next_class -%}
     {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
-    {%- assign course_details = site.data.theme.course_details | replace: '!PAGE_TITLE!', page.title -%}
-    {%- assign course_details = course_details | replace: '!NEXT_CLASS_START!', next_class_start -%}
+    {%- assign course_details = site.data.classes.details | replace: "!PAGE_TITLE!", page.title -%}
+    {%- assign course_details = course_details | replace: "!NEXT_CLASS_START!", next_class_start -%}
 
     {%- assign class_price = next_class.price | prepend: "$" -%}
-    {%- assign course_details = course_details | replace: '!NEXT_CLASS_PRICE!', class_price -%}
+    {%- assign course_details = course_details | replace: "!NEXT_CLASS_PRICE!", class_price -%}
 
     {{ course_details | markdownify }}
     {% endif -%}
 
-    {% if next_class.call_to_action.url %}
-    {% include call-to-action-rows.html call_to_action=next_class.call_to_action hide_title=true is_button_centered=false %}
+    {% if next_class.has_scholarship %}
+    {% include call-to-action-rows.html call_to_action=site.data.classes.call_to_action hide_title=true is_button_centered=false %}
     {% endif %}
   </div>
 
   <div class="col-lg-6">
     <h2>Contact Us</h2>
-    <p>Give us a call at <a href="tel:{{ site.company.phone }}">{{ site.company.display_phone }}</a> or send us a message:</p>
-    {% include forms/course-form.html to_email=site.company.email submit_title="Submit" %}
+    <p>Give us a call at <a href="tel:{{ site.data.company.phone }}">{{ site.data.company.display_phone }}</a> or send us a message:</p>
+    {% include forms/course-form.html to_email=site.data.company.email submit_title="Submit" %}
   </div>
 </div>
 
@@ -46,8 +46,8 @@ layout: page
 
 <p>Here's a list of the subjects covered in this course:</p>
 
-{%- for subject_title in page.subjects -%}
-{% assign subject = site.subjects | where: "title", subject_title | first %}
+{%- for subject_path in page.subjects -%}
+{% assign subject = site.subjects | where: "path", subject_path | first %}
 <h4>{{ subject.title }}</h4>
 {{ subject.content | markdownify }}
 {%- endfor -%}

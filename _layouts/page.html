@@ -17,19 +17,19 @@ layout: default
   {% endif %}
 
   {% if page.sections.first %}
-  {% for title in page.sections %}
-  {% assign section = site.sections | where: "title", title | first %}
-  
-  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
-  
+  {% for path in page.sections %}
+  {% assign section = site.sections | where: "path", path | first %}
+
+  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
+
   {% include section.html background_color=background_color section=section color=site.data.theme.color %}
-  
+
   {% if forloop.last == true %}
-  {% capture background_color %} {% cycle '#fff', '#fafafa' %} {% endcapture %}
+  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
   {% endif %}
-  
+
   {% endfor %}
   {% endif %}
 </div>
 
-{% include footer.html color=site.data.theme.color socials=site.data.theme.socials copyright_name=site.company.full_name %}
+{% include footer.html color=site.data.theme.color socials=site.data.socials copyright_name=site.data.company.full_name %}

@@ -5,28 +5,28 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+
     <title>{{ site.title | escape }} | {{ page.title | escape }}</title>
-  
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href={{ "/feed.xml" | relative_url }}>
-  
+
     <link rel="icon" type="image/png" href="{{ "assets/images/favicon.png" | relative_url }}">
     <link rel="stylesheet" href={{ "/assets/css/magnific-popup/magnific-popup.css" | relative_url }}>
     <link rel="stylesheet" href={{ site.data.theme.css | relative_url }}>
-  
-    {%- if jekyll.environment == 'production' and site.analytics.google_tracking_id -%}
+
+    {%- if jekyll.environment == 'production' and site.data.development.google_analytics_tracking_id -%}
 
     {%- capture analytics_js -%}
-    {%- include analytics/google-analytics.js tracking_id=site.analytics.google_tracking_id -%}
+    {%- include analytics/google-analytics.js tracking_id=site.data.development.google_analytics_tracking_id -%}
     {%- endcapture %}
 
     <script>{{ analytics_js }}</script>
 
     {% endif %}
-  
+
     {% seo title=false %}
-  
+
   </head>
 
   <body>
@@ -38,7 +38,7 @@
     <script src={{ "/assets/js/bootstrap/bootstrap.min.js" | relative_url }}></script>
     <script src={{ "/assets/js/magnific-popup/jquery.magnific-popup.min.js" | relative_url }}></script>
 
-    {%- for script in site.data.theme.scripts %}
+    {%- for script in site.data.development.scripts %}
     <script src="{{ script | relative_url }}"></script>
     {%- endfor %}
   </body>

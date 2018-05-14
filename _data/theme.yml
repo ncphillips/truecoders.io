@@ -1,37 +1,3 @@
 color: "#0093c9"
 css: "/assets/css/main.css"
 logo: "uploads/logo-only.svg"
-course_details: |-
-  Our next !PAGE_TITLE! class starts on !NEXT_CLASS_START! and will cost !NEXT_CLASS_PRICE!.
-  However, we do offer course financing that you can take advantage of. More details coming soon.
-email_signup:
-  action: "//truecoders.us16.list-manage.com/subscribe/post?u=40a3d175df2cc2e2a5dc90824&amp;id=9190d2f7af"
-  body: "## Keep Me Updated
-
-    Want to stay updated on what's happening with !SITE_TITLE!?
-
-    You can subscribe to our mailing list. We promise we won't spam you."
-scripts:
-- "/assets/js/main.js"
-socials:
-- title: Facebook
-  url: https://facebook.com/truecodersio
-  fa_icon: fa-facebook
-- title: Twitter
-  url: https://twitter.com/truecodersio
-  fa_icon: fa-twitter
-- title: Instagram
-  url: https://instagram.com/truecodersio
-  fa_icon: fa-instagram
-- title: GitHub
-  url: https://github.com/truecodersio
-  fa_icon: fa-github
-- title: LinkedIn
-  url: https://www.linkedin.com/company/truecodersio
-  fa_icon: fa-linkedin
-- title: Vimeo
-  url: https://vimeo.com/truecodersio
-  fa_icon: fa-vimeo
-- title: Angel List
-  url: https://angel.co/truecodersio
-  fa_icon: fa-angellist

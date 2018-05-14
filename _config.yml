@@ -1,6 +1,51 @@
 ---
+# Jekyll Settings
 title: TrueCoders
 timezone: America/Chicago
+url: https://truecoders.io
+baseurl: 
+# Enable once Forestry supports custom collections_dir
+# collections_dir: collections
+kramdown:
+  show_warnings: true
+lang: en
+liquid:
+  error_mode: strict
+  strict_filters: true
+  # Enable once certain jekyll extensions, like seo, support without errors
+  # strict_variables: true
+permalink: pretty
+plugins:
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
+safe: true
+sass:
+  style: compressed
+strict_front_matter: true
+
+# Jekyll SEO Settings
+description: |-
+  Be Mentored. Be Connected.
+
+  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
+author:
+  name: TrueCoders
+  twitter: truecodersio
+image: "/uploads/logo.png"
+logo: "/uploads/logo.png"
+social:
+  name: TrueCoders
+  links:
+  - https://twitter.com/truecodersio
+  - https://www.facebook.com/truecodersio
+  - https://www.linkedin.com/in/truecodersio
+  - https://github.com/truecodersio
+twitter:
+  username: truecodersio
+
+# Collections
 collections:
   classes:
     title: Classes
@@ -29,104 +74,24 @@ collections:
   team:
     title: Team
     output: false
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: classes
-  values:
-    course: 
-    start_date: 
-    end_date: 
-    price: 0
-    has_scholarship: true
-    location: Birmingham, AL
-    institution: TrueCoders
-    call_to_action:
-      title: Aptitude Test
-      url: 
-      body: |-
-        Think you've got what it takes to go through this course with flying colors? You might qualify for a scholarship.
 
-        If you're interested in this course, please take the our aptitude test.
-    stats:
-      students_placed: 
-      average_salary: 0
+# Defaults for Layouts
+defaults:
 - scope:
     path: ''
     type: coders
   values:
     layout: resume
-    subtitle: 
-    image: 
-    class: 
-    profiles:
-      mbti: 
-      github: 
-      linkedin: 
-      codewars: 
-      vimeo_resume: 
-    skills:
-    - name: 
-      level: 3
-    work:
-    - company: 
-      job_title: 
-      start_date: 
-      end_date: 
-      location: 
-      body: 
-    education:
-    - institution: 
-      area: 
-      start_date: 
-      end_date: 
-      gpa: 
-      location: 
-      body: 
 - scope:
     path: ''
     type: courses
   values:
     layout: course
-    hero:
-      color: "#4b4948"
-      image: 
-    subtitle: 
-    image: 
-    subjects:
-    - 
 - scope:
     path: ''
     type: employers
   values:
     layout: page
-    subtitle: 
-    image: 
-    website: 
-- scope:
-    path: ''
-    type: faqs
-  values:
-    display_title: 
-- scope:
-    path: ''
-    type: sections
-  values:
-    display_title: 
-    subtitle: 
-    sub_collection: 
-    limit: 3
-    call_to_action:
-      title: 
-      url: 
-    subsections:
-    - title: 
-      subtitle: 
-      fa_icon: 
-      body: 
 - scope:
     path: ''
     type: posts
@@ -138,121 +103,48 @@ defaults:
     type: team
   values:
     layout: page
-    subtitle: 
-    is_board_member: false
-    is_teacher: false
-    image: 
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    display_title: 
-    subtitle: 
-    menus:
-      is_nav: false
-      is_footer: false
-    hero:
-      color: "#0093c9"
-      image: 
-    sections:
-    - 
-    call_to_action:
-      title: 
-      url: 
-      body: 
 - scope:
-    path: about.markdown
+    path: about.md
     type: pages
   values:
     layout: collection-page
-    collection: team
 - scope:
-    path: courses.markdown
+    path: courses.md
     type: pages
   values:
     layout: collection-page
-    collection: courses
 - scope:
-    path: employers.markdown
+    path: employers.md
     type: pages
   values:
     layout: collection-page
-    collection: employers
 - scope:
-    path: coders.markdown
+    path: coders.md
     type: pages
   values:
     layout: collection-page
-    collection: coders
 - scope:
-    path: contact.markdown
+    path: contact.md
     type: pages
   values:
     layout: contact
 - scope:
-    path: faqs.markdown
+    path: faqs.md
     type: pages
   values:
     layout: faqs
 - scope:
-    path: hire.markdown
+    path: hire.md
     type: pages
   values:
     layout: hire
 - scope:
-    path: index.markdown
+    path: index.md
     type: pages
   values:
     layout: index
-    hero:
-      call_to_action:
-        title: 
-        url: 
-description: |-
-  Be Mentored. Be Connected.
-
-  We believe that smart, passionate people should always be engaged, doing what they love to do. Our mission is to educate smart, passionate people as they become skilled developers, to keep them engaged working with companies solving real-world problems, and to continue mentoring them as they grow their skill set.
-company:
-  email: contact@truecoders.io
-  full_name: TrueCoders LLC
-  display_phone: "(205) 530-8496"
-  phone: 12055308496
-  location:
-    address: '2131 Data Office Dr #235'
-    city: Hoover
-    region: AL
-    postal_code: 35244
-    country_code: US
-analytics:
-  google_tracking_id: UA-104643272-1
-author:
-  name: TrueCoders
-  twitter: truecodersio
-image: "/uploads/logo.png"
-logo: "/uploads/logo.png"
-social:
-  name: TrueCoders
-  links:
-  - https://twitter.com/truecodersio
-  - https://www.facebook.com/truecodersio
-  - https://www.linkedin.com/in/truecodersio
-  - https://github.com/truecodersio
-twitter:
-  username: truecodersio
-sass:
-  style: compressed
-url: https://truecoders.io
-baseurl: 
-kramdown:
-  show_warnings: true
-liquid:
-  error_mode: strict
-permalink: pretty
-plugins:
-- jekyll-feed
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-safe: true
-strict_front_matter: true

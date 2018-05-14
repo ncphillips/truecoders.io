@@ -1,0 +1,29 @@
+---
+pages:
+- _subjects/architecture.md
+- _subjects/utilities.md
+- _subjects/testing.md
+- _subjects/source-control.md
+- _subjects/relational-databases.md
+- _subjects/python.md
+- _subjects/logging.md
+- _subjects/java.md
+- _subjects/game-development.md
+- _subjects/diagnostics.md
+- _subjects/c-sharp-dot-net.md
+- _subjects/browsers.md
+- _subjects/asp-dot-net-mvc.md
+- _subjects/communication.md
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Subject
+  description: e.g. Java
+  config:
+    required: true
+- type: datetime
+  hidden: true
+  label: Date
+  name: date

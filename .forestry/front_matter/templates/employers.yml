@@ -1,0 +1,44 @@
+---
+pages:
+- _employers/calliduscloud.md
+- _employers/symphonycare.md
+- _employers/gas-pos.md
+- _employers/out-there-creative.md
+- _employers/avx.md
+- _employers/central-city-church.md
+- _employers/cahaba-outfitters.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Employer Title
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Company LLC
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Focus on Places and Things
+  config:
+    required: true
+- name: website
+  label: Website
+  type: text
+  hidden: false
+  default: 
+  description: e.g. https://company.com
+  config:
+    required: true
+- type: file
+  name: image
+  label: Employer Logo

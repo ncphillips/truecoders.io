@@ -1,0 +1,93 @@
+---
+pages:
+- blog.md
+- 404.md
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Page Title
+  type: text
+  hidden: false
+  default: ''
+  description: e.g. About
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+- name: display_title
+  label: Display Title
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Who We Are
+  config:
+    required: false
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+  description: e.g. We are more than just a bootcamp
+- name: hero
+  label: Hero
+  type: field_group
+  fields:
+  - name: image
+    label: Image
+    type: text
+    hidden: false
+    default: ''
+  - name: color
+    label: Color
+    type: text
+    hidden: false
+    default: "#0093c9"
+  hidden: false
+  default: 
+- name: call_to_action
+  label: Call to action
+  type: field_group
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  - name: body
+    label: Body
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: menus
+  label: Menus
+  type: field_group
+  fields:
+  - name: is_footer
+    label: Is footer
+    type: boolean
+    hidden: false
+    default: ''
+  - name: is_nav
+    label: Is nav
+    type: boolean
+    hidden: false
+    default: ''
+  hidden: true
+  default: 
+- name: sections
+  label: Sections
+  type: list
+  hidden: false
+  default:
+  - 
