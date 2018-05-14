@@ -9,18 +9,18 @@
 
       {%- assign page_count = menu_items.size -%}
 
-      {% for item in menu_items %}
+      {%- for item in menu_items -%}
 
-      {% if item.menu.footer.weight > data_menu_items.first.weight and data_menu_items.first %}
+      {%- if item.menu.footer.weight > data_menu_items.first.weight and data_menu_items.first -%}
 
-      {% assign temp_menu_items = menu_items | shift: forloop.index0 %}
-      {% assign menu_items = menu_items | pop: temp_menu_items.size | push: data_menu_items.first | concat: temp_menu_items %}
+      {%- assign temp_menu_items = menu_items | shift: forloop.index0 -%}
+      {%- assign menu_items = menu_items | pop: temp_menu_items.size | push: data_menu_items.first | concat: temp_menu_items -%}
 
-      {% assign data_menu_items = data_menu_items | shift %}
-      {% endif %}
-      {% endfor %}
-
+      {%- assign data_menu_items = data_menu_items | shift -%}
       {%- endif -%}
+      {%- endfor -%}
+
+      {%- endif %}
 
       {% for item in menu_items %}
       <li class="list-inline-item">
