@@ -66,14 +66,6 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-  - type: select
-    config:
-      source:
-        type: datafiles
-        file: _data-icons-yml
-        path: icons
-    label: Icon
-    name: icon
   hidden: false
   default:
   - title: 
