@@ -36,7 +36,7 @@ fields:
     hidden: false
     default: ''
   - name: call_to_action
-    label: Call to action
+    label: Call to Action
     type: field_group
     fields:
     - name: title
@@ -69,7 +69,7 @@ fields:
       type: pages
       section: sections
 - name: call_to_action
-  label: Call to action
+  label: Call to Action
   type: field_group
   fields:
   - name: title
