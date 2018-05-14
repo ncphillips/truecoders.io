@@ -8,6 +8,7 @@ kramdown:
   show_warnings: true
 liquid:
   error_mode: strict
+  strict_filters: true
 permalink: pretty
 plugins:
 - jekyll-feed
