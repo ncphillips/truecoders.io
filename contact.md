@@ -5,6 +5,12 @@ display_title: Contact Us
 subtitle: Here's how you get in touch with us
 hero:
   image: "/uploads/hero-image-4.jpg"
+  color: "#0093c9"
+call_to_action:
+  title: ''
+  url: ''
+  body: ''
+sections: []
 menu:
   header:
     identifier: _contact
