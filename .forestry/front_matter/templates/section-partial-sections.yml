@@ -41,3 +41,24 @@ fields:
         format: markdown
   config:
     labelField: title
+- type: textarea
+  name: body
+  label: Body
+  description: Description of the Section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group
+  label: Call to Action
+  name: call_to_action
+  description: CTA Button to Display
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: e.g. Find Out More
+  - type: text
+    label: URL
+    name: url
+    description: 'e.g. /team or #hire-us'
