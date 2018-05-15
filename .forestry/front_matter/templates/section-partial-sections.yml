@@ -2,6 +2,12 @@
 hide_body: false
 is_partial: true
 fields:
+- type: text
+  label: Title
+  name: title
+  description: e.g. Our Process
+  config:
+    required: true
 - type: field_group_list
   label: Sub Sections
   name: subsections
