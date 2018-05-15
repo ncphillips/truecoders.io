@@ -6,10 +6,12 @@ subtitle: The people that make us amazing
 collection: coders
 hero:
   image: "/uploads/hero-image-10.jpg"
+  color: "#0093c9"
 call_to_action:
   title: Hire Us
   url: "/hire"
   body: Interested in hiring a TrueCoder?
+layout: collection-page
 menu:
   footer:
     identifier: _coders
