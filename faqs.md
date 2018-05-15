@@ -4,10 +4,13 @@ date: 2017-09-03 20:00:00 +0000
 subtitle: All of your questions answered in one place
 hero:
   image: "/uploads/hero-image-1.jpg"
+  color: "#0093c9"
 call_to_action:
   title: Ask a Question
   url: "/contact"
   body: Have more questions for us? Maybe something we didn't answer?
+display_title: ''
+sections: []
 menu:
   footer:
     identifier: _faqs

@@ -1,5 +1,6 @@
 ---
 pages:
+- faqs.md
 - contact.md
 - 404.md
 hide_body: false
