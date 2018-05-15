@@ -61,12 +61,6 @@ fields:
     default: ''
   hidden: false
   default: 
-- name: sections
-  label: Sections
-  type: list
-  hidden: false
-  default:
-  - 
 - name: collection
   label: Collection
   type: text

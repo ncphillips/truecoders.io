@@ -60,9 +60,6 @@ collections:
   posts:
     title: Posts
     output: true
-  sections:
-    title: Sections
-    output: false
   subjects:
     title: Subjects
     output: false

@@ -10,7 +10,6 @@ call_to_action:
   title: ''
   url: ''
   body: ''
-sections: []
 menu:
   header:
     identifier: _contact

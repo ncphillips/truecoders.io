@@ -10,7 +10,6 @@ call_to_action:
   url: "/contact"
   body: Have more questions for us? Maybe something we didn't answer?
 display_title: ''
-sections: []
 menu:
   footer:
     identifier: _faqs
