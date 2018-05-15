@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - test-partial-two
+  - test-partial-one
+  name: edit_blocks
+  label: Edit Blocks
