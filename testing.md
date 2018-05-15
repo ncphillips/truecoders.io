@@ -8,4 +8,11 @@ edit_blocks:
 - template: test-partial-two
   body: What is going on?
   title: Second
+sections:
+- template: test-partial-one
+  title: Test One
+  number: '1'
+- template: test-partial-two
+  title: Test 2
+  body: Body
 ---
