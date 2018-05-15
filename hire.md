@@ -21,6 +21,11 @@ sections:
   - title: Architects
     body: Every one of our dev teams is supervised by a Software Architect with years
       of experience in every aspect of the software lifecycle.
+  call_to_action:
+    title: Engage a Team
+    url: "#hire-form"
+  body: We are all about team work. From small to large projects, we ensure that the
+    right individual is working on every step.
 - template: section-partial-sections
   title: Our Process
   subsections:
@@ -36,6 +41,11 @@ sections:
     icon: Check
     body: Before we ship code, our work is thoroughly tested from the ground up to
       ensure that every part of the project is working perfectly.
+  body: We've implemented process that we follow with every project we work on to
+    ensure efficiency, quality, and effectiveness.
+  call_to_action:
+    title: Engage Our Process
+    url: "#hire-form"
 - template: section-partial-sections
   title: Our Cost
   subsections:
@@ -54,6 +64,11 @@ sections:
     icon: Tags
     body: Large projects can require a large workforce. We'll meet your project's
       requirements with skill and efficiency.
+  call_to_action:
+    title: Discuss Pricing
+    url: "#hire-form"
+  body: We've structured our teams and cost to meet the needs of small and large companies
+    alike. Reach out to us for pricing and details.
 call_to_action:
   title: ''
   url: ''
