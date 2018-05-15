@@ -57,9 +57,6 @@ collections:
   faqs:
     title: FAQs
     output: false
-  posts:
-    title: Posts
-    output: true
   subjects:
     title: Subjects
     output: false
