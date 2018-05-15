@@ -31,6 +31,14 @@ fields:
     step: '3'
     required: true
   default: '3'
+- type: textarea
+  name: body
+  label: Body
+  description: e.g. Description of the Section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: field_group
   name: call_to_action
   label: Call to Action
@@ -43,4 +51,4 @@ fields:
   - type: text
     name: url
     label: URL
-    description: e.g. /team
+    description: 'e.g. /team or #hire-us'
