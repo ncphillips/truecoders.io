@@ -21,10 +21,16 @@ sections:
   subsections:
   - title: Training
     icon: Code
-    body: |-
-      We mentor coders as they pursue their passion, helping them achieve success
-
+    body: We mentor coders as they pursue their passion, helping them achieve success
       along every step of the way
+  - title: Connection
+    icon: Plug
+    body: We enable developers to connect with their mentor and with each other to
+      hone their skills
+  - title: Scholarships
+    icon: Graduation Cap
+    body: We offer full-ride course scholarships for any individual who qualifies
+      by passing an aptitude test
   title: Our Process
 - template: section-partial-collection
   sub_collection: employers
