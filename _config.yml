@@ -15,11 +15,6 @@ liquid:
   # Enable once certain jekyll extensions, like seo, support without errors
   # strict_variables: true
 permalink: pretty
-plugins:
-- jekyll-feed
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
 safe: true
 sass:
   style: compressed
