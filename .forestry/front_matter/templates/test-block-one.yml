@@ -8,5 +8,5 @@ fields:
   template_types:
   - test-partial-two
   - test-partial-one
-  name: edit_blocks
+  name: sections
   label: Edit Blocks
