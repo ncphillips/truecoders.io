@@ -67,3 +67,7 @@ fields:
     default: ''
   hidden: false
   default: 
+- type: include
+  label: Testing Include Matter
+  name: testing_front_matter
+  template: pages
