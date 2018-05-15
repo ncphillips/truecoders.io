@@ -1,6 +1,7 @@
 ---
 title: Courses
 date: 2017-09-12 07:39:00 +0000
+layout: collection-page
 display_title: Our Courses
 subtitle: The things we do and the stacks we love
 collection: courses
@@ -11,7 +12,6 @@ call_to_action:
   title: Apply for a Course
   url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
   body: We have applications open for upcoming courses.
-layout: collection-page
 menu:
   footer:
     identifier: _courses

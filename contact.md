@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2017-09-11 16:00:00 +0000
+layout: contact
 display_title: Contact Us
 subtitle: Here's how you get in touch with us
 hero:

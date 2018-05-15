@@ -1,6 +1,7 @@
 ---
 title: FAQs
 date: 2017-09-03 20:00:00 +0000
+layout: faqs
 subtitle: All of your questions answered in one place
 hero:
   image: "/uploads/hero-image-1.jpg"

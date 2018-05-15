@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-09-04 15:00:00 +0000
+layout: collection-page
 display_title: Our Story
 subtitle: We are more than just a bootcamp
 collection: team
@@ -11,7 +12,6 @@ call_to_action:
   title: Find Out More
   url: "/contact"
   body: Want to know more about us?
-layout: collection-page
 menu:
   footer:
     identifier: _about

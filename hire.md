@@ -1,6 +1,7 @@
 ---
 title: Hire Us
 date: 2017-11-10 16:00:00 +0000
+layout: hire
 display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 hero:
