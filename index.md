@@ -17,6 +17,8 @@ sections:
   call_to_action:
     title: All Our Courses
     url: "/courses"
+  body: We have experience in many different technology stacks. Here's some of the
+    courses we currently offer.
 - template: section-partial-sections
   subsections:
   - title: Training
@@ -32,10 +34,13 @@ sections:
     body: We offer full-ride course scholarships for any individual who qualifies
       by passing an aptitude test
   title: Our Process
+  body: We have decades of experience to lean on as we train and mentor the next generation
+    of amazing coders.
 - template: section-partial-collection
   sub_collection: employers
   limit: '3'
   title: Our Employers
+  body: We've seen many of our students already placed in jobs with some great companies.
 - template: section-partial-collection
   sub_collection: team
   limit: '3'
@@ -43,6 +48,8 @@ sections:
   call_to_action:
     title: More About Us
     url: "/about"
+  body: We are TrueCoders. We believe that smart, passionate people should always
+    be engaged, doing what they love to do.
 call_to_action:
   title: ''
   url: ''
