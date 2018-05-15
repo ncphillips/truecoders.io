@@ -13,5 +13,5 @@ fields:
   label: Sections
   description: Sections to Display
   template_types:
-  - section-partial-sections
   - section-partial-collection
+  - section-partial-sections
