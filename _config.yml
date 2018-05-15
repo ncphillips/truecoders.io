@@ -86,8 +86,3 @@ defaults:
     type: team
   values:
     layout: page
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
