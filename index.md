@@ -25,6 +25,7 @@ sections:
       We mentor coders as they pursue their passion, helping them achieve success
 
       along every step of the way
+  title: Our Process
 - template: section-partial-collection
   sub_collection: employers
   limit: '3'
