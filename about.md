@@ -6,10 +6,12 @@ subtitle: We are more than just a bootcamp
 collection: team
 hero:
   image: "/uploads/hero-image-2.jpg"
+  color: "#0093c9"
 call_to_action:
   title: Find Out More
   url: "/contact"
   body: Want to know more about us?
+layout: collection-page
 menu:
   footer:
     identifier: _about
