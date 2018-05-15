@@ -86,12 +86,6 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: page
-    permalink: "/blog/:title/"
-- scope:
-    path: ''
     type: team
   values:
     layout: page
