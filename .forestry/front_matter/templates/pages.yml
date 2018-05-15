@@ -48,6 +48,7 @@ fields:
     default: "#0093c9"
   hidden: false
   default: 
+  description: Displayed in the Header
 - name: sections
   label: Sections
   type: list
