@@ -19,6 +19,24 @@ fields:
   type: datetime
   hidden: true
   default: ''
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - collection-page
+    - contact
+    - course
+    - faqs
+    - hire
+    - index
+    - page
+    - resume
+  label: Layout
+  name: layout
+  hidden: true
+  default: page
+  description: Jekyll Layout to use
 - name: display_title
   label: Display Title
   type: text
