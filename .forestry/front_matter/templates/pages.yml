@@ -48,6 +48,16 @@ fields:
     default: "#0093c9"
   hidden: false
   default: 
+- name: sections
+  label: Sections
+  type: list
+  hidden: false
+  default: []
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: sections
 - name: call_to_action
   label: Call to Action
   type: field_group
@@ -69,9 +79,3 @@ fields:
     default: ''
   hidden: false
   default: 
-- name: sections
-  label: Sections
-  type: list
-  hidden: false
-  default:
-  - 
