@@ -1,8 +1,8 @@
 ---
 pages:
-- coders.md
-- courses.md
 - about.md
+- courses.md
+- coders.md
 hide_body: false
 is_partial: false
 fields:
