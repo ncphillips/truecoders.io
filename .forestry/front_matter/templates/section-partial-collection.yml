@@ -20,6 +20,7 @@ fields:
   name: sub_collection
   label: Collection
   description: e.g. Team
+  default: team
 - type: number
   name: limit
   label: Limit
