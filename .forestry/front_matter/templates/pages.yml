@@ -50,16 +50,6 @@ fields:
   hidden: false
   default: 
   description: Displayed in the Header
-- name: sections
-  label: Sections
-  type: list
-  hidden: false
-  default: []
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: sections
 - name: call_to_action
   label: Call to Action
   type: field_group
