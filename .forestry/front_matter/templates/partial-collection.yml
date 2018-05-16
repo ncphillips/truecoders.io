@@ -39,16 +39,8 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: field_group
+- type: include
   name: call_to_action
   label: Call to Action
-  description: CTA Button to Display
-  fields:
-  - type: text
-    label: Title
-    name: title
-    description: e.g. Find Out More
-  - type: text
-    name: url
-    label: URL
-    description: 'e.g. /team or #hire-us'
+  template: partial-call-to-action
+  description: ''
