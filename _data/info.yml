@@ -9,7 +9,4 @@ location:
   region: AL
   postal_code: 35244
   country_code: US
-email_signup_copy: "
-  ## Keep Me Updated
-  Want to stay updated on what's happening with !SITE_TITLE!?
-  You can subscribe to our mailing list. We promise we won't spam you."
+email_signup_copy: "## Keep Me Updated\n\nWant to stay updated on what's happening with !SITE_TITLE!? You can subscribe to our mailing list. We promise we won't spam you."
