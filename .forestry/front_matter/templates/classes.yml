@@ -40,6 +40,7 @@ fields:
   config:
     required: true
     time_format: h:mm A
+    date_format: MMM D, YYYY
 - name: end_date
   label: End date
   type: datetime
