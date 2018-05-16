@@ -21,7 +21,7 @@ layout: page
   {%- for item in items -%}
 
   {%- if item.tags contains "example" -%} {%- continue -%} {%- endif -%}
-  {%- include subsection-col.html collection=collection subsection=item color=site.data.theme.color -%}
+  {%- include subsection-col.html collection=collection subsection=item color=site.data.info.theme_color -%}
 
   {%- endfor -%}
 </div>

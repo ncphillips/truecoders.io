@@ -17,7 +17,7 @@ layout: default
       <h3>{{ page.title }}</h3>
 
       {% if class %}
-      <img src="{{ site.data.theme.logo | relative_url }}" alt="Logo" style="width:64px;">
+      <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo" style="width:64px;">
       <strong>{{ class.title }} Graduate</strong>
       {%- elsif page.subtitle -%}
       <strong>{{ page.subtitle }}</strong>

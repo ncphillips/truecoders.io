@@ -1,14 +1,7 @@
-{%- comment -%}
-<!--
-include:
-  logo: "path/to/logo.png"
--->
-{%- endcomment -%}
-
 <header>
   <nav class="navbar navbar-expand-md sticky-top navbar-light">
     <a class="navbar-brand" href="/">
-      <img src={{ include.logo | relative_url }} alt="Logo" height="80">
+      <img src={{ "uploads/logo-only.svg" | relative_url }} alt="Logo" height="80">
     </a>
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
