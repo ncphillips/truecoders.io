@@ -39,7 +39,7 @@ fields:
   description: The start date for the class
   config:
     required: true
-    time_format: '"at" h:mm A'
+    time_format: "\\at h:mm A"
     date_format: MMMM D, YYYY
 - name: end_date
   label: End date
