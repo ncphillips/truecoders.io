@@ -21,6 +21,7 @@ sections:
   - title: Architects
     body: Every one of our dev teams is supervised by a Software Architect with years
       of experience in every aspect of the software lifecycle.
+    icon: Compass
   call_to_action:
     title: Engage a Team
     url: "#hire-form"
