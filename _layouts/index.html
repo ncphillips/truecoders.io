@@ -21,7 +21,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col" style="text-align:center;">
-        {{ site.data.info.email_signup_copy | replace: "!SITE_TITLE!", site.title | markdownify }}
+        {{ site.data.info.email_signup_copy | markdownify }}
         <br>
         {% include forms/email-signup.html form_action=site.data.development.email_signup_action submit_title="Submit" %}
       </div>
