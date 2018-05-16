@@ -1,0 +1,20 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: field_group
+  name: hero
+  label: Hero
+  description: Hero Section
+  fields:
+  - type: text
+    name: color
+    label: Hex Color
+    description: 'e.g. #0093c9'
+    config:
+      required: false
+    default: "#0093c9"
+  - type: file
+    name: image
+    label: Background Image
+    description: Takes precedence over the hex color
