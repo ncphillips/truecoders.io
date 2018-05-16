@@ -20,6 +20,7 @@ sections:
     body: In addition to development, we provide every client with a dedicated project
       manager and consistent quality assurance testing.
   - title: Architects
+    icon: Compass
     body: Every one of our dev teams is supervised by a Software Architect with years
       of experience in every aspect of the software lifecycle.
   call_to_action:

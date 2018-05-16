@@ -15,21 +15,6 @@ layout: default
   {% if page.call_to_action.url %}
   {% include call-to-action-rows.html call_to_action=page.call_to_action %}
   {% endif %}
-
-  {% if page.sections.first %}
-  {% for path in page.sections %}
-  {% assign section = site.sections | where: "path", path | first %}
-
-  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
-
-  {% include section.html background_color=background_color section=section color=site.data.theme.color %}
-
-  {% if forloop.last == true %}
-  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
-  {% endif %}
-
-  {% endfor %}
-  {% endif %}
 </div>
 
 {% include footer.html %}

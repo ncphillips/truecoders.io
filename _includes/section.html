@@ -10,7 +10,7 @@ include:
         <div class="row justify-content-center">
             <div class="col-lg-4" style="text-align:center; padding-bottom: 16px;">
                 <h2>{{ include.section.display_title | default: include.section.title }}</h2>
-                {{ include.section.content | markdownify }}
+                {{ include.section.body | markdownify }}
             </div>
         </div>
 
