@@ -49,7 +49,7 @@ fields:
   description: The end date for the class
   config:
     required: true
-    time_format: '"at" h:mm A'
+    time_format: "\\at h:mm A"
     date_format: MMMM D, YYYY
 - type: number
   name: price
