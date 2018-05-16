@@ -1,0 +1,29 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: field_group
+  name: call_to_action
+  label: Call to Action
+  description: CTA Button to Display
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: e.g. Find Out More
+    config:
+      required: false
+  - type: text
+    name: url
+    label: URL
+    description: 'e.g. /contact or #contact-us'
+    config:
+      required: false
+  - type: textarea
+    name: body
+    label: Body
+    description: Description above the button
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
