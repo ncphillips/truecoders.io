@@ -57,12 +57,6 @@ collections:
   faqs:
     title: FAQs
     output: false
-  posts:
-    title: Posts
-    output: true
-  sections:
-    title: Sections
-    output: false
   subjects:
     title: Subjects
     output: false
@@ -89,61 +83,6 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: page
-    permalink: "/blog/:title/"
-- scope:
-    path: ''
     type: team
   values:
     layout: page
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: about.md
-    type: pages
-  values:
-    layout: collection-page
-- scope:
-    path: courses.md
-    type: pages
-  values:
-    layout: collection-page
-- scope:
-    path: employers.md
-    type: pages
-  values:
-    layout: collection-page
-- scope:
-    path: coders.md
-    type: pages
-  values:
-    layout: collection-page
-- scope:
-    path: contact.md
-    type: pages
-  values:
-    layout: contact
-- scope:
-    path: faqs.md
-    type: pages
-  values:
-    layout: faqs
-- scope:
-    path: hire.md
-    type: pages
-  values:
-    layout: hire
-    redirect_from:
-    - "/hire-us/"
-- scope:
-    path: index.md
-    type: pages
-  values:
-    layout: index
-    redirect_from:
-    - "/home/"

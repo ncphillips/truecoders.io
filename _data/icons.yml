@@ -10,9 +10,9 @@ Cogs:
 Compass:
   fa_icon: fa-compass
 Facebook:
-  fa_icon: fa-facebook
+  fa_icon: fa-facebook-f
 File with Text:
-  fa_icon: fa-file-text-o
+  fa_icon: fa-clipboard-list
 GitHub:
   fa_icon: fa-github
 Graduation Cap:
@@ -20,11 +20,15 @@ Graduation Cap:
 Instagram:
   fa_icon: fa-instagram
 LinkedIn:
-  fa_icon: fa-linkedin
+  fa_icon: fa-linkedin-in
+Medium:
+  fa_icon: fa-medium-m
+Play Circle:
+  fa_icon: fa-play-circle
 Plug:
   fa_icon: fa-plug
 Refresh:
-  fa_icon: fa-refresh
+  fa_icon: fa-sync-alt
 Tags:
   fa_icon: fa-tags
 Terminal:
@@ -36,4 +40,4 @@ User:
 Users:
   fa_icon: fa-users
 Vimeo:
-  fa_icon: fa-vimeo
+  fa_icon: fa-vimeo-v

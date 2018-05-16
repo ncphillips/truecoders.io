@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{% include header.html logo=site.data.theme.logo %}
-{% include hero.html color=site.data.theme.color %}
+{% include header.html %}
+{% include hero.html color=site.data.info.theme_color %}
 
 <div class="container">
   <div class="row">
@@ -12,23 +12,8 @@ layout: default
     </div>
   </div>
 
-  {% if page.call_to_action.url %}
+  {% if page.call_to_action.url.size > 0 %}
   {% include call-to-action-rows.html call_to_action=page.call_to_action %}
-  {% endif %}
-
-  {% if page.sections.first %}
-  {% for path in page.sections %}
-  {% assign section = site.sections | where: "path", path | first %}
-
-  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
-
-  {% include section.html background_color=background_color section=section color=site.data.theme.color %}
-
-  {% if forloop.last == true %}
-  {% capture background_color %} {% cycle "#fff", "#fafafa" %} {% endcapture %}
-  {% endif %}
-
-  {% endfor %}
   {% endif %}
 </div>
 

@@ -21,8 +21,8 @@ layout: page
 
     {%- if next_class -%}
     {% assign next_class_start = next_class.start_date | date: "%B %e" -%}
-    {%- assign course_details = site.data.classes.details | replace: "!PAGE_TITLE!", page.title -%}
-    {%- assign course_details = course_details | replace: "!NEXT_CLASS_START!", next_class_start -%}
+    {%- assign course_details = "Our next !PAGE_TITLE! class starts on !NEXT_CLASS_START! and will cost !NEXT_CLASS_PRICE!. However, we do offer course financing that you can take advantage of. More details coming soon." -%}
+    {%- assign course_details = course_details | replace: "!PAGE_TITLE!", page.title | replace: "!NEXT_CLASS_START!", next_class_start -%}
 
     {%- assign class_price = next_class.price | prepend: "$" -%}
     {%- assign course_details = course_details | replace: "!NEXT_CLASS_PRICE!", class_price -%}
@@ -31,14 +31,14 @@ layout: page
     {% endif -%}
 
     {% if next_class.has_scholarship %}
-    {% include call-to-action-rows.html call_to_action=site.data.classes.call_to_action hide_title=true is_button_centered=false %}
+    {% include call-to-action-rows.html call_to_action=site.data.info.classes_cta hide_title=true is_button_centered=false %}
     {% endif %}
   </div>
 
   <div class="col-lg-6">
     <h2>Contact Us</h2>
-    <p>Give us a call at <a href="tel:{{ site.data.company.phone }}">{{ site.data.company.display_phone }}</a> or send us a message:</p>
-    {% include forms/course-form.html to_email=site.data.company.email submit_title="Submit" %}
+    <p>Give us a call at <a href="tel:{{ site.data.info.phone }}">{{ site.data.info.display_phone }}</a> or send us a message:</p>
+    {% include forms/course-form.html to_email=site.data.info.email submit_title="Submit" %}
   </div>
 </div>
 

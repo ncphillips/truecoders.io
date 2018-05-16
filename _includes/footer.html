@@ -1,4 +1,4 @@
-<footer class="footer sticky-bottom" style="background-color:{{ site.data.theme.color }}; padding: 80px 0; text-align:center;">
+<footer class="footer sticky-bottom" style="background-color:{{ site.data.info.theme_color }}; padding: 80px 0; text-align:center;">
   <div class="container" style="color:white;">
     <ul class="list-inline">
       {% include menus.html menu="footer" %}
@@ -8,7 +8,7 @@
       {% for social in site.data.socials %}
       <li class="list-inline-item">
         <a href={{ social.url | escape }} title="{{ social.title }}" target="_blank" style="color:white;">
-          <i class="fa {{ site.data.icons[social.title].fa_icon }} fa-lg" style="margin: 0 8px;"></i>
+          <i class="fab {{ site.data.icons[social.title].fa_icon }} fa-lg" style="margin: 0 8px;"></i>
         </a>
       </li>
       {%- endfor -%}
@@ -16,7 +16,7 @@
 
     <div class="row">
       <div class="col">
-        <p>Copyright {{ "©" }} {{ site.time | date: "%Y" }} {{ site.data.company.full_name }}</p>
+        <p>Copyright {{ "©" }} {{ site.time | date: "%Y" }} {{ site.data.info.full_name }}</p>
       </div>
     </div>
   </div>

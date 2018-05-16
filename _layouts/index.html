@@ -2,15 +2,14 @@
 layout: default
 ---
 
-{% include header.html logo=site.data.theme.logo %}
-{% include hero.html color=site.data.theme.color %}
+{% include header.html %}
+{% include hero.html color=site.data.info.theme_color %}
 
-{%- for path in page.sections -%}
-{%- assign section = site.sections | where: "path", path | first -%}
+{%- for section in page.sections -%}
 
 {%- capture background_color -%} {% cycle "#fff", "#fafafa" %} {%- endcapture -%}
 
-{% include section.html background_color=background_color section=section color=site.data.theme.color %}
+{% include section.html background_color=background_color section=section color=site.data.info.theme_color %}
 
 {%- if forloop.last == true -%}
 {%- capture background_color -%} {% cycle "#fff", "#fafafa" %} {%- endcapture -%}
@@ -22,9 +21,9 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col" style="text-align:center;">
-        {{ site.data.copy.email_signup | replace: "!SITE_TITLE!", site.title | markdownify }}
+        {{ site.data.info.email_signup_copy | markdownify }}
         <br>
-        {% include forms/email-signup.html form_action=site.data.development.email_signup_action submit_title="Submit" %}
+        {% include forms/email-signup.html %}
       </div>
     </div>
   </div>

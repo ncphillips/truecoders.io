@@ -1,0 +1,29 @@
+---
+pages:
+- about.md
+- courses.md
+- coders.md
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: pages
+  label: Page Defaults
+  name: page_defaults
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - classes
+    - coders
+    - courses
+    - employers
+    - faqs
+    - subjects
+    - team
+  name: collection
+  label: Collection
+  description: e.g. Team
+  default: classes

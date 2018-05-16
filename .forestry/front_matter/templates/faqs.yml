@@ -44,3 +44,4 @@ fields:
     required: true
   label: Category
   name: categories
+  default: company

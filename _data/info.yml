@@ -1,0 +1,24 @@
+---
+email: contact@truecoders.io
+full_name: TrueCoders LLC
+display_phone: "(205) 530-8496"
+phone: 12055308496
+location:
+  address: '2131 Data Office Dr #235'
+  city: Hoover
+  region: AL
+  postal_code: 35244
+  country_code: US
+ga_tracking_id: UA-104643272-1
+theme_color: "#0093c9"
+email_signup_copy: |-
+  ## Keep Me Updated
+
+  Want to stay updated on what's happening with TrueCoders? You can subscribe to our mailing list. We promise we won't spam you.
+classes_cta:
+  url: https://goo.gl/forms/srMiJqt1Mo0B2ywg1
+  title: Aptitude Test
+  body: |-
+    Think you've got what it takes to go through this class with flying colors? You might qualify for a scholarship.
+
+    If you're interested in this class, please take the our aptitude test.
