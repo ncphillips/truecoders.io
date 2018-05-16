@@ -15,10 +15,10 @@ layout: default
     <div class="col-lg-6">
       <h2>Contact Us</h2>
       <p>Give us a call:
-        <a href="tel:{{ site.data.company.phone }}">{{ site.data.company.display_phone }}</a>
+        <a href="tel:{{ site.data.info.phone }}">{{ site.data.info.display_phone }}</a>
       </p>
       <p>Or send us a message:</p>
-      {% include forms/sales-form.html to_email=site.data.company.email submit_title="Submit" %}
+      {% include forms/sales-form.html to_email=site.data.info.email submit_title="Submit" %}
     </div>
   </div>
 </div>

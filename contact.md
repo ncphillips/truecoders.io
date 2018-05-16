@@ -24,20 +24,4 @@ menu:
 
 # We Are TrueCoders
 
-Thanks for stopping by! Here's our contact info:
-
-#### Email
-
-For general inquiries, email us: [{{ site.data.company.email }}](mailto:{{ site.data.company.email }})
-
-#### Phone
-
-{% assign phone = site.data.company.phone | split: "" %}
-Also, you can give us a call: [{{ site.data.company.display_phone }}](tel:{{ site.data.company.phone }})
-
-#### Office
-
-You can find our office:
-
-{{ site.data.company.location.address }}<br/>
-{{ site.data.company.location.city }}, {{ site.data.company.location.region }} {{ site.data.company.location.postal_code }}
+Thanks for stopping by!

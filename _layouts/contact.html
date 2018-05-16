@@ -4,6 +4,28 @@ layout: page
 
 {{ content }}
 
+{% capture contact_info %}
+
+#### Email
+
+For general inquiries, email us: [{{ site.data.info.email }}](mailto:{{ site.data.info.email }})
+
+#### Phone
+
+{% assign phone = site.data.info.phone | split: "" %}
+Also, you can give us a call: [{{ site.data.info.display_phone }}](tel:{{ site.data.info.phone }})
+
+#### Office
+
+You can find our office:
+
+{{ site.data.info.location.address }}<br/>
+{{ site.data.info.location.city }}, {{ site.data.info.location.region }} {{ site.data.info.location.postal_code }}
+
+{% endcapture %}
+
+{{ contact_info | markdownify }}
+
 <hr>
 
 {{ site.data.copy.email_signup | replace: "!SITE_TITLE!", site.title | markdownify }}

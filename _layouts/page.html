@@ -12,7 +12,7 @@ layout: default
     </div>
   </div>
 
-  {% if page.call_to_action.url %}
+  {% if page.call_to_action.url.size > 0 %}
   {% include call-to-action-rows.html call_to_action=page.call_to_action %}
   {% endif %}
 </div>
