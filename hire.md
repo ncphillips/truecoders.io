@@ -1,7 +1,6 @@
 ---
 title: Hire Us
 date: 2017-11-10 16:00:00 +0000
-layout: hire
 display_title: Hire TrueCoders
 subtitle: Quality developer teams at pricing below the US average
 hero:
@@ -20,7 +19,6 @@ sections:
     body: In addition to development, we provide every client with a dedicated project
       manager and consistent quality assurance testing.
   - title: Architects
-    icon: Compass
     body: Every one of our dev teams is supervised by a Software Architect with years
       of experience in every aspect of the software lifecycle.
   call_to_action:
@@ -75,6 +73,7 @@ call_to_action:
   title: ''
   url: ''
   body: ''
+layout: hire
 menu:
   header:
     identifier: _hire
