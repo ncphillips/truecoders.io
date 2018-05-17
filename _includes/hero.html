@@ -29,7 +29,7 @@ include:
     {% if page.hero.call_to_action.url %}
     <div class="play-icon">
       <a href={{ page.hero.call_to_action.url }} class="video-player" role="button" aria-pressed="true">
-        <i class="fa {{ site.data.icons["Play Circle"].fa_icon }} fa-lg"></i> {{ page.hero.call_to_action.title }}
+        <i class="{{ site.data.icons["Play Circle"].fa_icon }} fa-lg"></i> {{ page.hero.call_to_action.title }}
       </a>
     </div>
     {%- endif -%}

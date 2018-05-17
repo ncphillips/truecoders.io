@@ -5,7 +5,7 @@
     {% if include.subsection.image %}
     <img src={{ include.subsection.image }} alt="{{ include.subsection.title }}" style="border-radius:50%; max-width:40%;">
     {% elsif include.subsection.icon %}
-    <i class="fa {{ site.data.icons[include.subsection.icon].fa_icon }} fa-5x" style="color:{{ include.color }};"></i>
+    <i class="{{ site.data.icons[include.subsection.icon].fa_icon }} fa-5x" style="color:{{ include.color }};"></i>
     {%- endif -%}
 
     <h4>{{ include.subsection.display_title | default: include.subsection.title }}</h4>

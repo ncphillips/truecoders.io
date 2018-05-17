@@ -1,43 +1,43 @@
 ---
 Angel List:
-  fa_icon: fa-angellist
+  fa_icon: fab fa-angellist
 Check:
-  fa_icon: fa-check
+  fa_icon: fas fa-check
 Code:
-  fa_icon: fa-code
+  fa_icon: fas fa-code
 Cogs:
-  fa_icon: fa-cogs
+  fa_icon: fas fa-cogs
 Compass:
-  fa_icon: fa-compass
+  fa_icon: fas fa-compass
 Facebook:
-  fa_icon: fa-facebook-f
+  fa_icon: fab fa-facebook-f
 File with Text:
-  fa_icon: fa-clipboard-list
+  fa_icon: fas fa-tasks
 GitHub:
-  fa_icon: fa-github
+  fa_icon: fab fa-github
 Graduation Cap:
-  fa_icon: fa-graduation-cap
+  fa_icon: fas fa-graduation-cap
 Instagram:
-  fa_icon: fa-instagram
+  fa_icon: fab fa-instagram
 LinkedIn:
-  fa_icon: fa-linkedin-in
+  fa_icon: fab fa-linkedin-in
 Medium:
-  fa_icon: fa-medium-m
+  fa_icon: fab fa-medium-m
 Play Circle:
-  fa_icon: fa-play-circle
+  fa_icon: fas fa-play-circle
 Plug:
-  fa_icon: fa-plug
+  fa_icon: fas fa-plug
 Refresh:
-  fa_icon: fa-sync-alt
+  fa_icon: fas fa-sync-alt
 Tags:
-  fa_icon: fa-tags
+  fa_icon: fas fa-tags
 Terminal:
-  fa_icon: fa-terminal
+  fa_icon: fas fa-terminal
 Twitter:
-  fa_icon: fa-twitter
+  fa_icon: fab fa-twitter
 User:
-  fa_icon: fa-user
+  fa_icon: fas fa-user
 Users:
-  fa_icon: fa-users
+  fa_icon: fas fa-users
 Vimeo:
-  fa_icon: fa-vimeo-v
+  fa_icon: fab fa-vimeo-v
