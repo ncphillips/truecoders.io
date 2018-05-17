@@ -99,4 +99,4 @@ With a focus on education, best practice training, and enforcement of the softwa
 
 Having a senior resource doing code review we're able to produce a very high level of output from our less seasoned alumni while training them along the way.
 
-Our bootcamps allow us to scale to demand with relative ease if your needs outgrow us then we have more alumni coming.
+Our courses allow us to scale to demand with relative ease if your needs outgrow us then we have more alumni coming.

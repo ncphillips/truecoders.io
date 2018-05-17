@@ -25,5 +25,4 @@ menu:
 
 # We Are TrueCoders
 
-We provide 8-9 week developer bootcamps aimed at getting you to the next level.
-We'll train you, mentor you, then place you directly into a great developer job. We are now selecting candidates for our full scholarship program.
+We provide 8-9 week developer accelerator courses aimed at getting you to the next level. We'll train you, mentor you, then place you directly into a great developer job. We are now selecting candidates for our full scholarship program.

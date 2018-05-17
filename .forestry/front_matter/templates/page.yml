@@ -50,7 +50,7 @@ fields:
   type: text
   hidden: false
   default: 
-  description: e.g. We are more than just a bootcamp
+  description: e.g. We are a developer accelerator program
 - type: include
   name: hero
   label: Hero
