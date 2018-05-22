@@ -3,7 +3,23 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
-collections: 
+collections:
+  _classes:
+    default_front_matter_template: classes
+  _coders:
+    default_front_matter_template: coders
+  _courses:
+    default_front_matter_template: courses
+  _employers:
+    default_front_matter_template: employers
+  _faqs:
+    default_front_matter_template: faqs
+  _pages:
+    default_front_matter_template: pages
+  _subjects:
+    default_front_matter_template: subjects
+  _team:
+    default_front_matter_template: team
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
