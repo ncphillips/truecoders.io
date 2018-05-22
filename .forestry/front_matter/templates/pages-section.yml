@@ -14,5 +14,5 @@ fields:
   - partial-collection-items
   - partial-sections
 pages:
-- index.md
 - hire.md
+- index.md
