@@ -1,0 +1,41 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Course Title
+  type: text
+  hidden: false
+  default: ''
+  description: e.g. C# and .NET
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Thorough training in C# and .NET
+- type: file
+  name: image
+  label: Course Logo
+- type: include
+  label: Hero
+  name: hero
+  description: ''
+  template: partial-hero
+- name: subjects
+  label: Subjects
+  type: list
+  hidden: false
+  default: []
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: subjects

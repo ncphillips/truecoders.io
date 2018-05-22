@@ -1,0 +1,58 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Page Title
+  type: text
+  hidden: false
+  default: ''
+  description: e.g. About
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: true
+  default: ''
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - collection-page
+    - contact
+    - course
+    - faqs
+    - hire
+    - index
+    - page
+    - resume
+  label: Layout
+  name: layout
+  hidden: true
+  default: page
+  description: Jekyll Layout to use
+- name: display_title
+  label: Display Title
+  type: text
+  hidden: false
+  default: 
+  description: e.g. Who We Are
+  config:
+    required: false
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: 
+  description: e.g. We are a developer accelerator program
+- type: include
+  name: hero
+  label: Hero
+  description: ''
+  template: partial-hero
+- type: include
+  name: call_to_action
+  label: Call to Action
+  template: partial-call-to-action

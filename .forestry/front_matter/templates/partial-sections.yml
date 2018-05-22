@@ -1,0 +1,56 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: Title
+  name: title
+  description: e.g. Our Process
+  config:
+    required: true
+- type: field_group_list
+  label: Sub Sections
+  name: subsections
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: e.g. Our Process
+    config:
+      required: true
+  - type: text
+    name: subtitle
+    label: Subtitle
+    description: e.g. How we do things
+  - type: select
+    name: icon
+    config:
+      source:
+        type: datafiles
+        file: _data-icons-yml
+        path: icons
+    label: Icon
+    description: Font Awesome Icon
+  - type: textarea
+    name: body
+    label: Body
+    description: e.g. Description
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  config:
+    labelField: title
+- type: textarea
+  name: body
+  label: Body
+  description: Description of the Section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: include
+  name: call_to_action
+  label: Call to Action
+  description: ''
+  template: partial-call-to-action

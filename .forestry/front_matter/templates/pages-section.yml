@@ -1,0 +1,18 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: pages
+  label: Page Defaults
+  name: page_defaults
+- type: blocks
+  name: sections
+  label: Sections
+  description: Sections to Display
+  template_types:
+  - partial-collection-items
+  - partial-sections
+pages:
+- index.md
+- hire.md

@@ -12,6 +12,8 @@ collections:
     default_front_matter_template: faqs
   _employers:
     default_front_matter_template: employers
+  _courses:
+    default_front_matter_template: courses
   _coders:
     default_front_matter_template: coders
   _classes:
