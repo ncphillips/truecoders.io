@@ -38,11 +38,29 @@ fields:
   label: Profiles
   type: field_group
   fields:
-  - name: mbti
+  - type: select
+    config:
+      source:
+        type: simple
+      options:
+      - ISTJ
+      - ISFJ
+      - INFJ
+      - INTJ
+      - ISTP
+      - ISFP
+      - INFP
+      - INTP
+      - ESTP
+      - ESFP
+      - ENFP
+      - ENTP
+      - ESTJ
+      - ESFJ
+      - ENFJ
+      - ENTJ
+    name: mbti
     label: Myers Briggs Personality Type
-    type: text
-    hidden: false
-    default: ''
     description: e.g. ESTJ
   - name: github
     label: Github Username
