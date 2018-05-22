@@ -1,8 +1,4 @@
 ---
-pages:
-- _team/martin-murphy.md
-- _team/daniel-walsh.md
-- _team/cody-winton.md
 hide_body: false
 is_partial: false
 fields:
@@ -40,3 +36,7 @@ fields:
   type: boolean
   hidden: false
   default: false
+pages:
+- _team/martin-murphy.md
+- _team/daniel-walsh.md
+- _team/cody-winton.md

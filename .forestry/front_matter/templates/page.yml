@@ -1,8 +1,4 @@
 ---
-pages:
-- faqs.md
-- contact.md
-- 404.md
 hide_body: false
 is_partial: false
 fields:
@@ -60,3 +56,7 @@ fields:
   name: call_to_action
   label: Call to Action
   template: partial-call-to-action
+pages:
+- faqs.md
+- contact.md
+- 404.md

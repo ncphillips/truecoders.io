@@ -1,12 +1,4 @@
 ---
-pages:
-- _employers/calliduscloud.md
-- _employers/symphonycare.md
-- _employers/gas-pos.md
-- _employers/out-there-creative.md
-- _employers/avx.md
-- _employers/central-city-church.md
-- _employers/cahaba-outfitters.md
 hide_body: true
 is_partial: false
 fields:
@@ -42,3 +34,11 @@ fields:
 - type: file
   name: image
   label: Employer Logo
+pages:
+- _employers/calliduscloud.md
+- _employers/symphonycare.md
+- _employers/gas-pos.md
+- _employers/out-there-creative.md
+- _employers/avx.md
+- _employers/central-city-church.md
+- _employers/cahaba-outfitters.md

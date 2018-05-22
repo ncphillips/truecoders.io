@@ -1,8 +1,4 @@
 ---
-pages:
-- about.md
-- courses.md
-- coders.md
 hide_body: false
 is_partial: false
 fields:
@@ -27,3 +23,7 @@ fields:
   label: Collection
   description: e.g. Team
   default: classes
+pages:
+- about.md
+- courses.md
+- coders.md

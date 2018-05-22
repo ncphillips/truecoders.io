@@ -1,6 +1,4 @@
 ---
-pages:
-- hire.md
 hide_body: false
 is_partial: false
 fields:
@@ -15,3 +13,5 @@ fields:
   template_types:
   - section-partial-collection
   - section-partial-sections
+pages:
+- hire.md

@@ -1,42 +1,4 @@
 ---
-pages:
-- _coders/reid-braswell.md
-- _coders/jeff-standridge.md
-- _coders/chris-finney.md
-- _coders/brandon-dowds.md
-- _coders/starla-oden.md
-- _coders/hunter-wright.md
-- _coders/daniel-anderson.md
-- _coders/clay-dunston.md
-- _coders/bay-shaffer.md
-- _coders/john-doe.md
-- _coders/darius-witherspoon.md
-- _coders/candace-welch.md
-- _coders/zach-phillips.md
-- _coders/toriana-grooms.md
-- _coders/micah-weech.md
-- _coders/kadarius-king.md
-- _coders/joseph-cyriac.md
-- _coders/jessica-harris.md
-- _coders/hollis-medley.md
-- _coders/grant-berryman.md
-- _coders/darrell-stovall.md
-- _coders/connor-davis.md
-- _coders/steven-bustamento.md
-- _coders/skylar-carter.md
-- _coders/louis-dutton.md
-- _coders/david-cotton.md
-- _coders/chip-elmer.md
-- _coders/subash-karki.md
-- _coders/antwon-ervin.md
-- _coders/lisa-bamberg.md
-- _coders/francesca-marciani.md
-- _coders/tori-riddle.md
-- _coders/michael-doyle.md
-- _coders/jack-mentzer.md
-- _coders/noah-holtkamp.md
-- _coders/harshith-julapelli.md
-- _coders/austin-redmayne.md
 hide_body: false
 is_partial: false
 fields:
@@ -272,3 +234,41 @@ fields:
   config:
     labelField: institution
   description: Colleges and University
+pages:
+- _coders/reid-braswell.md
+- _coders/jeff-standridge.md
+- _coders/chris-finney.md
+- _coders/brandon-dowds.md
+- _coders/starla-oden.md
+- _coders/hunter-wright.md
+- _coders/daniel-anderson.md
+- _coders/clay-dunston.md
+- _coders/bay-shaffer.md
+- _coders/john-doe.md
+- _coders/darius-witherspoon.md
+- _coders/candace-welch.md
+- _coders/zach-phillips.md
+- _coders/toriana-grooms.md
+- _coders/micah-weech.md
+- _coders/kadarius-king.md
+- _coders/joseph-cyriac.md
+- _coders/jessica-harris.md
+- _coders/hollis-medley.md
+- _coders/grant-berryman.md
+- _coders/darrell-stovall.md
+- _coders/connor-davis.md
+- _coders/steven-bustamento.md
+- _coders/skylar-carter.md
+- _coders/louis-dutton.md
+- _coders/david-cotton.md
+- _coders/chip-elmer.md
+- _coders/subash-karki.md
+- _coders/antwon-ervin.md
+- _coders/lisa-bamberg.md
+- _coders/francesca-marciani.md
+- _coders/tori-riddle.md
+- _coders/michael-doyle.md
+- _coders/jack-mentzer.md
+- _coders/noah-holtkamp.md
+- _coders/harshith-julapelli.md
+- _coders/austin-redmayne.md

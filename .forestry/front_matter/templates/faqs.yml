@@ -1,22 +1,4 @@
 ---
-pages:
-- _faqs/contact.md
-- _faqs/accredited.md
-- _faqs/scholarship.md
-- _faqs/failure.md
-- _faqs/work-after.md
-- _faqs/no-scholarship.md
-- _faqs/work-during.md
-- _faqs/computer.md
-- _faqs/scholarship-payback.md
-- _faqs/scholarship-cost.md
-- _faqs/age.md
-- _faqs/experience.md
-- _faqs/schedule.md
-- _faqs/placement-details.md
-- _faqs/cost.md
-- _faqs/what.md
-- _faqs/who.md
 hide_body: false
 is_partial: false
 fields:
@@ -45,3 +27,21 @@ fields:
   label: Category
   name: categories
   default: company
+pages:
+- _faqs/placement-details.md
+- _faqs/who.md
+- _faqs/contact.md
+- _faqs/accredited.md
+- _faqs/scholarship.md
+- _faqs/failure.md
+- _faqs/work-after.md
+- _faqs/no-scholarship.md
+- _faqs/work-during.md
+- _faqs/computer.md
+- _faqs/scholarship-payback.md
+- _faqs/scholarship-cost.md
+- _faqs/age.md
+- _faqs/experience.md
+- _faqs/schedule.md
+- _faqs/cost.md
+- _faqs/what.md

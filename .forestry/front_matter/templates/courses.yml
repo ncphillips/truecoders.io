@@ -1,7 +1,4 @@
 ---
-pages:
-- _courses/python-kids.md
-- _courses/c-sharp.md
 hide_body: false
 is_partial: false
 fields:
@@ -42,3 +39,6 @@ fields:
     source:
       type: pages
       section: subjects
+pages:
+- _courses/python-kids.md
+- _courses/c-sharp.md

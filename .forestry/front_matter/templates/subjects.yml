@@ -1,4 +1,17 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Subject
+  description: e.g. Java
+  config:
+    required: true
+- type: datetime
+  hidden: true
+  label: Date
+  name: date
 pages:
 - _subjects/architecture.md
 - _subjects/utilities.md
@@ -14,16 +27,3 @@ pages:
 - _subjects/browsers.md
 - _subjects/asp-dot-net-mvc.md
 - _subjects/communication.md
-hide_body: false
-is_partial: false
-fields:
-- type: text
-  name: title
-  label: Subject
-  description: e.g. Java
-  config:
-    required: true
-- type: datetime
-  hidden: true
-  label: Date
-  name: date

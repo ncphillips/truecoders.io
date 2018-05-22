@@ -1,6 +1,4 @@
 ---
-pages:
-- index.md
 hide_body: true
 is_partial: false
 fields:
@@ -15,3 +13,5 @@ fields:
   template_types:
   - section-partial-collection
   - section-partial-sections
+pages:
+- index.md
