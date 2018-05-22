@@ -97,9 +97,3 @@ fields:
       required: false
   hidden: false
   default: 
-pages:
-- _classes/mark-4.md
-- _classes/kids-1.md
-- _classes/mark-3.md
-- _classes/mark-2.md
-- _classes/mark-1.md

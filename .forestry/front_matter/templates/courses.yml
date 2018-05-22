@@ -39,6 +39,3 @@ fields:
     source:
       type: pages
       section: subjects
-pages:
-- _courses/python-kids.md
-- _courses/c-sharp.md

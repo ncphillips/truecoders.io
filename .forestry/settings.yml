@@ -4,22 +4,20 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 collections:
-  _classes:
-    default_front_matter_template: classes
-  _coders:
-    default_front_matter_template: coders
-  _courses:
-    default_front_matter_template: courses
-  _employers:
-    default_front_matter_template: employers
-  _faqs:
-    default_front_matter_template: faqs
-  _pages:
-    default_front_matter_template: pages
-  _subjects:
-    default_front_matter_template: subjects
   _team:
     default_front_matter_template: team
+  _subjects:
+    default_front_matter_template: subjects
+  _faqs:
+    default_front_matter_template: faqs
+  _employers:
+    default_front_matter_template: employers
+  _courses:
+    default_front_matter_template: courses
+  _coders:
+    default_front_matter_template: coders
+  _classes:
+    default_front_matter_template: classes
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
