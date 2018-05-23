@@ -1,7 +1,7 @@
 ---
 course: _courses/night-course.md
-start_date: 2018-06-04 18:30:00 -0500
-end_date: 2019-05-31 20:00:00 -0500
+start_date: 2018-06-04 23:30:00 +0000
+end_date: 2019-06-01 01:00:00 +0000
 price: 500
 has_scholarship: false
 location: Birmingham, AL
@@ -18,4 +18,5 @@ stats:
   average_salary: ''
 title: Night 1
 date: 2018-05-23 00:00:00 +0000
+billing_period: Monthly
 ---
