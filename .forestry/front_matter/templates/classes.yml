@@ -24,7 +24,6 @@ fields:
     required: true
   label: Course
   description: Associated course focus
-  default: _courses/c-sharp.md
 - name: start_date
   label: Start Date
   type: datetime

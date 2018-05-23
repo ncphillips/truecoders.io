@@ -1,7 +1,7 @@
 ---
 title: Mark 1
 date: 2017-11-14 19:07:00 +0000
-course: _courses/c-sharp.md
+course: _courses/developer-accelerator.md
 start_date: 2017-10-03 06:00:00 +0000
 end_date: 2017-11-22 06:00:00 +0000
 price: 10000
