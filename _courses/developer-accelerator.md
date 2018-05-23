@@ -9,7 +9,6 @@ image: "/uploads/c-sharp-logo.jpg"
 subjects:
 - _subjects/c-sharp-dot-net.md
 - _subjects/java.md
-- _subjects/asp-dot-net-mvc.md
 - _subjects/source-control.md
 - _subjects/utilities.md
 - _subjects/testing.md
@@ -18,6 +17,7 @@ subjects:
 - _subjects/relational-databases.md
 - _subjects/diagnostics.md
 - _subjects/architecture.md
+- _subjects/asp-dot-net-mvc.md
 - _subjects/communication.md
 ---
 Learn software development with enterprise technology stacks in 8 weeks.
