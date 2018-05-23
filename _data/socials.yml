@@ -1,6 +1,4 @@
 ---
-- title: Twitter
-  url: https://twitter.com/truecodersio
 - title: Facebook
   url: https://facebook.com/truecodersio
 - title: Instagram
@@ -9,6 +7,8 @@
   url: https://github.com/truecodersio
 - title: LinkedIn
   url: https://www.linkedin.com/company/truecodersio
+- title: Twitter
+  url: https://twitter.com/truecodersio
 - title: Vimeo
   url: https://vimeo.com/truecodersio
 - title: Medium
