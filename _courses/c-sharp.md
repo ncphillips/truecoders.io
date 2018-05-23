@@ -1,5 +1,5 @@
 ---
-title: Developer Accelerator
+title: Developer test
 date: 2017-08-23 20:04:00 +0000
 hero:
   color: "#690081"
