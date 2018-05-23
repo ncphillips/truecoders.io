@@ -16,3 +16,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+data_files:
+- _data/testing.yml

@@ -12,5 +12,3 @@ fields:
   hidden: true
   label: Date
   name: date
-data_files:
-- _data/testing.yml
