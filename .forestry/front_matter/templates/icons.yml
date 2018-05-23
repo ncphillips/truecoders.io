@@ -1,0 +1,12 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: field_group
+  label: Angel List
+  name: Angel_List
+  fields:
+  - type: include
+    name: icon_fields
+    label: Icon Fields
+    template: icon
