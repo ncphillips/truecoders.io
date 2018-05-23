@@ -1,6 +1,6 @@
 ---
 title: Developer Night Course
-date: 2017-08-23 20:04:00 +0000
+date: 2017-08-23 20:00:00 +0000
 hero:
   color: "#690081"
   image: ''
