@@ -10,3 +10,5 @@ fields:
     name: icon_fields
     label: Icon Fields
     template: icon
+data_files:
+- _data/icons.yml
