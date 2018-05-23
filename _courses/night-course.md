@@ -1,11 +1,11 @@
 ---
-title: Developer Accelerator
+title: Developer Night Course
 date: 2017-08-23 20:04:00 +0000
 hero:
   color: "#690081"
   image: ''
-subtitle: Training in Software Development
-image: "/uploads/c-sharp-logo.jpg"
+subtitle: Software Development Night Course
+image: "/uploads/java-logo.jpg"
 subjects:
 - _subjects/c-sharp-dot-net.md
 - _subjects/java.md
@@ -20,6 +20,6 @@ subjects:
 - _subjects/architecture.md
 - _subjects/communication.md
 ---
-Learn software development with enterprise technology stacks in 8 weeks.
+Learn software development with enterprise technology stacks in the evenings.
 
-The schedule for this course is Monday through Friday from 8am until 2pm.
+The schedule for this course spans over the course of 12 months.
