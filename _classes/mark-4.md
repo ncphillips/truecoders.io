@@ -2,8 +2,8 @@
 title: Mark 4
 date: 2018-04-02 16:00:00 +0000
 course: _courses/developer-accelerator.md
-start_date: 2018-07-02 13:00:00 +0000
-end_date: 2018-08-24 19:00:00 +0000
+start_date: 2018-07-09 08:00:00 -0500
+end_date: 2018-08-31 14:00:00 -0500
 price: 7500
 location: Birmingham, AL
 has_scholarship: true
