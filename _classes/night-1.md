@@ -1,6 +1,6 @@
 ---
 course: _courses/night-course.md
-start_date: 2018-06-04 16:00:00 -0500
+start_date: 2018-06-04 18:30:00 -0500
 end_date: 2019-05-31 20:00:00 -0500
 price: 500
 has_scholarship: false
