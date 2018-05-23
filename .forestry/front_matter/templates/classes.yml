@@ -53,6 +53,19 @@ fields:
     min: '0'
     required: true
     step: '1'
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - One-Time
+    - Monthly
+    - Annually
+  label: Billing Period
+  name: billing_period
+  description: The period for billing the student
+  default: One-Time
 - name: has_scholarship
   label: Scholarship Available
   type: boolean
