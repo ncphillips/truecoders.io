@@ -8,5 +8,13 @@ fields:
   description: e.g. Display Title
   config:
     required: true
+- type: textarea
+  name: description
+  label: Description
+  description: Example description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 data_files:
 - _data/testing.yml
