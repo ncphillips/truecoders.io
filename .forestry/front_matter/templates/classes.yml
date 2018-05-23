@@ -24,6 +24,7 @@ fields:
     required: true
   label: Course
   description: Associated course focus
+  default: _courses/developer-accelerator.md
 - name: start_date
   label: Start Date
   type: datetime
