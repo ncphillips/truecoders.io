@@ -11,6 +11,7 @@ institution: TrueCoders
 stats:
   students_placed: ''
   average_salary: ''
+billing_period: One-Time
 ---
 
 Focus on C# and .NET, including:
