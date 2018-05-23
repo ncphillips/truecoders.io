@@ -1,0 +1,14 @@
+---
+hide_body: true
+is_partial: false
+fields:
+- type: field_group_list
+  name: socials
+  label: Socials
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: url
+    label: URL
