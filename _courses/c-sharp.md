@@ -1,9 +1,9 @@
 ---
-title: C# and .NET
+title: Developer Accelerator
 date: 2017-08-23 20:04:00 +0000
 hero:
   color: "#690081"
-subtitle: Thorough training in C# and .NET
+subtitle: Training in Software Development
 image: "/uploads/c-sharp-logo.jpg"
 subjects:
 - _subjects/c-sharp-dot-net.md
@@ -19,6 +19,6 @@ subjects:
 - _subjects/architecture.md
 - _subjects/communication.md
 ---
-This course covers the C# and .NET stacks.
+Develop quality software with enterprise technology stacks in 8 weeks.
 
 The schedule for this course is Monday through Friday from 8am until 2pm.
