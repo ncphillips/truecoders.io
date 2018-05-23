@@ -1,0 +1,18 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: e.g. Display Title
+  config:
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: e.g. Description of item
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
