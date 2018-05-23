@@ -11,6 +11,7 @@ stats:
 has_scholarship: true
 location: Birmingham, AL
 institution: TrueCoders
+billing_period: One-Time
 ---
 
 Focus on C# and .NET, including:
