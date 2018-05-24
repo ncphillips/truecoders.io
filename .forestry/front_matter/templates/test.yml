@@ -5,5 +5,12 @@ fields:
 - type: text
   name: test_title
   label: Test Title
+- type: field_group
+  name: test
+  label: test
+  fields:
+  - type: text
+    name: test_title
+    label: test_title
 data_files:
 - _data/test.yml
