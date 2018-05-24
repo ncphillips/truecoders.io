@@ -5,3 +5,5 @@ fields:
 - type: text
   name: test_title
   label: Test Title
+data_files:
+- _data/test.yml
